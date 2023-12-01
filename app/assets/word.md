@@ -1678,3 +1678,623 @@
 419. **by** [prep.] 在...旁，被，由，经由，在...之前，根据；[adv.] 靠近，经过，放在一旁地；[adj.] 在旁边的，附带的；[n.] 次要的事件
    - The book was written by a famous author. (这本书是由一位著名作家写的。)
    - The police officer asked the bystanders to stand by for questioning. (警官要求旁观者待命接受询问。)
+
+420. **cabbage** [n.] 洋白菜，卷心菜
+   - She added some cabbage to the soup for extra flavor. (她在汤里加了一些卷心菜以增加风味。)
+   - Cabbage is a common ingredient in salads and coleslaw. (洋白菜是沙拉和卷心菜沙拉中常用的食材。)
+
+421. **cabinet** [n.] 橱柜，内阁；[adj.] 私人的
+   - The prime minister appointed a new minister to his cabinet. (首相任命了一位新部长进入内阁。)
+   - She keeps her collection of fine china in a glass-fronted cabinet. (她将她的精美瓷器收藏放在一个玻璃门橱柜里。)
+
+422. **cable** [n.] 缆绳，电缆，海底电报；[vt.] 发海底电报；[vi.] 发海底电报
+   - The bridge is supported by steel cables. (这座桥由钢缆支撑。)
+   - During the 19th century, messages were sent across the ocean by cable. (在19世纪，消息是通过海底电缆发送的。)
+
+423. **cafe** [n.] 咖啡馆，小餐厅
+   - Let's meet at the cafe on the corner for lunch. (让我们在街角的咖啡馆见面吃午餐。)
+   - The cafe serves the best espresso in town. (这家咖啡馆提供城里最好的浓缩咖啡。)
+
+424. **cage** [n.] 笼子，鸟笼
+   - The parrot squawked loudly from its cage. (鹦鹉在笼子里大声地尖叫。)
+   - The zookeeper locked the lion back into its cage. (动物园管理员把狮子锁回了它的笼子里。)
+
+425. **cake** [n.] 蛋糕，块状物；[vt.] 涂厚厚的一层；[vi.] 结成块
+   - She baked a chocolate cake for her son's birthday. (她为儿子的生日烤了一个巧克力蛋糕。)
+   - Mud caked on his boots after the hike. (徒步旅行后，他的靴子上结满了泥块。)
+
+426. **calculate** [vt.] 计算，估计；[vi.] 预测
+   - You need to calculate the total cost before making a purchase. (购买前你需要计算总成本。)
+   - The computer can calculate the answer much faster than we can. (计算机可以比我们更快地计算出答案。)
+
+427. **calendar** [n.] 日历，日程表；[vt.] 进入日历
+   - I marked our anniversary on the calendar. (我在日历上标记了我们的周年纪念日。)
+   - The conference dates are now on the official calendar of events. (会议日期现在已经列入官方活动日程表。)
+
+428. **call** [n.] 呼叫，电话；[vt.] 命名，打电话；[vi.] 拜访
+   - He received a call from his boss late at night. (他深夜接到了老板的电话。)
+   - The bird's distinctive call can be heard at dawn. (这种鸟独特的叫声可以在黎明时分听到。)
+
+429. **calm** [n.] 平静；[adj.] 静的，冷静的；[vt. & vi.] 平静下来
+   - After the storm, the sea was completely calm. (暴风雨过后，大海完全平静了。)
+   - He remained calm despite the chaos around him. (尽管周围一片混乱，他仍保持冷静。)
+
+430. **camel** [n.] 骆驼，浅黄棕色
+   - The caravan used camels to cross the desert. (商队用骆驼穿越沙漠。)
+   - His coat was the color of camel. (他的外套是骆驼色的。)
+
+431. **camera** [n.] 照相机，摄影机
+   - She captured the sunset with her new digital camera. (她用她的新数码相机捕捉了日落景象。)
+   - The security camera recorded the entire incident. (安全摄像机记录了整个事件。)
+
+432. **camp** [n.] 营地，帐篷；[vt. & vi.] 露营；[adj.] 做作的
+   - They set up camp by the lakeside. (他们在湖边搭建了营地。)
+   - The children will camp in the backyard tonight. (孩子们今晚将在后院露营。)
+
+433. **campaign** [n.] 活动，运动；[vt. & vi.] 参加竞选，从事活动
+   - The mayor launched a campaign to clean up the city parks. (市长发起了一个清理城市公园的运动。)
+   - She campaigned for the introduction of healthier school lunches. (她为引入更健康的学校午餐而努力。)
+
+434. **campus** [n.] 校园
+   - The university campus covers fifty acres. (这所大学的校园占地五十英亩。)
+   - Students were relaxing and playing frisbee on the campus green. (学生们在校园的绿地上放松和玩飞盘。)
+
+435. **can** [aux.v.] 能，会；[n.] 罐头，容器；[vt.] 罐装
+   - Can you help me with this problem? (你能帮我解决这个问题吗？)
+   - She bought a can of beans at the grocery store. (她在杂货店买了一罐豆子。)
+
+436. **Canada** [n.] 加拿大
+   - Canada is known for its vast landscapes and cold winters. (加拿大以其辽阔的景观和寒冷的冬天而闻名。)
+   - They went on a road trip across Canada last summer. (他们去年夏天进行了一次横穿加拿大的公路旅行。)
+
+437. **canal** [n.] 运河，沟渠
+   - The Panama Canal is an important waterway for international trade. (巴拿马运河是国际贸易的重要水道。)
+   - The city's old canals are now popular with tourists. (这座城市的老运河现在很受游客欢迎。)
+
+438. **cancel** [vt.] 取消，撤销；[vi.] 抵消
+   - Due to the storm, all flights were canceled. (由于暴风雨，所有航班都被取消了。)
+   - If we both write a number and they add up to zero, they cancel each other out. (如果我们俩都写一个数字，它们相加等于零，它们就相互抵消了。)
+
+439. **cancer** [n.] 癌症，肿瘤；巨蟹座
+   - Research on cancer treatment has advanced significantly. (癌症治疗的研究已经取得了显著进展。)
+   - She was born in July, so her zodiac sign is Cancer. (她出生于七月，所以她的星座是巨蟹座。)
+
+440. **candidate** [n.] 候选人，求职者
+   - The candidate for the job presented her qualifications during the interview. (求职者在面试中展示了她的资格。)
+   - There are three candidates running for the school board. (有三名候选人竞选学校董事会。)
+
+441. **candle** [n.] 蜡烛
+   - They lit a candle during the power outage. (停电期间他们点燃了一支蜡烛。)
+   - A candle was burning on the windowsill. (窗台上燃烧着一支蜡烛。)
+
+442. **cap** [n.] 帽子，盖子；[vt.] 覆盖，超过
+   - He wore a baseball cap to shield his eyes from the sun. (他戴了一顶棒球帽来遮挡阳光。)
+   - The mountain was capped with snow. (山顶覆盖着雪。)
+
+443. **capable** [adj.] 有能力的，足以胜任的
+   - She's a very capable manager who knows how to get things done. (她是一个非常有能力的经理，知道如何完成事情。)
+   - The new software is capable of processing data much faster. (新软件能够更快地处理数据。)
+
+444. **capital** [n.] 首都，资本；[adj.] 首要的，资本的
+   - Paris is the capital of France. (巴黎是法国的首都。)
+   - The company is looking to raise capital for a new project. (该公司正在寻求为一个新项目筹集资金。)
+
+445. **captain** [n.] 队长，船长；[vt.] 指挥，率领
+   - The captain of the football team led them to victory. (足球队队长带领他们取得了胜利。)
+   - She captained the ship through the rough seas. (她指挥船只穿越了汹涌的大海。)
+
+446. **capture** [n.] 捕获；[vt.] 抓取，俘获
+   - The capture of the fugitive was a relief to the community. (逃犯的捕获让社区松了一口气。)
+   - The photographer hoped to capture the beauty of the sunrise in his pictures. (摄影师希望在他的照片中捕捉到日出的美丽。)
+
+447. **car** [n.] 汽车，车厢
+   - She bought a new car after her old one broke down. (她的旧车坏了之后买了一辆新车。)
+   - The last car of the train is usually less crowded. (火车的最后一节车厢通常人比较少。)
+
+448. **carbon** [n.] 碳，复写纸
+   - Plants absorb carbon dioxide and release oxygen. (植物吸收二氧化碳并释放氧气。)
+   - He used carbon paper to make a copy of the letter. (他用复写纸复制了那封信。)
+
+449. **card** [n.] 卡片，名片；[vt.] 提供卡片
+   - She handed out her business card at the meeting. (她在会议上分发了她的名片。)
+   - You need to card the wool before you can spin it into yarn. (在你能将羊毛纺成纱之前，你需要梳理羊毛。)
+
+450. **care** [n.] 关心，照顾；[vi.] 关心；[vt.] 介意
+   - She has a great deal of care for her elderly parents. (她非常关心她年迈的父母。)
+   - Do you care if I open the window? (我开窗户你介意吗？)
+
+451. **career** [n.] 职业，生涯；[vi.] 猛冲，飞跑
+   - He decided to pursue a career in medicine. (他决定追求医学职业。)
+   - The car careered off the road and into a ditch. (汽车冲出道路，跑进了沟里。)
+
+452. **careful** [adj.] 小心的，仔细的
+   - Be careful with the glasses; they're very fragile. (小心点儿那些玻璃杯；它们非常脆弱。)
+   - She was careful to check all the details before submitting the report. (她在提交报告前仔细检查了所有细节。)
+
+453. **careless** [adj.] 粗心的，漫不经心的
+   - His careless mistake cost the company thousands of dollars. (他的粗心大意使公司损失了数千美元。)
+   - She was careless with her belongings and often lost things. (她对自己的物品很不在意，经常丢东西。)
+
+454. **cargo** [n.] 货物
+   - The ship was loaded with cargo bound for Europe. (这艘船装载着驶往欧洲的货物。)
+   - The cargo plane delivered supplies to the disaster area. (货运飞机向灾区运送了物资。)
+
+455. **carpenter** [n.] 木工，木匠；[v.] 做木工活
+   - The carpenter built a beautiful wooden table. (木匠制作了一张漂亮的木桌。)
+   - He carpentered a new set of shelves for the library. (他为图书馆做了一组新书架。)
+
+456. **carpet** [n.] 地毯；[vt.] 铺以地毯
+   - They chose a red carpet for the living room. (他们为客厅选择了一块红色地毯。)
+   - The hall was carpeted in a luxurious blue fabric. (大厅铺上了豪华的蓝色地毯。)
+
+457. **carriage** [n.] 客车厢，四轮马车
+   - The old carriage was restored to its original condition for the museum exhibit. (这辆旧马车被修复到原始状态，用于博物馆展览。)
+   - In the UK, railway carriages are often referred to as coaches. (在英国，铁路客车厢通常被称为车厢。)
+
+458. **carry** [vt.] 携带，运输；[vi.] 负载被传达；[n.] 射程
+   - The porter can carry your bags to your room. (搬运工可以把你的包搬到你的房间。)
+   - This radio station has a strong signal and can carry for miles. (这个电台信号强，传播范围可达数英里。)
+
+459. **cart** [n.] 运货马车，手推车；[vt.] 用马车装载，用手提笨重物品
+   - He used a cart to bring the groceries from the market. (他用手推车从市场带来了杂货。)
+   - The workers carted the bricks to the construction site. (工人们用马车把砖头运到了建筑工地。)
+
+460. **case** [n.] 情况，箱子；[vt.] 装箱，踩点
+   - The detective solved the case after weeks of investigation. (侦探经过数周的调查解决了这个案件。)
+   - The musicians packed their instruments in cases before the concert. (音乐家们在音乐会前把他们的乐器装进箱子。)
+
+461. **cash** [n.] 现金；[vt.] 兑现；[adj.] 现金的
+   - She prefers to pay with cash instead of using a credit card. (她更喜欢用现金支付，而不是使用信用卡。)
+   - You can cash your paycheck at the bank. (你可以在银行兑现你的工资支票。)
+
+462. **cassette** [n.] 盒式录音带，盒子
+   - I found an old cassette of my favorite band in the attic. (我在阁楼上找到了我最喜欢的乐队的一盘旧录音带。)
+   - The video recorder uses VHS cassettes. (这台录像机使用VHS盒式磁带。)
+
+463. **cast** [n.] 演员阵容，投掷；[vt.] 投，扔，浇铸
+   - The cast received a standing ovation on opening night. (在首演之夜，演员阵容受到了起立鼓掌。)
+   - The fisherman cast his line into the lake. (渔夫把钓线投入湖中。)
+
+464. **castle** [n.] 城堡；[vt.] 置于城堡中；[vi.] (棋)移动王车易位
+   - The ancient castle stands on a hill overlooking the valley. (这座古老的城堡矗立在俯瞰山谷的小山上。)
+   - In chess, it's often a good strategy to castle early to protect your king. (在国际象棋中，早期移动王车易位通常是保护国王的好策略。)
+
+465. **casual** [adj.] 偶然的，随便的，非正式的
+   - He dressed in casual clothes for the party, just jeans and a t-shirt. (他穿着休闲服装参加派对，只是牛仔裤和T恤。)
+   - The meeting was a casual affair with no set agenda. (这次会议是一次非正式的聚会，没有既定的议程。)
+
+466. **cat** [n.] 猫；[vt.] 吊锚；[vi.] 寻找性交伴侣
+   - The cat curled up in a ball and fell asleep in the sun. (猫卷成一团，在阳光下睡着了。)
+   - Sailors would cat the anchor when preparing to sail. (水手们准备起航时会吊起锚。)
+
+467. **catch** [n.] 捕捉，陷阱；[vt.] 捉住，感染；[vi.] 抓住
+   - The game of catch is simple; just throw the ball back and forth. (接球游戏很简单；只是来回扔球。)
+   - Be careful not to catch a cold in this rainy weather. (在这种雨天里要小心不要感冒。)
+
+468. **cattle** [n.] 牛，家畜（复数）
+   - The cattle grazed peacefully in the field. (牛群在田野中和平地吃草。)
+   - Ranchers must count their cattle to ensure none have wandered off. (牧场主必须数一数他们的牛，以确保没有牛走失。)
+
+469. **cause** [n.] 原因，事业；[vt.] 引起，使发生
+   - The charity works for a good cause, helping those in need. (这个慈善机构为了一个好的事业而工作，帮助那些需要帮助的人。)
+   - Smoking can cause serious health problems. (吸烟可能引起严重的健康问题。)
+
+470. **cave** [n.] 洞穴；[vt.] 挖空，塌落；[vi.] 塌落
+   - The explorers discovered a new cave in the mountains. (探险家们在山中发现了一个新的洞穴。)
+   - The roof of the old mine caved in after years of neglect. (由于多年的忽视，老矿井的顶部塌陷了。)
+
+471. **cease** [vi.] 停止；[n.] 停止
+   - The company agreed to cease production of the harmful chemical. (公司同意停止生产有害化学品。)
+   - Hostilities will cease at midnight. (敌对行动将在午夜停止。)
+
+472. **ceiling** [n.] 天花板，上限
+   - The ceiling of the Sistine Chapel is adorned with Michelangelo's famous frescoes. (西斯廷教堂的天花板上装饰着米开朗基罗著名的壁画。)
+   - The government has imposed a ceiling on rent increases. (政府对租金增长设定了上限。)
+
+473. **celebrate** [vt.] 庆祝；[vi.] 庆祝
+   - We will celebrate our anniversary by going out to dinner. (我们将通过外出晚餐来庆祝我们的周年纪念日。)
+   - The whole city celebrated when the local team won the championship. (当地队赢得冠军时，整个城市都在庆祝。)
+
+474. **cell** [n.] 细胞，小房间，电池
+   - The scientist observed the cancer cells under a microscope. (科学家在显微镜下观察癌细胞。)
+   - The prisoner was confined to a small cell for 23 hours a day. (囚犯每天被关在一个小牢房里23小时。)
+
+475. **cent** [n.] 分（货币单位）
+   - I found a cent on the ground and picked it up. (我在地上发现了一分钱并捡了起来。)
+   - It costs fifty cents to make a phone call from the public telephone. (从公用电话打电话要花费五十分钱。)
+
+476. **center** [n.] 中心；[vt.] 使集中；[vi.] 居中
+   - The city center was bustling with people and activity. (市中心人来人往，热闹非凡。)
+   - The discussion centered on the issue of climate change. (讨论集中在气候变化的问题上。)
+
+477. **central** [adj.] 中心的，主要的；[n.] 电话交换
+   - The central theme of the book is the conflict between love and duty. (这本书的中心主题是爱与责任之间的冲突。)
+   - Please call the central office if you need assistance. (如果需要帮助，请打电话给总机。)
+
+478. **centre** [n.] 中心；[vt.] 集中；[vi.] 居中
+   - The shopping centre was crowded with holiday shoppers. (购物中心挤满了节日购物者。)
+   - The debate centred around the economy. (辩论集中在经济问题上。)
+
+479. **century** [n.] 世纪
+   - The building was constructed in the 18th century. (这座建筑是在18世纪建造的。)
+   - She lived through a century of change. (她经历了一个世纪的变迁。)
+
+480. **ceremony** [n.] 典礼，仪式
+   - The opening ceremony of the Olympics is always a grand spectacle. (奥运会的开幕式总是一场盛大的景象。)
+   - They held a small, private ceremony for their wedding. (他们举行了一个小型的私人婚礼仪式。)
+
+481. **certain** [adj.] 确定的；[pron.] 某些
+   - It is certain that the sun will rise tomorrow. (太阳明天升起是确定无疑的。)
+   - Only certain individuals have access to the classified information. (只有某些人能够获得这些机密信息。)
+
+482. **certainly** [adv.] 当然，肯定
+   - I will certainly be there at 8 o'clock. (我肯定会在8点钟到那里。)
+   - "Can you help me?" "Certainly!" ("你能帮我吗？" "当然可以！")
+
+483. **certainty** [n.] 确定，确实的事情
+   - One thing is a certainty: change is inevitable. (有一件事是确定的：变化是不可避免的。)
+   - With mathematical problems, there is often a single certainty of solution. (在数学问题中，通常有一个确定的解决方案。)
+
+484. **certificate** [n.] 证书；[vt.] 发证书给...
+   - She received a certificate for completing the course. (她因完成课程而获得了证书。)
+   - The course certificated him to teach English as a second language. (这个课程授予他教授英语作为第二语言的资格。)
+
+485. **chain** [n.] 链条；[vt.] 用链条锁住
+   - The dog was kept outside, fastened to a chain. (狗被拴在外面，系在链条上。)
+   - The prisoners were chained together as they were led into the court. (囚犯们被锁在一起，被带进法庭。)
+
+486. **chair** [n.] 椅子；[vt.] 主持
+   - He pulled up a chair and sat down next to her. (他拉过一把椅子，坐在她旁边。)
+   - She was asked to chair the committee meeting. (她被邀请主持委员会会议。)
+
+487. **chairman** [n.] 主席
+   - The chairman of the board opened the meeting with a few remarks. (董事会主席以几句话开启了会议。)
+   - As chairman, it was his responsibility to ensure the meeting ran smoothly. (作为主席，他有责任确保会议顺利进行。)
+
+488. **chalk** [n.] 粉笔；[vt.] 用粉笔写
+   - The teacher wrote the equation on the board with chalk. (老师用粉笔在黑板上写下了方程。)
+   - He chalked the cue before his shot in the pool game. (他在台球游戏中击球前给球杆上了粉。)
+
+489. **challenge** [n.] 挑战；[vt.] 向...挑战
+   - Climbing Mount Everest is one of the greatest challenges for a mountaineer. (攀登珠穆朗玛峰是登山者最大的挑战之一。)
+   - The opposition leader challenged the prime minister to a debate. (反对党领袖向首相发起了辩论挑战。)
+
+490. **chamber** [n.] 房间，室；[vt.] 装入室中
+   - The king's private chamber was off-limits to all but his closest advisers. (国王的私人房间除了他最亲近的顾问外，任何人都不得进入。)
+   - The bullet was chambered with a loud click. (子弹在一声响亮的点击声中装入了枪膛。)
+
+491. **champion** [n.] 冠军；[vt.] 拥护
+   - She is the world champion in women's tennis. (她是女子网球世界冠军。)
+   - He has always championed the rights of the underprivileged. (他一直拥护弱势群体的权利。)
+
+492. **chance** [n.] 机会，可能性；[vt.] 冒险；[vi.] 偶然发生
+   - There's a good chance of rain tomorrow. (明天有很大的可能会下雨。)
+   - Let's chance a walk in the woods, even though it might rain. (即使可能会下雨，我们还是冒险去树林里走走。)
+
+493. **change** [n.] 变化；[vt.] 改变；[vi.] 变化
+   - The seasons change, bringing new weather patterns. (季节变化，带来新的天气模式。)
+   - She changed her name when she got married. (她结婚时改了名字。)
+
+494. **channel** [n.] 渠道，频道；[vt.] 引导
+   - The English Channel separates England from France. (英吉利海峡将英格兰与法国分开。)
+   - The company is looking for new channels of distribution for its products. (公司正在寻找其产品的新的分销渠道。)
+
+495. **chapter** [n.] 章，回
+   - Each chapter of the book was more exciting than the last. (这本书的每一章都比上一章更令人兴奋。)
+   - The bankruptcy marked a sad chapter in the company's history. (破产标志着公司历史上一个悲伤的篇章。)
+
+496. **character** [n.] 性格，角色；[adj.] 代表某一特性的
+   - Honesty is an important character trait. (诚实是一个重要的性格特征。)
+   - He played the character of the villain in the play. (他在剧中扮演了反派角色。)
+
+497. **characteristic** [adj.] 特有的；[n.] 特性
+   - She spoke with the characteristic enthusiasm of a salesperson. (她带着销售人员特有的热情说话。)
+   - One of the key characteristics of mammals is that they have warm blood. (哺乳动物的关键特征之一是他们有温血。)
+
+498. **charge** [n.] 费用，责任；[vt.] 索价，控告；[vi.] 充电
+   - The restaurant didn't charge us for the dessert. (餐厅没有向我们收甜点的费用。)
+   - The police charged him with speeding. (警方指控他超速。)
+
+499. **chart** [n.] 图，图表，海图；[vt.] 制成图表
+   - The teacher used a chart to explain the statistics. (老师用一张图表来解释统计数据。)
+   - We charted our course on the map before setting out on the journey. (我们在出发前在地图上规划了我们的路线。)
+
+500. **chase** [n.] 追逐，追赶，追求，狩猎，争取；[vt.] 追捕，狩猎
+   - The police chase ended with the capture of the fugitive. (警察追捕以逃犯的抓捕告终。)
+   - The lioness chased the antelope across the savannah. (母狮在草原上追赶羚羊。)
+
+501. **cheap** [adj.] 廉价的，便宜的，劣质的，品质低的，虚伪的；[adv.] 便宜地
+   - I bought a cheap shirt from the discount rack. (我从打折架上买了一件便宜的衬衫。)
+   - He sold out his friend for a cheap profit. (他为了一点微薄的利润出卖了他的朋友。)
+
+502. **cheat** [n.] 骗子，欺骗行为；[vt.] 骗取，哄，作弊；[vi.] 行骗，作弊
+   - He was known as a cheat after he was caught plagiarizing. (他被抓到剽窃后，被认为是个骗子。)
+   - Students who cheat on exams risk failing the course. (在考试中作弊的学生有不及格的风险。)
+
+503. **check** [vt.] 检查，制止，阻止，核对
+   - Please check your answers before submitting the test. (请在提交试卷前检查你的答案。)
+   - The government introduced new laws to check the spread of the disease. (政府引入了新法律以阻止疾病的传播。)
+
+504. **cheek** [n.] 面颊，脸蛋
+   - Her cheeks turned red with embarrassment. (她的脸颊因尴尬而变红。)
+   - He kissed her on the cheek as a friendly gesture. (他亲吻她的脸颊作为友好的表示。)
+
+505. **cheer** [n.] 愉快，激励，欢呼；[vt.] 欢呼，加油，鼓舞，快活起来；[vi.] 使振奋欢呼
+   - The crowd's cheer lifted the team's spirit. (人群的欢呼提升了团队的士气。)
+   - We cheered on our friends as they ran the marathon. (我们为参加马拉松的朋友们加油。)
+
+506. **cheerful** [adj.] 快乐的，愉快的
+   - She has a cheerful disposition that's contagious. (她有一种会传染的愉快性情。)
+   - The cheerful music made everyone feel better. (欢快的音乐让每个人都感觉更好。)
+
+507. **cheese** [n.] 乳酪；[vt.] 停止
+   - I love adding cheese to my pasta. (我喜欢在意大利面里加乳酪。)
+   - The director yelled "cheese it" when the police arrived on set. (当警察到达片场时，导演喊道“停止”。)
+
+508. **chemical** [adj.] 化学的；[n.] 化学制品
+   - The chemical reaction produced a lot of heat. (化学反应产生了大量的热。)
+   - We store all the chemicals in a secure cabinet. (我们将所有化学品存放在一个安全的柜子里。)
+
+509. **chemist** [n.] 化学家，药剂师
+   - The chemist is working on a new compound in the lab. (化学家正在实验室研究一种新的化合物。)
+   - I need to visit the chemist to fill my prescription. (我需要去药剂师那里配药。)
+
+510. **chemistry** [n.] 化学，化学性质，相互作用
+   - She has a degree in chemistry from a prestigious university. (她拥有一所著名大学的化学学位。)
+   - There's a lot of chemistry between those two; they're always laughing together. (那两个人之间的相互作用很强；他们总是一起笑。)
+
+511. **cheque** [n.] 支票
+   - I received a cheque for my birthday from my grandparents. (我从祖父母那里收到了一张生日支票。)
+   - Please make the cheque payable to "ABC Charity." (请将支票抬头写作“ABC慈善机构”。)
+
+512. **cherry** [n.] 樱桃，樱桃树，樱桃色
+   - Fresh cherry pie is my favorite dessert. (新鲜的樱桃派是我最喜欢的甜点。)
+   - The cherry blossoms in spring are a beautiful sight. (春天的樱花是一道美丽的风景。)
+
+513. **chess** [n.] 棋，国际象棋
+   - Chess is a game that requires strategic thinking. (国际象棋是一种需要战略思考的游戏。)
+   - They sat down to play a game of chess in the park. (他们坐下在公园里下了一盘棋。)
+
+514. **chest** [n.] 胸腔，胸膛；(大)箱子，金库，资金，一箱，密封室：衣橱
+   - He felt a sharp pain in his chest. (他感到胸口剧痛。)
+   - The old chest was filled with ancient treasures. (那个旧箱子里装满了古老的宝藏。)
+
+515. **chew** [vt.] 咀嚼，嚼碎；[vi.] 咀嚼；[n.] 咀嚼，咀嚼物
+   - You should chew your food well before swallowing. (你应该在吞咽前好好咀嚼食物。)
+   - The dog loves to chew on his rubber bone. (那只狗喜欢咀嚼它的橡胶骨头。)
+
+516. **chicken** [n.] 小鸡，小鸟，鸡肉；[adj.] 懦弱的，胆小的
+   - We're having chicken for dinner tonight. (我们今晚晚餐吃鸡肉。)
+   - Don't be such a chicken; just try the roller coaster! (别那么胆小；试试过山车吧！)
+
+517. **chief** [adj.] 主要的，首席的；[n.] 首领
+   - The chief reason for the delay was the bad weather. (延误的主要原因是恶劣的天气。)
+   - The chief of the tribe spoke at the council meeting. (部落首领在理事会会议上发言。)
+
+518. **child** [n.] 小孩，儿童，儿子，产物
+   - Every child in the school was given a book. (学校里的每个孩子都得到了一本书。)
+   - Creativity is often seen as the child of freedom. (创造力常被视为自由的产物。)
+
+519. **childhood** [n.] 童年，幼年，早期
+   - Her childhood was spent in the countryside. (她的童年在乡下度过。)
+   - Childhood memories often last a lifetime. (童年的记忆往往会持续一生。)
+
+520. **chimney** [n.] 烟囱，烟筒，玻璃罩
+   - Smoke billowed from the chimney of the old house. (烟雾从老房子的烟囱中冒出。)
+   - Santa Claus is said to come down the chimney on Christmas Eve. (据说圣诞老人在平安夜会从烟囱下来。)
+
+521. **chin** [n.] 下巴；[vt.] 做单杠；[vi.] 作引体向上，聊天
+   - He stroked his chin thoughtfully. (他若有所思地抚摸着下巴。)
+   - The athletes had to chin themselves ten times during the test. (运动员在测试中必须做十次引体向上。)
+
+522. **China** [n.] 中国
+   - The Great Wall is one of the most famous landmarks in China. (长城是中国最著名的地标之一。)
+   - Tea culture has a long history in China. (茶文化在中国有着悠久的历史。)
+
+523. **Chinese** [adj.] 中国的；[n.] 中国人，汉语
+   - Chinese cuisine is loved by many people around the world. (中国菜受到世界各地许多人的喜爱。)
+   - She is learning Chinese at the language school. (她在语言学校学习汉语。)
+
+524. **chocolate** [n.] 巧克力，巧克力糖，巧克力饮品；[adj.] 巧克力的，有巧克力糖衣的，巧克力色的
+   - I have a weakness for dark chocolate. (我对黑巧克力情有独钟。)
+   - She ordered a hot chocolate to warm up. (她点了一杯热巧克力来暖身。)
+
+525. **choice** [n.] 选择，挑选，抉择；[adj.] 上等的，精选的
+   - You have a choice between tea and coffee. (你可以在茶和咖啡之间选择。)
+   - This restaurant is known for its choice cuts of meat. (这家餐厅以其上等的肉类切片而闻名。)
+
+526. **choose** [vt.] 选择，挑选；[vi.] 选择
+   - Please choose the best answer to each question. (请为每个问题选择最佳答案。)
+   - You can choose to stay or leave; it's up to you. (你可以选择留下或离开；由你决定。)
+
+527. **Christmas** [n.] 圣诞节
+   - Children look forward to Christmas all year. (孩子们一整年都在期待圣诞节。)
+   - We decorate the house with lights and ornaments for Christmas. (我们用灯饰和装饰品来装点房子庆祝圣诞节。)
+
+528. **church** [n.] 教堂，礼拜堂，礼拜仪式，基督教徒，教会；[adj.] 教堂的；[vt.] 把...带到教堂接受某种宗教仪式
+   - They got married in a small church in the countryside. (他们在乡下的一座小教堂里结婚。)
+   - The church bells ring every Sunday morning. (教堂的钟声每个星期日早上都会响起。)
+
+529. **cigarette** [n.] 香烟，纸烟，卷烟
+   - Smoking a cigarette can harm your health. (吸烟可能会损害你的健康。)
+   - He lit a cigarette and inhaled deeply. (他点燃了一支香烟，深深地吸了一口。)
+
+530. **cinema** [n.] 电影院，电影，影片
+   - Let's go to the cinema to watch the latest blockbuster. (我们去电影院看最新的大片吧。)
+   - The golden age of Italian cinema produced many classics. (意大利电影的黄金时代产生了许多经典作品。)
+
+531. **circle** [n.] 圆，圆周，圈子，社交圈，循环；[vt. & vi.] 包围，盘旋，环绕
+   - Draw a circle on the paper. (在纸上画一个圆。)
+   - The plane circled the airport before landing. (飞机在降落前绕机场盘旋。)
+
+532. **circumstance** [n.] 情况，条件，境遇，环境；[pl.] 境况，事件，详情
+   - Under no circumstance should you open this door. (在任何情况下你都不应该打开这扇门。)
+   - The police are investigating the circumstances of the accident. (警方正在调查事故的具体情况。)
+
+533. **citizen** [n.] 公民，市民，居民
+   - Every citizen has the right to vote. (每个公民都有投票权。)
+   - As a responsible citizen, he always pays his taxes on time. (作为一个负责任的公民，他总是按时缴税。)
+
+534. **city** [n.] 城市，都市
+   - New York is a city that never sleeps. (纽约是一个不夜城。)
+   - The city council approved the new building project. (市议会批准了新的建筑项目。)
+
+535. **civil** [adj.] 国内的，公民的，文职的，文明的，有礼貌的，民用的
+   - Civil unrest can lead to social change. (国内动乱可以导致社会变革。)
+   - It's important to remain civil during a debate. (在辩论中保持礼貌是很重要的。)
+
+536. **civilize** [vt.] 使文明，教育
+   - The explorers believed it was their duty to civilize the indigenous people. (探险家们认为他们有责任教化当地人。)
+   - The process to civilize the remote regions took many years. (使偏远地区文明化的过程花了很多年。)
+
+537. **claim** [v.] 要求，请求，声称；[n.] 要求，主张
+   - He claims that he saw a UFO last night. (他声称他昨晚看到了一个不明飞行物。)
+   - The insurance company is processing my claim for the car accident. (保险公司正在处理我因车祸提出的索赔。)
+
+538. **clap** [v.] 拍手，砰地一声；[n.] 拍手，拍手声
+   - The audience clapped enthusiastically after the performance. (演出结束后，观众热烈鼓掌。)
+   - A sudden clap of thunder startled everyone in the room. (一声突如其来的雷声吓了屋内的每个人一跳。)
+
+539. **class** [n.] 班级，阶级，种类；[v.] 分类
+   - She is the top student in her class. (她是她班上的顶尖学生。)
+   - We need to class these books according to genre. (我们需要按照类型对这些书进行分类。)
+
+540. **classical** [adj.] 古典的，经典的
+   - I enjoy listening to classical music in my free time. (空闲时间我喜欢听古典音乐。)
+   - The building's architecture has a classical elegance. (这座建筑的建筑风格具有古典的优雅。)
+
+541. **classify** [v.] 把...分类，归类
+   - Scientists classify animals into different groups. (科学家们将动物分成不同的群组。)
+   - We need to classify these documents by their level of importance. (我们需要按照文件的重要性对它们进行分类。)
+
+542. **classmate** [n.] 同班同学
+   - She shared her notes with a classmate who had missed the lecture. (她与没听讲座的同班同学分享了她的笔记。)
+   - My classmate and I are working on a project together. (我和我的同班同学正在一起做一个项目。)
+
+543. **classroom** [n.] 教室，课堂
+   - The teacher decorated the classroom with posters and artwork. (老师用海报和艺术作品装饰教室。)
+   - Students were talking loudly before the teacher entered the classroom. (在老师进教室之前，学生们在大声交谈。)
+
+544. **claw** [n.] 爪，钳；[v.] 抓，撕
+   - The cat sharpened its claws on the scratching post. (猫在抓 scratching post 上磨爪子。)
+   - The eagle clawed at its prey before flying off. (老鹰抓住猎物后飞走了。)
+
+545. **clay** [n.] 粘土，泥土
+   - Artists use clay to make sculptures and pottery. (艺术家使用粘土制作雕塑和陶器。)
+   - The heavy rain turned the soil into wet clay. (大雨使土壤变成了湿粘土。)
+
+546. **clean** [adj.] 清洁的；[adv.] 完全地；[v.] 打扫
+   - Please keep your hands clean before handling food. (在处理食物之前，请保持双手清洁。)
+   - He cleaned the room so thoroughly that it looked brand new. (他彻底清洁了房间，看起来像新的一样。)
+
+547. **clear** [adj.] 清晰的；[v.] 清除，澄清；[adv.] 清楚地；[n.] 空地
+   - The instructions were clear and easy to follow. (说明清晰易懂。)
+   - After the rain, the skies cleared up. (雨后天空放晴了。)
+
+548. **clerk** [n.] 店员，办事员
+   - The clerk at the front desk greeted us with a smile. (前台的店员微笑着迎接我们。)
+   - She works as a clerk in a law firm downtown. (她在市中心的一家律师事务所当店员。)
+
+549. **clever** [adj.] 聪明的，机敏的
+   - The child was clever enough to solve the puzzle quickly. (这个孩子很聪明，很快就解开了这个谜。)
+   - He thought of a clever solution to the problem. (他想到了一个聪明的解决办法。)
+
+550. **cliff** [n.] 悬崖，峭壁
+   - The climber carefully made his way up the steep cliff. (攀登者小心翼翼地沿着陡峭的悬崖向上攀爬。)
+   - The house was built on the edge of a cliff overlooking the sea. (这所房子建在俯瞰大海的悬崖边上。)
+
+551. **climate** [n.] 气候
+   - The Mediterranean climate is known for its mild, wet winters and hot, dry summers. (地中海气候以其温和湿润的冬季和炎热干燥的夏季而闻名。)
+   - Climate change is a serious issue that affects the entire planet. (气候变化是一个影响整个地球的严重问题。)
+
+552. **climb** [v.] 攀登；[n.] 攀登
+   - We are planning to climb Mount Everest next year. (我们计划明年攀登珠穆朗玛峰。)
+   - The climb was difficult, but the view from the top was worth it. (攀登很困难，但从顶部看的景色是值得的。)
+
+553. **clock** [n.] 时钟，计时器
+   - The clock on the wall is ten minutes fast. (墙上的时钟快了十分钟。)
+   - He looked at the clock and realized he was late for his appointment. (他看了看时钟，意识到他迟到了。)
+
+554. **close** [v.] 关闭，结束；[adj.] 靠近的；[adv.] 紧挨着；[n.] 结束
+   - Please close the door when you leave the room. (离开房间时请关上门。)
+   - They have a close relationship with their grandparents. (他们和祖父母的关系很亲近。)
+
+555. **cloth** [n.] 布，衣料
+   - She bought a piece of cloth to make a new dress. (她买了一块布来做一条新裙子。)
+   - The table was covered with a white cloth. (桌子上铺着一块白布。)
+
+556. **clothe** [v.] 给...穿衣服，覆盖
+   - Parents must clothe and feed their children. (父母必须给孩子们穿衣和喂食。)
+   - The mountain was clothed in a blanket of snow. (山被一层雪覆盖。)
+
+557. **clothes** [n.] 衣服
+   - She put away her summer clothes and took out her winter wardrobe. (她收起了夏天的衣服，拿出了冬天的衣橱。)
+   - You should change into dry clothes to avoid catching a cold. (你应该换上干净的衣服，以免感冒。)
+
+558. **cloud** [n.] 云；[v.] 使模糊，笼罩
+   - The sky is full of white fluffy clouds today. (今天天空中充满了白色的蓬松云朵。)
+   - His judgment was clouded by his emotions. (他的判断被情感所模糊。)
+
+559. **club** [n.] 俱乐部，夜总会；[v.] 用棍棒打，集合
+   - She is a member of a book club where they discuss new novels. (她是一个读书俱乐部的成员，在那里他们讨论新小说。)
+   - They clubbed together to buy a gift for their teacher. (他们合伙买了一份礼物给老师。)
+
+560. **clue** [n.] 线索；[v.] 提示
+   - The detective found a clue that might lead to the culprit. (侦探找到了一个可能指向罪犯的线索。)
+   - Can you give me a clue about the answer to this puzzle? (你能给我一个关于这个谜底的提示吗？)
+
+561. **coal** [n.] 煤；[v.] 装煤，加煤
+   - Coal is still used as a fuel in some parts of the world. (在世界的某些地方，煤炭仍然被用作燃料。)
+   - The workers coaled the furnace to keep the steam engine running. (工人们给炉子加煤以保持蒸汽机的运转。)
+
+562. **coarse** [adj.] 粗糙的，粗俗的
+   - Coarse sandpaper is used for the first stage of sanding. (粗砂纸用于打磨的第一阶段。)
+   - His coarse language made her feel uncomfortable. (他粗俗的语言让她感到不舒服。)
+
+563. **coast** [n.] 海岸；[v.] 沿海岸而行，滑行
+   - We spent our vacation on the beautiful coast of Italy. (我们在意大利美丽的海岸度过了假期。)
+   - After reaching the top of the hill, he just coasted down on his bike. (到达山顶后，他只是让自行车滑下来。)
+
+564. **coat** [n.] 外套，涂层；[v.] 覆盖
+   - It's cold outside, so don't forget to wear a coat. (外面很冷，所以别忘了穿外套。)
+   - The baker coated the cake with chocolate icing. (烘焙师给蛋糕涂上了巧克力糖霜。)
+
+565. **cock** [n.] 公鸡；[v.] 竖起
+   - The cock crowed at dawn. (公鸡在黎明时啼鸣。)
+   - He cocked his hat to one side with a defiant attitude. (他以一种挑衅的态度将帽子歪戴在一边。)
+
+566. **coffee** [n.] 咖啡
+   - Would you like some coffee in the morning? (早上你想喝点咖啡吗？)
+   - I need to stop drinking coffee late at night; it keeps me awake. (我需要停止在深夜喝咖啡，它让我保持清醒。)
+
+567. **coin** [n.] 硬币；[v.] 铸造（硬币），创造
+   - He found an old coin in the garden. (他在花园里发现了一枚古老的硬币。)
+   - The phrase "to coin a term" means to create a new word or phrase. (“创造一个术语”的意思是创造一个新词或短语。)
+
+568. **cold** [adj.] 冷的；[n.] 寒冷，感冒
+   - It's very cold outside; make sure to bundle up. (外面很冷；确保穿暖和。)
+   - I caught a cold and now I can't stop sneezing. (我感冒了，现在我停不下来打喷嚏。)
+
+569. **collar** [n.] 衣领，项圈；[v.] 抓住
+   - He grabbed the dog by its collar. (他抓住了狗的项圈。)
+   - The police collared the suspect as he tried to flee. (警察在嫌疑人试图逃跑时抓住了他。)
+
+570. **colleague** [n.] 同事
+   - I'm going to lunch with a colleague from the marketing department. (我要和市场部的一个同事一起去吃午饭。)
+   - She discussed the project with her colleagues before presenting it. (她在展示之前与同事讨论了这个项目。)
+
+571. **collect** [v.] 收集，聚集；[adj. & adv.] 对方付费
+   - He collects stamps as a hobby. (他的爱好是收集邮票。)
+   - The call is collect, so the charges will be on the recipient's bill. (这个电话是对方付费的，所以费用将计在接收人的账单上。)
+
+572. **collection** [n.] 收集，集合
+   - The museum has an impressive collection of modern art. (这家博物馆有一批令人印象深刻的现代艺术藏品。)
+   - She added the new novel to her book collection. (她将新小说加入她的书籍收藏。)
+
+573. **collective** [adj.] 集体的；[n.] 集体
+   - The workers made a collective decision to strike. (工人们集体决定罢工。)
+   - The collective opinion of the group was to proceed with the plan. (该团体的集体意见是继续执行计划。)
+
+574. **college** [n.] 学院，大学
+   - She is studying economics at college. (她在学院学习经济学。)
+   - After high school, he plans to go to college to study engineering. (高中毕业后，他计划去大学学习工程学。)
