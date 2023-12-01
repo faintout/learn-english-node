@@ -1,32 +1,39 @@
 const Router = require("koa-router");
 const router = new Router();
-//查询当前索引单词-详细参数
-// 查询全部单-详情参数
-// 查询记录目前全部记录-时间/x-x/个数
-// 查询某一个记录详情
-
-// router.get("/", (ctx, next) => {
-//   ctx.body = "<h3>服务器请求成功</h3>";
-//   ctx.body += "<h3>接口地址如下</h3> <br/>";
-//   ctx.body+=router.stack.map(stack=>`<a href="${stack.path}" target="_blank">${stack.path}</a>`).join('<br/>')
-// });
+router.get("/", (ctx, next) => {
+  ctx.body = "<h3>服务器请求成功</h3>";
+  ctx.body += "<h3>接口地址如下</h3> <br/>";
+  ctx.body+=router.stack.map(stack=>`<a href="${stack.path}" target="_blank">${stack.path}</a>`).join('<br/>')
+});
+const updateWord2Json = require("../module/updateWord2Json");
+const {
+    getRandomWordsByRange,
+    getWordByIndex
+} = require("../module/getRandomWord");
+const {
+    getRandomHistoryList,
+    getRandomDetailByIndex
+} = require("../module/getRandomHistory");
 //获取某个单词的详细信息
-router.get('/getWordByIndex',async(ctx,next)=>{
-    ctx.body = await getWordByIndex()
+router.get('/getWordByIndex/:index',async(ctx,next)=>{
+    let index = ctx.params.index;
+    ctx.body = await getWordByIndex(index)
 })
-router.get('/weiboNews',async(ctx,next)=>{
-    ctx.body = await getWeiboNewsAjax()
+//更新单词
+router.get('/updateWord',async(ctx,next)=>{
+    ctx.body = await updateWord2Json()
 })
-router.get('/08News/:page',async(ctx,next)=>{
-    let page = ctx.params.page;
-    ctx.body = await get08NewsListByPages(page||3)
+//获取随机单词根据范围
+router.get('/getRandomWords',async(ctx,next)=>{
+    const {start,end} = ctx.query;
+    ctx.body = await getRandomWordsByRange(start,end)
 })
-router.get('/yaohuo/:page',async(ctx,next)=>{
-    let page = ctx.params.page;
-    ctx.body = await getYaoHuoListByPages(page||5)
+//获取随机单词历史列表
+router.get('/getRandomHistoryList',async(ctx,next)=>{
+    ctx.body = await getRandomHistoryList()
 })
-router.get('/doubanBuy/:page',async(ctx,next)=>{
-    let page = ctx.params.page;
-    ctx.body = await getDoubanBuyListByPages(page||3)
+router.get('/getRandomDetailByIndex/:index',async(ctx,next)=>{
+    let index = ctx.params.index;
+    ctx.body = await getRandomDetailByIndex(index)
 })
 module.exports = router;
