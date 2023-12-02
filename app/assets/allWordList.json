@@ -6283,5 +6283,2330 @@
         "translation": "警官要求旁观者待命接受询问。"
       }
     ]
+  },
+  {
+    "num": 420,
+    "word": "cabbage",
+    "chinese": "[n.] 洋白菜，卷心菜",
+    "examples": [
+      {
+        "example": "She added some cabbage to the soup for extra flavor.",
+        "translation": "她在汤里加了一些卷心菜以增加风味。"
+      },
+      {
+        "example": "Cabbage is a common ingredient in salads and coleslaw.",
+        "translation": "洋白菜是沙拉和卷心菜沙拉中常用的食材。"
+      }
+    ]
+  },
+  {
+    "num": 421,
+    "word": "cabinet",
+    "chinese": "[n.] 橱柜，内阁；[adj.] 私人的",
+    "examples": [
+      {
+        "example": "The prime minister appointed a new minister to his cabinet.",
+        "translation": "首相任命了一位新部长进入内阁。"
+      },
+      {
+        "example": "She keeps her collection of fine china in a glass-fronted cabinet.",
+        "translation": "她将她的精美瓷器收藏放在一个玻璃门橱柜里。"
+      }
+    ]
+  },
+  {
+    "num": 422,
+    "word": "cable",
+    "chinese": "[n.] 缆绳，电缆，海底电报；[vt.] 发海底电报；[vi.] 发海底电报",
+    "examples": [
+      {
+        "example": "The bridge is supported by steel cables.",
+        "translation": "这座桥由钢缆支撑。"
+      },
+      {
+        "example": "During the 19th century, messages were sent across the ocean by cable.",
+        "translation": "在19世纪，消息是通过海底电缆发送的。"
+      }
+    ]
+  },
+  {
+    "num": 423,
+    "word": "cafe",
+    "chinese": "[n.] 咖啡馆，小餐厅",
+    "examples": [
+      {
+        "example": "Let's meet at the cafe on the corner for lunch.",
+        "translation": "让我们在街角的咖啡馆见面吃午餐。"
+      },
+      {
+        "example": "The cafe serves the best espresso in town.",
+        "translation": "这家咖啡馆提供城里最好的浓缩咖啡。"
+      }
+    ]
+  },
+  {
+    "num": 424,
+    "word": "cage",
+    "chinese": "[n.] 笼子，鸟笼",
+    "examples": [
+      {
+        "example": "The parrot squawked loudly from its cage.",
+        "translation": "鹦鹉在笼子里大声地尖叫。"
+      },
+      {
+        "example": "The zookeeper locked the lion back into its cage.",
+        "translation": "动物园管理员把狮子锁回了它的笼子里。"
+      }
+    ]
+  },
+  {
+    "num": 425,
+    "word": "cake",
+    "chinese": "[n.] 蛋糕，块状物；[vt.] 涂厚厚的一层；[vi.] 结成块",
+    "examples": [
+      {
+        "example": "She baked a chocolate cake for her son's birthday.",
+        "translation": "她为儿子的生日烤了一个巧克力蛋糕。"
+      },
+      {
+        "example": "Mud caked on his boots after the hike.",
+        "translation": "徒步旅行后，他的靴子上结满了泥块。"
+      }
+    ]
+  },
+  {
+    "num": 426,
+    "word": "calculate",
+    "chinese": "[vt.] 计算，估计；[vi.] 预测",
+    "examples": [
+      {
+        "example": "You need to calculate the total cost before making a purchase.",
+        "translation": "购买前你需要计算总成本。"
+      },
+      {
+        "example": "The computer can calculate the answer much faster than we can.",
+        "translation": "计算机可以比我们更快地计算出答案。"
+      }
+    ]
+  },
+  {
+    "num": 427,
+    "word": "calendar",
+    "chinese": "[n.] 日历，日程表；[vt.] 进入日历",
+    "examples": [
+      {
+        "example": "I marked our anniversary on the calendar.",
+        "translation": "我在日历上标记了我们的周年纪念日。"
+      },
+      {
+        "example": "The conference dates are now on the official calendar of events.",
+        "translation": "会议日期现在已经列入官方活动日程表。"
+      }
+    ]
+  },
+  {
+    "num": 428,
+    "word": "call",
+    "chinese": "[n.] 呼叫，电话；[vt.] 命名，打电话；[vi.] 拜访",
+    "examples": [
+      {
+        "example": "He received a call from his boss late at night.",
+        "translation": "他深夜接到了老板的电话。"
+      },
+      {
+        "example": "The bird's distinctive call can be heard at dawn.",
+        "translation": "这种鸟独特的叫声可以在黎明时分听到。"
+      }
+    ]
+  },
+  {
+    "num": 429,
+    "word": "calm",
+    "chinese": "[n.] 平静；[adj.] 静的，冷静的；[vt. & vi.] 平静下来",
+    "examples": [
+      {
+        "example": "After the storm, the sea was completely calm.",
+        "translation": "暴风雨过后，大海完全平静了。"
+      },
+      {
+        "example": "He remained calm despite the chaos around him.",
+        "translation": "尽管周围一片混乱，他仍保持冷静。"
+      }
+    ]
+  },
+  {
+    "num": 430,
+    "word": "camel",
+    "chinese": "[n.] 骆驼，浅黄棕色",
+    "examples": [
+      {
+        "example": "The caravan used camels to cross the desert.",
+        "translation": "商队用骆驼穿越沙漠。"
+      },
+      {
+        "example": "His coat was the color of camel.",
+        "translation": "他的外套是骆驼色的。"
+      }
+    ]
+  },
+  {
+    "num": 431,
+    "word": "camera",
+    "chinese": "[n.] 照相机，摄影机",
+    "examples": [
+      {
+        "example": "She captured the sunset with her new digital camera.",
+        "translation": "她用她的新数码相机捕捉了日落景象。"
+      },
+      {
+        "example": "The security camera recorded the entire incident.",
+        "translation": "安全摄像机记录了整个事件。"
+      }
+    ]
+  },
+  {
+    "num": 432,
+    "word": "camp",
+    "chinese": "[n.] 营地，帐篷；[vt. & vi.] 露营；[adj.] 做作的",
+    "examples": [
+      {
+        "example": "They set up camp by the lakeside.",
+        "translation": "他们在湖边搭建了营地。"
+      },
+      {
+        "example": "The children will camp in the backyard tonight.",
+        "translation": "孩子们今晚将在后院露营。"
+      }
+    ]
+  },
+  {
+    "num": 433,
+    "word": "campaign",
+    "chinese": "[n.] 活动，运动；[vt. & vi.] 参加竞选，从事活动",
+    "examples": [
+      {
+        "example": "The mayor launched a campaign to clean up the city parks.",
+        "translation": "市长发起了一个清理城市公园的运动。"
+      },
+      {
+        "example": "She campaigned for the introduction of healthier school lunches.",
+        "translation": "她为引入更健康的学校午餐而努力。"
+      }
+    ]
+  },
+  {
+    "num": 434,
+    "word": "campus",
+    "chinese": "[n.] 校园",
+    "examples": [
+      {
+        "example": "The university campus covers fifty acres.",
+        "translation": "这所大学的校园占地五十英亩。"
+      },
+      {
+        "example": "Students were relaxing and playing frisbee on the campus green.",
+        "translation": "学生们在校园的绿地上放松和玩飞盘。"
+      }
+    ]
+  },
+  {
+    "num": 435,
+    "word": "can",
+    "chinese": "[aux.v.] 能，会；[n.] 罐头，容器；[vt.] 罐装",
+    "examples": [
+      {
+        "example": "Can you help me with this problem?",
+        "translation": "你能帮我解决这个问题吗？"
+      },
+      {
+        "example": "She bought a can of beans at the grocery store.",
+        "translation": "她在杂货店买了一罐豆子。"
+      }
+    ]
+  },
+  {
+    "num": 436,
+    "word": "Canada",
+    "chinese": "[n.] 加拿大",
+    "examples": [
+      {
+        "example": "Canada is known for its vast landscapes and cold winters.",
+        "translation": "加拿大以其辽阔的景观和寒冷的冬天而闻名。"
+      },
+      {
+        "example": "They went on a road trip across Canada last summer.",
+        "translation": "他们去年夏天进行了一次横穿加拿大的公路旅行。"
+      }
+    ]
+  },
+  {
+    "num": 437,
+    "word": "canal",
+    "chinese": "[n.] 运河，沟渠",
+    "examples": [
+      {
+        "example": "The Panama Canal is an important waterway for international trade.",
+        "translation": "巴拿马运河是国际贸易的重要水道。"
+      },
+      {
+        "example": "The city's old canals are now popular with tourists.",
+        "translation": "这座城市的老运河现在很受游客欢迎。"
+      }
+    ]
+  },
+  {
+    "num": 438,
+    "word": "cancel",
+    "chinese": "[vt.] 取消，撤销；[vi.] 抵消",
+    "examples": [
+      {
+        "example": "Due to the storm, all flights were canceled.",
+        "translation": "由于暴风雨，所有航班都被取消了。"
+      },
+      {
+        "example": "If we both write a number and they add up to zero, they cancel each other out.",
+        "translation": "如果我们俩都写一个数字，它们相加等于零，它们就相互抵消了。"
+      }
+    ]
+  },
+  {
+    "num": 439,
+    "word": "cancer",
+    "chinese": "[n.] 癌症，肿瘤；巨蟹座",
+    "examples": [
+      {
+        "example": "Research on cancer treatment has advanced significantly.",
+        "translation": "癌症治疗的研究已经取得了显著进展。"
+      },
+      {
+        "example": "She was born in July, so her zodiac sign is Cancer.",
+        "translation": "她出生于七月，所以她的星座是巨蟹座。"
+      }
+    ]
+  },
+  {
+    "num": 440,
+    "word": "candidate",
+    "chinese": "[n.] 候选人，求职者",
+    "examples": [
+      {
+        "example": "The candidate for the job presented her qualifications during the interview.",
+        "translation": "求职者在面试中展示了她的资格。"
+      },
+      {
+        "example": "There are three candidates running for the school board.",
+        "translation": "有三名候选人竞选学校董事会。"
+      }
+    ]
+  },
+  {
+    "num": 441,
+    "word": "candle",
+    "chinese": "[n.] 蜡烛",
+    "examples": [
+      {
+        "example": "They lit a candle during the power outage.",
+        "translation": "停电期间他们点燃了一支蜡烛。"
+      },
+      {
+        "example": "A candle was burning on the windowsill.",
+        "translation": "窗台上燃烧着一支蜡烛。"
+      }
+    ]
+  },
+  {
+    "num": 442,
+    "word": "cap",
+    "chinese": "[n.] 帽子，盖子；[vt.] 覆盖，超过",
+    "examples": [
+      {
+        "example": "He wore a baseball cap to shield his eyes from the sun.",
+        "translation": "他戴了一顶棒球帽来遮挡阳光。"
+      },
+      {
+        "example": "The mountain was capped with snow.",
+        "translation": "山顶覆盖着雪。"
+      }
+    ]
+  },
+  {
+    "num": 443,
+    "word": "capable",
+    "chinese": "[adj.] 有能力的，足以胜任的",
+    "examples": [
+      {
+        "example": "She's a very capable manager who knows how to get things done.",
+        "translation": "她是一个非常有能力的经理，知道如何完成事情。"
+      },
+      {
+        "example": "The new software is capable of processing data much faster.",
+        "translation": "新软件能够更快地处理数据。"
+      }
+    ]
+  },
+  {
+    "num": 444,
+    "word": "capital",
+    "chinese": "[n.] 首都，资本；[adj.] 首要的，资本的",
+    "examples": [
+      {
+        "example": "Paris is the capital of France.",
+        "translation": "巴黎是法国的首都。"
+      },
+      {
+        "example": "The company is looking to raise capital for a new project.",
+        "translation": "该公司正在寻求为一个新项目筹集资金。"
+      }
+    ]
+  },
+  {
+    "num": 445,
+    "word": "captain",
+    "chinese": "[n.] 队长，船长；[vt.] 指挥，率领",
+    "examples": [
+      {
+        "example": "The captain of the football team led them to victory.",
+        "translation": "足球队队长带领他们取得了胜利。"
+      },
+      {
+        "example": "She captained the ship through the rough seas.",
+        "translation": "她指挥船只穿越了汹涌的大海。"
+      }
+    ]
+  },
+  {
+    "num": 446,
+    "word": "capture",
+    "chinese": "[n.] 捕获；[vt.] 抓取，俘获",
+    "examples": [
+      {
+        "example": "The capture of the fugitive was a relief to the community.",
+        "translation": "逃犯的捕获让社区松了一口气。"
+      },
+      {
+        "example": "The photographer hoped to capture the beauty of the sunrise in his pictures.",
+        "translation": "摄影师希望在他的照片中捕捉到日出的美丽。"
+      }
+    ]
+  },
+  {
+    "num": 447,
+    "word": "car",
+    "chinese": "[n.] 汽车，车厢",
+    "examples": [
+      {
+        "example": "She bought a new car after her old one broke down.",
+        "translation": "她的旧车坏了之后买了一辆新车。"
+      },
+      {
+        "example": "The last car of the train is usually less crowded.",
+        "translation": "火车的最后一节车厢通常人比较少。"
+      }
+    ]
+  },
+  {
+    "num": 448,
+    "word": "carbon",
+    "chinese": "[n.] 碳，复写纸",
+    "examples": [
+      {
+        "example": "Plants absorb carbon dioxide and release oxygen.",
+        "translation": "植物吸收二氧化碳并释放氧气。"
+      },
+      {
+        "example": "He used carbon paper to make a copy of the letter.",
+        "translation": "他用复写纸复制了那封信。"
+      }
+    ]
+  },
+  {
+    "num": 449,
+    "word": "card",
+    "chinese": "[n.] 卡片，名片；[vt.] 提供卡片",
+    "examples": [
+      {
+        "example": "She handed out her business card at the meeting.",
+        "translation": "她在会议上分发了她的名片。"
+      },
+      {
+        "example": "You need to card the wool before you can spin it into yarn.",
+        "translation": "在你能将羊毛纺成纱之前，你需要梳理羊毛。"
+      }
+    ]
+  },
+  {
+    "num": 450,
+    "word": "care",
+    "chinese": "[n.] 关心，照顾；[vi.] 关心；[vt.] 介意",
+    "examples": [
+      {
+        "example": "She has a great deal of care for her elderly parents.",
+        "translation": "她非常关心她年迈的父母。"
+      },
+      {
+        "example": "Do you care if I open the window?",
+        "translation": "我开窗户你介意吗？"
+      }
+    ]
+  },
+  {
+    "num": 451,
+    "word": "career",
+    "chinese": "[n.] 职业，生涯；[vi.] 猛冲，飞跑",
+    "examples": [
+      {
+        "example": "He decided to pursue a career in medicine.",
+        "translation": "他决定追求医学职业。"
+      },
+      {
+        "example": "The car careered off the road and into a ditch.",
+        "translation": "汽车冲出道路，跑进了沟里。"
+      }
+    ]
+  },
+  {
+    "num": 452,
+    "word": "careful",
+    "chinese": "[adj.] 小心的，仔细的",
+    "examples": [
+      {
+        "example": "Be careful with the glasses; they're very fragile.",
+        "translation": "小心点儿那些玻璃杯；它们非常脆弱。"
+      },
+      {
+        "example": "She was careful to check all the details before submitting the report.",
+        "translation": "她在提交报告前仔细检查了所有细节。"
+      }
+    ]
+  },
+  {
+    "num": 453,
+    "word": "careless",
+    "chinese": "[adj.] 粗心的，漫不经心的",
+    "examples": [
+      {
+        "example": "His careless mistake cost the company thousands of dollars.",
+        "translation": "他的粗心大意使公司损失了数千美元。"
+      },
+      {
+        "example": "She was careless with her belongings and often lost things.",
+        "translation": "她对自己的物品很不在意，经常丢东西。"
+      }
+    ]
+  },
+  {
+    "num": 454,
+    "word": "cargo",
+    "chinese": "[n.] 货物",
+    "examples": [
+      {
+        "example": "The ship was loaded with cargo bound for Europe.",
+        "translation": "这艘船装载着驶往欧洲的货物。"
+      },
+      {
+        "example": "The cargo plane delivered supplies to the disaster area.",
+        "translation": "货运飞机向灾区运送了物资。"
+      }
+    ]
+  },
+  {
+    "num": 455,
+    "word": "carpenter",
+    "chinese": "[n.] 木工，木匠；[v.] 做木工活",
+    "examples": [
+      {
+        "example": "The carpenter built a beautiful wooden table.",
+        "translation": "木匠制作了一张漂亮的木桌。"
+      },
+      {
+        "example": "He carpentered a new set of shelves for the library.",
+        "translation": "他为图书馆做了一组新书架。"
+      }
+    ]
+  },
+  {
+    "num": 456,
+    "word": "carpet",
+    "chinese": "[n.] 地毯；[vt.] 铺以地毯",
+    "examples": [
+      {
+        "example": "They chose a red carpet for the living room.",
+        "translation": "他们为客厅选择了一块红色地毯。"
+      },
+      {
+        "example": "The hall was carpeted in a luxurious blue fabric.",
+        "translation": "大厅铺上了豪华的蓝色地毯。"
+      }
+    ]
+  },
+  {
+    "num": 457,
+    "word": "carriage",
+    "chinese": "[n.] 客车厢，四轮马车",
+    "examples": [
+      {
+        "example": "The old carriage was restored to its original condition for the museum exhibit.",
+        "translation": "这辆旧马车被修复到原始状态，用于博物馆展览。"
+      },
+      {
+        "example": "In the UK, railway carriages are often referred to as coaches.",
+        "translation": "在英国，铁路客车厢通常被称为车厢。"
+      }
+    ]
+  },
+  {
+    "num": 458,
+    "word": "carry",
+    "chinese": "[vt.] 携带，运输；[vi.] 负载被传达；[n.] 射程",
+    "examples": [
+      {
+        "example": "The porter can carry your bags to your room.",
+        "translation": "搬运工可以把你的包搬到你的房间。"
+      },
+      {
+        "example": "This radio station has a strong signal and can carry for miles.",
+        "translation": "这个电台信号强，传播范围可达数英里。"
+      }
+    ]
+  },
+  {
+    "num": 459,
+    "word": "cart",
+    "chinese": "[n.] 运货马车，手推车；[vt.] 用马车装载，用手提笨重物品",
+    "examples": [
+      {
+        "example": "He used a cart to bring the groceries from the market.",
+        "translation": "他用手推车从市场带来了杂货。"
+      },
+      {
+        "example": "The workers carted the bricks to the construction site.",
+        "translation": "工人们用马车把砖头运到了建筑工地。"
+      }
+    ]
+  },
+  {
+    "num": 460,
+    "word": "case",
+    "chinese": "[n.] 情况，箱子；[vt.] 装箱，踩点",
+    "examples": [
+      {
+        "example": "The detective solved the case after weeks of investigation.",
+        "translation": "侦探经过数周的调查解决了这个案件。"
+      },
+      {
+        "example": "The musicians packed their instruments in cases before the concert.",
+        "translation": "音乐家们在音乐会前把他们的乐器装进箱子。"
+      }
+    ]
+  },
+  {
+    "num": 461,
+    "word": "cash",
+    "chinese": "[n.] 现金；[vt.] 兑现；[adj.] 现金的",
+    "examples": [
+      {
+        "example": "She prefers to pay with cash instead of using a credit card.",
+        "translation": "她更喜欢用现金支付，而不是使用信用卡。"
+      },
+      {
+        "example": "You can cash your paycheck at the bank.",
+        "translation": "你可以在银行兑现你的工资支票。"
+      }
+    ]
+  },
+  {
+    "num": 462,
+    "word": "cassette",
+    "chinese": "[n.] 盒式录音带，盒子",
+    "examples": [
+      {
+        "example": "I found an old cassette of my favorite band in the attic.",
+        "translation": "我在阁楼上找到了我最喜欢的乐队的一盘旧录音带。"
+      },
+      {
+        "example": "The video recorder uses VHS cassettes.",
+        "translation": "这台录像机使用VHS盒式磁带。"
+      }
+    ]
+  },
+  {
+    "num": 463,
+    "word": "cast",
+    "chinese": "[n.] 演员阵容，投掷；[vt.] 投，扔，浇铸",
+    "examples": [
+      {
+        "example": "The cast received a standing ovation on opening night.",
+        "translation": "在首演之夜，演员阵容受到了起立鼓掌。"
+      },
+      {
+        "example": "The fisherman cast his line into the lake.",
+        "translation": "渔夫把钓线投入湖中。"
+      }
+    ]
+  },
+  {
+    "num": 464,
+    "word": "castle",
+    "chinese": "[n.] 城堡；[vt.] 置于城堡中；[vi.] (棋)移动王车易位",
+    "examples": [
+      {
+        "example": "The ancient castle stands on a hill overlooking the valley.",
+        "translation": "这座古老的城堡矗立在俯瞰山谷的小山上。"
+      },
+      {
+        "example": "In chess, it's often a good strategy to castle early to protect your king.",
+        "translation": "在国际象棋中，早期移动王车易位通常是保护国王的好策略。"
+      }
+    ]
+  },
+  {
+    "num": 465,
+    "word": "casual",
+    "chinese": "[adj.] 偶然的，随便的，非正式的",
+    "examples": [
+      {
+        "example": "He dressed in casual clothes for the party, just jeans and a t-shirt.",
+        "translation": "他穿着休闲服装参加派对，只是牛仔裤和T恤。"
+      },
+      {
+        "example": "The meeting was a casual affair with no set agenda.",
+        "translation": "这次会议是一次非正式的聚会，没有既定的议程。"
+      }
+    ]
+  },
+  {
+    "num": 466,
+    "word": "cat",
+    "chinese": "[n.] 猫；[vt.] 吊锚；[vi.] 寻找性交伴侣",
+    "examples": [
+      {
+        "example": "The cat curled up in a ball and fell asleep in the sun.",
+        "translation": "猫卷成一团，在阳光下睡着了。"
+      },
+      {
+        "example": "Sailors would cat the anchor when preparing to sail.",
+        "translation": "水手们准备起航时会吊起锚。"
+      }
+    ]
+  },
+  {
+    "num": 467,
+    "word": "catch",
+    "chinese": "[n.] 捕捉，陷阱；[vt.] 捉住，感染；[vi.] 抓住",
+    "examples": [
+      {
+        "example": "The game of catch is simple; just throw the ball back and forth.",
+        "translation": "接球游戏很简单；只是来回扔球。"
+      },
+      {
+        "example": "Be careful not to catch a cold in this rainy weather.",
+        "translation": "在这种雨天里要小心不要感冒。"
+      }
+    ]
+  },
+  {
+    "num": 468,
+    "word": "cattle",
+    "chinese": "[n.] 牛，家畜（复数）",
+    "examples": [
+      {
+        "example": "The cattle grazed peacefully in the field.",
+        "translation": "牛群在田野中和平地吃草。"
+      },
+      {
+        "example": "Ranchers must count their cattle to ensure none have wandered off.",
+        "translation": "牧场主必须数一数他们的牛，以确保没有牛走失。"
+      }
+    ]
+  },
+  {
+    "num": 469,
+    "word": "cause",
+    "chinese": "[n.] 原因，事业；[vt.] 引起，使发生",
+    "examples": [
+      {
+        "example": "The charity works for a good cause, helping those in need.",
+        "translation": "这个慈善机构为了一个好的事业而工作，帮助那些需要帮助的人。"
+      },
+      {
+        "example": "Smoking can cause serious health problems.",
+        "translation": "吸烟可能引起严重的健康问题。"
+      }
+    ]
+  },
+  {
+    "num": 470,
+    "word": "cave",
+    "chinese": "[n.] 洞穴；[vt.] 挖空，塌落；[vi.] 塌落",
+    "examples": [
+      {
+        "example": "The explorers discovered a new cave in the mountains.",
+        "translation": "探险家们在山中发现了一个新的洞穴。"
+      },
+      {
+        "example": "The roof of the old mine caved in after years of neglect.",
+        "translation": "由于多年的忽视，老矿井的顶部塌陷了。"
+      }
+    ]
+  },
+  {
+    "num": 471,
+    "word": "cease",
+    "chinese": "[vi.] 停止；[n.] 停止",
+    "examples": [
+      {
+        "example": "The company agreed to cease production of the harmful chemical.",
+        "translation": "公司同意停止生产有害化学品。"
+      },
+      {
+        "example": "Hostilities will cease at midnight.",
+        "translation": "敌对行动将在午夜停止。"
+      }
+    ]
+  },
+  {
+    "num": 472,
+    "word": "ceiling",
+    "chinese": "[n.] 天花板，上限",
+    "examples": [
+      {
+        "example": "The ceiling of the Sistine Chapel is adorned with Michelangelo's famous frescoes.",
+        "translation": "西斯廷教堂的天花板上装饰着米开朗基罗著名的壁画。"
+      },
+      {
+        "example": "The government has imposed a ceiling on rent increases.",
+        "translation": "政府对租金增长设定了上限。"
+      }
+    ]
+  },
+  {
+    "num": 473,
+    "word": "celebrate",
+    "chinese": "[vt.] 庆祝；[vi.] 庆祝",
+    "examples": [
+      {
+        "example": "We will celebrate our anniversary by going out to dinner.",
+        "translation": "我们将通过外出晚餐来庆祝我们的周年纪念日。"
+      },
+      {
+        "example": "The whole city celebrated when the local team won the championship.",
+        "translation": "当地队赢得冠军时，整个城市都在庆祝。"
+      }
+    ]
+  },
+  {
+    "num": 474,
+    "word": "cell",
+    "chinese": "[n.] 细胞，小房间，电池",
+    "examples": [
+      {
+        "example": "The scientist observed the cancer cells under a microscope.",
+        "translation": "科学家在显微镜下观察癌细胞。"
+      },
+      {
+        "example": "The prisoner was confined to a small cell for 23 hours a day.",
+        "translation": "囚犯每天被关在一个小牢房里23小时。"
+      }
+    ]
+  },
+  {
+    "num": 475,
+    "word": "cent",
+    "chinese": "[n.] 分（货币单位）",
+    "examples": [
+      {
+        "example": "I found a cent on the ground and picked it up.",
+        "translation": "我在地上发现了一分钱并捡了起来。"
+      },
+      {
+        "example": "It costs fifty cents to make a phone call from the public telephone.",
+        "translation": "从公用电话打电话要花费五十分钱。"
+      }
+    ]
+  },
+  {
+    "num": 476,
+    "word": "center",
+    "chinese": "[n.] 中心；[vt.] 使集中；[vi.] 居中",
+    "examples": [
+      {
+        "example": "The city center was bustling with people and activity.",
+        "translation": "市中心人来人往，热闹非凡。"
+      },
+      {
+        "example": "The discussion centered on the issue of climate change.",
+        "translation": "讨论集中在气候变化的问题上。"
+      }
+    ]
+  },
+  {
+    "num": 477,
+    "word": "central",
+    "chinese": "[adj.] 中心的，主要的；[n.] 电话交换",
+    "examples": [
+      {
+        "example": "The central theme of the book is the conflict between love and duty.",
+        "translation": "这本书的中心主题是爱与责任之间的冲突。"
+      },
+      {
+        "example": "Please call the central office if you need assistance.",
+        "translation": "如果需要帮助，请打电话给总机。"
+      }
+    ]
+  },
+  {
+    "num": 478,
+    "word": "centre",
+    "chinese": "[n.] 中心；[vt.] 集中；[vi.] 居中",
+    "examples": [
+      {
+        "example": "The shopping centre was crowded with holiday shoppers.",
+        "translation": "购物中心挤满了节日购物者。"
+      },
+      {
+        "example": "The debate centred around the economy.",
+        "translation": "辩论集中在经济问题上。"
+      }
+    ]
+  },
+  {
+    "num": 479,
+    "word": "century",
+    "chinese": "[n.] 世纪",
+    "examples": [
+      {
+        "example": "The building was constructed in the 18th century.",
+        "translation": "这座建筑是在18世纪建造的。"
+      },
+      {
+        "example": "She lived through a century of change.",
+        "translation": "她经历了一个世纪的变迁。"
+      }
+    ]
+  },
+  {
+    "num": 480,
+    "word": "ceremony",
+    "chinese": "[n.] 典礼，仪式",
+    "examples": [
+      {
+        "example": "The opening ceremony of the Olympics is always a grand spectacle.",
+        "translation": "奥运会的开幕式总是一场盛大的景象。"
+      },
+      {
+        "example": "They held a small, private ceremony for their wedding.",
+        "translation": "他们举行了一个小型的私人婚礼仪式。"
+      }
+    ]
+  },
+  {
+    "num": 481,
+    "word": "certain",
+    "chinese": "[adj.] 确定的；[pron.] 某些",
+    "examples": [
+      {
+        "example": "It is certain that the sun will rise tomorrow.",
+        "translation": "太阳明天升起是确定无疑的。"
+      },
+      {
+        "example": "Only certain individuals have access to the classified information.",
+        "translation": "只有某些人能够获得这些机密信息。"
+      }
+    ]
+  },
+  {
+    "num": 482,
+    "word": "certainly",
+    "chinese": "[adv.] 当然，肯定",
+    "examples": [
+      {
+        "example": "I will certainly be there at 8 o'clock.",
+        "translation": "我肯定会在8点钟到那里。"
+      },
+      {
+        "example": "\"Can you help me?\" \"Certainly!\"",
+        "translation": "\"你能帮我吗？\" \"当然可以！\""
+      }
+    ]
+  },
+  {
+    "num": 483,
+    "word": "certainty",
+    "chinese": "[n.] 确定，确实的事情",
+    "examples": [
+      {
+        "example": "One thing is a certainty: change is inevitable.",
+        "translation": "有一件事是确定的：变化是不可避免的。"
+      },
+      {
+        "example": "With mathematical problems, there is often a single certainty of solution.",
+        "translation": "在数学问题中，通常有一个确定的解决方案。"
+      }
+    ]
+  },
+  {
+    "num": 484,
+    "word": "certificate",
+    "chinese": "[n.] 证书；[vt.] 发证书给...",
+    "examples": [
+      {
+        "example": "She received a certificate for completing the course.",
+        "translation": "她因完成课程而获得了证书。"
+      },
+      {
+        "example": "The course certificated him to teach English as a second language.",
+        "translation": "这个课程授予他教授英语作为第二语言的资格。"
+      }
+    ]
+  },
+  {
+    "num": 485,
+    "word": "chain",
+    "chinese": "[n.] 链条；[vt.] 用链条锁住",
+    "examples": [
+      {
+        "example": "The dog was kept outside, fastened to a chain.",
+        "translation": "狗被拴在外面，系在链条上。"
+      },
+      {
+        "example": "The prisoners were chained together as they were led into the court.",
+        "translation": "囚犯们被锁在一起，被带进法庭。"
+      }
+    ]
+  },
+  {
+    "num": 486,
+    "word": "chair",
+    "chinese": "[n.] 椅子；[vt.] 主持",
+    "examples": [
+      {
+        "example": "He pulled up a chair and sat down next to her.",
+        "translation": "他拉过一把椅子，坐在她旁边。"
+      },
+      {
+        "example": "She was asked to chair the committee meeting.",
+        "translation": "她被邀请主持委员会会议。"
+      }
+    ]
+  },
+  {
+    "num": 487,
+    "word": "chairman",
+    "chinese": "[n.] 主席",
+    "examples": [
+      {
+        "example": "The chairman of the board opened the meeting with a few remarks.",
+        "translation": "董事会主席以几句话开启了会议。"
+      },
+      {
+        "example": "As chairman, it was his responsibility to ensure the meeting ran smoothly.",
+        "translation": "作为主席，他有责任确保会议顺利进行。"
+      }
+    ]
+  },
+  {
+    "num": 488,
+    "word": "chalk",
+    "chinese": "[n.] 粉笔；[vt.] 用粉笔写",
+    "examples": [
+      {
+        "example": "The teacher wrote the equation on the board with chalk.",
+        "translation": "老师用粉笔在黑板上写下了方程。"
+      },
+      {
+        "example": "He chalked the cue before his shot in the pool game.",
+        "translation": "他在台球游戏中击球前给球杆上了粉。"
+      }
+    ]
+  },
+  {
+    "num": 489,
+    "word": "challenge",
+    "chinese": "[n.] 挑战；[vt.] 向...挑战",
+    "examples": [
+      {
+        "example": "Climbing Mount Everest is one of the greatest challenges for a mountaineer.",
+        "translation": "攀登珠穆朗玛峰是登山者最大的挑战之一。"
+      },
+      {
+        "example": "The opposition leader challenged the prime minister to a debate.",
+        "translation": "反对党领袖向首相发起了辩论挑战。"
+      }
+    ]
+  },
+  {
+    "num": 490,
+    "word": "chamber",
+    "chinese": "[n.] 房间，室；[vt.] 装入室中",
+    "examples": [
+      {
+        "example": "The king's private chamber was off-limits to all but his closest advisers.",
+        "translation": "国王的私人房间除了他最亲近的顾问外，任何人都不得进入。"
+      },
+      {
+        "example": "The bullet was chambered with a loud click.",
+        "translation": "子弹在一声响亮的点击声中装入了枪膛。"
+      }
+    ]
+  },
+  {
+    "num": 491,
+    "word": "champion",
+    "chinese": "[n.] 冠军；[vt.] 拥护",
+    "examples": [
+      {
+        "example": "She is the world champion in women's tennis.",
+        "translation": "她是女子网球世界冠军。"
+      },
+      {
+        "example": "He has always championed the rights of the underprivileged.",
+        "translation": "他一直拥护弱势群体的权利。"
+      }
+    ]
+  },
+  {
+    "num": 492,
+    "word": "chance",
+    "chinese": "[n.] 机会，可能性；[vt.] 冒险；[vi.] 偶然发生",
+    "examples": [
+      {
+        "example": "There's a good chance of rain tomorrow.",
+        "translation": "明天有很大的可能会下雨。"
+      },
+      {
+        "example": "Let's chance a walk in the woods, even though it might rain.",
+        "translation": "即使可能会下雨，我们还是冒险去树林里走走。"
+      }
+    ]
+  },
+  {
+    "num": 493,
+    "word": "change",
+    "chinese": "[n.] 变化；[vt.] 改变；[vi.] 变化",
+    "examples": [
+      {
+        "example": "The seasons change, bringing new weather patterns.",
+        "translation": "季节变化，带来新的天气模式。"
+      },
+      {
+        "example": "She changed her name when she got married.",
+        "translation": "她结婚时改了名字。"
+      }
+    ]
+  },
+  {
+    "num": 494,
+    "word": "channel",
+    "chinese": "[n.] 渠道，频道；[vt.] 引导",
+    "examples": [
+      {
+        "example": "The English Channel separates England from France.",
+        "translation": "英吉利海峡将英格兰与法国分开。"
+      },
+      {
+        "example": "The company is looking for new channels of distribution for its products.",
+        "translation": "公司正在寻找其产品的新的分销渠道。"
+      }
+    ]
+  },
+  {
+    "num": 495,
+    "word": "chapter",
+    "chinese": "[n.] 章，回",
+    "examples": [
+      {
+        "example": "Each chapter of the book was more exciting than the last.",
+        "translation": "这本书的每一章都比上一章更令人兴奋。"
+      },
+      {
+        "example": "The bankruptcy marked a sad chapter in the company's history.",
+        "translation": "破产标志着公司历史上一个悲伤的篇章。"
+      }
+    ]
+  },
+  {
+    "num": 496,
+    "word": "character",
+    "chinese": "[n.] 性格，角色；[adj.] 代表某一特性的",
+    "examples": [
+      {
+        "example": "Honesty is an important character trait.",
+        "translation": "诚实是一个重要的性格特征。"
+      },
+      {
+        "example": "He played the character of the villain in the play.",
+        "translation": "他在剧中扮演了反派角色。"
+      }
+    ]
+  },
+  {
+    "num": 497,
+    "word": "characteristic",
+    "chinese": "[adj.] 特有的；[n.] 特性",
+    "examples": [
+      {
+        "example": "She spoke with the characteristic enthusiasm of a salesperson.",
+        "translation": "她带着销售人员特有的热情说话。"
+      },
+      {
+        "example": "One of the key characteristics of mammals is that they have warm blood.",
+        "translation": "哺乳动物的关键特征之一是他们有温血。"
+      }
+    ]
+  },
+  {
+    "num": 498,
+    "word": "charge",
+    "chinese": "[n.] 费用，责任；[vt.] 索价，控告；[vi.] 充电",
+    "examples": [
+      {
+        "example": "The restaurant didn't charge us for the dessert.",
+        "translation": "餐厅没有向我们收甜点的费用。"
+      },
+      {
+        "example": "The police charged him with speeding.",
+        "translation": "警方指控他超速。"
+      }
+    ]
+  },
+  {
+    "num": 499,
+    "word": "chart",
+    "chinese": "[n.] 图，图表，海图；[vt.] 制成图表",
+    "examples": [
+      {
+        "example": "The teacher used a chart to explain the statistics.",
+        "translation": "老师用一张图表来解释统计数据。"
+      },
+      {
+        "example": "We charted our course on the map before setting out on the journey.",
+        "translation": "我们在出发前在地图上规划了我们的路线。"
+      }
+    ]
+  },
+  {
+    "num": 500,
+    "word": "chase",
+    "chinese": "[n.] 追逐，追赶，追求，狩猎，争取；[vt.] 追捕，狩猎",
+    "examples": [
+      {
+        "example": "The police chase ended with the capture of the fugitive.",
+        "translation": "警察追捕以逃犯的抓捕告终。"
+      },
+      {
+        "example": "The lioness chased the antelope across the savannah.",
+        "translation": "母狮在草原上追赶羚羊。"
+      }
+    ]
+  },
+  {
+    "num": 501,
+    "word": "cheap",
+    "chinese": "[adj.] 廉价的，便宜的，劣质的，品质低的，虚伪的；[adv.] 便宜地",
+    "examples": [
+      {
+        "example": "I bought a cheap shirt from the discount rack.",
+        "translation": "我从打折架上买了一件便宜的衬衫。"
+      },
+      {
+        "example": "He sold out his friend for a cheap profit.",
+        "translation": "他为了一点微薄的利润出卖了他的朋友。"
+      }
+    ]
+  },
+  {
+    "num": 502,
+    "word": "cheat",
+    "chinese": "[n.] 骗子，欺骗行为；[vt.] 骗取，哄，作弊；[vi.] 行骗，作弊",
+    "examples": [
+      {
+        "example": "He was known as a cheat after he was caught plagiarizing.",
+        "translation": "他被抓到剽窃后，被认为是个骗子。"
+      },
+      {
+        "example": "Students who cheat on exams risk failing the course.",
+        "translation": "在考试中作弊的学生有不及格的风险。"
+      }
+    ]
+  },
+  {
+    "num": 503,
+    "word": "check",
+    "chinese": "[vt.] 检查，制止，阻止，核对",
+    "examples": [
+      {
+        "example": "Please check your answers before submitting the test.",
+        "translation": "请在提交试卷前检查你的答案。"
+      },
+      {
+        "example": "The government introduced new laws to check the spread of the disease.",
+        "translation": "政府引入了新法律以阻止疾病的传播。"
+      }
+    ]
+  },
+  {
+    "num": 504,
+    "word": "cheek",
+    "chinese": "[n.] 面颊，脸蛋",
+    "examples": [
+      {
+        "example": "Her cheeks turned red with embarrassment.",
+        "translation": "她的脸颊因尴尬而变红。"
+      },
+      {
+        "example": "He kissed her on the cheek as a friendly gesture.",
+        "translation": "他亲吻她的脸颊作为友好的表示。"
+      }
+    ]
+  },
+  {
+    "num": 505,
+    "word": "cheer",
+    "chinese": "[n.] 愉快，激励，欢呼；[vt.] 欢呼，加油，鼓舞，快活起来；[vi.] 使振奋欢呼",
+    "examples": [
+      {
+        "example": "The crowd's cheer lifted the team's spirit.",
+        "translation": "人群的欢呼提升了团队的士气。"
+      },
+      {
+        "example": "We cheered on our friends as they ran the marathon.",
+        "translation": "我们为参加马拉松的朋友们加油。"
+      }
+    ]
+  },
+  {
+    "num": 506,
+    "word": "cheerful",
+    "chinese": "[adj.] 快乐的，愉快的",
+    "examples": [
+      {
+        "example": "She has a cheerful disposition that's contagious.",
+        "translation": "她有一种会传染的愉快性情。"
+      },
+      {
+        "example": "The cheerful music made everyone feel better.",
+        "translation": "欢快的音乐让每个人都感觉更好。"
+      }
+    ]
+  },
+  {
+    "num": 507,
+    "word": "cheese",
+    "chinese": "[n.] 乳酪；[vt.] 停止",
+    "examples": [
+      {
+        "example": "I love adding cheese to my pasta.",
+        "translation": "我喜欢在意大利面里加乳酪。"
+      },
+      {
+        "example": "The director yelled \"cheese it\" when the police arrived on set.",
+        "translation": "当警察到达片场时，导演喊道“停止”。"
+      }
+    ]
+  },
+  {
+    "num": 508,
+    "word": "chemical",
+    "chinese": "[adj.] 化学的；[n.] 化学制品",
+    "examples": [
+      {
+        "example": "The chemical reaction produced a lot of heat.",
+        "translation": "化学反应产生了大量的热。"
+      },
+      {
+        "example": "We store all the chemicals in a secure cabinet.",
+        "translation": "我们将所有化学品存放在一个安全的柜子里。"
+      }
+    ]
+  },
+  {
+    "num": 509,
+    "word": "chemist",
+    "chinese": "[n.] 化学家，药剂师",
+    "examples": [
+      {
+        "example": "The chemist is working on a new compound in the lab.",
+        "translation": "化学家正在实验室研究一种新的化合物。"
+      },
+      {
+        "example": "I need to visit the chemist to fill my prescription.",
+        "translation": "我需要去药剂师那里配药。"
+      }
+    ]
+  },
+  {
+    "num": 510,
+    "word": "chemistry",
+    "chinese": "[n.] 化学，化学性质，相互作用",
+    "examples": [
+      {
+        "example": "She has a degree in chemistry from a prestigious university.",
+        "translation": "她拥有一所著名大学的化学学位。"
+      },
+      {
+        "example": "There's a lot of chemistry between those two; they're always laughing together.",
+        "translation": "那两个人之间的相互作用很强；他们总是一起笑。"
+      }
+    ]
+  },
+  {
+    "num": 511,
+    "word": "cheque",
+    "chinese": "[n.] 支票",
+    "examples": [
+      {
+        "example": "I received a cheque for my birthday from my grandparents.",
+        "translation": "我从祖父母那里收到了一张生日支票。"
+      },
+      {
+        "example": "Please make the cheque payable to \"ABC Charity.\"",
+        "translation": "请将支票抬头写作“ABC慈善机构”。"
+      }
+    ]
+  },
+  {
+    "num": 512,
+    "word": "cherry",
+    "chinese": "[n.] 樱桃，樱桃树，樱桃色",
+    "examples": [
+      {
+        "example": "Fresh cherry pie is my favorite dessert.",
+        "translation": "新鲜的樱桃派是我最喜欢的甜点。"
+      },
+      {
+        "example": "The cherry blossoms in spring are a beautiful sight.",
+        "translation": "春天的樱花是一道美丽的风景。"
+      }
+    ]
+  },
+  {
+    "num": 513,
+    "word": "chess",
+    "chinese": "[n.] 棋，国际象棋",
+    "examples": [
+      {
+        "example": "Chess is a game that requires strategic thinking.",
+        "translation": "国际象棋是一种需要战略思考的游戏。"
+      },
+      {
+        "example": "They sat down to play a game of chess in the park.",
+        "translation": "他们坐下在公园里下了一盘棋。"
+      }
+    ]
+  },
+  {
+    "num": 514,
+    "word": "chest",
+    "chinese": "[n.] 胸腔，胸膛；(大)箱子，金库，资金，一箱，密封室：衣橱",
+    "examples": [
+      {
+        "example": "He felt a sharp pain in his chest.",
+        "translation": "他感到胸口剧痛。"
+      },
+      {
+        "example": "The old chest was filled with ancient treasures.",
+        "translation": "那个旧箱子里装满了古老的宝藏。"
+      }
+    ]
+  },
+  {
+    "num": 515,
+    "word": "chew",
+    "chinese": "[vt.] 咀嚼，嚼碎；[vi.] 咀嚼；[n.] 咀嚼，咀嚼物",
+    "examples": [
+      {
+        "example": "You should chew your food well before swallowing.",
+        "translation": "你应该在吞咽前好好咀嚼食物。"
+      },
+      {
+        "example": "The dog loves to chew on his rubber bone.",
+        "translation": "那只狗喜欢咀嚼它的橡胶骨头。"
+      }
+    ]
+  },
+  {
+    "num": 516,
+    "word": "chicken",
+    "chinese": "[n.] 小鸡，小鸟，鸡肉；[adj.] 懦弱的，胆小的",
+    "examples": [
+      {
+        "example": "We're having chicken for dinner tonight.",
+        "translation": "我们今晚晚餐吃鸡肉。"
+      },
+      {
+        "example": "Don't be such a chicken; just try the roller coaster!",
+        "translation": "别那么胆小；试试过山车吧！"
+      }
+    ]
+  },
+  {
+    "num": 517,
+    "word": "chief",
+    "chinese": "[adj.] 主要的，首席的；[n.] 首领",
+    "examples": [
+      {
+        "example": "The chief reason for the delay was the bad weather.",
+        "translation": "延误的主要原因是恶劣的天气。"
+      },
+      {
+        "example": "The chief of the tribe spoke at the council meeting.",
+        "translation": "部落首领在理事会会议上发言。"
+      }
+    ]
+  },
+  {
+    "num": 518,
+    "word": "child",
+    "chinese": "[n.] 小孩，儿童，儿子，产物",
+    "examples": [
+      {
+        "example": "Every child in the school was given a book.",
+        "translation": "学校里的每个孩子都得到了一本书。"
+      },
+      {
+        "example": "Creativity is often seen as the child of freedom.",
+        "translation": "创造力常被视为自由的产物。"
+      }
+    ]
+  },
+  {
+    "num": 519,
+    "word": "childhood",
+    "chinese": "[n.] 童年，幼年，早期",
+    "examples": [
+      {
+        "example": "Her childhood was spent in the countryside.",
+        "translation": "她的童年在乡下度过。"
+      },
+      {
+        "example": "Childhood memories often last a lifetime.",
+        "translation": "童年的记忆往往会持续一生。"
+      }
+    ]
+  },
+  {
+    "num": 520,
+    "word": "chimney",
+    "chinese": "[n.] 烟囱，烟筒，玻璃罩",
+    "examples": [
+      {
+        "example": "Smoke billowed from the chimney of the old house.",
+        "translation": "烟雾从老房子的烟囱中冒出。"
+      },
+      {
+        "example": "Santa Claus is said to come down the chimney on Christmas Eve.",
+        "translation": "据说圣诞老人在平安夜会从烟囱下来。"
+      }
+    ]
+  },
+  {
+    "num": 521,
+    "word": "chin",
+    "chinese": "[n.] 下巴；[vt.] 做单杠；[vi.] 作引体向上，聊天",
+    "examples": [
+      {
+        "example": "He stroked his chin thoughtfully.",
+        "translation": "他若有所思地抚摸着下巴。"
+      },
+      {
+        "example": "The athletes had to chin themselves ten times during the test.",
+        "translation": "运动员在测试中必须做十次引体向上。"
+      }
+    ]
+  },
+  {
+    "num": 522,
+    "word": "China",
+    "chinese": "[n.] 中国",
+    "examples": [
+      {
+        "example": "The Great Wall is one of the most famous landmarks in China.",
+        "translation": "长城是中国最著名的地标之一。"
+      },
+      {
+        "example": "Tea culture has a long history in China.",
+        "translation": "茶文化在中国有着悠久的历史。"
+      }
+    ]
+  },
+  {
+    "num": 523,
+    "word": "Chinese",
+    "chinese": "[adj.] 中国的；[n.] 中国人，汉语",
+    "examples": [
+      {
+        "example": "Chinese cuisine is loved by many people around the world.",
+        "translation": "中国菜受到世界各地许多人的喜爱。"
+      },
+      {
+        "example": "She is learning Chinese at the language school.",
+        "translation": "她在语言学校学习汉语。"
+      }
+    ]
+  },
+  {
+    "num": 524,
+    "word": "chocolate",
+    "chinese": "[n.] 巧克力，巧克力糖，巧克力饮品；[adj.] 巧克力的，有巧克力糖衣的，巧克力色的",
+    "examples": [
+      {
+        "example": "I have a weakness for dark chocolate.",
+        "translation": "我对黑巧克力情有独钟。"
+      },
+      {
+        "example": "She ordered a hot chocolate to warm up.",
+        "translation": "她点了一杯热巧克力来暖身。"
+      }
+    ]
+  },
+  {
+    "num": 525,
+    "word": "choice",
+    "chinese": "[n.] 选择，挑选，抉择；[adj.] 上等的，精选的",
+    "examples": [
+      {
+        "example": "You have a choice between tea and coffee.",
+        "translation": "你可以在茶和咖啡之间选择。"
+      },
+      {
+        "example": "This restaurant is known for its choice cuts of meat.",
+        "translation": "这家餐厅以其上等的肉类切片而闻名。"
+      }
+    ]
+  },
+  {
+    "num": 526,
+    "word": "choose",
+    "chinese": "[vt.] 选择，挑选；[vi.] 选择",
+    "examples": [
+      {
+        "example": "Please choose the best answer to each question.",
+        "translation": "请为每个问题选择最佳答案。"
+      },
+      {
+        "example": "You can choose to stay or leave; it's up to you.",
+        "translation": "你可以选择留下或离开；由你决定。"
+      }
+    ]
+  },
+  {
+    "num": 527,
+    "word": "Christmas",
+    "chinese": "[n.] 圣诞节",
+    "examples": [
+      {
+        "example": "Children look forward to Christmas all year.",
+        "translation": "孩子们一整年都在期待圣诞节。"
+      },
+      {
+        "example": "We decorate the house with lights and ornaments for Christmas.",
+        "translation": "我们用灯饰和装饰品来装点房子庆祝圣诞节。"
+      }
+    ]
+  },
+  {
+    "num": 528,
+    "word": "church",
+    "chinese": "[n.] 教堂，礼拜堂，礼拜仪式，基督教徒，教会；[adj.] 教堂的；[vt.] 把...带到教堂接受某种宗教仪式",
+    "examples": [
+      {
+        "example": "They got married in a small church in the countryside.",
+        "translation": "他们在乡下的一座小教堂里结婚。"
+      },
+      {
+        "example": "The church bells ring every Sunday morning.",
+        "translation": "教堂的钟声每个星期日早上都会响起。"
+      }
+    ]
+  },
+  {
+    "num": 529,
+    "word": "cigarette",
+    "chinese": "[n.] 香烟，纸烟，卷烟",
+    "examples": [
+      {
+        "example": "Smoking a cigarette can harm your health.",
+        "translation": "吸烟可能会损害你的健康。"
+      },
+      {
+        "example": "He lit a cigarette and inhaled deeply.",
+        "translation": "他点燃了一支香烟，深深地吸了一口。"
+      }
+    ]
+  },
+  {
+    "num": 530,
+    "word": "cinema",
+    "chinese": "[n.] 电影院，电影，影片",
+    "examples": [
+      {
+        "example": "Let's go to the cinema to watch the latest blockbuster.",
+        "translation": "我们去电影院看最新的大片吧。"
+      },
+      {
+        "example": "The golden age of Italian cinema produced many classics.",
+        "translation": "意大利电影的黄金时代产生了许多经典作品。"
+      }
+    ]
+  },
+  {
+    "num": 531,
+    "word": "circle",
+    "chinese": "[n.] 圆，圆周，圈子，社交圈，循环；[vt. & vi.] 包围，盘旋，环绕",
+    "examples": [
+      {
+        "example": "Draw a circle on the paper.",
+        "translation": "在纸上画一个圆。"
+      },
+      {
+        "example": "The plane circled the airport before landing.",
+        "translation": "飞机在降落前绕机场盘旋。"
+      }
+    ]
+  },
+  {
+    "num": 532,
+    "word": "circumstance",
+    "chinese": "[n.] 情况，条件，境遇，环境；[pl.] 境况，事件，详情",
+    "examples": [
+      {
+        "example": "Under no circumstance should you open this door.",
+        "translation": "在任何情况下你都不应该打开这扇门。"
+      },
+      {
+        "example": "The police are investigating the circumstances of the accident.",
+        "translation": "警方正在调查事故的具体情况。"
+      }
+    ]
+  },
+  {
+    "num": 533,
+    "word": "citizen",
+    "chinese": "[n.] 公民，市民，居民",
+    "examples": [
+      {
+        "example": "Every citizen has the right to vote.",
+        "translation": "每个公民都有投票权。"
+      },
+      {
+        "example": "As a responsible citizen, he always pays his taxes on time.",
+        "translation": "作为一个负责任的公民，他总是按时缴税。"
+      }
+    ]
+  },
+  {
+    "num": 534,
+    "word": "city",
+    "chinese": "[n.] 城市，都市",
+    "examples": [
+      {
+        "example": "New York is a city that never sleeps.",
+        "translation": "纽约是一个不夜城。"
+      },
+      {
+        "example": "The city council approved the new building project.",
+        "translation": "市议会批准了新的建筑项目。"
+      }
+    ]
+  },
+  {
+    "num": 535,
+    "word": "civil",
+    "chinese": "[adj.] 国内的，公民的，文职的，文明的，有礼貌的，民用的",
+    "examples": [
+      {
+        "example": "Civil unrest can lead to social change.",
+        "translation": "国内动乱可以导致社会变革。"
+      },
+      {
+        "example": "It's important to remain civil during a debate.",
+        "translation": "在辩论中保持礼貌是很重要的。"
+      }
+    ]
+  },
+  {
+    "num": 536,
+    "word": "civilize",
+    "chinese": "[vt.] 使文明，教育",
+    "examples": [
+      {
+        "example": "The explorers believed it was their duty to civilize the indigenous people.",
+        "translation": "探险家们认为他们有责任教化当地人。"
+      },
+      {
+        "example": "The process to civilize the remote regions took many years.",
+        "translation": "使偏远地区文明化的过程花了很多年。"
+      }
+    ]
+  },
+  {
+    "num": 537,
+    "word": "claim",
+    "chinese": "[v.] 要求，请求，声称；[n.] 要求，主张",
+    "examples": [
+      {
+        "example": "He claims that he saw a UFO last night.",
+        "translation": "他声称他昨晚看到了一个不明飞行物。"
+      },
+      {
+        "example": "The insurance company is processing my claim for the car accident.",
+        "translation": "保险公司正在处理我因车祸提出的索赔。"
+      }
+    ]
+  },
+  {
+    "num": 538,
+    "word": "clap",
+    "chinese": "[v.] 拍手，砰地一声；[n.] 拍手，拍手声",
+    "examples": [
+      {
+        "example": "The audience clapped enthusiastically after the performance.",
+        "translation": "演出结束后，观众热烈鼓掌。"
+      },
+      {
+        "example": "A sudden clap of thunder startled everyone in the room.",
+        "translation": "一声突如其来的雷声吓了屋内的每个人一跳。"
+      }
+    ]
+  },
+  {
+    "num": 539,
+    "word": "class",
+    "chinese": "[n.] 班级，阶级，种类；[v.] 分类",
+    "examples": [
+      {
+        "example": "She is the top student in her class.",
+        "translation": "她是她班上的顶尖学生。"
+      },
+      {
+        "example": "We need to class these books according to genre.",
+        "translation": "我们需要按照类型对这些书进行分类。"
+      }
+    ]
+  },
+  {
+    "num": 540,
+    "word": "classical",
+    "chinese": "[adj.] 古典的，经典的",
+    "examples": [
+      {
+        "example": "I enjoy listening to classical music in my free time.",
+        "translation": "空闲时间我喜欢听古典音乐。"
+      },
+      {
+        "example": "The building's architecture has a classical elegance.",
+        "translation": "这座建筑的建筑风格具有古典的优雅。"
+      }
+    ]
+  },
+  {
+    "num": 541,
+    "word": "classify",
+    "chinese": "[v.] 把...分类，归类",
+    "examples": [
+      {
+        "example": "Scientists classify animals into different groups.",
+        "translation": "科学家们将动物分成不同的群组。"
+      },
+      {
+        "example": "We need to classify these documents by their level of importance.",
+        "translation": "我们需要按照文件的重要性对它们进行分类。"
+      }
+    ]
+  },
+  {
+    "num": 542,
+    "word": "classmate",
+    "chinese": "[n.] 同班同学",
+    "examples": [
+      {
+        "example": "She shared her notes with a classmate who had missed the lecture.",
+        "translation": "她与没听讲座的同班同学分享了她的笔记。"
+      },
+      {
+        "example": "My classmate and I are working on a project together.",
+        "translation": "我和我的同班同学正在一起做一个项目。"
+      }
+    ]
+  },
+  {
+    "num": 543,
+    "word": "classroom",
+    "chinese": "[n.] 教室，课堂",
+    "examples": [
+      {
+        "example": "The teacher decorated the classroom with posters and artwork.",
+        "translation": "老师用海报和艺术作品装饰教室。"
+      },
+      {
+        "example": "Students were talking loudly before the teacher entered the classroom.",
+        "translation": "在老师进教室之前，学生们在大声交谈。"
+      }
+    ]
+  },
+  {
+    "num": 544,
+    "word": "claw",
+    "chinese": "[n.] 爪，钳；[v.] 抓，撕",
+    "examples": [
+      {
+        "example": "The cat sharpened its claws on the scratching post.",
+        "translation": "猫在抓 scratching post 上磨爪子。"
+      },
+      {
+        "example": "The eagle clawed at its prey before flying off.",
+        "translation": "老鹰抓住猎物后飞走了。"
+      }
+    ]
+  },
+  {
+    "num": 545,
+    "word": "clay",
+    "chinese": "[n.] 粘土，泥土",
+    "examples": [
+      {
+        "example": "Artists use clay to make sculptures and pottery.",
+        "translation": "艺术家使用粘土制作雕塑和陶器。"
+      },
+      {
+        "example": "The heavy rain turned the soil into wet clay.",
+        "translation": "大雨使土壤变成了湿粘土。"
+      }
+    ]
+  },
+  {
+    "num": 546,
+    "word": "clean",
+    "chinese": "[adj.] 清洁的；[adv.] 完全地；[v.] 打扫",
+    "examples": [
+      {
+        "example": "Please keep your hands clean before handling food.",
+        "translation": "在处理食物之前，请保持双手清洁。"
+      },
+      {
+        "example": "He cleaned the room so thoroughly that it looked brand new.",
+        "translation": "他彻底清洁了房间，看起来像新的一样。"
+      }
+    ]
+  },
+  {
+    "num": 547,
+    "word": "clear",
+    "chinese": "[adj.] 清晰的；[v.] 清除，澄清；[adv.] 清楚地；[n.] 空地",
+    "examples": [
+      {
+        "example": "The instructions were clear and easy to follow.",
+        "translation": "说明清晰易懂。"
+      },
+      {
+        "example": "After the rain, the skies cleared up.",
+        "translation": "雨后天空放晴了。"
+      }
+    ]
+  },
+  {
+    "num": 548,
+    "word": "clerk",
+    "chinese": "[n.] 店员，办事员",
+    "examples": [
+      {
+        "example": "The clerk at the front desk greeted us with a smile.",
+        "translation": "前台的店员微笑着迎接我们。"
+      },
+      {
+        "example": "She works as a clerk in a law firm downtown.",
+        "translation": "她在市中心的一家律师事务所当店员。"
+      }
+    ]
+  },
+  {
+    "num": 549,
+    "word": "clever",
+    "chinese": "[adj.] 聪明的，机敏的",
+    "examples": [
+      {
+        "example": "The child was clever enough to solve the puzzle quickly.",
+        "translation": "这个孩子很聪明，很快就解开了这个谜。"
+      },
+      {
+        "example": "He thought of a clever solution to the problem.",
+        "translation": "他想到了一个聪明的解决办法。"
+      }
+    ]
+  },
+  {
+    "num": 550,
+    "word": "cliff",
+    "chinese": "[n.] 悬崖，峭壁",
+    "examples": [
+      {
+        "example": "The climber carefully made his way up the steep cliff.",
+        "translation": "攀登者小心翼翼地沿着陡峭的悬崖向上攀爬。"
+      },
+      {
+        "example": "The house was built on the edge of a cliff overlooking the sea.",
+        "translation": "这所房子建在俯瞰大海的悬崖边上。"
+      }
+    ]
+  },
+  {
+    "num": 551,
+    "word": "climate",
+    "chinese": "[n.] 气候",
+    "examples": [
+      {
+        "example": "The Mediterranean climate is known for its mild, wet winters and hot, dry summers.",
+        "translation": "地中海气候以其温和湿润的冬季和炎热干燥的夏季而闻名。"
+      },
+      {
+        "example": "Climate change is a serious issue that affects the entire planet.",
+        "translation": "气候变化是一个影响整个地球的严重问题。"
+      }
+    ]
+  },
+  {
+    "num": 552,
+    "word": "climb",
+    "chinese": "[v.] 攀登；[n.] 攀登",
+    "examples": [
+      {
+        "example": "We are planning to climb Mount Everest next year.",
+        "translation": "我们计划明年攀登珠穆朗玛峰。"
+      },
+      {
+        "example": "The climb was difficult, but the view from the top was worth it.",
+        "translation": "攀登很困难，但从顶部看的景色是值得的。"
+      }
+    ]
+  },
+  {
+    "num": 553,
+    "word": "clock",
+    "chinese": "[n.] 时钟，计时器",
+    "examples": [
+      {
+        "example": "The clock on the wall is ten minutes fast.",
+        "translation": "墙上的时钟快了十分钟。"
+      },
+      {
+        "example": "He looked at the clock and realized he was late for his appointment.",
+        "translation": "他看了看时钟，意识到他迟到了。"
+      }
+    ]
+  },
+  {
+    "num": 554,
+    "word": "close",
+    "chinese": "[v.] 关闭，结束；[adj.] 靠近的；[adv.] 紧挨着；[n.] 结束",
+    "examples": [
+      {
+        "example": "Please close the door when you leave the room.",
+        "translation": "离开房间时请关上门。"
+      },
+      {
+        "example": "They have a close relationship with their grandparents.",
+        "translation": "他们和祖父母的关系很亲近。"
+      }
+    ]
+  },
+  {
+    "num": 555,
+    "word": "cloth",
+    "chinese": "[n.] 布，衣料",
+    "examples": [
+      {
+        "example": "She bought a piece of cloth to make a new dress.",
+        "translation": "她买了一块布来做一条新裙子。"
+      },
+      {
+        "example": "The table was covered with a white cloth.",
+        "translation": "桌子上铺着一块白布。"
+      }
+    ]
+  },
+  {
+    "num": 556,
+    "word": "clothe",
+    "chinese": "[v.] 给...穿衣服，覆盖",
+    "examples": [
+      {
+        "example": "Parents must clothe and feed their children.",
+        "translation": "父母必须给孩子们穿衣和喂食。"
+      },
+      {
+        "example": "The mountain was clothed in a blanket of snow.",
+        "translation": "山被一层雪覆盖。"
+      }
+    ]
+  },
+  {
+    "num": 557,
+    "word": "clothes",
+    "chinese": "[n.] 衣服",
+    "examples": [
+      {
+        "example": "She put away her summer clothes and took out her winter wardrobe.",
+        "translation": "她收起了夏天的衣服，拿出了冬天的衣橱。"
+      },
+      {
+        "example": "You should change into dry clothes to avoid catching a cold.",
+        "translation": "你应该换上干净的衣服，以免感冒。"
+      }
+    ]
+  },
+  {
+    "num": 558,
+    "word": "cloud",
+    "chinese": "[n.] 云；[v.] 使模糊，笼罩",
+    "examples": [
+      {
+        "example": "The sky is full of white fluffy clouds today.",
+        "translation": "今天天空中充满了白色的蓬松云朵。"
+      },
+      {
+        "example": "His judgment was clouded by his emotions.",
+        "translation": "他的判断被情感所模糊。"
+      }
+    ]
+  },
+  {
+    "num": 559,
+    "word": "club",
+    "chinese": "[n.] 俱乐部，夜总会；[v.] 用棍棒打，集合",
+    "examples": [
+      {
+        "example": "She is a member of a book club where they discuss new novels.",
+        "translation": "她是一个读书俱乐部的成员，在那里他们讨论新小说。"
+      },
+      {
+        "example": "They clubbed together to buy a gift for their teacher.",
+        "translation": "他们合伙买了一份礼物给老师。"
+      }
+    ]
+  },
+  {
+    "num": 560,
+    "word": "clue",
+    "chinese": "[n.] 线索；[v.] 提示",
+    "examples": [
+      {
+        "example": "The detective found a clue that might lead to the culprit.",
+        "translation": "侦探找到了一个可能指向罪犯的线索。"
+      },
+      {
+        "example": "Can you give me a clue about the answer to this puzzle?",
+        "translation": "你能给我一个关于这个谜底的提示吗？"
+      }
+    ]
+  },
+  {
+    "num": 561,
+    "word": "coal",
+    "chinese": "[n.] 煤；[v.] 装煤，加煤",
+    "examples": [
+      {
+        "example": "Coal is still used as a fuel in some parts of the world.",
+        "translation": "在世界的某些地方，煤炭仍然被用作燃料。"
+      },
+      {
+        "example": "The workers coaled the furnace to keep the steam engine running.",
+        "translation": "工人们给炉子加煤以保持蒸汽机的运转。"
+      }
+    ]
+  },
+  {
+    "num": 562,
+    "word": "coarse",
+    "chinese": "[adj.] 粗糙的，粗俗的",
+    "examples": [
+      {
+        "example": "Coarse sandpaper is used for the first stage of sanding.",
+        "translation": "粗砂纸用于打磨的第一阶段。"
+      },
+      {
+        "example": "His coarse language made her feel uncomfortable.",
+        "translation": "他粗俗的语言让她感到不舒服。"
+      }
+    ]
+  },
+  {
+    "num": 563,
+    "word": "coast",
+    "chinese": "[n.] 海岸；[v.] 沿海岸而行，滑行",
+    "examples": [
+      {
+        "example": "We spent our vacation on the beautiful coast of Italy.",
+        "translation": "我们在意大利美丽的海岸度过了假期。"
+      },
+      {
+        "example": "After reaching the top of the hill, he just coasted down on his bike.",
+        "translation": "到达山顶后，他只是让自行车滑下来。"
+      }
+    ]
+  },
+  {
+    "num": 564,
+    "word": "coat",
+    "chinese": "[n.] 外套，涂层；[v.] 覆盖",
+    "examples": [
+      {
+        "example": "It's cold outside, so don't forget to wear a coat.",
+        "translation": "外面很冷，所以别忘了穿外套。"
+      },
+      {
+        "example": "The baker coated the cake with chocolate icing.",
+        "translation": "烘焙师给蛋糕涂上了巧克力糖霜。"
+      }
+    ]
+  },
+  {
+    "num": 565,
+    "word": "cock",
+    "chinese": "[n.] 公鸡；[v.] 竖起",
+    "examples": [
+      {
+        "example": "The cock crowed at dawn.",
+        "translation": "公鸡在黎明时啼鸣。"
+      },
+      {
+        "example": "He cocked his hat to one side with a defiant attitude.",
+        "translation": "他以一种挑衅的态度将帽子歪戴在一边。"
+      }
+    ]
+  },
+  {
+    "num": 566,
+    "word": "coffee",
+    "chinese": "[n.] 咖啡",
+    "examples": [
+      {
+        "example": "Would you like some coffee in the morning?",
+        "translation": "早上你想喝点咖啡吗？"
+      },
+      {
+        "example": "I need to stop drinking coffee late at night; it keeps me awake.",
+        "translation": "我需要停止在深夜喝咖啡，它让我保持清醒。"
+      }
+    ]
+  },
+  {
+    "num": 567,
+    "word": "coin",
+    "chinese": "[n.] 硬币；[v.] 铸造（硬币），创造",
+    "examples": [
+      {
+        "example": "He found an old coin in the garden.",
+        "translation": "他在花园里发现了一枚古老的硬币。"
+      },
+      {
+        "example": "The phrase \"to coin a term\" means to create a new word or phrase.",
+        "translation": "“创造一个术语”的意思是创造一个新词或短语。"
+      }
+    ]
+  },
+  {
+    "num": 568,
+    "word": "cold",
+    "chinese": "[adj.] 冷的；[n.] 寒冷，感冒",
+    "examples": [
+      {
+        "example": "It's very cold outside; make sure to bundle up.",
+        "translation": "外面很冷；确保穿暖和。"
+      },
+      {
+        "example": "I caught a cold and now I can't stop sneezing.",
+        "translation": "我感冒了，现在我停不下来打喷嚏。"
+      }
+    ]
+  },
+  {
+    "num": 569,
+    "word": "collar",
+    "chinese": "[n.] 衣领，项圈；[v.] 抓住",
+    "examples": [
+      {
+        "example": "He grabbed the dog by its collar.",
+        "translation": "他抓住了狗的项圈。"
+      },
+      {
+        "example": "The police collared the suspect as he tried to flee.",
+        "translation": "警察在嫌疑人试图逃跑时抓住了他。"
+      }
+    ]
+  },
+  {
+    "num": 570,
+    "word": "colleague",
+    "chinese": "[n.] 同事",
+    "examples": [
+      {
+        "example": "I'm going to lunch with a colleague from the marketing department.",
+        "translation": "我要和市场部的一个同事一起去吃午饭。"
+      },
+      {
+        "example": "She discussed the project with her colleagues before presenting it.",
+        "translation": "她在展示之前与同事讨论了这个项目。"
+      }
+    ]
+  },
+  {
+    "num": 571,
+    "word": "collect",
+    "chinese": "[v.] 收集，聚集；[adj. & adv.] 对方付费",
+    "examples": [
+      {
+        "example": "He collects stamps as a hobby.",
+        "translation": "他的爱好是收集邮票。"
+      },
+      {
+        "example": "The call is collect, so the charges will be on the recipient's bill.",
+        "translation": "这个电话是对方付费的，所以费用将计在接收人的账单上。"
+      }
+    ]
+  },
+  {
+    "num": 572,
+    "word": "collection",
+    "chinese": "[n.] 收集，集合",
+    "examples": [
+      {
+        "example": "The museum has an impressive collection of modern art.",
+        "translation": "这家博物馆有一批令人印象深刻的现代艺术藏品。"
+      },
+      {
+        "example": "She added the new novel to her book collection.",
+        "translation": "她将新小说加入她的书籍收藏。"
+      }
+    ]
+  },
+  {
+    "num": 573,
+    "word": "collective",
+    "chinese": "[adj.] 集体的；[n.] 集体",
+    "examples": [
+      {
+        "example": "The workers made a collective decision to strike.",
+        "translation": "工人们集体决定罢工。"
+      },
+      {
+        "example": "The collective opinion of the group was to proceed with the plan.",
+        "translation": "该团体的集体意见是继续执行计划。"
+      }
+    ]
+  },
+  {
+    "num": 574,
+    "word": "college",
+    "chinese": "[n.] 学院，大学",
+    "examples": [
+      {
+        "example": "She is studying economics at college.",
+        "translation": "她在学院学习经济学。"
+      },
+      {
+        "example": "After high school, he plans to go to college to study engineering.",
+        "translation": "高中毕业后，他计划去大学学习工程学。"
+      }
+    ]
   }
 ]

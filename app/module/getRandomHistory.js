@@ -9,7 +9,7 @@ const getRandomDetailByIndex = async (index) => {
     try {
         const {
             indexList
-        } = getAllWordList()[index]
+        } = getRandomIndexList()[index]
         const wordsList = indexList.map((item, index) => {
             return getAllWordList()[item - 1]
         })

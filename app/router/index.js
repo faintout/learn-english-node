@@ -1,10 +1,10 @@
 const Router = require("koa-router");
 const router = new Router();
-router.get("/", (ctx, next) => {
-  ctx.body = "<h3>服务器请求成功</h3>";
-  ctx.body += "<h3>接口地址如下</h3> <br/>";
-  ctx.body+=router.stack.map(stack=>`<a href="${stack.path}" target="_blank">${stack.path}</a>`).join('<br/>')
-});
+// router.get("/", (ctx, next) => {
+//   ctx.body = "<h3>服务器请求成功</h3>";
+//   ctx.body += "<h3>接口地址如下</h3> <br/>";
+//   ctx.body+=router.stack.map(stack=>`<a href="${stack.path}" target="_blank">${stack.path}</a>`).join('<br/>')
+// });
 const updateWord2Json = require("../module/updateWord2Json");
 const {
     getRandomWordsByRange,
