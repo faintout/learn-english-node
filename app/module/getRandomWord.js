@@ -1,6 +1,6 @@
 const fs = require('fs');
 const Result = require('./result')
-const {getAllWordList,getRandomIndexList } = require('./readFile')
+const {getAllWordList:getAllWordListFile,getRandomIndexList } = require('./readFile')
 const outputFile = './app/assets/userRandomIndexList.json'
 // 打乱数组顺序的函数
 function shuffleArray(array) {
@@ -10,11 +10,11 @@ function shuffleArray(array) {
     }
     return array;
 }
-
+const getAllWordList = async () => new Result(getAllWordListFile())
 // 获取随机单词和中文解释
 async function getRandomWordsByRange(start, end) {
     try {
-        const wordsList = [...getAllWordList()]
+        const wordsList = [...getAllWordListFile()]
         let selectedWordsList = wordsList;
         if (start !== undefined && end !== undefined) {
             selectedWordsList = wordsList.slice(start - 1, end);
@@ -49,7 +49,7 @@ async function getRandomWordsByRange(start, end) {
 //获取单词根据索引
 const getWordByIndex = async(index) => {
     try{
-        const wordsList = [...getAllWordList()]
+        const wordsList = [...getAllWordListFile()]
         return new Result(wordsList[index - 1])
     }catch(e){
         return new Result(null, 500, `获取单词失败：${e.message}`)
@@ -58,5 +58,6 @@ const getWordByIndex = async(index) => {
 
 module.exports = {
     getRandomWordsByRange,
-    getWordByIndex
+    getWordByIndex,
+    getAllWordList
 }

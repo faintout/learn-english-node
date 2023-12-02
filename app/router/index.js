@@ -8,11 +8,12 @@ const router = new Router();
 const updateWord2Json = require("../module/updateWord2Json");
 const {
     getRandomWordsByRange,
-    getWordByIndex
+    getWordByIndex,
+    getAllWordList
 } = require("../module/getRandomWord");
 const {
     getRandomHistoryList,
-    getRandomDetailByIndex
+    getRandomDetailByIndex,
 } = require("../module/getRandomHistory");
 //获取某个单词的详细信息
 router.get('/getWordByIndex/:index',async(ctx,next)=>{
@@ -22,6 +23,10 @@ router.get('/getWordByIndex/:index',async(ctx,next)=>{
 //更新单词
 router.get('/updateWord',async(ctx,next)=>{
     ctx.body = await updateWord2Json()
+})
+//获取全部单词
+router.get('/getAllWordList',async(ctx,next)=>{
+    ctx.body = await getAllWordList()
 })
 //获取随机单词根据范围
 router.get('/getRandomWords',async(ctx,next)=>{

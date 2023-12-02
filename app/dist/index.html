@@ -5,64 +5,99 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>english采集功能</title>
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+    <title>English-PETS3</title>
     <link rel="stylesheet" href="./lib/element/index.css">
     <link rel="stylesheet" href="./css/layout.css">
     <link rel="stylesheet" href="./lib/layui/css/layui.css">
 </head>
 
 <body>
-    <div id="app">
-        <div class="header">
-            <div class="title">english采集功能</div>
-            <div class="times">{{times}}</div>
+    <div id="app" v-cloak>
+        <div class="tool-bar">
+            <el-tabs v-model="tabActiveIndex">
+                <el-tab-pane :label="item.label" :name="item.index" v-for="item in tabs"></el-tab-pane>
+            </el-tabs>
         </div>
         <div class="content">
-            <div class="title">
-                <el-button @click="getLievEPGList">更新</el-button>
-                <el-button @click="sendLiveChannelBtn" class="send">发送</el-button>
-            </div>
-            <div class="content_body">
-                <!-- <el-transfer v-model="seleLiveEPGIndexList" :data="liveEPGList" :titles="['节目清单','拉流频道表']"></el-transfer> -->
-                <template>
-                    <el-table ref="multipleTable" :data="liveEPGList" tooltip-effect="dark" style="width: 40%">
-                        <el-table-column :label="'频道清单('+liveEPGList.length+')'">
-
-                            <el-table-column type="selection" width="55">
-                            </el-table-column>
-                            <el-table-column prop="ID" label="序号" width="60">
-                            </el-table-column>
-                            <el-table-column prop="ChannelIndex" label="频道序号" width="120">
-                            </el-table-column>
-                            <el-table-column prop="ChannelName" label="名称" width="200">
-                            </el-table-column>
-                            <el-table-column prop="URL" label="URL">
-                            </el-table-column>
-                        </el-table-column>
-                        <!-- <el-table-column prop="address" label="地址" show-overflow-tooltip>
-                        </el-table-column> -->
-                    </el-table>
-                </template>
-                <div class="transfer">
-                    <el-button @click="transfer(0)"><</el-button>
-                    <el-button @click="transfer(1)">></el-button>
+            <div class="table-option">
+                <div v-if="tabActiveIndex==='0'">
+                    <el-button type="primary" size="mini" @click="getAllWordList">刷新列表</el-button>
                 </div>
-                <template>
-                    <el-table ref="multipleTable1" :data="liveChannelList" tooltip-effect="dark" style="width: 40%">
-                        <el-table-column :label="'拉流频道列表('+liveChannelList.length+')'">
-                            <el-table-column type="selection" width="55">
-                            </el-table-column>
-                            <el-table-column prop="ID" label="序号" width="60">
-                            </el-table-column>
-                            <el-table-column prop="ChannelIndex" label="频道序号" width="120">
-                            </el-table-column>
-                            <el-table-column prop="ChannelName" label="名称" width="200">
-                            </el-table-column>
-                            <el-table-column prop="URL" label="URL">
-                            </el-table-column>
-                        </el-table-column>
-                    </el-table>
+                <template v-if="tabActiveIndex==='1'">
+                    <div>
+                        <el-input v-model.number="startNum" size="mini" placeholder="始" style="width: 70px">
+                        </el-input>
+                        <el-input v-model.number="endNum" size="mini" placeholder="终" style="width: 70px">
+                        </el-input>
+                        <el-button type="primary" size="mini" @click="getRandomWords(),clearStartEndWord()">获取随机列表
+                        </el-button>
+                    </div>
+                    <div>
+                        <div v-if="startWord.word">{{startWord?.word}} {{startWord?.chinese}}</div>
+                        <div v-if="endWord.word">{{endWord?.word}} {{endWord?.chinese}}</div>
+                        <div v-if="tableDataList.length">单词个数：{{tableDataList.length}}</div>
+                    </div>
                 </template>
+                <div v-if="tabActiveIndex==='2'">
+                    <el-select v-model="selectHistoryIndex" placeholder="请选择" style="width:250px" size="mini">
+                        <el-option v-for="(list,index) in randomHistoryList" :key="index"
+                            :label=`${list.times}-单词${list.indexList.length}个${list.indexList.length&&list?.start?'-从'+list?.start+'到'+list?.end:''}`
+                            :value="index">
+                        </el-option>
+                    </el-select>
+                    <el-button type="primary" size="mini" @click="getRandomDetailByIndex()">查询</el-button>
+                    <div>
+                        <div v-if="startWord.word">{{startWord?.word}} {{startWord?.chinese}}</div>
+                        <div v-if="endWord.word">{{endWord?.word}} {{endWord?.chinese}}</div>
+                        <div v-if="tableDataList.length">单词个数：{{tableDataList.length}}</div>
+                    </div>
+                </div>
+                <div>
+                    <el-button type="primary" size="mini" @click="config.isShowExampleRow = !config.isShowExampleRow">
+                        {{!config.isShowExampleRow?'展示':'隐藏'}}例句列</el-button>
+                    <el-input v-model="searchValue" size="mini" placeholder="请输入搜索内容" style="width: 150px">
+                    </el-input>
+                </div>
+                <div>
+                    <el-button type="primary" size="mini"
+                        @click="config.isShowExmapleChinese = !config.isShowExmapleChinese">
+                        {{!config.isShowExmapleChinese?'展示':'隐藏'}}例句列中文</el-button>
+                    <el-button type="primary" size="mini" @click="config.isShowChineseRow = !config.isShowChineseRow">
+                        {{!config.isShowChineseRow?'展示':'隐藏'}}中文列</el-button>
+                    <el-button type="primary" size="mini" @click="config.isShowChinese = !config.isShowChinese">
+                        {{!config.isShowChinese?'展示':'隐藏'}}中文</el-button>
+                </div>
+
+            </div>
+            <div class="table">
+                <el-table :data="tableDataList.filter(word=>word.word.includes(searchValue))" tooltip-effect="dark"
+                    height="100%" style="width: 100%">
+                    <el-table-column label="序" prop="num" min-width="40">
+                    </el-table-column>
+                    <el-table-column label="单词">
+                        <template slot-scope="scope">
+                            <div>{{scope.row.word}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column label="中文" show-overflow-tooltip v-if="config.isShowChineseRow">
+                        <template slot-scope="scope">
+                            <div style="white-space: nowrap;">{{config.isShowChinese?scope.row.chinese:'*****'}}
+                            </div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column label="例句" width="400" v-if="config.isShowExampleRow">
+                        <template slot-scope="scope">
+                            <div v-for="example in scope.row.examples">
+                                <div class="example">{{example.example}}</div>
+                                <div class="chinese" v-if="config.isShowExmapleChinese">{{example.translation}}
+                                </div>
+                            </div>
+                        </template>
+                    </el-table-column>
+                </el-table>
             </div>
         </div>
     </div>
@@ -71,7 +106,8 @@
     <script src="./lib/element/index.js"></script>
     <script src="./assetsData/liveEPG2.js"></script>
     <script src="./lib/layui/layui.js"></script>
-    <script src="./js/app.js"></script>
+    <script type="module" src="./js/app.js"></script>
+
 </body>
 
 </html>

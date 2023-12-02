@@ -3,7 +3,6 @@ const {getAllWordList,getRandomIndexList } = require('./readFile')
 
 // 获取随机单词和中文解释
 const getRandomHistoryList = async () => new Result(getRandomIndexList())
-
 //获取单词根据索引
 const getRandomDetailByIndex = async (index) => {
     try {
@@ -22,5 +21,5 @@ const getRandomDetailByIndex = async (index) => {
 
 module.exports = {
     getRandomHistoryList,
-    getRandomDetailByIndex
+    getRandomDetailByIndex,
 }
