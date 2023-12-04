@@ -76,6 +76,7 @@ new Vue({
         },
         async getErrorExamInfoByIndex(){
             const tableDataList = await http(`getErrorExamInfo/${this.errorExamIndex}`)
+            tableDataList.map(table=>table.isError = false)
             this.tableDataList = tableDataList
             layer.msg('查询错题本详情成功', {icon: 1});
         },
