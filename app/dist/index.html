@@ -55,11 +55,21 @@
                         <div v-if="tableDataList.length">单词个数：{{tableDataList.length}}</div>
                     </div>
                 </div>
+                <div v-if="tabActiveIndex==='3'">
+                    <el-select v-model="errorExamIndex" placeholder="请选择" style="width:250px" size="mini">
+                        <el-option v-for="(list,index) in errorExamList" :key="index"
+                            :label=`${list.times}-单词${list.indexList.length}个`
+                            :value="index">
+                        </el-option>
+                    </el-select>
+                    <el-button type="primary" size="mini" @click="getErrorExamInfoByIndex()">查询</el-button>
+                </div>
                 <div>
                     <el-button type="primary" size="mini" @click="config.isShowExampleRow = !config.isShowExampleRow">
                         {{!config.isShowExampleRow?'展示':'隐藏'}}例句列</el-button>
-                    <el-input v-model="searchValue" size="mini" placeholder="请输入搜索内容" style="width: 150px">
+                    <el-input v-model="searchValue" size="mini" placeholder="搜索单词" style="width: 125px">
                     </el-input>
+                    <el-button type="primary" size="mini" @click="createErrorExam()">生成错题本</el-button>
                 </div>
                 <div>
                     <el-button type="primary" size="mini"
@@ -74,7 +84,12 @@
             </div>
             <div class="table">
                 <el-table :data="tableDataList.filter(word=>word.word.includes(searchValue))" tooltip-effect="dark"
-                    height="100%" style="width: 100%">
+                    height="100%" style="width: 100%" @cell-click="tableCellClick">
+                    <el-table-column label="错题" min-width="35">
+                        <template slot-scope="scope">
+                            <el-checkbox v-model="scope.row.isError"></el-checkbox>
+                        </template>
+                    </el-table-column>
                     <el-table-column label="序" prop="num" min-width="40">
                     </el-table-column>
                     <el-table-column label="单词">
@@ -104,7 +119,6 @@
     <script src="./lib/vue.js"></script>
     <script src="./lib/jquery.js"></script>
     <script src="./lib/element/index.js"></script>
-    <script src="./assetsData/liveEPG2.js"></script>
     <script src="./lib/layui/layui.js"></script>
     <script type="module" src="./js/app.js"></script>
 

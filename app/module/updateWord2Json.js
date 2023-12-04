@@ -5,6 +5,7 @@ const outputFile = './app/assets/allWordList.json'
 // 读取Markdown文件并解析内容
 //获取匹配后的单词
 const updateWord2Json = async () => {
+    return new Result('单词更新成功！')
     try {
         const regex = /^(\d+)\.\s+\*\*(.+?)\*\*\s+(\[.+?\])\s+(.+?)\n\s+-\s+(.+?)\s+\((.+?)\)\n\s+-\s+(.+?)\s+\((.+?)\)/gm;
         let match;

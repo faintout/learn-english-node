@@ -15,6 +15,8 @@ const {
     getRandomHistoryList,
     getRandomDetailByIndex,
 } = require("../module/getRandomHistory");
+
+const { getErrorExamList,setErrorExamList,getErrorExamInfo } = require('../module/errorExam')  
 //获取某个单词的详细信息
 router.get('/getWordByIndex/:index',async(ctx,next)=>{
     let index = ctx.params.index;
@@ -40,5 +42,17 @@ router.get('/getRandomHistoryList',async(ctx,next)=>{
 router.get('/getRandomDetailByIndex/:index',async(ctx,next)=>{
     let index = ctx.params.index;
     ctx.body = await getRandomDetailByIndex(index)
+})
+router.get('/getErrorExamList',async(ctx,next)=>{
+    ctx.body = await getErrorExamList()
+})
+router.get('/getErrorExamInfo/:index',async(ctx,next)=>{
+    let index = ctx.params.index;
+    ctx.body = await getErrorExamInfo(index)
+})
+router.get('/createErrorExamList',async(ctx,next)=>{
+    const {indexStr} = ctx.query;
+    const indexList = indexStr.split(',').map(item=>Number(item))
+    ctx.body = await setErrorExamList(indexList)
 })
 module.exports = router;

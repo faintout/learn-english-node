@@ -11,9 +11,15 @@ const getRandomIndexList = () => {
     const userRandomIndexStr = fs.readFileSync('./app/assets/userRandomIndexList.json', 'utf8');
     return JSON.parse(userRandomIndexStr)
 }
+//获取错题本列表
+const getErrorExamList = () => {
+    const errorExamList = fs.readFileSync('./app/assets/errorExamList.json', 'utf8');
+    return JSON.parse(errorExamList)
+}
 
 module.exports = {
     getAllWordList,
     getRandomIndexList,
-    getWordMd
+    getWordMd,
+    getErrorExamList
 }

@@ -8608,5 +8608,545 @@
         "translation": "高中毕业后，他计划去大学学习工程学。"
       }
     ]
+  },
+  {
+    "num": 575,
+    "word": "colonel",
+    "chinese": "[n.] 陆军上校，中校",
+    "examples": [
+      {
+        "example": "The colonel issued orders to his troops with a firm voice.",
+        "translation": "上校用坚定的声音向他的部队发布命令。"
+      },
+      {
+        "example": "Despite his young age, he was promoted to the rank of colonel.",
+        "translation": "尽管年轻，他被提升为上校军衔。"
+      }
+    ]
+  },
+  {
+    "num": 576,
+    "word": "colony",
+    "chinese": "[n.] 侨民，殖民地，侨居地，聚居地",
+    "examples": [
+      {
+        "example": "The British colony of Hong Kong was returned to China in 1997.",
+        "translation": "英国的香港殖民地在1997年回归中国。"
+      },
+      {
+        "example": "Scientists are studying the behavior of ant colonies.",
+        "translation": "科学家们正在研究蚂蚁群体的行为。"
+      }
+    ]
+  },
+  {
+    "num": 577,
+    "word": "color",
+    "chinese": "[n.] 颜色，彩色，颜料，气色，风格；[vt.] 把...涂颜色，粉饰；[vi.] 脸红",
+    "examples": [
+      {
+        "example": "She likes to wear clothes with bright colors.",
+        "translation": "她喜欢穿鲜艳的颜色衣服。"
+      },
+      {
+        "example": "The artist used only three colors to paint the sunset.",
+        "translation": "艺术家只用了三种颜色来画日落。"
+      }
+    ]
+  },
+  {
+    "num": 578,
+    "word": "column",
+    "chinese": "[n.] 柱，支柱，圆柱，柱形物，专栏，[计算机]列",
+    "examples": [
+      {
+        "example": "The ancient Greeks were known for their marble columns.",
+        "translation": "古希腊人以他们的大理石柱而闻名。"
+      },
+      {
+        "example": "She writes a weekly column in the local newspaper.",
+        "translation": "她在当地报纸上写一个每周专栏。"
+      }
+    ]
+  },
+  {
+    "num": 579,
+    "word": "comb",
+    "chinese": "[n.] 梳子；[vt.] 梳理",
+    "examples": [
+      {
+        "example": "He used a comb to straighten his hair.",
+        "translation": "他用梳子梳直了头发。"
+      },
+      {
+        "example": "The mother bird combs through her feathers with her beak.",
+        "translation": "母鸟用喙梳理她的羽毛。"
+      }
+    ]
+  },
+  {
+    "num": 580,
+    "word": "combination",
+    "chinese": "[n.] 结合，联合，化合，联合体",
+    "examples": [
+      {
+        "example": "The combination of sweet and salty flavors can be delicious.",
+        "translation": "甜味和咸味的结合可能非常美味。"
+      },
+      {
+        "example": "It took him several tries to remember the combination to his locker.",
+        "translation": "他试了好几次才记起他的储物柜密码。"
+      }
+    ]
+  },
+  {
+    "num": 581,
+    "word": "combine",
+    "chinese": "[vt.] 使结合，兼有，融合，联结，收割，混合谷物；[vi.] 结合，联合；[n.] 集团，联合收割机",
+    "examples": [
+      {
+        "example": "Combine the flour and sugar before adding the eggs.",
+        "translation": "在加入鸡蛋之前先把面粉和糖混合起来。"
+      },
+      {
+        "example": "Farmers use combines to harvest their crops.",
+        "translation": "农民使用联合收割机来收割庄稼。"
+      }
+    ]
+  },
+  {
+    "num": 582,
+    "word": "come",
+    "chinese": "[vi.] 来，来到，达到，出现，发生，进入；[vt.] 接近，扮演",
+    "examples": [
+      {
+        "example": "Please come to my office as soon as you can.",
+        "translation": "请尽快来我的办公室。"
+      },
+      {
+        "example": "Winter has come, and the lake has frozen over.",
+        "translation": "冬天来了，湖面已经结冰。"
+      }
+    ]
+  },
+  {
+    "num": 583,
+    "word": "comfort",
+    "chinese": "[n.] 舒适，安慰，安慰者；[vt.] 安慰",
+    "examples": [
+      {
+        "example": "Her kind words gave me a lot of comfort.",
+        "translation": "她的话给了我很大的安慰。"
+      },
+      {
+        "example": "He comforted his friend who was upset about losing her job.",
+        "translation": "他安慰他因失业而烦恼的朋友。"
+      }
+    ]
+  },
+  {
+    "num": 584,
+    "word": "comfortable",
+    "chinese": "[adj.] 舒适的，安慰的，充裕的",
+    "examples": [
+      {
+        "example": "This chair is very comfortable to sit in.",
+        "translation": "这把椅子坐起来非常舒服。"
+      },
+      {
+        "example": "They live a comfortable life with no financial worries.",
+        "translation": "他们过着没有财务担忧的舒适生活。"
+      }
+    ]
+  },
+  {
+    "num": 585,
+    "word": "command",
+    "chinese": "[vt.] 命令，指挥，控制，支配；[n.] 命令，指挥，控制；[计算机] DOS命令：引用辅助命令处理器",
+    "examples": [
+      {
+        "example": "The general commanded his troops to advance.",
+        "translation": "将军命令他的部队前进。"
+      },
+      {
+        "example": "She has a good command of the Spanish language.",
+        "translation": "她精通西班牙语。"
+      }
+    ]
+  },
+  {
+    "num": 586,
+    "word": "commander",
+    "chinese": "[n.] 司令官，指挥员",
+    "examples": [
+      {
+        "example": "The commander of the naval fleet was respected by all the sailors.",
+        "translation": "海军舰队的指挥官受到所有水手的尊敬。"
+      },
+      {
+        "example": "As a commander, he was responsible for many critical decisions during the mission.",
+        "translation": "作为指挥官，他在任务中负责许多关键决策。"
+      }
+    ]
+  },
+  {
+    "num": 587,
+    "word": "comment",
+    "chinese": "[n.] 评论，意见，注释，闲话；[v.] 注释，评论",
+    "examples": [
+      {
+        "example": "The director refused to comment on the rumors about the new film.",
+        "translation": "导演拒绝对有关新电影的传言发表评论。"
+      },
+      {
+        "example": "Her political comments sparked a lot of discussion on social media.",
+        "translation": "她的政治评论在社交媒体上引发了很多讨论。"
+      }
+    ]
+  },
+  {
+    "num": 588,
+    "word": "commerce",
+    "chinese": "[n.] 商业，贸易，社交",
+    "examples": [
+      {
+        "example": "The city's economy depends heavily on international commerce.",
+        "translation": "这个城市的经济严重依赖于国际贸易。"
+      },
+      {
+        "example": "The invention of the internet has changed the face of commerce forever.",
+        "translation": "互联网的发明永远改变了商业的面貌。"
+      }
+    ]
+  },
+  {
+    "num": 589,
+    "word": "commercial",
+    "chinese": "[adj.] 商业的，商品化的；[n.] 商业广告",
+    "examples": [
+      {
+        "example": "The commercial interests of the company are very diverse.",
+        "translation": "公司的商业利益非常多样化。"
+      },
+      {
+        "example": "That commercial for the new car model is really catchy.",
+        "translation": "那个新车型的商业广告真的很吸引人。"
+      }
+    ]
+  },
+  {
+    "num": 590,
+    "word": "commit",
+    "chinese": "[vt.] 犯(错误)，干(坏事)",
+    "examples": [
+      {
+        "example": "He was sent to prison because he committed a serious crime.",
+        "translation": "他因犯了严重的罪行而被送进监狱。"
+      },
+      {
+        "example": "It's important to admit when you commit a mistake.",
+        "translation": "承认你犯错误是很重要的。"
+      }
+    ]
+  },
+  {
+    "num": 591,
+    "word": "committee",
+    "chinese": "[n.] 委员会，全体委员",
+    "examples": [
+      {
+        "example": "The decision was made by the executive committee.",
+        "translation": "决定是由执行委员会做出的。"
+      },
+      {
+        "example": "She has been appointed to serve on the school's development committee.",
+        "translation": "她被任命为学校发展委员会的成员。"
+      }
+    ]
+  },
+  {
+    "num": 592,
+    "word": "communicate",
+    "chinese": "[vi.] 通讯，传达，传播；[vt.] 交流，沟通，联通",
+    "examples": [
+      {
+        "example": "Good leaders know how to communicate effectively with their team.",
+        "translation": "优秀的领导者知道如何与团队有效沟通。"
+      },
+      {
+        "example": "The internet has made it easier to communicate with people all over the world.",
+        "translation": "互联网让与全世界的人交流变得更容易。"
+      }
+    ]
+  },
+  {
+    "num": 593,
+    "word": "communism",
+    "chinese": "[n.] 共产主义",
+    "examples": [
+      {
+        "example": "Communism advocates for the elimination of private property.",
+        "translation": "共产主义主张消除私有财产。"
+      },
+      {
+        "example": "He studied the history of communism in college.",
+        "translation": "他在大学学习了共产主义历史。"
+      }
+    ]
+  },
+  {
+    "num": 594,
+    "word": "communist",
+    "chinese": "[n.] 共产党员，共产主义者；[adj.] 共产主义的",
+    "examples": [
+      {
+        "example": "The communist manifesto was written by Karl Marx and Friedrich Engels.",
+        "translation": "《共产党宣言》是由卡尔·马克思和弗里德里希·恩格斯编写的。"
+      },
+      {
+        "example": "He was a communist who believed in the principles of Marxism.",
+        "translation": "他是一个信仰马克思主义原则的共产党员。"
+      }
+    ]
+  },
+  {
+    "num": 595,
+    "word": "community",
+    "chinese": "[n.] 社区，团体，社会，公社，群落(生)",
+    "examples": [
+      {
+        "example": "The local community center offers classes and activities for residents.",
+        "translation": "当地社区中心为居民提供课程和活动。"
+      },
+      {
+        "example": "There is a strong sense of community in our neighborhood.",
+        "translation": "我们邻里之间有很强的社区意识。"
+      }
+    ]
+  },
+  {
+    "num": 596,
+    "word": "companion",
+    "chinese": "[n.] 同伴，同事，共事者，伴侣；成对物品之一；(船的)甲板间扶梯(或扶梯的顶篷)；[vt. & vi.] 陪伴",
+    "examples": [
+      {
+        "example": "He was a faithful companion to me during my travels.",
+        "translation": "在我的旅途中，他是我的忠实伴侣。"
+      },
+      {
+        "example": "The book is a companion to the television series.",
+        "translation": "这本书是电视系列节目的伴侣读物。"
+      }
+    ]
+  },
+  {
+    "num": 597,
+    "word": "company",
+    "chinese": "[n.] 公司，商号，同伴，客人，一群，连队；[vt.] 陪伴；[vi.] 联合",
+    "examples": [
+      {
+        "example": "She works for a company that specializes in web design.",
+        "translation": "她在一家专门从事网页设计的公司工作。"
+      },
+      {
+        "example": "Having good company can make a long journey seem shorter.",
+        "translation": "有好的伴侣可以使长途旅行显得更短。"
+      }
+    ]
+  },
+  {
+    "num": 598,
+    "word": "comparative",
+    "chinese": "[adj.] 比较的，相对的；[n.] 对手",
+    "examples": [
+      {
+        "example": "In comparative literature, one studies the differences and similarities between texts from different cultures.",
+        "translation": "在比较文学中，研究不同文化的文本之间的差异和相似之处。"
+      },
+      {
+        "example": "His performance was quite good in a comparative sense.",
+        "translation": "从比较的角度来看，他的表现相当好。"
+      }
+    ]
+  },
+  {
+    "num": 599,
+    "word": "compare",
+    "chinese": "[vt. & vi.] 比较，对照，比作，比喻；[n.] 比较，对照",
+    "examples": [
+      {
+        "example": "Compare the prices before you make a purchase.",
+        "translation": "购买前比较价格。"
+      },
+      {
+        "example": "Shakespeare compared his love to a summer's day.",
+        "translation": "莎士比亚将他的爱人比作夏日。"
+      }
+    ]
+  },
+  {
+    "num": 600,
+    "word": "compass",
+    "chinese": "[n.] 罗盘，指南针，圆规；[vt.] 图谋，包围，达成",
+    "examples": [
+      {
+        "example": "A compass is an essential tool for navigation.",
+        "translation": "罗盘是导航的必备工具。"
+      },
+      {
+        "example": "They compassed their goal despite all the obstacles.",
+        "translation": "尽管有所有的障碍，他们还是实现了他们的目标。"
+      }
+    ]
+  },
+  {
+    "num": 601,
+    "word": "compel",
+    "chinese": "[vt.] 强迫，迫使屈服",
+    "examples": [
+      {
+        "example": "The court can compel a witness to testify.",
+        "translation": "法庭可以强迫证人作证。"
+      },
+      {
+        "example": "Financial circumstances compelled him to take on two jobs.",
+        "translation": "财务状况迫使他同时做两份工作。"
+      }
+    ]
+  },
+  {
+    "num": 602,
+    "word": "competent",
+    "chinese": "[adj.] 有能力的，胜任的，足够的，应该做的",
+    "examples": [
+      {
+        "example": "She is very competent at her job.",
+        "translation": "她的工作能力非常强。"
+      },
+      {
+        "example": "You need to be competent in English to work in international relations.",
+        "translation": "从事国际关系工作需要英语能力强。"
+      }
+    ]
+  },
+  {
+    "num": 603,
+    "word": "competition",
+    "chinese": "[n.] 竞争，比赛",
+    "examples": [
+      {
+        "example": "The competition for the job was fierce.",
+        "translation": "这份工作的竞争非常激烈。"
+      },
+      {
+        "example": "He won first place in the piano competition.",
+        "translation": "他在钢琴比赛中获得了第一名。"
+      }
+    ]
+  },
+  {
+    "num": 604,
+    "word": "complaint",
+    "chinese": "[n.] 抱怨，怨言，控告",
+    "examples": [
+      {
+        "example": "The company has received several complaints about poor customer service.",
+        "translation": "公司收到了几起关于糟糕客户服务的投诉。"
+      },
+      {
+        "example": "She went to the doctor with a complaint of chest pains.",
+        "translation": "她因胸痛去看医生。"
+      }
+    ]
+  },
+  {
+    "num": 605,
+    "word": "complete",
+    "chinese": "[adj.] 完整的，完成的，彻底的；[vt.] 完成，使圆满，使完美",
+    "examples": [
+      {
+        "example": "The puzzle is complete when every piece is in its place.",
+        "translation": "当每个拼图块都到位时，拼图就完成了。"
+      },
+      {
+        "example": "He completed the marathon in under four hours.",
+        "translation": "他在不到四小时的时间内完成了马拉松赛跑。"
+      }
+    ]
+  },
+  {
+    "num": 606,
+    "word": "complex",
+    "chinese": "[adj.] 结合的，复杂的；[n.] 复合体",
+    "examples": [
+      {
+        "example": "The human brain is an incredibly complex organ.",
+        "translation": "人类的大脑是一个极其复杂的器官。"
+      },
+      {
+        "example": "The apartment complex has over 200 units.",
+        "translation": "这个公寓综合体有200多个单元。"
+      }
+    ]
+  },
+  {
+    "num": 607,
+    "word": "complicate",
+    "chinese": "[vt.] 使复杂，使陷入，使错综，使起纠纷",
+    "examples": [
+      {
+        "example": "His late arrival complicated the meeting schedule.",
+        "translation": "他的迟到使会议日程变得复杂。"
+      },
+      {
+        "example": "Adding more rules might complicate the game instead of making it better.",
+        "translation": "增加更多规则可能会使游戏变得复杂，而不是变得更好。"
+      }
+    ]
+  },
+  {
+    "num": 608,
+    "word": "compose",
+    "chinese": "[vt.] 组成，构成，创作，写作，作曲，使镇静；[vi.] 创作",
+    "examples": [
+      {
+        "example": "Water is composed of hydrogen and oxygen.",
+        "translation": "水是由氢和氧组成的。"
+      },
+      {
+        "example": "She composed a beautiful poem about nature.",
+        "translation": "她创作了一首关于自然的美丽诗歌。"
+      }
+    ]
+  },
+  {
+    "num": 609,
+    "word": "compound",
+    "chinese": "[n.] 化合物，混合物，复合词；[adj.] 复(混)合的，合成的；[vt.] 混合调合，妥协；[vi.] 混合，妥协",
+    "examples": [
+      {
+        "example": "Water is a compound made from two hydrogen atoms and one oxygen atom.",
+        "translation": "水是由两个氢原子和一个氧原子组成的化合物。"
+      },
+      {
+        "example": "The situation was compounded by the arrival of more guests.",
+        "translation": "更多客人的到来使情况变得更加复杂。"
+      }
+    ]
+  },
+  {
+    "num": 610,
+    "word": "comprehension",
+    "chinese": "[n.] 理解，理解力，领悟",
+    "examples": [
+      {
+        "example": "Reading comprehension is an important skill for academic success.",
+        "translation": "阅读理解是学术成功的一个重要技能。"
+      },
+      {
+        "example": "The teacher tested the students' comprehension of the material.",
+        "translation": "老师测试了学生对材料的理解。"
+      }
+    ]
   }
 ]
