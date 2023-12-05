@@ -50,9 +50,8 @@ router.get('/getErrorExamInfo/:index',async(ctx,next)=>{
     let index = ctx.params.index;
     ctx.body = await getErrorExamInfo(index)
 })
-router.get('/createErrorExamList',async(ctx,next)=>{
-    const {indexStr} = ctx.query;
-    const indexList = indexStr.split(',').map(item=>Number(item))
+router.post('/createErrorExamList',async(ctx,next)=>{
+    const {indexList} = ctx.request.body;
     ctx.body = await setErrorExamList(indexList)
 })
 module.exports = router;

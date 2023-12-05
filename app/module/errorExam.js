@@ -24,7 +24,7 @@ const setErrorExamList = async (indexList) => {
         const params = {
             user: 'yhn',
             times: new Date().toLocaleString(),
-            indexList
+            indexList:indexList.map(Number)
         }
         const errorExamListJson = JSON.stringify([...getErrorExamListFile(),params], null, 2)
         fs.writeFile('./app/assets/errorExamList.json', errorExamListJson, (err) => {

@@ -87,7 +87,7 @@ new Vue({
                 return
             }
             const indexList = tableList.map(table=>table.num)
-            await http(`createErrorExamList?indexStr=${indexList.join(',')}`)
+            await http(`createErrorExamList`,'post',{indexList})
             layer.msg('生成错题本成功', {icon: 1});
         },
         tableCellClick(row,column,event){
