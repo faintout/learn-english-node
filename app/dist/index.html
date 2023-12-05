@@ -18,7 +18,7 @@
     <div id="app" v-cloak>
         <div class="tool-bar">
             <el-tabs v-model="tabActiveIndex">
-                <el-tab-pane :label="item.label" :name="item.index" v-for="item in tabs"></el-tab-pane>
+                <el-tab-pane :label="item.label" :name="item.index" v-for="item in tabs" :key="key"></el-tab-pane>
             </el-tabs>
         </div>
         <div class="content">
