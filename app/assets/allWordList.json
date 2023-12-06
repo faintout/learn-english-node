@@ -9148,5 +9148,470 @@
         "translation": "老师测试了学生对材料的理解。"
       }
     ]
+  },
+  {
+    "num": 611,
+    "word": "compromise",
+    "chinese": "[n.] 妥协，让步；[vt.] 妥协处理，危害；[vi.] 妥协让步",
+    "examples": [
+      {
+        "example": "The two parties reached a compromise after hours of negotiation.",
+        "translation": "经过数小时的谈判，两党达成了妥协。"
+      },
+      {
+        "example": "If you compromise your principles, you may regret it later.",
+        "translation": "如果你妥协你的原则，你可能以后会后悔。"
+      }
+    ]
+  },
+  {
+    "num": 612,
+    "word": "computer",
+    "chinese": "[n.] 计算机，电脑",
+    "examples": [
+      {
+        "example": "I bought a new computer to play the latest video games.",
+        "translation": "我买了一台新电脑来玩最新的视频游戏。"
+      },
+      {
+        "example": "Computers have revolutionized the way we work and communicate.",
+        "translation": "电脑已经彻底改变了我们工作和交流的方式。"
+      }
+    ]
+  },
+  {
+    "num": 613,
+    "word": "comrade",
+    "chinese": "[n.] 同志，亲密的同伴",
+    "examples": [
+      {
+        "example": "He was greeted warmly by his comrades when he returned from the war.",
+        "translation": "他从战争中回来时，受到了同志们的热烈欢迎。"
+      },
+      {
+        "example": "In times of hardship, the support of a comrade is invaluable.",
+        "translation": "在困难时期，同志的支持是无价的。"
+      }
+    ]
+  },
+  {
+    "num": 614,
+    "word": "conceal",
+    "chinese": "[vt.] 把...隐藏起来，掩盖",
+    "examples": [
+      {
+        "example": "She managed to conceal her disappointment with a smile.",
+        "translation": "她设法用微笑掩饰她的失望。"
+      },
+      {
+        "example": "The thief concealed the stolen goods under his coat.",
+        "translation": "小偷把偷来的货物藏在他的外套下。"
+      }
+    ]
+  },
+  {
+    "num": 615,
+    "word": "concentrate",
+    "chinese": "[vt. & vi.] 集中，专心；[n.] 浓缩物，精选",
+    "examples": [
+      {
+        "example": "You need to concentrate on your studies instead of playing video games.",
+        "translation": "你需要专心学习，而不是玩视频游戏。"
+      },
+      {
+        "example": "The juice is made from concentrate and doesn't taste as good as fresh juice.",
+        "translation": "这果汁是用浓缩液做的，味道不如新鲜果汁好。"
+      }
+    ]
+  },
+  {
+    "num": 616,
+    "word": "concentration",
+    "chinese": "[n.] 集中，专心，浓缩，浓度",
+    "examples": [
+      {
+        "example": "A high concentration of pollutants was found in the river water.",
+        "translation": "在河水中发现了高浓度的污染物。"
+      },
+      {
+        "example": "Meditation requires a lot of concentration.",
+        "translation": "冥想需要高度的专注。"
+      }
+    ]
+  },
+  {
+    "num": 617,
+    "word": "concept",
+    "chinese": "[n.] 概念，观念，设想",
+    "examples": [
+      {
+        "example": "The concept of time travel has always fascinated scientists.",
+        "translation": "时间旅行的概念一直吸引着科学家们。"
+      },
+      {
+        "example": "Understanding the basic concepts of economics is essential for business students.",
+        "translation": "理解经济学的基本概念对商学院的学生来说至关重要。"
+      }
+    ]
+  },
+  {
+    "num": 618,
+    "word": "concern",
+    "chinese": "[n.] 关心，忧虑；[vt.] 涉及，影响，关心",
+    "examples": [
+      {
+        "example": "Environmental concern is growing among the public.",
+        "translation": "公众对环境问题的关心正在增长。"
+      },
+      {
+        "example": "This problem concerns all of us and we must work together to solve it.",
+        "translation": "这个问题关系到我们所有人，我们必须共同努力解决。"
+      }
+    ]
+  },
+  {
+    "num": 619,
+    "word": "concerning",
+    "chinese": "[prep.] 关于",
+    "examples": [
+      {
+        "example": "The teacher asked several questions concerning the homework assignment.",
+        "translation": "老师问了几个关于家庭作业的问题。"
+      },
+      {
+        "example": "There have been some concerns concerning the safety of the new drug.",
+        "translation": "关于新药的安全性有一些担忧。"
+      }
+    ]
+  },
+  {
+    "num": 620,
+    "word": "concert",
+    "chinese": "[n.] 音乐会，演奏会",
+    "examples": [
+      {
+        "example": "We attended a classical music concert at the city hall.",
+        "translation": "我们在市政厅参加了一场古典音乐会。"
+      },
+      {
+        "example": "The band's concert sold out within minutes of the tickets going on sale.",
+        "translation": "乐队的音乐会门票一开售就在几分钟内售罄。"
+      }
+    ]
+  },
+  {
+    "num": 621,
+    "word": "conclude",
+    "chinese": "[vt.] 推断出，使结束；[vi.] 结束，作出决定",
+    "examples": [
+      {
+        "example": "The detective concluded that the butler was the murderer.",
+        "translation": "侦探推断管家是凶手。"
+      },
+      {
+        "example": "The meeting concluded with a vote on the proposal.",
+        "translation": "会议以对提案进行投票结束。"
+      }
+    ]
+  },
+  {
+    "num": 622,
+    "word": "conclusion",
+    "chinese": "[n.] 结论，推论，结尾",
+    "examples": [
+      {
+        "example": "After much research, the scientist came to a conclusion about the cause of the disease.",
+        "translation": "经过大量研究，科学家得出了关于疾病原因的结论。"
+      },
+      {
+        "example": "The conclusion of the film left the audience in tears.",
+        "translation": "电影的结尾让观众流下了眼泪。"
+      }
+    ]
+  },
+  {
+    "num": 623,
+    "word": "concrete",
+    "chinese": "[adj.] 具体的，实在的；[n.] 水泥，混凝土；[vt. & vi.] 凝结，结合",
+    "examples": [
+      {
+        "example": "We need some concrete evidence before we can take legal action.",
+        "translation": "我们需要一些具体的证据才能采取法律行动。"
+      },
+      {
+        "example": "The workers poured concrete for the new sidewalk.",
+        "translation": "工人们为新人行道浇筑了混凝土。"
+      }
+    ]
+  },
+  {
+    "num": 624,
+    "word": "condense",
+    "chinese": "[vt.] 压缩，使缩短，浓缩，摘要",
+    "examples": [
+      {
+        "example": "The author condensed the story into a short article for the magazine.",
+        "translation": "作者将故事浓缩成一篇短文发表在杂志上。"
+      },
+      {
+        "example": "Water vapor in the air condenses into droplets on the cold glass.",
+        "translation": "空气中的水蒸气在冷玻璃上凝结成水滴。"
+      }
+    ]
+  },
+  {
+    "num": 625,
+    "word": "condition",
+    "chinese": "[n.] 状况，状态；[v.] 以...为条件，决定，支配，训练",
+    "examples": [
+      {
+        "example": "The car is in excellent condition and runs very well.",
+        "translation": "这辆车的状况极佳，运行非常好。"
+      },
+      {
+        "example": "The athlete conditions his body for peak performance.",
+        "translation": "运动员训练他的身体以达到最佳表现。"
+      }
+    ]
+  },
+  {
+    "num": 626,
+    "word": "conduct",
+    "chinese": "[n.] 举止，行为；[vt.] 引导，管理；[vi.] 指挥",
+    "examples": [
+      {
+        "example": "The student's conduct in class was exemplary.",
+        "translation": "学生在课堂上的表现是模范的。"
+      },
+      {
+        "example": "The scientist conducted an experiment to test the hypothesis.",
+        "translation": "科学家进行了一个实验来测试假设。"
+      }
+    ]
+  },
+  {
+    "num": 627,
+    "word": "conductor",
+    "chinese": "[n.] 售票员，(乐队)指挥，导体",
+    "examples": [
+      {
+        "example": "The conductor checked our tickets on the train.",
+        "translation": "列车上的售票员检查了我们的车票。"
+      },
+      {
+        "example": "The orchestra played beautifully under the direction of the conductor.",
+        "translation": "在指挥的带领下，管弦乐队演奏得非常美妙。"
+      }
+    ]
+  },
+  {
+    "num": 628,
+    "word": "conference",
+    "chinese": "[n.] 会议，讨论会",
+    "examples": [
+      {
+        "example": "The international conference on climate change will be held next month.",
+        "translation": "下个月将举行国际气候变化会议。"
+      },
+      {
+        "example": "She presented her research findings at the annual science conference.",
+        "translation": "她在年度科学会议上展示了她的研究成果。"
+      }
+    ]
+  },
+  {
+    "num": 629,
+    "word": "confess",
+    "chinese": "[vt.] 供认，承认，坦白",
+    "examples": [
+      {
+        "example": "The suspect confessed to the crime after hours of interrogation.",
+        "translation": "经过数小时的审讯后，嫌疑人承认了犯罪。"
+      },
+      {
+        "example": "He confessed his love for her in a heartfelt letter.",
+        "translation": "他在一封发自内心的信中向她表白了他的爱。"
+      }
+    ]
+  },
+  {
+    "num": 630,
+    "word": "confidence",
+    "chinese": "[n.] 信任，信心；[adj.] 骗得信任的",
+    "examples": [
+      {
+        "example": "She has the confidence to succeed in her new role at work.",
+        "translation": "她有信心在工作中的新角色中取得成功。"
+      },
+      {
+        "example": "A confidence trickster swindled him out of his savings.",
+        "translation": "一个骗子骗走了他的积蓄。"
+      }
+    ]
+  },
+  {
+    "num": 631,
+    "word": "confine",
+    "chinese": "[vt.] 限制，禁闭；[n.] 边界，范围",
+    "examples": [
+      {
+        "example": "The doctor confined the patient to bed for a week.",
+        "translation": "医生让病人卧床一周。"
+      },
+      {
+        "example": "The city's growth is confined by the mountains and the sea.",
+        "translation": "这座城市的发展受到山脉和海洋的限制。"
+      }
+    ]
+  },
+  {
+    "num": 632,
+    "word": "confirm",
+    "chinese": "[vt.] 证实，肯定，确定",
+    "examples": [
+      {
+        "example": "The news report confirmed the success of the space mission.",
+        "translation": "新闻报道证实了太空任务的成功。"
+      },
+      {
+        "example": "Please confirm your attendance at the meeting by Friday.",
+        "translation": "请在周五前确认你参加会议。"
+      }
+    ]
+  },
+  {
+    "num": 633,
+    "word": "conflict",
+    "chinese": "[n.] 冲突，斗争；[vi.] 争执，冲突",
+    "examples": [
+      {
+        "example": "The conflict between the two countries has escalated in recent weeks.",
+        "translation": "最近几周，两国之间的冲突升级了。"
+      },
+      {
+        "example": "His work schedule conflicts with his family commitments.",
+        "translation": "他的工作时间表与他的家庭承诺发生冲突。"
+      }
+    ]
+  },
+  {
+    "num": 634,
+    "word": "confuse",
+    "chinese": "[vt.] 使混乱，混淆",
+    "examples": [
+      {
+        "example": "The new tax laws confuse many people because they are so complicated.",
+        "translation": "新的税法让很多人感到困惑，因为它们太复杂了。"
+      },
+      {
+        "example": "Don't confuse kindness with weakness; she is kind but also very strong.",
+        "translation": "不要把善良和软弱混为一谈；她很善良但也非常坚强。"
+      }
+    ]
+  },
+  {
+    "num": 635,
+    "word": "congratulate",
+    "chinese": "[vt.] 祝贺，向...道喜",
+    "examples": [
+      {
+        "example": "I want to congratulate you on your graduation.",
+        "translation": "我想祝贺你毕业。"
+      },
+      {
+        "example": "He was congratulated for his bravery by the mayor.",
+        "translation": "市长因他的勇敢而向他表示祝贺。"
+      }
+    ]
+  },
+  {
+    "num": 636,
+    "word": "congress",
+    "chinese": "[n.] 大会，国会，议会",
+    "examples": [
+      {
+        "example": "The bill was passed by Congress and signed into law by the President.",
+        "translation": "该法案已由国会通过，并由总统签署成为法律。"
+      },
+      {
+        "example": "The annual congress of the association will take place next month.",
+        "translation": "该协会的年度大会将于下个月举行。"
+      }
+    ]
+  },
+  {
+    "num": 637,
+    "word": "conjunction",
+    "chinese": "[n.] 连接，连接词，关联",
+    "examples": [
+      {
+        "example": "The conjunction of the two companies created a powerful new corporation.",
+        "translation": "两家公司的合并创建了一个强大的新公司。"
+      },
+      {
+        "example": "\"And,\" \"but,\" and \"or\" are examples of conjunctions in English.",
+        "translation": "\"和\"、\"但是\"和\"或\"是英语中的连词例子。"
+      }
+    ]
+  },
+  {
+    "num": 638,
+    "word": "conquer",
+    "chinese": "[vt.] 征服，战胜；[vi.] 得胜",
+    "examples": [
+      {
+        "example": "Alexander the Great conquered many lands in his lifetime.",
+        "translation": "亚历山大大帝一生征服了许多土地。"
+      },
+      {
+        "example": "She finally conquered her fear of flying.",
+        "translation": "她最终克服了对飞行的恐惧。"
+      }
+    ]
+  },
+  {
+    "num": 639,
+    "word": "conquest",
+    "chinese": "[n.] 攻取，征服",
+    "examples": [
+      {
+        "example": "The conquest of space remains one of humanity's greatest achievements.",
+        "translation": "太空的征服仍然是人类最伟大的成就之一。"
+      },
+      {
+        "example": "The Norman Conquest of England in 1066 changed the course of history.",
+        "translation": "1066年诺曼征服英格兰改变了历史的进程。"
+      }
+    ]
+  },
+  {
+    "num": 640,
+    "word": "conscience",
+    "chinese": "[n.] 良心，道德心",
+    "examples": [
+      {
+        "example": "He acted according to his conscience and reported the fraud.",
+        "translation": "他按照自己的良心行事，报告了这起欺诈行为。"
+      },
+      {
+        "example": "A clear conscience is more valuable than wealth.",
+        "translation": "清白的良心比财富更有价值。"
+      }
+    ]
+  },
+  {
+    "num": 641,
+    "word": "conscious",
+    "chinese": "[adj.] 意识到的，自觉的；[n.] 意识",
+    "examples": [
+      {
+        "example": "She was fully conscious of the gravity of the situation.",
+        "translation": "她完全意识到了形势的严重性。"
+      },
+      {
+        "example": "After the accident, he was unconscious for several hours before regaining consciousness.",
+        "translation": "事故发生后，他失去意识几个小时，然后才恢复意识。"
+      }
+    ]
   }
 ]

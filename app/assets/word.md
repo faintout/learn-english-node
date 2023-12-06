@@ -2566,3 +2566,155 @@
 641. **conscious** [adj.] 意识到的，自觉的；[n.] 意识
    - She was fully conscious of the gravity of the situation. (她完全意识到了形势的严重性。)
    - After the accident, he was unconscious for several hours before regaining consciousness. (事故发生后，他失去意识几个小时，然后才恢复意识。)
+
+642. **consent** [n.] 同意，赞成，许可；[vi.] 同意，承诺
+   - She gave her consent to the marriage. (她同意了这桩婚事。)
+   - You cannot publish these photos without the subjects' consent. (未经被摄者同意，你不能发布这些照片。)
+
+643. **consequence** [n.] 结果，后果
+   - He didn't consider the consequences of his actions. (他没有考虑他行为的后果。)
+   - The environmental consequences of deforestation are severe. (森林砍伐的环境后果是严重的。)
+
+644. **consequently** [adv.] 因此，因而，所以
+   - He was late for the meeting and, consequently, missed the main presentation. (他开会迟到了，因此错过了主要的演讲。)
+   - The roads were icy, and consequently, the school was closed. (道路结冰，因此学校关闭了。)
+
+645. **conservative** [adj.] 保守的，守旧的；[n.] 保守的人，保守派(党)
+   - His conservative views on marriage are well-known. (他对婚姻的保守观点是众所周知的。)
+   - She is a member of the Conservative Party. (她是保守党的一员。)
+
+646. **consider** [vt.] 认为，考虑，思考，关心
+   - Please consider my proposal carefully before making a decision. (在做决定之前请仔细考虑我的提议。)
+   - He is considered the best doctor in the town. (他被认为是镇上最好的医生。)
+
+647. **considerable** [adj.] 相当大的，重要的，可观的
+   - She inherited a considerable amount of money. (她继承了一大笔钱。)
+   - The project requires a considerable amount of time and resources. (这个项目需要相当多的时间和资源。)
+
+648. **considerate** [adj.] 考虑周到的，体谅的
+   - He is always considerate of other people's feelings. (他总是考虑到别人的感受。)
+   - It was very considerate of you to let us know you'd be late. (你让我们知道你会迟到，这是非常体贴的。)
+
+649. **consist** [vi.] 由...组成，存在，一致，在于；[n.] 组成
+   - The committee consists of five members. (委员会由五名成员组成。)
+   - A healthy diet should consist mainly of fruits, vegetables, and whole grains. (健康的饮食应主要由水果、蔬菜和全谷物组成。)
+
+650. **consistent** [adj.] 坚持的，一贯的，始终如一的，一致的
+   - Her account of the incident was consistent with the evidence. (她对事件的描述与证据一致。)
+   - He has been consistent in his support for the reform policy. (他一直坚持支持改革政策。)
+
+651. **constant** [adj.] 经常的，永恒的，不变的；[n.] 常数，恒量
+   - The constant noise from the construction site is annoying. (来自建筑工地的持续噪音很烦人。)
+   - The speed of light is a constant in physics. (光速是物理学中的一个常数。)
+
+652. **construct** [vt.] 建造，建设，构筑，绘制，想出；[n.] 构想，建造物
+   - The company plans to construct a new factory here. (公司计划在这里建造一个新工厂。)
+   - The bridge is a magnificent construct of steel and concrete. (这座桥是钢铁和混凝土构建的宏伟建筑物。)
+
+653. **consult** [vt.] 向...请教，查阅，商讨
+   - You should consult a lawyer before signing the contract. (在签订合同之前，你应该咨询律师。)
+   - I need to consult the manual to figure out how this machine works. (我需要查阅说明书以了解这台机器的工作原理。)
+
+654. **consume** [vt.] 消耗，消费，消灭，毁灭，吃、喝、挥霍；[vi.] 耗尽生命，被烧毁
+   - The new engine consumes less fuel. (新引擎消耗的燃料更少。)
+   - He was consumed by guilt after the accident. (事故发生后，他被内疚所困扰。)
+
+655. **contact** [vt.] 使接触，与...联系；[n.] 接触，联系，联系人；[adj.] 接触的
+   - Please contact customer service if you have any problems. (如果您有任何问题，请联系客户服务。)
+   - I lost contact with her years ago. (我多年前就失去了与她的联系。)
+
+656. **contain** [vt.] 包含，容纳，等于，克制，抑制；[vi.] 自制
+   - This drink doesn't contain any alcohol. (这种饮料不含酒精。)
+   - He could hardly contain his excitement. (他几乎无法抑制自己的兴奋。)
+
+657. **container** [n.] 容器，集装箱
+   - Please put the leftovers in a plastic container. (请把剩菜放在塑料容器里。)
+   - The ship was loaded with containers bound for Asia. (这艘船装载着驶往亚洲的集装箱。)
+
+658. **contemporary** [adj.] 当代的，同时代的，同时的，现代的；[n.] 同时代的人
+   - Contemporary art reflects the ideas of today's society. (当代艺术反映了当今社会的思想。)
+   - She is a contemporary of mine at university. (她是我大学时的同龄人。)
+
+659. **content** [n.] 内容，目录，容量；[adj.] 满足的，满意的；[vt.] 使...满足，使...安心
+   - The content of the book is very informative. (这本书的内容非常有教育意义。)
+   - He seems content with the results. (他似乎对结果感到满意。)
+
+660. **contest** [vt.] 争夺，争取，辩驳，竞争；[vi.] 奋斗；[n.] 竞争，比赛
+   - The two teams will contest the championship tomorrow. (这两支队伍将在明天争夺冠军。)
+   - She plans to contest the will. (她计划对遗嘱提出质疑。)
+
+661. **continue** [vt. & vi.] 继续，连续，维持，延伸
+   - The meeting will continue after a short break. (会议将在短暂休息后继续。)
+   - Despite the rain, the game continued. (尽管下雨，比赛还是继续了。)
+
+662. **continuous** [adj.] 连续不断的，连续的，继续的，连绵不断的，持续的
+   - The continuous sound of traffic kept me awake all night. (交通的持续噪音让我整夜未眠。)
+   - The company has seen continuous growth over the past five years. (过去五年公司持续增长。)
+
+663. **contract** [n.] 契约，合同书，合同，婚约；[v.] 缩短，缩小；[vt.] 订约
+   - She signed a contract with the publishing company. (她与出版公司签订了合同。)
+   - Metals contract as they cool. (金属在冷却时会收缩。)
+
+664. **contradiction** [n.] 矛盾，不一致，否认，反驳
+   - There is a contradiction between his earlier and later statements. (他早期和后期的声明之间存在矛盾。)
+   - She faced a contradiction in terms when she described the lazy employee as "remarkably active." (当她形容那个懒惰的员工“非常活跃”时，她使用了矛盾的措辞。)
+
+665. **contrary** [adj.] 相反的，截然不同的；[n.] 相反，反面；[adv.] 相反地
+   - His actions are contrary to his words. (他的行为与他的话相反。)
+   - On the contrary, I think it's a very good idea. (相反，我认为这是一个非常好的主意。)
+
+666. **contrast** [n.] 对比，对照，悬殊，差别；[v.] 对比，成对照；[计算机] 反差
+   - The contrast between the two paintings is striking. (这两幅画之间的对比非常醒目。)
+   - Her performance today contrasts sharply with her previous ones. (她今天的表现与她以前的截然不同。)
+
+667. **contribute** [vt.] 捐献，捐助，投稿；[vi.] 投稿，贡献，是原因之一
+   - He contributed a large sum of money to the charity. (他向慈善机构捐了一大笔钱。)
+   - Many factors contributed to the success of the project. (许多因素促成了项目的成功。)
+
+668. **control** [vt.] 控制，克制，掌管，支配；[n.] 克制，控制，管制，操作装置
+   - The government has imposed strict controls on smoking in public places. (政府对公共场所吸烟实施了严格的控制。)
+   - She lost control of her car on the icy road. (她在结冰的道路上失去了对汽车的控制。)
+
+669. **convenience** [n.] 便利，方便，便利设施，厕所，适宜，方便的时间，舒适
+   - The hotel is located near the airport for the convenience of travelers. (酒店位于机场附近，方便旅客。)
+   - Online shopping is popular because of its convenience. (在线购物因其便利而受欢迎。)
+
+670. **conventional** [adj.] 普通的，习惯的，传统的，惯例的，常规的
+   - Conventional methods of treatment proved ineffective. (传统的治疗方法证明无效。)
+   - The building's architecture is very conventional. (这座建筑的结构非常传统。)
+
+671. **conversation** [n.] 会话，谈话，非正式会谈
+   - We had a long conversation about our future plans. (我们就我们的未来计划进行了长时间的谈话。)
+   - The topic of politics is often avoided in casual conversation. (在非正式的谈话中，人们常常避免谈论政治。)
+
+672. **convert** [vt.] 使转变，使改变，倒置；[n.] 皈依者，改宗者
+   - The hotel is planning to convert the old ballroom into a conference center. (酒店计划将旧舞厅改造成会议中心。)
+   - After moving to the city, he became a convert to the idea of urban living. (搬到城市后，他成了城市生活方式的拥护者。)
+
+673. **convey** [vt.] 传送，运送，传播，转移；[计算机] 输送
+   - The pipes convey water to the storage tank. (管道将水输送到储水罐。)
+   - The teacher conveyed the concept in a way that was easy to understand. (老师以一种易于理解的方式传达了这个概念。)
+
+674. **convince** [vt.] 使确信，使信服，说服，使...相信
+   - It took some time, but I convinced her to take the job. (花了一些时间，但我说服她接受了这份工作。)
+   - The evidence was enough to convince the jury of his guilt. (这些证据足以使陪审团相信他的罪行。)
+
+675. **cook** [vt.] 烹调，煮，编造，虚构；[vi.] 烧菜，发生，做好；[n.] 厨师，烧菜
+   - He cooked a delicious meal for his family. (他为家人做了一顿美味的饭菜。)
+   - She's a fantastic cook, especially when it comes to baking. (她是一个了不起的厨师，尤其是在烘焙方面。)
+
+676. **cool** [adj.] 凉的，冷静的，冷色系的；[adv.] 冷静地；[n.] 凉快；[vt. & vi.] (使)变凉，(使)冷静
+   - The water in the pool is cool and refreshing. (游泳池里的水凉爽宜人。)
+   - He remained cool in the face of danger. (面对危险，他保持冷静。)
+
+677. **cooperate** [vi.] 合作，协作，配合
+   - The two companies agreed to cooperate with each other on the project. (这两家公司同意在项目上相互合作。)
+   - We need to cooperate closely to finish the task on time. (我们需要紧密合作以按时完成任务。)
+
+678. **cope** [vi.] 对付，应付，对抗；[n.] 长袍，斗篷状物；[vt.] 笼罩
+   - She's learning to cope with the demands of her new job. (她正在学习应对新工作的要求。)
+   - The ancient priests wore ornate copes during the ceremony. (古代的祭司在仪式中穿着华丽的长袍。)
+
+679. **copper** [n.] 铜，铜币，铜制器；[vt.] 镀铜
+   - Copper pipes are commonly used in plumbing. (铜管通常用于管道工程。)
+   - The old penny was made of copper. (旧的一便士硬币是由铜制成的。)
