@@ -5,7 +5,7 @@ const getAllWordList = () => {
     return JSON.parse(allWordListStr)
 }
 // 获取单词md
-const getWordMd = ()=>fs.readFileSync('./app/assets/word.md');
+const getWordMd = ()=>fs.readFileSync('./app/assets/word.md', 'utf8');
 // 获取随机索引
 const getRandomIndexList = () => {
     const userRandomIndexStr = fs.readFileSync('./app/assets/userRandomIndexList.json', 'utf8');

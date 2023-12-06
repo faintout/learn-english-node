@@ -6,11 +6,11 @@ const outputFile = './app/assets/allWordList.json'
 //获取匹配后的单词
 const updateWord2Json = async () => {
     try {
-        const regex = /^(\d+)\.\s+\*\*(.+?)\*\*\s+(\[.+?\])\s+(.+?)\n\s+-\s+(.+?)\s+\((.+?)\)\n\s+-\s+(.+?)\s+\((.+?)\)/gm;
+        const wordMd = getWordMd()
+        const regex = /^(\d+)\.\s+\*\*(.+?)\*\*\s+(\[.+?\])\s+(.+?)\r?\n\s+-\s+(.+?)\s+\((.+?)\)\r?\n\s+-\s+(.+?)\s+\((.+?)\)/gm;
         let match;
         const results = [];
-
-        while ((match = regex.exec(getWordMd())) !== null) {
+        while ((match = regex.exec(wordMd)) !== null) {
             const [_, number, word, partOfSpeech, definition, example1, translation1, example2, translation2] = match;
             const entry = {
                 num: parseInt(number),
