@@ -2718,3 +2718,171 @@
 679. **copper** [n.] 铜，铜币，铜制器；[vt.] 镀铜
    - Copper pipes are commonly used in plumbing. (铜管通常用于管道工程。)
    - The old penny was made of copper. (旧的一便士硬币是由铜制成的。)
+
+680. **copy** [n.] 抄件，副本，模仿，一册，稿件；[vt.] 抄写，抄袭，复制，复印；[vi.] 复制，抄写；[计算机] DOS命令：复制文件
+   - Please make a copy of the report for each member of the committee. (请为委员会的每位成员复印一份报告。)
+   - Children often learn by copying adults. (孩子们通常通过模仿大人来学习。)
+
+681. **cord** [n.] 细绳，粗线，索，束缚；[vt.] 用绳索绑
+   - I need a piece of cord to tie this package. (我需要一根绳子来捆这个包裹。)
+   - The books were corded together to make them easier to carry. (这些书被用绳子捆在一起，这样更便于携带。)
+
+682. **cordial** [adj.] 真诚的，诚恳的，热忱的，兴奋的；[n.] 兴奋剂，补品
+   - The host gave us a cordial welcome when we arrived. (我们到达时，主人热情地欢迎了我们。)
+   - After the hike, they enjoyed a cordial drink to restore their energy. (徒步旅行后，他们享用了一种兴奋剂饮料来恢复体力。)
+
+683. **core** [n.] 果实的心，核心，要点；[vt.] 挖去果核
+   - Understanding the core concept is essential to grasp the whole subject. (理解核心概念对于掌握整个学科至关重要。)
+   - She cored the apples before baking the pie. (她在烤派之前先去掉了苹果的核。)
+
+684. **corn** [n.] 谷物，谷粒，陈词滥调，鸡眼；(英) 小麦；[vt.] 使成颗粒状，用盐水腌制，用谷物喂；[vi.] 变成颗粒
+   - Corn is a staple food in many parts of the world. (玉米在世界许多地方是主食。)
+   - He decided to corn beef for the first time as part of his cooking experiment. (他决定第一次腌制牛肉，作为他烹饪实验的一部分。)
+
+685. **corner** [n.] 角，角落，转角，窘境，犄角，边远地区，偏僻住所；[vt.] 使...走投无路，使...陷入绝境，垄断，转弯；[adj.] 位于角落的
+   - He was standing in the corner of the room, away from the crowd. (他站在房间的角落里，远离人群。)
+   - The company has cornered the market on smartphone accessories. (这家公司垄断了智能手机配件市场。)
+
+686. **corporation** [n.] 公司，法人，集团，企业，社团
+   - She works for a multinational corporation that has offices all over the world. (她在一家遍布全球的跨国公司工作。)
+   - The city's transportation services were taken over by a private corporation. (该市的交通服务被一家私营公司接管了。)
+
+687. **correct** [adj.] 正确的；[vt. & vi.] 改正，纠正
+   - It is important to have the correct answer in a math test. (在数学考试中得到正确答案是很重要的。)
+   - The teacher corrected the essays and gave feedback to the students. (老师批改了这些论文并向学生们提供了反馈。)
+
+688. **correspond** [vi.] 相符合，相当，通信
+   - The suspect's fingerprints correspond with those found at the crime scene. (嫌疑人的指纹与在犯罪现场发现的指纹相符。)
+   - She corresponded with her pen pal for several years. (她与笔友通信了好几年。)
+
+689. **corresponding** [adj.] 相应的，符合的，一致的，相同的，相当的
+   - Each item on the list has a corresponding number to aid identification. (列表上的每一项都有一个相应的数字来帮助识别。)
+   - The increase in product demand has a corresponding effect on supply. (产品需求的增加对供应有相应的影响。)
+
+690. **corridor** [n.] 走廊，回廊，通路
+   - The hotel corridor was quiet at night. (晚上，酒店的走廊很安静。)
+   - The train had a narrow corridor connecting the compartments. (火车有一个连接车厢的狭窄走廊。)
+
+691. **cost** [n.] 价格，代价，成本，费用；[vt.] 花费，使付出；[vi.] 值，付出；[计算机] 费用
+   - The total cost of the project exceeded the initial budget. (项目的总成本超出了最初的预算。)
+   - How much will it cost to repair my car? (修理我的车需要花多少钱？)
+
+692. **costly** [adj.] 昂贵的，价值高的，代价高的
+   - Wearing costly jewelry to the event, she caught everyone's attention. (她戴着昂贵的珠宝参加活动，吸引了所有人的注意。)
+   - The mistake was costly, resulting in a loss of thousands of dollars. (这个错误代价高昂，导致了数千美元的损失。)
+
+693. **cottage** [n.] 村舍，小屋
+   - They rented a small cottage by the sea for their summer vacation. (他们租了一个海边的小屋度过暑假。)
+   - The cottage had a thatched roof and a charming garden. (这间小屋有一个茅草屋顶和一个迷人的花园。)
+
+694. **cotton** [n.] 棉，棉花，棉线，棉布；[vi.] 向…讨好，明白，领悟
+   - Cotton clothes are perfect for summer because they are light and breathable. (棉质衣服非常适合夏天，因为它们轻薄透气。)
+   - It took him a while to cotton on to the fact that they were joking. (他过了一会儿才明白他们是在开玩笑。)
+
+695. **cough** [vt. & vi.] 咳，咳嗽；[n.] 咳嗽
+   - If you cough during the concert, try to do it quietly. (如果你在音乐会上咳嗽，尽量轻声。)
+   - She has had a persistent cough for a week now. (她已经持续咳嗽一个星期了。)
+
+696. **council** [n.] 理事会，委员会，商议
+   - The city council voted to increase funding for public schools. (市议会投票决定增加对公立学校的资金支持。)
+   - He was elected to serve on the local council. (他被选举为地方议会的成员。)
+
+697. **count** [vt.] 计算，视为，依赖；[vi.] 数，计数；[n.] 计数
+   - Can you count the number of people in the room? (你能数一下房间里有多少人吗？)
+   - Every vote counts in an election. (在选举中，每一票都很重要。)
+
+698. **counter** [n.] 柜台，计数器，计算者；[adj.] 相反的；[adv.] 与…相反地；[vt.] 反对，反击；[vi.] 反对，反击
+   - She placed her items on the counter and waited to be served. (她把东西放在柜台上，等待服务。)
+   - His arguments were countered by strong evidence to the contrary. (他的论点被相反的有力证据所反驳。)
+
+699. **country** [n.] 国家，国土，农村；[adj.] 国家的，农村的
+   - She has traveled to over 30 countries in the world. (她已经去过世界上30多个国家。)
+   - They decided to move to the country to enjoy a quieter life. (他们决定搬到乡下享受更宁静的生活。)
+
+700. **countryside** [n.] 乡下，农村
+   - The countryside was dotted with small farms and picturesque villages. (乡村点缀着小农场和风景如画的村庄。)
+   - They went for a long walk in the countryside to enjoy the fresh air. (他们在乡下长途漫步，享受新鲜空气。)
+
+701. **county** [n.] 英国的郡，美国的县
+   - The county fair is held every year with lots of food and games. (每年都会举办县集市，有很多食物和游戏。)
+   - She works for the county government in the public health department. (她在公共卫生部门为县政府工作。)
+
+702. **couple** [n.] 夫妇，(一)对，几个，数个；[v.] 加倍，成双，连结
+   - The couple celebrated their 25th wedding anniversary with a party. (这对夫妇举办了派对庆祝他们的25周年结婚纪念日。)
+   - The two pipes are coupled together to extend their length. (这两根管子被连接在一起以延长它们的长度。)
+
+703. **courage** [n.] 勇气，胆量，胆识
+   - It takes a lot of courage to stand up for what you believe in. (为自己的信仰站出来需要很大的勇气。)
+   - The firefighter showed great courage during the rescue operation. (消防员在救援行动中表现出了极大的勇气。)
+
+704. **course** [n.] 课程，讲座，过程，路线，一道菜
+   - She is taking a course in environmental science this semester. (这个学期她正在上一门环境科学课。)
+   - For the main course, we had grilled salmon with vegetables. (主菜是我们吃的烤三文鱼配蔬菜。)
+
+705. **court** [n.] 法院，法庭，庭院，奉承，球场；[v.] 献殷勤，追求，招致危险
+   - The case was settled out of court. (这个案件在庭外和解了。)
+   - He has been courting her for months with flowers and gifts. (他用鲜花和礼物追求她已经好几个月了。)
+
+706. **cousin** [n.] 堂(或表)兄弟(姐妹)
+   - My cousin is coming to visit me next weekend. (我的堂兄弟下周末要来看我。)
+   - We have a family reunion every year where I get to see all of my cousins. (我们每年都有一个家庭团聚，在那里我可以见到所有的堂兄弟姐妹。)
+
+707. **cover** [vt.] 盖，覆盖，包括，涉及，包含；[n.] 盖子，封面，表面
+   - The table was covered with a beautiful cloth. (桌子上铺着一块漂亮的布。)
+   - The book has a hard cover to protect the pages inside. (这本书有一个硬封面来保护里面的页面。)
+
+708. **cow** [n.] 母牛，奶牛，母兽
+   - The farmer has a herd of cows that he milks every morning. (农夫有一群母牛，他每天早上都要挤奶。)
+   - The children were excited to see the cows on the farm. (孩子们很兴奋能在农场看到母牛。)
+
+709. **crack** [n.] 裂缝，裂纹，声变；[vi.] 爆裂，破裂，声变，打开
+   - There was a crack in the window that let the cold air in. (窗户上有个裂缝，冷空气从那里进来。)
+   - The ice on the pond began to crack as the weather warmed up. (随着天气变暖，池塘上的冰开始裂开。)
+
+710. **crash** [vi.] 碰撞，坠落，猛使...破碎，迫降；[n.] 碰撞，猛撞，轰隆声，崩溃破产，垮台
+   - The car lost control and crashed into a tree. (汽车失控并撞上了一棵树。)
+   - The stock market crash of 1929 led to the Great Depression. (1929年的股市崩溃导致了大萧条。)
+
+711. **crawl** [vi.] 爬，爬行；[n.] 爬行，匍匐而行
+   - The baby is learning to crawl before he can walk. (这个婴儿在学会走路之前正在学爬行。)
+   - Traffic was moving at a crawl during rush hour. (高峰时段，交通缓慢地爬行。)
+
+712. **crazy** [adj.] 疯狂的，荒唐的
+   - The fans went crazy when their favorite team won the championship. (当他们最喜欢的球队赢得冠军时，球迷们都疯了。)
+   - It's crazy to think you can learn a new language in a week. (认为你可以在一周内学会一门新语言是荒唐的。)
+
+713. **cream** [n.] 奶油
+   - She added some cream to her coffee to make it smoother. (她在咖啡中加了些奶油使其更加顺滑。)
+   - The recipe calls for a cup of cream. (食谱要求使用一杯奶油。)
+
+714. **create** [vt.] 创造，引起，产生
+   - The artist wants to create a sculpture that will inspire peace. (艺术家想创作一座能激发和平的雕塑。)
+   - The new policy will create opportunities for small businesses. (新政策将为小企业创造机会。)
+
+715. **creative** [adj.] 创造性的，创作的
+   - She has a very creative mind and comes up with original ideas. (她有一个非常有创造力的头脑，并能提出原创想法。)
+   - The company encourages a creative approach to problem-solving. (公司鼓励用创造性的方法解决问题。)
+
+716. **creature** [n.] 生物，动物，家畜，人
+   - The forest is home to many different creatures. (这片森林是许多不同生物的家。)
+   - Humans are the only creatures who can communicate using complex language. (人类是唯一能够使用复杂语言交流的生物。)
+
+717. **creep** [vi.] 爬行，缓慢地行进，蔓延；[n.] 爬，徐行，蠕动
+   - The vine began to creep up the side of the house. (藤蔓开始沿着房子的侧面向上爬。)
+   - As the hours crept by, the waiting became unbearable. (随着时间一点点过去，等待变得难以忍受。)
+
+718. **crew** [n.] 全体船员，全体乘务员；[vi.] 一起工作
+   - The ship's crew is responsible for the safety of all passengers. (船员负责所有乘客的安全。)
+   - They crewed together on the new project and finished it in record time. (他们在新项目上共同工作，并以创纪录的时间完成了它。)
+
+719. **cricket** [n.] 板球，蟋蟀；[vi.] 打板球
+   - Cricket is a popular sport in several countries, especially in England and Australia. (板球在一些国家非常流行，尤其是在英格兰和澳大利亚。)
+   - The sound of crickets chirping at night is very relaxing. (夜晚蟋蟀的鸣叫声非常令人放松。)
+
+720. **crime** [n.] 罪，罪行，犯罪，羞耻
+   - The police are investigating a crime where a store was robbed. (警方正在调查一起商店被抢劫的犯罪。)
+   - He was convicted of a crime he didn't commit. (他被定罪犯了一个他没有犯的罪。)
+
+721. **criminal** [n.] 犯人，罪犯，刑事犯；[adj.] 犯罪的，刑事的，无耻的
+   - The criminal was caught and sentenced to five years in prison. (罪犯被抓并被判处五年监禁。)
+   - It is criminal to neglect one's children. (忽视自己的孩子是不道德的。)
