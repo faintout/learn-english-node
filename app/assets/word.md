@@ -2886,3 +2886,103 @@
 721. **criminal** [n.] 犯人，罪犯，刑事犯；[adj.] 犯罪的，刑事的，无耻的
    - The criminal was caught and sentenced to five years in prison. (罪犯被抓并被判处五年监禁。)
    - It is criminal to neglect one's children. (忽视自己的孩子是不道德的。)
+
+722. **critic** [n.] 批评家，评论家，爱挑剔的人
+   - A famous critic wrote a scathing review of the new movie. (一位著名的批评家写了一篇严厉批评新电影的评论。)
+   - He has always been a critic of the government's policies. (他一直是政府政策的批评者。)
+
+723. **critical** [adj.] 批评的，危险的，挑剔的，临界的
+   - The patient is in critical condition and requires immediate surgery. (病人情况危急，需要立即手术。)
+   - Her work plays a critical role in the success of the project. (她的工作对项目的成功起着关键作用。)
+
+724. **criticism** [n.] 批评，批判，评论
+   - The author's new book has received a lot of criticism. (作者的新书受到了很多批评。)
+   - Constructive criticism can help you improve your work. (建设性的批评可以帮助你改进工作。)
+
+725. **criticize** [vt.] 批评，评论，非难，吹毛求疵；[vi.] 批评
+   - The teacher criticized my essay for its lack of coherence. (老师批评我的文章缺乏连贯性。)
+   - It's easy to criticize others, but it's harder to suggest improvements. (批评别人很容易，但提出改进建议更难。)
+
+726. **crop** [n.] 农作物，庄稼，收成，一熟，一群，平头；[vt.] 割掉，修剪，剪短，收割，使谷物生长；[vi.] 啃青草，种植谷物
+   - The farmers are worried about the crop yield this year due to the drought. (由于干旱，农民们担心今年的作物产量。)
+   - She decided to crop her hair for the summer. (她决定在夏天剪短头发。)
+
+727. **cross** [vt.] 穿过，划叉剔除，画横线于；[vi.] 穿越；[prep.] 穿过；[n.] 十字架，十字架形物件，交叉，交叉路；[adj.] 生气的，交叉的
+   - We need to cross the river by the bridge. (我们需要通过桥梁过河。)
+   - She was cross with me for being late. (我迟到了，她对我很生气。)
+
+728. **crow** [n.] 鸦，乌鸦，啼叫，欢叫；[vi.] 啼，啼叫，报晓，欢叫；[vt.] 洋洋得意，自鸣得意
+   - The crow cawed loudly from the top of the tree. (乌鸦在树顶上大声啼叫。)
+   - After winning the match, he couldn't resist crowing about his victory. (赢得比赛后，他忍不住洋洋得意地谈论他的胜利。)
+
+729. **crown** [n.] 王冠，冕，王权，顶点，花冠；[vt.] 使...成王，加冕，居...之顶，为牙齿镶上假齿冠；[vi.] 火迅速烧到树的顶端
+   - The queen wore a beautiful gold crown. (女王戴着一顶漂亮的金冠。)
+   - The dentist said I would need a crown on my broken tooth. (牙医说我的断牙需要镶一个假齿冠。)
+
+730. **cruel** [adj.] 残忍的，残酷的，引起痛苦的
+   - The cruel treatment of animals in some factories has led to public outcry. (一些工厂对动物的残忍待遇引起了公众的强烈抗议。)
+   - It's cruel to keep a dog locked up all day. (整天把狗关起来是很残忍的。)
+
+731. **crush** [vt.] 压碎，碾碎，镇压；[n.] 拥挤的人群，迷恋，关键时刻，果汁，榨汁酿酒；[vi.] 被压碎，挤
+   - The machine can crush up to 300 tons of rock per hour. (这台机器每小时可以压碎300吨岩石。)
+   - She has a crush on one of her classmates. (她迷恋上了她的一个同班同学。)
+
+732. **cry** [vi.] 哭，哭泣，叫喊，强烈要求；[vt.] 大声叫喊，宣传；[n.] 叫哭，喊，口号，叫卖声，普遍意见
+   - The baby won't stop crying unless she's held. (除非抱着，否则这个宝宝就不会停止哭泣。)
+   - The protesters used to cry out against social injustices. (抗议者过去常常大声疾呼反对社会不公。)
+
+733. **crystal** [n.] 水晶，结晶体，晶粒；[adj.] 清澈透明的，晶体的
+   - She wore a necklace made of crystal. (她戴了一条水晶项链。)
+   - The crystal clear water of the lake reflected the mountains. (湖水清澈透明，映出了山峦。)
+
+734. **culture** [n.] 文化，文明，教养，种植；[vt.] 培养
+   - Learning about different cultures is an important part of education. (学习不同的文化是教育的重要部分。)
+   - Scientists culture bacteria in the lab for various experiments. (科学家在实验室培养细菌进行各种实验。)
+
+735. **cup** [n.] 杯子，(一)杯，奖杯；[v.] (使)成杯形；[vt.] 使成杯形
+   - He drank a cup of coffee to start his day. (他喝了一杯咖啡开始新的一天。)
+   - The winner of the tournament will receive a silver cup. (锦标赛的获胜者将获得一个银杯。)
+
+736. **cupboard** [n.] 碗柜，碗碟橱，食橱
+   - She reached into the cupboard to get a plate. (她伸手进碗柜拿了一个盘子。)
+   - We store our food and dishes in the kitchen cupboard. (我们把食物和餐具存放在厨房的碗碟橱里。)
+
+737. **cure** [vt.] 医治，消除；[vt. & vi.] 治疗，治愈，改正；[n.] 治疗，治愈，治疗法
+   - There is still no known cure for the common cold. (普通感冒仍然没有已知的治愈方法。)
+   - The doctor was able to cure the patient of the infection. (医生能够治愈病人的感染。)
+
+738. **curious** [adj.] 好奇的，奇特的，稀奇古怪的
+   - The child was curious about everything around him. (那个孩子对他周围的一切都很好奇。)
+   - It's a curious feeling to meet someone from your past. (遇到过去认识的人是一种奇怪的感觉。)
+
+739. **current** [adj.] 当前的，现在的，最近的，通用的，流通的；[n.] (水、气、电)流，趋势
+   - The current issue of the magazine features an article on health. (杂志的最新一期有一篇关于健康的文章。)
+   - The strong current made it difficult to swim back to shore. (强烈的水流使得游回岸边变得困难。)
+
+740. **curse** [n.] 诅咒，咒骂，天谴，祸端；[vt.] 咒骂，诅咒，引起灾祸；[vi.] 诅咒
+   - The witch put a curse on the prince, turning him into a frog. (女巫对王子施了咒语，把他变成了一只青蛙。)
+   - He cursed his bad luck after losing his job. (失业后，他诅咒自己的坏运气。)
+
+741. **curtain** [n.] 帘，窗帘，幕(布)，遮蔽物；[vt.] 用窗帘装饰，遮蔽
+   - She drew the curtains to block out the sunlight. (她拉上窗帘以遮挡阳光。)
+   - The end of the play was signalled by the falling curtain. (剧终是由落幕来表示的。)
+
+742. **cushion** [n.] 垫子，坐垫，橡皮软垫，缓冲；[vt.] 加垫褥，放在垫子上，保护，减缓；为...装垫子
+   - He placed a cushion on the chair for more comfort. (他在椅子上放了个垫子以增加舒适度。)
+   - The soft grass cushioned his fall. (柔软的草地缓冲了他的摔落。)
+
+743. **custom** [n.] 习惯，风俗，海关
+   - It is a local custom to shake hands when meeting someone for the first time. (初次见面握手是当地的习俗。)
+   - She had to go through customs at the airport before entering the country. (她在进入国家之前必须在机场通过海关检查。)
+
+744. **customer** [n.] 顾客，主顾，家伙
+   - The store offers a discount to its regular customers. (这家商店为常客提供折扣。)
+   - He's a tough customer to deal with in negotiations. (他在谈判中是个难对付的家伙。)
+
+745. **cut** [vt.] 割，剪，减少，停止，修剪；[vi.] 切割，快速移动；[n.] 切口，割伤，降低，份额，删节，割下的一块肉
+   - She cut the paper into small pieces. (她把纸剪成小片。)
+   - The government announced a cut in taxes. (政府宣布减税。)
+
+746. **cycle** [n.] 自行车，循环，周期，长期，圈，套曲；[vt.] 环行，骑自行车；[vi.] 使环行
+   - The water cycle is an important part of Earth's climate system. (水循环是地球气候系统的重要部分。)
+   - She cycles to work every day to stay fit. (她每天骑自行车上班以保持健康。)
