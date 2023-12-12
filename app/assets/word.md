@@ -2986,3 +2986,159 @@
 746. **cycle** [n.] 自行车，循环，周期，长期，圈，套曲；[vt.] 环行，骑自行车；[vi.] 使环行
    - The water cycle is an important part of Earth's climate system. (水循环是地球气候系统的重要部分。)
    - She cycles to work every day to stay fit. (她每天骑自行车上班以保持健康。)
+
+747. **daily** [adj.] 每日的，按天计算的，日常的；[adv.] 每日，天天；[n.] 日报，(复数) 工作样片
+   - I read the daily newspaper to catch up on current events. (我阅读日报来了解时事。)
+   - She takes a daily walk for her health. (她每天散步来保持健康。)
+
+748. **dairy** [n.] 牛奶场，乳制品，乳品店；[adj.] 牛奶的
+   - The dairy section of the supermarket is where you find milk and cheese. (超市的乳制品区是你找到牛奶和奶酪的地方。)
+   - He works on a dairy farm milking cows every morning. (他在一个牛奶场工作，每天早上挤牛奶。)
+
+749. **damage** [vt.] 损害，毁坏；[n.] (复数) 赔偿，损坏，毁坏，损害
+   - The storm caused significant damage to the coastal area. (风暴对沿海地区造成了严重的损害。)
+   - The insurance company assessed the damage to the car after the accident. (事故后，保险公司评估了汽车的损坏情况。)
+
+750. **dance** [vi.] 跳舞，摇晃，雀跃；[vt.] 使跳跃，使某人以跳舞的方式进入；[n.] 舞蹈，舞会，舞步
+   - They love to dance to the rhythm of salsa music. (他们喜欢随着萨尔萨音乐的节奏跳舞。)
+   - The annual school dance is a chance for students to socialize and have fun. (年度学校舞会是学生们社交和娱乐的机会。)
+
+751. **danger** [n.] 危险，危险事物
+   - There is a great deal of danger in climbing without proper equipment. (没有适当装备的攀登充满了危险。)
+   - He warned his children of the danger of talking to strangers. (他警告孩子们不要和陌生人说话的危险。)
+
+752. **dangerous** [adj.] 危险的，不安全的，引起危险的
+   - Driving in heavy fog is extremely dangerous. (在浓雾中驾驶极其危险。)
+   - Some chemicals are dangerous to human health. (有些化学品对人类健康有害。)
+
+753. **dare** [vt., vi., aux.v.] 敢，竟敢，敢于，勇于面对；[n.] 敢，挑战
+   - I dare you to try the hottest sauce on the menu. (我敢你尝试菜单上最辣的酱料。)
+   - It was a dare that he couldn't turn down. (这是一个他无法拒绝的挑战。)
+
+754. **dark** [adj.] 暗的，黑色的；[n.] 黑暗，暗处
+   - It's too dark in this room to read without a light. (这个房间太暗，没有灯光就无法阅读。)
+   - She has a fear of the dark and always sleeps with a night light. (她害怕黑暗，总是开着小夜灯睡觉。)
+
+755. **darling** [n.] 亲爱的人，可爱的人，宠儿；[adj.] 可爱的，亲爱的
+   - He bought his darling wife flowers for their anniversary. (他为他亲爱的妻子买了花庆祝他们的周年纪念日。)
+   - That little kitten is such a darling. (那只小猫咪真是太可爱了。)
+
+756. **dash** [vt.] 使猛撞，猛掷，泼溅，冲撞，匆忙；[vi.] 猛冲，猛撞；[n.] 猛冲，冲撞，破折号，少量，短跑，冲劲
+   - He dashed out of the room when he heard the news. (他听到消息时冲出了房间。)
+   - Add a dash of salt to the recipe for extra flavor. (在食谱中加入少许盐以增加风味。)
+
+757. **data** [n.] (datum的复数) 数据，资料
+   - We need more data to make an informed decision. (我们需要更多数据来做出明智的决定。)
+   - The research is based on data collected from numerous experiments. (这项研究基于从众多实验中收集的数据。)
+
+758. **date** [n.] 日期，约会，枣椰子；[vt.] 约会，定...日期；[vi.] 追溯到；[n., 计算机] DOS命令：显示或设置系统日期
+   - They set a date for their wedding next summer. (他们定下了明年夏天的婚期。)
+   - The ancient artifact dates back to the Roman Empire. (这件古代文物可以追溯到罗马帝国时期。)
+
+759. **daughter** [n.] 女儿；[adj.] 与女儿有关的，女性直系后代的
+   - Their daughter is starting school this fall. (他们的女儿今年秋天开始上学。)
+   - She has a very close relationship with her daughter. (她和她的女儿关系非常亲密。)
+
+760. **dawn** [n.] 黎明，破晓，开端；[vi.] 破晓，逐渐明白
+   - We woke up at dawn to watch the sunrise. (我们在黎明时分醒来观看日出。)
+   - The truth began to dawn on him after seeing the evidence. (看到证据后，他开始逐渐明白真相。)
+
+761. **day** [n.] (一)天，白昼，白天
+   - I have a meeting scheduled for the next day. (我安排了第二天的会议。)
+   - During the summer, the days are longer and the nights are shorter. (夏天，白天更长，夜晚更短。)
+
+762. **daylight** [n.] 白昼，日光，黎明
+   - It's safer to travel by daylight. (白天旅行更安全。)
+   - After the long night, we were relieved to see the first light of daylight. (长夜过后，我们很高兴看到第一缕曙光。)
+
+763. **dead** [adj.] 死的，无生命的，萧条的，精疲力竭的，用完的，无趣的；[adv.] 完全地，突然地，直接地；[n.] 死者，死
+   - The battery is dead; we need to recharge it. (电池没电了；我们需要给它充电。)
+   - He stopped dead in his tracks when he saw the snake. (他看到蛇时立刻停住了。)
+
+764. **deaf** [adj.] 聋的，不愿听的
+   - The explosion left him temporarily deaf in one ear. (爆炸使他一只耳朵暂时失聪。)
+   - She pretended to be deaf to his requests. (她假装听不到他的请求。)
+
+765. **deal** [n.] 买卖，待遇，交易，协定，份量；[vt.] (dealt, dealt) 处理，应付，分配，给予
+   - They made a deal to sell the company. (他们达成了出售公司的协议。)
+   - Life has dealt him a few tough cards, but he manages to stay positive. (生活给了他一些艰难的处境，但他设法保持积极。)
+
+766. **dear** [adj.] 严重的，珍贵的，亲爱的，昂贵的，衷心的；[adv.] 高价地，热爱地；[n.] 亲爱的人，可爱的人；[int.] 啊，哎呀
+   - My dear friend, I will miss you when you move away. (我亲爱的朋友，当你搬走时我会想念你。)
+   - That handbag is dear, but it's made of high-quality leather. (那个手提包很贵，但它是由高质量的皮革制成的。)
+
+767. **death** [n.] 死，死亡，灭亡，死神
+   - The cause of death was determined to be natural causes. (确定死因是自然原因。)
+   - Many fear the inevitable approach of death. (许多人害怕不可避免的死亡。)
+
+768. **debt** [n.] 债，债务，欠债，负债状态，义务，罪，过失
+   - He managed to pay off his debts in five years. (他设法在五年内还清了债务。)
+   - The country is in debt due to its large budget deficit. (由于巨大的预算赤字，这个国家负债。)
+
+769. **decade** [n.] 十年，十年期
+   - The city has changed a lot over the past decade. (过去十年这个城市发生了很大的变化。)
+   - She celebrated a decade of service with the company. (她庆祝了在公司服务十年。)
+
+770. **deceive** [vt.] 欺骗，蒙蔽；[vi.] 行骗
+   - It's wrong to deceive people into buying faulty products. (欺骗人们购买有缺陷的产品是错误的。)
+   - The magician's job is to deceive the audience with his tricks. (魔术师的工作是用他的把戏欺骗观众。)
+
+771. **December** [n.] 十二月
+   - December is the last month of the year. (十二月是一年的最后一个月。)
+   - Many people travel during December for the holidays. (许多人在十二月假期旅行。)
+
+772. **decide** [vt., vi.] 决定，决心，解决，作出抉择
+   - You must decide where you want to go to college. (你必须决定你想去哪所大学。)
+   - The jury has to decide the fate of the defendant. (陪审团必须决定被告的命运。)
+
+773. **decision** [n.] 决定，决心，果断，决策
+   - Making the right decision can be very challenging. (做出正确的决定可能非常具有挑战性。)
+   - The board's decision will affect the future of the company. (董事会的决定将影响公司的未来。)
+
+774. **deck** [n.] 甲板，舱面，层面，桥面，楼层；[vt.] 装饰
+   - The guests enjoyed the party on the boat's deck. (客人们在船的甲板上享受派对。)
+   - They decked the halls with boughs of holly for Christmas. (他们用冬青树枝装饰大厅以迎接圣诞节。)
+
+775. **declare** [vt., vi.] 断言，声明，表明，宣布，申报
+   - The president declared a state of emergency after the natural disaster. (自然灾害后，总统宣布了紧急状态。)
+   - Travelers must declare any goods they are bringing into the country. (旅客必须申报他们带入国家的任何货物。)
+
+776. **decorate** [vt.] 装饰，装璜，修饰，授予某人奖章或其他奖状
+   - They decorated the wedding venue with flowers and ribbons. (他们用花和丝带装饰婚礼场地。)
+   - The soldier was decorated for his bravery in battle. (这位士兵因战斗中的勇敢而被授予勋章。)
+
+777. **decrease** [vi., n.] 减少，减少
+   - The number of applicants has decreased compared to last year. (与去年相比，申请人数减少了。)
+   - A decrease in temperature is expected overnight. (预计夜间温度会下降。)
+
+778. **deduce** [vt.] 演绎，推论，推断，溯源
+   - From the evidence, the detective was able to deduce the identity of the culprit. (从证据中，侦探能够推断出罪犯的身份。)
+   - Scientists can deduce the age of fossils by using various dating methods. (科学家可以使用各种测年方法推断化石的年龄。)
+
+779. **deed** [n.] 行为，事迹，功绩；(尤指房产) 契约，证书；[vt.] 通过行为转化
+   - A good deed can make someone's day better. (一个善行可以让某人的一天变得更好。)
+   - The property was transferred by deed to the new owner. (该房产通过契约转让给了新主人。)
+
+780. **deep** [adj.] 深的，有...深的，深奥的，纵深的；[adv.] 深深地，晚地；[n.] 深处
+   - The water is too deep for children to swim in safely. (水太深，孩子们不能安全地游泳。)
+   - He fell into a deep sleep after the long journey. (长途旅行后，他陷入了沉睡。)
+
+781. **defeat** [vt.] 战胜，击败，挫败；[n.] 败北，失败
+   - The team suffered a defeat in the final minutes of the game. (球队在比赛最后几分钟遭遇了失败。)
+   - Despite the defeat, the players held their heads high. (尽管失败了，球员们仍然昂首挺胸。)
+
+782. **defence** [n.] 防御，防务，辩护，答辩
+   - The country's defence strategy is under review. (该国的防御策略正在审查之中。)
+   - The lawyer prepared a strong defence for his client. (律师为他的客户准备了有力的辩护。)
+
+783. **defend** [vt., vi.] 防护，辩护，防卫，保卫，防守
+   - The soldiers defended the fort against the attackers. (士兵们保卫堡垒抵御攻击者。)
+   - The attorney defended her client vigorously in court. (律师在法庭上为她的客户进行了积极的辩护。)
+
+784. **definite** [adj.] 明确的，肯定的，一定的
+   - We need a definite answer by tomorrow. (我们需要在明天之前得到一个明确的答复。)
+   - The schedule is now definite, with no expected changes. (现在的日程是确定的，预计不会有变化。)
+
+785. **definitely** [adv.] 明确地，肯定地
+   - I will definitely be there by 8:00 PM. (我肯定会在晚上8点之前到那里。)
+   - She definitely said she would call us today. (她明确说过她今天会给我们打电话。)
