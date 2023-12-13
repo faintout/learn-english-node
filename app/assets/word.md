@@ -3142,3 +3142,175 @@
 785. **definitely** [adv.] 明确地，肯定地
    - I will definitely be there by 8:00 PM. (我肯定会在晚上8点之前到那里。)
    - She definitely said she would call us today. (她明确说过她今天会给我们打电话。)
+
+786. **definitely** [adv.] 一定地，明确地，确切地
+   - I will definitely be there by 8 o'clock. (我一定会在8点钟之前到那里。)
+   - She definitely said she would call us today. (她确切地说过她今天会给我们打电话。)
+
+787. **degree** [n.] 程度，度，度数，学位
+   - The temperature has risen by several degrees since morning. (自早晨以来，温度已经上升了好几度。)
+   - She earned her degree in biology from the university. (她从大学获得了生物学学位。)
+
+788. **delay** [vt.] 推迟，耽搁，延误；[vi.] 耽搁；[n.] 耽搁，迟滞
+   - The bad weather delayed our flight. (坏天气延误了我们的航班。)
+   - There was a delay in the train schedule due to the heavy snow. (由于大雪，火车时刻表出现了延误。)
+
+789. **delegation** [n.] 代表团，委派
+   - A delegation from the company will attend the international conference. (公司的一个代表团将出席国际会议。)
+   - The senator met with a delegation of small business owners. (参议员会见了一群小企业主的代表团。)
+
+790. **delicate** [adj.] 纤细的，易碎的，精美的，微妙的，美味的，脆弱的，敏锐的；[n.] 精美的东西
+   - The delicate glass figurine must be handled with care. (这个精美的玻璃小雕像必须小心处理。)
+   - The situation called for a delicate balance between honesty and diplomacy. (这种情况需要在诚实和外交之间找到一个微妙的平衡。)
+
+791. **delicious** [adj.] 美味的，可口的，怡人的
+   - The homemade apple pie was absolutely delicious. (自制的苹果派绝对美味。)
+   - The aroma of the delicious stew made everyone's mouth water. (那道美味炖菜的香味让每个人都垂涎三尺。)
+
+792. **delight** [n.] 快乐，愉快；[vt.] 使高兴；[vi.] 享受乐趣
+   - The child's laughter was a pure delight to hear. (孩子的笑声听起来非常令人愉快。)
+   - The movie delighted audiences of all ages. (这部电影让所有年龄段的观众都感到高兴。)
+
+793. **deliver** [vt.] 投递，递送，送交，发表，表达，释放，交付，接生，履行；[vi.] 达成
+   - The postman delivers mail to our house every morning. (邮递员每天早上都会给我们家送邮件。)
+   - The lawyer delivered a powerful closing argument in the trial. (律师在审判中发表了一个有力的结束陈词。)
+
+794. **delivery** [n.] 投递，交付，分娩
+   - The delivery of the package was delayed due to the strike. (由于罢工，包裹的投递被延迟了。)
+   - The nurse assisted in the delivery of the baby. (护士协助进行了婴儿的分娩。)
+
+795. **demand** [vt.] 要求，需要，询问；[n.] 要求，需求
+   - The workers demand better working conditions. (工人们要求更好的工作条件。)
+   - There is a high demand for skilled programmers in the tech industry. (在科技行业对熟练程序员的需求很高。)
+
+796. **democracy** [n.] 民主，民主制，民主国家
+   - Democracy allows citizens to have a voice in their government. (民主允许公民在政府中有发言权。)
+   - The country is considered a beacon of democracy in the region. (这个国家被认为是该地区民主的灯塔。)
+
+797. **demonstrate** [vt.] 说明，论证，证明，表露，示范，演示；[vi.] 示威
+   - The teacher demonstrated the experiment in front of the class. (老师在班前演示了实验。)
+   - The protestors demonstrated against the new law. (抗议者对新法律进行了示威。)
+
+798. **dense** [adj.] 密集的，浓厚的，愚钝的，不易看透的
+   - The forest was too dense to walk through. (森林太密集，无法穿过。)
+   - The book is dense with information and takes time to digest. (这本书信息密集，需要时间消化。)
+
+799. **deny** [vt.] 否定，拒绝相信，拒绝，反对，克制
+   - The accused man denied all the charges against him. (被告否认了对他的所有指控。)
+   - She denied having any knowledge of the plan. (她否认对计划有任何了解。)
+
+800. **depart** [vi.] 离开，起程，出发，死亡，脱轨；[vt.] 离开
+   - The train departs from platform 6 in ten minutes. (火车将在十分钟后从6号站台出发。)
+   - He departed from the usual procedures and took a risk. (他偏离了常规程序，冒了险。)
+
+801. **department** [n.] 部，司，局，处，系，部门，省
+   - She works in the marketing department of the company. (她在公司的市场部工作。)
+   - The fire department responded quickly to the emergency call. (消防部门迅速响应了紧急呼叫。)
+
+802. **depend** [vi.] 依靠，依赖，相信，指望
+   - Success often depends on how hard you work. (成功往往取决于你工作有多努力。)
+   - You can depend on me; I won't let you down. (你可以依靠我；我不会让你失望。)
+
+803. **dependent** [adj.] 依靠的，依赖的，附属的，悬垂的；[n.] 受经济援助者
+   - Children are dependent on their parents for food and shelter. (孩子们依靠父母提供食物和住所。)
+   - He has three dependents, including his elderly mother. (他有三个受抚养人，包括他年迈的母亲。)
+
+804. **depress** [vt.] 使沮丧，按下，降低；[计算机] 降低
+   - The gloomy weather tends to depress me. (阴沉的天气往往使我感到沮丧。)
+   - You need to depress the clutch pedal fully before changing gears. (换挡之前需要完全踩下离合器踏板。)
+
+805. **depth** [n.] 深度，深厚，深处，强度，诚挚
+   - The depth of the pool ranges from 1 to 3 meters. (游泳池的深度从1米到3米不等。)
+   - His speech touched everyone with its depth of feeling. (他的演讲因其感情的深度而感动了每个人。)
+
+806. **descend** [vt. & vi.] 降，传，降临，下来，下降，下倾
+   - The hikers began to descend the mountain as the sun set. (太阳落山时，登山者开始下山。)
+   - Silence descended on the room as the results were announced. (结果宣布时，房间陷入了寂静。)
+
+807. **describe** [vt.] 形容，描写，描绘，描述，画(尤指几何图形)
+   - Can you describe the person who took your bag? (你能描述一下拿走你包的那个人吗？)
+   - The author describes the village in great detail. (作者非常详细地描述了这个村庄。)
+
+808. **description** [n.] 描写，描述，说明书，作图，形容，种类
+   - The witness gave a full description of the event to the police. (目击者向警方提供了事件的完整描述。)
+   - This species of bird is new to science and defies description. (这种鸟类对科学而言是新的，难以描述。)
+
+809. **desert** [n.] 沙漠，荒地；[vt.] 离弃，擅离，遗弃；[vi.] 擅离职守；[adj.] 沙漠的，荒凉的
+   - The Sahara is the largest hot desert in the world. (撒哈拉是世界上最大的热沙漠。)
+   - Soldiers who desert their posts can face severe penalties. (擅离职守的士兵可能会面临严厉的处罚。)
+
+810. **deserve** [vt.] 应受，值得；[vi.] 应该得到
+   - After all his hard work, he deserves a vacation. (经过他所有的辛勤工作，他应该得到一个假期。)
+   - She deserves credit for all the effort she has put into the project. (她应该因为她投入到项目中的所有努力而得到赞扬。)
+
+811. **design** [vt.] 设计，想像，计划；[vi.] 计划，设计；[n.] 设计，图样
+   - The architect designed a modern building with lots of natural light. (建筑师设计了一个有很多自然光的现代建筑。)
+   - The design of the new currency incorporates advanced security features. (新货币的设计包含了先进的安全特性。)
+
+812. **desirable** [adj.] 值得渴望的，可取的，值得有的，令人满意的，有吸引力的；[n.] 有吸引力的人
+   - A quiet neighborhood is a desirable location for many families. (安静的邻里对许多家庭来说是一个理想的地点。)
+   - He is considered one of the most desirable bachelors in the city. (他被认为是城里最有魅力的单身汉之一。)
+
+813. **desire** [vt.] 要求，向往，请求，渴望；[n.] 愿望，欲望，情欲
+   - She expressed a desire to visit Paris. (她表达了想要访问巴黎的愿望。)
+   - The desire for success motivates him to work hard. (对成功的渴望激励他努力工作。)
+
+814. **desk** [n.] 书桌，办公桌
+   - He sat at his desk writing a letter. (他坐在书桌前写信。)
+   - The receptionist directed us to the information desk. (接待员指引我们去信息咨询台。)
+
+815. **despair** [n.] 绝望，失望；[vi.] 绝望，失望
+   - In moments of despair, she would look at pictures of her family for comfort. (在绝望的时刻，她会看看家人的照片来安慰自己。)
+   - He despaired of ever finding his lost dog. (他对找回丢失的狗感到绝望。)
+
+816. **desperate** [adj.] 拼死的，绝望的，不顾一切的，极想得到的
+   - The drought has made farmers desperate for rain. (干旱使得农民们迫切需要雨水。)
+   - In a desperate attempt to win the game, he took a risky shot. (在拼命尝试赢得比赛中，他进行了一次冒险的射击。)
+
+817. **despite** [prep.] 不管，尽管，不顾；[v.] 憎恨，轻视
+   - Despite the rain, the football game continued. (尽管下雨，足球比赛还是继续了。)
+   - She succeeded despite all the difficulties she faced. (尽管面临所有困难，她还是成功了。)
+
+818. **destination** [n.] 目的地，终点，目标，景点
+   - Paris is a popular tourist destination. (巴黎是一个受欢迎的旅游目的地。)
+   - They reached their destination after a long journey. (经过长途旅行后，他们到达了目的地。)
+
+819. **destroy** [vt. & vi.] 破坏，消灭，打破；[计算机] 撤消
+   - The fire destroyed the warehouse completely. (火灾完全摧毁了仓库。)
+   - Viruses can destroy data on a computer. (病毒可以破坏计算机上的数据。)
+
+820. **destruction** [n.] 破坏，毁灭，消灭，破坏者
+   - The hurricane caused widespread destruction. (飓风造成了广泛的破坏。)
+   - The destruction of the rainforest is a serious environmental issue. (雨林的破坏是一个严重的环境问题。)
+
+821. **detail** [n.] 细节，详情，部分，分派，枝节，零件；[vt.] 详述，选派，用小元素装饰；[vi.] 画细节
+   - He explained the plan in great detail. (他详细解释了计划。)
+   - The artist detailed the landscape with fine brushwork. (艺术家用精细的笔触描绘了风景。)
+
+822. **detect** [vt.] 察觉，发觉，侦察，发现，探测；[vi.] 当侦探
+   - The test can detect the presence of drugs in the bloodstream. (这个测试可以检测到血液中药物的存在。)
+   - Police dogs are trained to detect explosives. (警犬受训以探测爆炸物。)
+
+823. **detection** [n.] 察觉，发觉，侦察，探测
+   - Early detection of the disease can lead to better treatment outcomes. (疾病的早期发现可以导致更好的治疗效果。)
+   - The detection of gravitational waves was a major scientific breakthrough. (引力波的探测是一个重大的科学突破。)
+
+824. **determination** [n.] 决心，(正式)决定，确定，规定，测定，定位
+   - Her determination to succeed was evident to everyone. (她成功的决心对每个人都是显而易见的。)
+   - The determination of the exact cause of the accident took weeks. (确定事故的确切原因花了几周时间。)
+
+825. **determine** [vt.] 决定，查明，决心；[计算机] 确定
+   - The jury will determine the outcome of the case. (陪审团将决定案件的结果。)
+   - Scientists are working to determine the cause of the outbreak. (科学家们正在努力确定疫情爆发的原因。)
+
+826. **develop** [vt.] 发展，形成，开发；[vi.] 进步
+   - The company plans to develop a new piece of software. (公司计划开发一款新的软件。)
+   - The child is developing quickly both physically and mentally. (这个孩子在身体和心理上都发展得很快。)
+
+827. **development** [n.] 发展，开发，生长，显影，开发区
+   - The new housing development will provide homes for many families. (新的住房开发项目将为许多家庭提供住所。)
+   - The development of technology has changed the way we live. (技术的发展改变了我们的生活方式。)
+
+828. **device** [n.] 器械，装置，设备，设计，策略
+   - The device can measure your heart rate and calories burned. (该设备能测量你的心率和燃烧的卡路里。)
+   - He invented a device for cleaning windows more efficiently. (他发明了一种更高效清洁窗户的装置。)
