@@ -3314,3 +3314,167 @@
 828. **device** [n.] 器械，装置，设备，设计，策略
    - The device can measure your heart rate and calories burned. (该设备能测量你的心率和燃烧的卡路里。)
    - He invented a device for cleaning windows more efficiently. (他发明了一种更高效清洁窗户的装置。)
+
+829. **devil** [n.] 魔鬼，恶魔；坏人；难对付的东西；困难；小尘暴；[vt.] 加料，惹恼
+   - The villagers believed the old castle was haunted by the devil. (村民们相信那座古堡里闹鬼。)
+   - He deviled the recipe by adding too much hot sauce. (他在食谱中加入了太多的辣酱，使其变得难以接受。)
+
+830. **devote** [vt.] 将...奉献；致力于；投入于；献身
+   - She devoted her life to helping the poor. (她将一生奉献给了帮助穷人。)
+   - He is devoted to his research and spends every day in the lab. (他致力于他的研究，每天都在实验室度过。)
+
+831. **diagram** [n.] 图解，图表，简图；[vt.] 用图解法表示
+   - The teacher drew a diagram on the board to explain the water cycle. (老师在黑板上画了一个图表来解释水循环。)
+   - The engineer diagrammed the new circuit before building it. (工程师在构建新电路前先绘制了其图解。)
+
+832. **dial** [n.] 钟面，拨号盘，刻度盘；[vt.] 拨号，用仪表测量；[vi.] 拨号，用仪表测量
+   - He looked at the dial of the clock to check the time. (他看了看钟面来核对时间。)
+   - She dialed the number carefully to make sure she got it right. (她仔细拨打电话号码以确保正确无误。)
+
+833. **dialect** [n.] 方言，土语，地方话
+   - People from different regions of the country spoke in their own dialects. (来自国家不同地区的人们使用他们自己的方言交谈。)
+   - Learning the local dialect can be very helpful when living in a new place. (学习当地方言在居住新地方时非常有帮助。)
+
+834. **dialog** [n.] 对话，对白；(美)=dialogue
+   - The dialog in the movie was so realistic that it felt like eavesdropping. (电影中的对话非常真实，感觉就像是偷听。)
+   - Writing good dialog is essential for a playwright. (对于剧作家来说，编写好的对话是必不可少的。)
+
+835. **diameter** [n.] 直径
+   - The diameter of the circle was exactly ten centimeters. (这个圆的直径正好是十厘米。)
+   - To find the area of a circle, you need to know its diameter. (要找到圆的面积，你需要知道它的直径。)
+
+836. **diamond** [n.] 钻石；菱形；纸牌的方块；棒球内场；[vt.] 用钻石装饰；[adj.] 60或75周年纪念的
+   - She was wearing a ring with a large diamond on it. (她戴着一枚镶有大钻石的戒指。)
+   - The baseball player ran to first base and then to the diamond. (棒球运动员跑向一垒然后跑向内场。)
+
+837. **diary** [n.] 日记，日记簿
+   - She writes in her diary every night before going to bed. (她每晚睡觉前都会写日记。)
+   - Reading someone else's diary without permission is a breach of privacy. (未经允许阅读别人的日记是对隐私的侵犯。)
+
+838. **dictate** [vt. & vi.] 口授，命令，听写；[n.] 命令，指挥，指令
+   - The boss dictated a letter to his secretary. (老板向他的秘书口授了一封信。)
+   - The general dictated the terms of surrender to the enemy. (将军向敌人口述了投降条件。)
+
+839. **dictation** [n.] 口授笔录，听写
+   - The students took dictation from the teacher during the language class. (学生们在语言课上对老师的口述进行听写。)
+   - Dictation is a good way to test a student's listening and writing skills. (听写是测试学生听力和写作技能的好方法。)
+
+840. **dictionary** [n.] 词典，字典，辞典
+   - Whenever I come across a new word, I look it up in the dictionary. (每当我遇到一个新词，我就在字典里查它。)
+   - A good dictionary is an essential tool for learning a new language. (一本好的字典是学习新语言的必备工具。)
+
+841. **die** [vi.] 死，死亡，灭亡；[n.] 金属模子，印模，骰子
+   - The old tree finally died after the long drought. (长时间的干旱之后，那棵老树终于死了。)
+   - He rolled the die and hoped for a six to win the game. (他掷骰子，希望能掷出六来赢得游戏。)
+
+842. **differ** [vi.] 不同(意见)，相异，不一致
+   - Their opinions differ on many subjects. (他们在许多问题上的意见不同。)
+   - The twins look alike, but they differ in personality. (这对双胞胎看起来很像，但性格不同。)
+
+843. **difference** [n.] 差别，差异，分歧；[vt.] 引起区别
+   - The main difference between the two plans is their cost. (这两个计划的主要区别在于它们的成本。)
+   - It's important to difference between facts and opinions. (区分事实和意见是很重要的。)
+
+844. **different** [adj.] 差异的，各种的，不同的，与众不同的
+   - Everyone has a different opinion about the new policy. (每个人对新政策都有不同的看法。)
+   - She likes to wear different styles of clothes. (她喜欢穿不同风格的衣服。)
+
+845. **difficult** [adj.] 困难的，难对付的；(人)难取悦的，难相处的
+   - The math problem was so difficult that no one could solve it. (这个数学题太难了，没有人能解出来。)
+   - He is a difficult person to work with because he is never satisfied. (他是一个难以共事的人，因为他从不满足。)
+
+846. **difficulty** [n.] 困难，争议，反对，麻烦，难事，困境
+   - She encountered many difficulties while writing her thesis. (她在写论文时遇到了许多困难。)
+   - Financial difficulty is a common problem for small businesses. (财务困难是小企业常见的问题。)
+
+847. **dig** [vt.] 掘，挖，翻土，采掘
+   - The children love to dig in the sand at the beach. (孩子们喜欢在海滩上挖沙。)
+   - Archaeologists dig carefully to avoid damaging ancient artifacts. (考古学家小心挖掘以避免损坏古代文物。)
+
+848. **diligent** [adj.] 勤勉的，勤奋的，用功的
+   - She was a diligent student, always the first to arrive in class and the last to leave. (她是一个勤奋的学生，总是第一个到达教室，最后一个离开。)
+   - His diligent work on the project earned him a promotion. (他在项目上的勤奋工作为他赢得了晋升。)
+
+849. **dim** [adj.] 昏暗的，暗淡的，朦胧的，模糊的，笨的；[vt.] 使暗淡，使失去光泽；[vi.] 变暗；[n.] 车头灯的短焦距光
+   - The light is too dim for me to read. (光线太暗，我无法阅读。)
+   - Memories of his childhood had dimmed over the years. (多年来，他童年的记忆已经变得模糊。)
+
+850. **dinner** [n.] 正餐，主餐，宴会，晚宴
+   - We have a family dinner every Sunday at my grandmother's house. (我们每个星期天都在我祖母家吃家庭晚餐。)
+   - The company is hosting a dinner to celebrate the successful completion of the project. (公司举办了一次晚宴来庆祝项目的成功完成。)
+
+851. **dip** [vt.] 浸，蘸，给...洗药浴；[vi.] 浸一浸，下降，向下倾斜，翻阅，提取(款项)；[n.] 游，下降，减少，低洼处，调味酱，药浴液
+   - She dipped her cookie into the milk before eating it. (她在吃饼干前先将它浸入牛奶中。)
+   - The stock market took a dip this morning, causing concern among investors. (今天早上股市出现了下跌，引起了投资者的担忧。)
+
+852. **direct** [adj.] 直接的，直率的，笔直的，坦白的；[vt.] 指挥，命令，负责；[vi.] 指导，指出
+   - He gave me direct instructions on how to get to his house. (他给了我直接的指示如何到达他的家。)
+   - The manager directs all operations within the department. (经理指挥部门内的所有操作。)
+
+853. **direction** [n.] 方向，方位，指导，用法说明，趋势
+   - Please follow the direction of the arrows on the floor to reach the exit. (请按照地板上箭头的方向前进以到达出口。)
+   - The new manager took the company in a completely different direction. (新经理将公司带向了一个完全不同的方向。)
+
+854. **directly** [adv.] 直接地，立即，完全
+   - I will call you directly after the meeting. (会议结束后我会立即给你打电话。)
+   - The sun shone directly into my eyes, making it hard to see. (阳光直射我的眼睛，使我难以看清。)
+
+855. **director** [n.] 指导者，理事，董事，经理，主管，导演
+   - The director of the company decided to implement new strategies. (公司董事决定实施新策略。)
+   - She has always wanted to work with that film director. (她一直想和那位电影导演合作。)
+
+856. **dirt** [n.] 污物，污垢，泥土，污秽的言行，卑鄙的人，堕落，矿渣
+   - After gardening all day, her clothes were covered in dirt. (整天园艺之后，她的衣服上满是泥土。)
+   - He was determined to dig up some dirt on his political opponent. (他决心挖掘出一些关于他政治对手的污点。)
+
+857. **dirty** [adj.] 脏的，下流的，肮脏的，色情的，卑鄙的；[adv.] 卑鄙地；[vt.] 使变脏；[vi.] 弄脏
+   - His shoes were dirty after walking through the mud. (走过泥地后，他的鞋子变脏了。)
+   - The politician played dirty to win the election. (这位政治家耍卑鄙手段赢得选举。)
+
+858. **disadvantage** [n.] 不利，不利地位，不利条件，损害，损失
+   - Being less experienced was a disadvantage in the job competition. (经验较少在求职竞争中是一个不利条件。)
+   - The team played at a disadvantage due to the absence of their star player. (由于明星球员缺席，球队处于不利地位。)
+
+859. **disagree** [vi.] 有分歧，不一致，不适应，不适宜
+   - The two colleagues disagree on the approach to the project. (两位同事对项目的方法有分歧。)
+   - I disagree with the idea that children should be seen and not heard. (我不同意“孩子应该看见而不被听见”的观点。)
+
+860. **disappear** [vi.] 不见，失踪，消失，灭绝；[vt.] 引起消失
+   - The magician made the rabbit disappear from the hat. (魔术师让兔子从帽子中消失。)
+   - Many species have disappeared because of habitat destruction. (由于栖息地被破坏，许多物种已经灭绝。)
+
+861. **disappoint** [vt. & vi.] 使失望，使受挫折
+   - I didn't want to disappoint my parents, so I studied very hard. (我不想让我的父母失望，所以我非常努力地学习。)
+   - The cancellation of the concert disappointed many fans. (音乐会的取消让许多粉丝感到失望。)
+
+862. **disaster** [n.] 灾难，灾祸，天灾
+   - The earthquake was a disaster that affected thousands of people. (这场地震是一场影响了数千人的灾难。)
+   - The company's new policy turned out to be a financial disaster. (公司的新政策结果成了一场财务灾难。)
+
+863. **discharge** [vt. & vi.] 释放，排出，放出，解雇，解除，放电，清偿债务；[n.] 释放，卸货，放电，一股，一阵，开火，发射，准许离开
+   - The factory was fined for discharging waste into the river. (工厂因向河流排放废物而被罚款。)
+   - After a week in the hospital, the patient was given a discharge. (在医院住了一周后，病人被允许出院。)
+
+864. **discourage** [vt.] 使泄气，使灰心，阻碍
+   - The high level of difficulty might discourage beginners from continuing the course. (高难度可能会使初学者失去继续课程的兴趣。)
+   - It's important not to discourage children when they are learning something new. (在孩子们学习新事物时，重要的是不要让他们感到气馁。)
+
+865. **discover** [vt. & vi.] 发现，暴露，显示
+   - Columbus is credited with the discovery of America, although he was not the first to discover it. (尽管哥伦布不是第一个发现美洲的人，但他被认为是美洲的发现者。)
+   - Scientists have discovered a new planet in our solar system. (科学家们在我们的太阳系中发现了一颗新行星。)
+
+866. **discovery** [n.] 发现，被发现的事物
+   - The discovery of penicillin was a major breakthrough in medicine. (青霉素的发现是医学上的一个重大突破。)
+   - The archaeologist made an exciting discovery at the ancient site. (考古学家在古遗址发现了令人兴奋的东西。)
+
+867. **discuss** [vt.] 讨论，谈论，论述
+   - Let's discuss the details of the project over lunch. (让我们午餐时讨论项目的细节。)
+   - The book club met to discuss the novel they had all read. (读书俱乐部聚会讨论大家都读过的小说。)
+
+868. **discussion** [n.] 讨论，谈论，辩论，论述
+   - The discussion about climate change has become more urgent in recent years. (近年来，关于气候变化的讨论变得更加紧迫。)
+   - After a long discussion, they finally reached an agreement. (经过长时间的讨论，他们最终达成了协议。)
+
+869. **disease** [n.] 病，疾病，病害，弊端
+   - Heart disease is one of the leading causes of death worldwide. (心脏病是全球死亡的主要原因之一。)
+   - The scientists are researching new ways to combat the spread of disease. (科学家们正在研究新的方法来对抗疾病的传播。)
