@@ -3478,3 +3478,159 @@
 869. **disease** [n.] 病，疾病，病害，弊端
    - Heart disease is one of the leading causes of death worldwide. (心脏病是全球死亡的主要原因之一。)
    - The scientists are researching new ways to combat the spread of disease. (科学家们正在研究新的方法来对抗疾病的传播。)
+
+870. **disgust** [n.] 厌恶，憎恶；[vt.] 令人厌恶；[vi.] 感到厌恶
+    - His rude behavior filled her with disgust. (他粗鲁的行为使她感到厌恶。)
+    - I disgust eating raw onions because of their strong flavor. (因为洋葱的浓烈味道，我很厌恶吃生洋葱。)
+
+871. **dish** [n.] 碟，盘子；菜肴；[vt.] 装盘，提出；[vi.] 闲谈
+    - She served the main dish in a large porcelain platter. (她在一个大瓷盘中端上了主菜。)
+    - After dinner, they would dish about the day's events. (晚饭后，他们会闲聊一天发生的事情。)
+
+872. **dishonour** [n.] 不光彩，耻辱；[vt.] 使丢脸，侮辱
+    - He felt dishonour after being caught cheating on the exam. (考试作弊被抓后，他感到很丢脸。)
+    - The athlete was dishonoured for using performance-enhancing drugs. (这名运动员因使用兴奋剂而名誉扫地。)
+
+873. **dislike** [vt.] 不喜欢；[n.] 厌恶，反感
+    - She has a strong dislike for spicy food. (她非常不喜欢辛辣食物。)
+    - I dislike having to wake up early on weekends. (周末我不喜欢早起。)
+
+874. **dismiss** [vt.] 解雇，解散；不再考虑
+    - The company dismissed several employees due to budget cuts. (由于预算削减，公司解雇了几名员工。)
+    - You should not dismiss her ideas without giving them a fair consideration. (在没有公平考虑之前，你不应该忽视她的想法。)
+
+875. **disorder** [n.] 混乱，杂乱；[vt.] 扰乱
+    - The sudden blackout caused disorder in the city. (突然的停电在城市中引起了混乱。)
+    - It's important not to disorder the files in the archive. (保持档案文件的整齐有序非常重要。)
+
+876. **display** [vt.] 陈列，展览；显示；[n.] 展览，显示
+    - The museum will display artifacts from ancient Greece. (博物馆将展出古希腊的文物。)
+    - The new monitor has an impressive display of colors. (新显示器的色彩显示令人印象深刻。)
+
+877. **dispute** [vi.] 争论；[vt.] 争论，质疑；[n.] 争论，争吵
+    - The two countries are in dispute over the territorial waters. (这两个国家在领海问题上存在争议。)
+    - He disputed the bill, claiming he had been overcharged. (他对账单提出异议，声称被多收了费用。)
+
+878. **distance** [n.] 距离，间距；[vt.] 使疏远；[adj.] 远程
+    - The distance between the two cities is about 300 kilometers. (这两个城市之间的距离大约是300公里。)
+    - He has tried to distance himself from the controversial comments made by his colleague. (他试图与同事所发表的有争议的评论保持距离。)
+
+879. **distant** [adj.] 在远处的，疏远的
+    - The sound of distant thunder could be heard. (可以听到远处雷声。)
+    - She seemed distant and preoccupied all evening. (她整个晚上看起来心事重重，很疏远。)
+
+880. **distinction** [n.] 差别，区分；杰出
+    - There is a clear distinction between right and wrong. (是非对错有着明显的区别。)
+    - He received an award for his distinction in scientific research. (他因在科学研究中的杰出成就而获奖。)
+
+881. **distinguish** [vt.] 区别，辨别；[vi.] 区分
+    - It's hard to distinguish between the twins. (很难区分那对双胞胎。)
+    - A keen eye can distinguish the subtle differences in color. (敏锐的眼睛可以辨别出颜色的微妙差异。)
+
+882. **distress** [n.] 忧虑，苦恼；[vt.] 使苦恼；[adj.] 亏本出售的
+    - She called the police in great distress. (她非常苦恼地打电话给警察。)
+    - The news of the accident distressed her family. (事故的消息让她的家人感到苦恼。)
+
+883. **distribute** [vt.] 分发，分配；[vi.] 分布
+    - The organization distributes food to the needy every Friday. (该组织每周五向有需要的人分发食物。)
+    - The population is unevenly distributed across the country. (人口在全国分布不均。)
+
+884. **district** [n.] 区，行政区；[vt.] 划分区域
+    - We live in a residential district on the outskirts of the city. (我们住在城市郊区的一个居民区。)
+    - The city was districted in a way that favored the incumbent politicians. (这座城市的划区方式有利于现任政治家。)
+
+885. **disturb** [vt.] 打扰，扰乱；[vi.] 弄乱
+    - Please do not disturb the baby while she's sleeping. (请不要在婴儿睡觉时打扰她。)
+    - Loud noises from the street disturbed the tranquility of our home. (街上的噪音扰乱了我们家的宁静。)
+
+886. **ditch** [n.] 沟渠；[vt.] 摆脱；[vi.] 紧急降落
+    - The car swerved off the road and ended up in a ditch. (汽车从路上转出最终落入沟中。)
+    - The pilot had to ditch the aircraft in the ocean. (飞行员不得不让飞机在海上紧急降落。)
+
+887. **dive** [vi.] 跳水，潜水；[vt.] 俯冲；[n.] 潜水
+    - She loves to dive into the pool from the highest board. (她喜欢从最高的跳板跳入游泳池。)
+    - The hawk dove at high speed to catch its prey. (鹰高速俯冲捕捉猎物。)
+
+888. **divide** [vt.] 分开，分配；[vi.] 分开
+    - The teacher asked us to divide the papers among the class. (老师让我们将试卷分发给全班同学。)
+    - The river divides the city into two parts. (这条河将城市分为两部分。)
+
+889. **division** [n.] 分配，划分；部门
+    - There is a clear division of duties within the team. (团队内部有明确的职责分工。)
+    - She works in the marketing division of the company. (她在公司的市场部门工作。)
+
+890. **divorce** [n.] 离婚；[vi.] 离婚
+    - They decided to get a divorce after ten years of marriage. (他们决定在结婚十年后离婚。)
+    - She divorced her husband due to irreconcilable differences. (由于无法调和的分歧，她与丈夫离婚了。)
+
+891. **do** [aux.v.] [vt.] 做，完成；[vi.] 行动
+    - I have a lot of homework to do this weekend. (这个周末我有很多家庭作业要做。)
+    - Do exactly as I say and you'll be fine. (照我说的做，你就会没事。)
+
+892. **doctor** [n.] 医生，博士；[vt.] 治疗，篡改
+    - She is a doctor at the local hospital. (她是当地医院的一名医生。)
+    - He doctored the document to make it look authentic. (他篡改了文件，使其看起来真实。)
+
+893. **dog** [n.] 狗；[vt.] 尾随，跟踪
+    - My neighbor's dog barks every time someone passes by the house. (每当有人经过房子时，邻居的狗就会叫。)
+    - Reporters dogged the celebrity everywhere she went. (记者们跟踪这位名人的一举一动。)
+
+894. **dollar** [n.] 美元
+    - The price of the book is ten dollars. (这本书的价格是十美元。)
+    - The price of the book is ten dollars. (这本书的价格是十美元。)
+
+895. **domestic** [adj.] 国内的，家庭的；[n.] 家仆
+    - Domestic flights are often cheaper than international ones. (国内航班通常比国际航班便宜。)
+    - They hired a domestic to help with the cleaning. (他们雇了一个家政助手来帮忙打扫。)
+
+896. **donkey** [n.] 驴；笨蛋
+    - A donkey is commonly used as a beast of burden in rural areas. (在农村地区，驴通常被用作挑担子的动物。)
+    - Stop being such a donkey and help me move this! (别像个笨蛋一样，过来帮我搬这个！)
+
+897. **door** [n.] 门；家庭
+    - Please close the door on your way out. (出去的时候请关上门。)
+    - They live three doors down the street. (他们住在街上往下数第三家。)
+
+898. **dorm** [n.] (集体)宿舍
+    - I used to share a room with three others in the college dorm. (我曾在大学宿舍和其他三个人共用一个房间。)
+    - I used to share a room with three others in the college dorm. (我曾在大学宿舍和其他三个人共用一个房间。)
+
+899. **dormitory** [n.] 集体寝室，宿舍
+    - The dormitory was noisy last night because of the party. (因为昨晚的聚会，宿舍很吵。)
+    - I used to share a room with three others in the college dorm. (我曾在大学宿舍和其他三个人共用一个房间。)
+
+900. **dose** [n.] 剂量；[vt.] 给药
+    - The doctor prescribed a dose of antibiotics. (医生开了一剂抗生素。)
+    - The nurse will dose the patient at regular intervals. (护士将定时给病人用药。)
+
+901. **dot** [n.] 点，圆点；[vt.] 在...上打点；[vi.] 打点
+    - Make sure to dot your i's and cross your t's. (确保点好你的i和划好你的t。)
+    - The map was dotted with symbols representing different landmarks. (地图上点缀着代表不同地标的符号。)
+
+902. **double** [adj.] 两倍的；[adv.] 两倍地；[vt.] 使加倍；[vi.] 加倍
+    - The recipe requires double the amount of sugar. (这个食谱需要两倍的糖。)
+    - If you work overtime, your pay for those hours will double. (如果你加班，那些小时的工资将会加倍。)
+
+903. **doubt** [n.] 怀疑；[vt.] 怀疑；[vi.] 不确定
+    - There is no doubt that she is a talented singer. (毫无疑问，她是一位有才华的歌手。)
+    - I doubt if I can finish the project on time. (我怀疑我是否能按时完成项目。)
+
+904. **doubtful** [adj.] 难以预测的；怀疑的
+    - The weather forecast for the picnic is doubtful. (野餐的天气预报不太乐观。)
+    - He gave me a doubtful look when I explained why I was late. (当我解释迟到的原因时，他给了我一个怀疑的眼神。)
+
+905. **doubtless** [adv.] 无疑地；[adj.] 确定的
+    - Doubtless, there will be some changes in the plan. (毫无疑问，计划会有些变动。)
+    - She is doubtless the best candidate for the job. (她无疑是这份工作的最佳候选人。)
+
+906. **down** [adv.] 向下；[adj.] 向下的；[n.] 绒毛；[prep.] 沿着...而下
+    - The elevator is going down to the first floor. (电梯正在下降到一楼。)
+    - She wore a jacket filled with down to keep warm. (她穿了一件填充绒毛的夹克以保暖。)
+
+907. **downstairs** [adv.] 在楼下；[adj.] 楼下的；[n.] 楼下
+    - I heard someone talking downstairs in the middle of the night. (半夜我听到有人在楼下说话。)
+    - The downstairs bathroom needs to be cleaned. (楼下的浴室需要清洁。)
+
+908. **dozen** [n.] 一打，十二个；[adj.] 一打的
+    - She bought a dozen eggs from the market. (她从市场上买了一打鸡蛋。)
+    - There are at least a dozen reasons why we should go ahead with the project. (我们应该继续这个项目至少有十二个理由。)
