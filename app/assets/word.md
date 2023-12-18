@@ -3634,3 +3634,110 @@
 908. **dozen** [n.] 一打，十二个；[adj.] 一打的
     - She bought a dozen eggs from the market. (她从市场上买了一打鸡蛋。)
     - There are at least a dozen reasons why we should go ahead with the project. (我们应该继续这个项目至少有十二个理由。)
+
+909. **draft** [n.] 草稿，草图；汇票；征兵；[vt.] 起草，征兵，选秀；[adj.] 酝酿中的
+   - The writer spent the whole morning working on the first draft of her novel. (作家整个上午都在撰写她小说的初稿。)
+   - The government issued a draft for additional soldiers during the war. (战争期间，政府发布了征兵令，以增援更多的士兵。)
+
+910. **drag** [vt.] 拖，拉；拖累；[vi.] 拖拉；缓慢地行走；[n.] 拖拉的东西；拖累
+   - He had to drag the heavy suitcase across the airport terminal. (他不得不将那个沉重的手提箱拖过机场航站楼。)
+   - The meeting was a drag and seemed to last forever. (会议非常拖沓，似乎永无止境。)
+
+911. **dramatic** [adj.] 引人注目的；戏剧的；给人深刻印象的；[n.] (复数) 戏剧作品，戏曲
+   - Her recovery after the accident was quite dramatic. (她事故后的康复过程非常引人注目。)
+   - He has a collection of dramatic works by Shakespeare. (他收藏了莎士比亚的一些戏剧作品。)
+
+912. **draw** [vt.] 拉；拖；挨近；提取；画；绘制；[n.] 平局；抽签；吸引人的事物
+   - The artist can draw a portrait in less than an hour. (这位艺术家可以在不到一小时内画一幅肖像。)
+   - The game ended in a draw, with both teams scoring two goals each. (比赛以双方各进两球的平局结束。)
+
+913. **drawer** [n.] 抽屉
+   - She opened the drawer to find her missing socks. (她打开抽屉找到了她丢失的袜子。)
+   - She opened the drawer to find her missing socks. (她打开抽屉找到了她丢失的袜子。)
+
+914. **drawing** [n.] 图画；素描；绘图；绘图技巧
+   - The child's drawing was displayed on the refrigerator. (孩子的画作被贴在了冰箱上。)
+   - Drawing requires a good eye for detail and a steady hand. (绘画需要对细节的敏感观察力和稳定的手部控制。)
+
+915. **dream** [n.] 梦；梦想；[vt. & vi.] 做梦；想象
+   - Last night, I had a dream that I could fly. (昨晚，我做了一个梦，梦见自己能飞。)
+   - He dreams of becoming a famous musician one day. (他梦想有一天能成为一名著名的音乐家。)
+
+916. **dress** [n.] 女装；童装；服装；[vt. & vi.] 穿着；[adj.] 正式的（衣服）
+   - She wore a beautiful dress to the wedding. (她穿了一件漂亮的连衣裙去参加婚礼。)
+   - He dressed quickly and rushed to his appointment. (他迅速穿好衣服，赶往约会地点。)
+
+917. **drift** [vi.] 漂流；漂泊；吹积；[n.] 漂流；漂移；漂流物；趋势；[vt.] 使漂流；把...吹积
+   - The boat began to drift out to sea. (小船开始向大海漂去。)
+   - Snow drifts can block roads and make travel difficult. (雪堆可以堵塞道路，使出行变得困难。)
+
+918. **drink** [vt. & vi.] 饮；喝；喝酒；[n.] 饮料
+   - Please drink plenty of water on hot days to stay hydrated. (炎热的日子里，请多喝水以保持身体水分。)
+   - A cold drink is refreshing on a summer afternoon. (在夏日的午后，一杯冷饮真是提神的。)
+
+919. **drip** [vi.] 滴下；漏水；[n.] 水滴；滴；点滴；乏味的人
+   - The faucet has a slow drip that needs to be fixed. (水龙头有个小漏洞需要修理。)
+   - The sound of the rain dripping outside was very soothing. (外面雨水滴落的声音非常舒缓。)
+
+920. **drive** [vt. & vi.] 驾驶；驱动；驱使；[n.] 驾车；快车道；推进力；驱动器
+   - She learned to drive when she was seventeen. (她十七岁时学会了开车。)
+   - The company's drive for excellence resulted in high-quality products. (公司追求卓越的动力导致了高质量的产品。)
+
+921. **driver** [n.] 驾驶员；司机
+   - The taxi driver knew the city streets very well. (出租车司机非常熟悉这个城市的街道。)
+   - The taxi driver knew the city streets very well. (出租车司机非常熟悉这个城市的街道。)
+
+922. **drop** [vt.] 使落下；降低；减少；[vi.] 落下；减少；减弱；[n.] 滴；微量；落下
+   - He dropped the letter in the mailbox on his way to work. (他在上班路上把信投进了邮箱。)
+   - The temperature will drop significantly overnight. (气温将在夜间显著下降。)
+
+923. **drown** [vi.] 淹死；溺死；[vt.] 淹死；沉浸于
+   - Unfortunately, the man drowned while swimming in the ocean. (不幸的是，那个人在海里游泳时溺水身亡。)
+   - She drowned her sorrows in music and art. (她通过音乐和艺术来抚慰自己的悲伤。)
+
+924. **drug** [n.] 药；药物；毒品；[vt.] 下药；使...服麻醉药；[vi.] 吸毒
+   - The doctor prescribed a drug to help with her migraines. (医生开了一种药物来帮助她缓解偏头痛。)
+   - The criminal was caught trying to drug the guard's drink. (罪犯试图在警卫的饮料中下药时被抓。)
+
+925. **drum** [n.] 鼓；鼓声；鼓状物；圆桶；[vi.] 击鼓；作鼓声；引起兴趣；[vt.] 召集入伍；逐出；推动
+   - The beat of the drum was the signal for the dancers to start. (鼓声是舞者开始跳舞的信号。)
+   - He drummed his fingers on the table while waiting impatiently. (他不耐烦地等待时，手指在桌子上敲打。)
+
+926. **dry** [adj.] 干的；干燥的；干旱的；[vt.] 把...弄干；[vi.] (使)变干
+   - The clothes should be dry by now since they have been in the sun all day. (衣服现在应该干了，因为它们整天都晒在太阳下。)
+   - After washing, lay the sweater flat to dry. (洗完后，将毛衣平铺晾干。)
+
+927. **duck** [n.] 鸭；雌鸭；鸭肉；[vt.] 把...按入水中；躲避；[vi.] 迅速行进；推委责任
+   - The duck swam quickly across the pond. (鸭子迅速地游过池塘。)
+   - He had to duck to avoid the low-hanging branch. (他不得不低头以避开悬挂的低树枝。)
+
+928. **due** [adj.] 预期的；应给的；到期的；应有的；[n.] 应得物
+   - The library books are due back next Monday. (图书馆的书下周一到期归还。)
+   - Recognition is due to everyone who contributed to the project. (所有为项目做出贡献的人都应得到认可。)
+
+929. **dull** [adj.] 枯燥的；不鲜明的；呆滞的；迟钝的；[vt.] 使变钝；[vi.] 变钝
+   - The lecture was so dull that several students fell asleep. (讲座太无聊了，几个学生都睡着了。)
+   - Constant use has dulled the knife's edge. (持续使用使得刀的刃口变钝了。)
+
+930. **dumb** [adj.] 哑的；无言的；沉默的；愚蠢的；[vt.] 使人沉默
+   - The shock of the news left us all dumb for a moment. (这个消息的震惊使我们一时间都无言以对。)
+   - The actor played the role of a dumb servant in the play. (演员在剧中扮演一个哑巴仆人的角色。)
+
+931. **during** [prep.] 在...期间
+   - She visited Europe during the summer. (她在夏天期间访问了欧洲。)
+
+932. **dusk** [n.] 薄暮；黄昏；幽暗；[vi.] (天)变黑；变暗；[vt.] 把...变黑变暗；[adj.] 颜色暗沉的；昏暗的
+   - We arrived at the campsite at dusk and set up the tent. (我们在黄昏时分到达营地并搭起了帐篷。)
+   - The sky begins to dusk as the sun sets. (太阳落山时，天空开始变暗。)
+
+933. **dust** [n.] 尘土；灰尘；无价值之物；[vt.] 拂去灰尘；撒上粉状物体；[vi.] 擦拭灰尘
+   - She wrote her name in the dust on the table. (她在桌子上的灰尘中写下了她的名字。)
+   - Every week, he dusts his collection of antique books. (他每周都要给他的古董书籍集尘。)
+
+934. **duty** [n.] 职责；责任；义务；税；[adj.] 值班的；作为一种义务的
+   - It's your duty to report any safety hazards you notice at work. (报告你在工作中注意到的任何安全隐患是你的责任。)
+   - Duty-free shops at the airport allow travelers to buy goods without paying the usual taxes. (机场的免税店允许旅客购买商品而不用支付通常的税费。)
+
+935. **dye** [vt.] 染；[vi.] 染色；[n.] 染料；染色
+   - She decided to dye her hair blonde for the summer. (她决定在夏天将头发染成金色。)
+   - The fabric was dyed a rich shade of blue. (这块布料被染成了深蓝色。)
