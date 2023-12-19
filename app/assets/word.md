@@ -3725,6 +3725,7 @@
 
 931. **during** [prep.] 在...期间
    - She visited Europe during the summer. (她在夏天期间访问了欧洲。)
+   - She visited Europe during the summer. (她在夏天期间访问了欧洲。)
 
 932. **dusk** [n.] 薄暮；黄昏；幽暗；[vi.] (天)变黑；变暗；[vt.] 把...变黑变暗；[adj.] 颜色暗沉的；昏暗的
    - We arrived at the campsite at dusk and set up the tent. (我们在黄昏时分到达营地并搭起了帐篷。)
