@@ -3741,3 +3741,151 @@
 935. **dye** [vt.] 染；[vi.] 染色；[n.] 染料；染色
    - She decided to dye her hair blonde for the summer. (她决定在夏天将头发染成金色。)
    - The fabric was dyed a rich shade of blue. (这块布料被染成了深蓝色。)
+
+936. **each** [pron.] 各，各自；[adj.] 每个，每；[adv.] 每个；[int.] 每个，个人，个自
+   - Each student must complete the assignment independently. (每个学生必须独立完成作业。)
+   - We should respect each other's opinions. (我们应该尊重彼此的意见。)
+
+937. **eager** [adj.] 渴望的，热切的
+   - She was eager to start her new job. (她渴望开始她的新工作。)
+   - The children are eager for the school trip tomorrow. (孩子们对明天的学校旅行充满期待。)
+
+938. **eagle** [n.] 鹰；[vt.] (高尔夫)鹰击
+   - The eagle soared high above the mountains. (鹰在山峰上空高飞。)
+   - He scored an eagle on the fifth hole. (他在第五个洞打出了鹰击。)
+
+939. **ear** [n.] 耳朵，听力，听觉，倾听；麦穗；[vi.] 长出麦穗
+   - She whispered something in his ear. (她在他耳边低语了些什么。)
+   - The wheat began to ear as summer approached. (随着夏天的临近，小麦开始长出麦穗。)
+
+940. **early** [adv.] 早；[adj.] 早的，早期的
+   - He arrived early for the meeting. (他早早地来到了会议。)
+   - The early bird catches the worm. (早起的鸟儿有虫吃。)
+
+941. **earn** [vt.] 赚得，挣得，获得；赚得；赢得；生利
+   - She earns a good salary in her new job. (她在新工作中挣得不错的薪水。)
+   - His investments earned him a fortune. (他的投资为他赚得了一笔财富。)
+
+942. **earnest** [adj.] 认真的，诚恳的，重要的；[n.] 真诚，重要的东西，定金，保证
+   - He made an earnest attempt to resolve the issue. (他认真尝试解决这个问题。)
+   - They accepted my earnest money as a sign of good faith. (他们接受了我的定金作为诚意的表示。)
+
+943. **earth** [n.] 地球，陆地，地面，泥土，世间，大地；地球人；[vt.] 赶入洞中，提取土壤；[vi.] 躲入洞穴
+   - We must protect the earth's environment. (我们必须保护地球的环境。)
+   - The fox earthed in its burrow to escape the hunters. (狐狸钻进洞穴以逃避猎人。)
+
+944. **ease** [n.] 容易，舒适，安乐；[vt.] 缓和，使...安乐，使...安心；[v.] 减轻，放松
+   - He passed the exam with ease. (他轻松通过了考试。)
+   - The doctor gave him some medicine to ease the pain. (医生给了他一些药物来减轻疼痛。)
+
+945. **easily** [adv.] 容易地，舒适地，无疑地
+   - She easily won the race. (她轻松赢得了比赛。)
+   - This problem can be easily solved. (这个问题可以轻松解决。)
+
+946. **east** [n.] 东，东部；[adv.] 在东方，向东方；[adj.] 东方的
+   - The sun rises in the east. (太阳从东方升起。)
+   - He moved east to start a new life. (他向东搬家开始新生活。)
+
+947. **eastern** [adj.] 东部的，东方的，朝东的
+   - The eastern coastline is known for its beautiful beaches. (东部海岸以其美丽的海滩而闻名。)
+   - Eastern cultures have always fascinated me. (东方文化一直吸引着我。)
+
+948. **easy** [adj.] 容易的，安逸的，不费力的；[adv.] 慢慢地，当心地
+   - This is an easy problem to solve. (这是一个容易解决的问题。)
+   - Take it easy; there's no need to rush. (放轻松；没必要急。)
+
+949. **eat** [vt.] 吃，喝，消耗；[vi.] 吃饭，侵蚀；[n.] 食物
+   - We eat three meals a day. (我们一天吃三顿饭。)
+   - Acid rain can eat away at stone over time. (酸雨随着时间的推移可以侵蚀石头。)
+
+950. **echo** [n.] 回声，回音，回波，反响，共鸣；[vi.] 重复，发回声，回响，仿效；[vt.] 回响，回荡；[n.] [计算机] DOS命令
+   - The echo of his voice filled the empty hall. (他的声音的回声充满了空荡荡的大厅。)
+   - The hills echoed with the sound of the church bells. (山丘上回荡着教堂钟声的回音。)
+
+951. **economic** [adj.] 经济的，经济学的，有利可图的；[n.] [-s] 经济学(状况等)
+   - The economic forecast predicts growth in the next quarter. (经济预测预计下一个季度将会增长。)
+   - Economic factors often influence government policy. (经济因素经常影响政府政策。)
+
+952. **economical** [adj.] 节约的，节俭的，经济的，合算的，经济学的
+   - Driving at a steady speed is more economical on fuel. (以稳定的速度驾驶在燃油上更节约。)
+   - She is known for her economical management of the household budget. (她以经济管理家庭预算而闻名。)
+
+953. **edge** [n.] 边缘，边，刀口；[vt.] 给...加上边，缓慢横过，使逐渐丧失；[vi.] 徐徐前进
+   - Be careful not to cut yourself on the sharp edge of the knife. (小心不要被刀锋割伤。)
+   - He edged closer to get a better view. (他慢慢挪动以获得更好的视角。)
+
+954. **educate** [vt.] 教育，培养，训练
+   - Parents have a responsibility to educate their children. (父母有责任教育他们的孩子。)
+   - The program is designed to educate young people about the dangers of drugs. (该计划旨在教育年轻人了解毒品的危险。)
+
+955. **education** [n.] 教育，培养，训导，教育学
+   - Education is the key to success in life. (教育是人生成功的关键。)
+   - She is pursuing a degree in education. (她正在攻读教育学位。)
+
+956. **effect** [n.] 结果，效果，效力，影响，要旨；[vt.] 招致，引起，实现，达到；[n.] (pl.) 财产，动产
+   - The new law will take effect next month. (新法律将于下个月生效。)
+   - His speech had a great effect on the audience. (他的演讲对观众产生了巨大影响。)
+
+957. **effective** [adj.] 有效的，有影响的
+   - The new advertising campaign was very effective. (新的广告活动非常有效。)
+   - She gave an effective presentation at the conference. (她在会议上做了一个有效的演讲。)
+
+958. **efficiency** [n.] 效率，功效，效能
+   - The company is looking for ways to improve efficiency. (公司正在寻找提高效率的方法。)
+   - Energy efficiency can help reduce our environmental footprint. (能源效率可以帮助减少我们的环境足迹。)
+
+959. **efficient** [adj.] 效率高的，有能力的，胜任的
+   - She is an efficient manager with a clear vision for her team. (她是一个效率高的经理，对她的团队有一个清晰的愿景。)
+   - This machine is more efficient than the old model. (这台机器比旧型号更高效。)
+
+960. **effort** [n.] 努力，努力的成果
+   - It took a lot of effort to finish the project on time. (按时完成项目需要付出很多努力。)
+   - His efforts were finally rewarded when he passed the exam. (当他通过考试时，他的努力终于得到了回报。)
+
+961. **either** [pron.] (两者)任何一个；[adj.] 任一，两方的；[adv.] 也；[conj.] 或，也
+   - You can choose either the chicken or the beef. (你可以选择鸡肉或牛肉。)
+   - I don't like either of these options. (我不喜欢这两个选项中的任何一个。)
+
+962. **elastic** [n.] 橡皮圈，有松紧的东西，松紧带；[adj.] 有弹性的，灵活的，可变的
+   - The waistband of these pants is elastic. (这条裤子的腰带是有弹性的。)
+   - The company needs to be more elastic in its approach to change. (公司在应对变化的方法上需要更加灵活。)
+
+963. **elder** [adj.] 年龄较大的，年长的；[n.] 长者，长辈
+   - He is the elder of the two brothers. (他是两兄弟中年纪较大的。)
+   - In many cultures, elders are respected for their wisdom. (在许多文化中，长者因其智慧而受到尊敬。)
+
+964. **elect** [vt.] 选举，推选，选择；[n.] 当选人，被选的人，上帝的选民；[adj.] 被选的，选出的
+   - The citizens will elect a new mayor next month. (市民们将在下个月选举新市长。)
+   - She was the first woman to be elect to the board. (她是第一位被选进董事会的女性。)
+
+965. **election** [n.] 选举，选择权，当选
+   - The election results will be announced tonight. (选举结果将于今晚宣布。)
+   - Voter turnout was high in this year's election. (今年选举的投票率很高。)
+
+966. **electric** [adj.] 电的，电动的，令人激动的，鲜亮的；[n.] 供电
+   - The car is powered by an electric motor. (这辆车由电动机驱动。)
+   - The atmosphere in the room was electric when the results were revealed. (当结果揭晓时，房间里的气氛非常激动。)
+
+967. **electrical** [adj.] 电的，电气科学的，与电有关的
+   - He works as an electrical engineer. (他是一名电气工程师。)
+   - The store sells a variety of electrical appliances. (这家商店销售各种电器。)
+
+968. **electricity** [n.] 电，电学，电流
+   - The whole town lost electricity during the storm. (在暴风雨期间，整个小镇都停电了。)
+   - Electricity is essential for modern life. (电是现代生活必不可少的。)
+
+969. **electronic** [adj.] 电子的
+   - Electronic devices such as smartphones have become ubiquitous. (智能手机等电子设备已经无处不在。)
+   - She prefers reading electronic books over paper ones. (她更喜欢阅读电子书而不是纸质书。)
+
+970. **element** [n.] 成分，要素，元素，基本原理；(复数) 恶劣天气
+   - Water is composed of the elements hydrogen and oxygen. (水由氢和氧两种元素组成。)
+   - The climbers were exposed to the elements on the mountain. (登山者在山上暴露在恶劣的天气中。)
+
+971. **elephant** [n.] 象，庞大笨拙难处理的事物
+   - The elephant is the largest land animal. (大象是最大的陆地动物。)
+   - The issue of climate change is an elephant in the room that we cannot ignore. (气候变化问题是一个我们不能忽视的棘手问题。)
+
+972. **elevator** [n.] 电梯，升降机；飞机升降舵；斗式皮带输送机
+   - We took the elevator to the 10th floor. (我们乘电梯到了第10层。)
+   - The pilot adjusted the elevator to make the plane descend. (飞行员调整了升降舵使飞机下降。)
