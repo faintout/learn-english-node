@@ -3890,3 +3890,171 @@
 972. **elevator** [n.] 电梯，升降机；飞机升降舵；斗式皮带输送机
    - We took the elevator to the 10th floor. (我们乘电梯到了第10层。)
    - The pilot adjusted the elevator to make the plane descend. (飞行员调整了升降舵使飞机下降。)
+  
+973. **else** [adv.] 其它，另外，否则；[adj.] 别的，其他的
+   - If you don't like this one, we can look for something else. (如果你不喜欢这个，我们可以找别的东西。)
+   - Is there anything else you need from the store? (你还需要商店里的其他东西吗？)
+
+974. **elsewhere** [adv.] 在别处，向别处
+   - She couldn't find the book here, so she decided to look elsewhere. (她在这里找不到那本书，所以决定到别处去找。)
+   - The grass is always greener elsewhere, or so it seems. (别处的草总是更绿，至少看起来是这样。)
+
+975. **embarrass** [vt.] 使窘迫，使为难；[vi.] 变得困窘
+   - He was embarrassed when he realized he had forgotten her name. (当他意识到自己忘了她的名字时，他感到很尴尬。)
+   - It's easy to embarrass teenagers with public displays of affection. (在公共场合表现出亲昵的行为很容易让青少年感到尴尬。)
+
+976. **emerge** [vi.] 出现，涌现；冒出；(由某种状态)脱出；(事实)显现出来
+   - After hours of discussion, a clear winner began to emerge. (经过几个小时的讨论，一个明显的赢家开始显现出来。)
+   - The flowers emerge in the spring after the snow melts. (雪融后，春天的花朵开始出现。)
+
+977. **emergency** [n.] 紧急情况，突然事件
+   - In case of emergency, break the glass and push the red button. (遇到紧急情况时，打破玻璃并按红色按钮。)
+   - The hospital's emergency department was busy throughout the night. (医院的急诊部门整夜都很忙。)
+
+978. **emit** [vt.] 散发，发射；发表；发出；放射；吐露
+   - The machine emits a beeping sound when it's turned on. (机器开启时会发出嘟嘟声。)
+   - Flowers emit a pleasant fragrance in the evening. (花朵在晚上散发出愉悦的香味。)
+
+979. **emotion** [n.] 情感，感情；情绪；激动
+   - She was overwhelmed with emotion when she heard the news. (她听到这个消息时情感激动。)
+   - Managing your emotions is important in a professional setting. (在职场中管理好自己的情绪是很重要的。)
+
+980. **emotional** [adj.] 感情的，情绪的
+   - The movie was so emotional that it brought tears to her eyes. (这部电影非常感人，她看得热泪盈眶。)
+   - He gave an emotional speech that touched everyone in the audience. (他发表了一篇感人的演讲，触动了所有听众的心。)
+
+981. **emperor** [n.] 皇帝
+   - The emperor of the ancient dynasty was known for his wisdom. (那个古代王朝的皇帝以智慧著称。)
+   - In history class, we learned about the reign of the Roman emperors. (在历史课上，我们学习了罗马皇帝的统治。)
+
+982. **empire** [n.] 帝国
+   - The Roman Empire was one of the largest empires in history. (罗马帝国是历史上最大的帝国之一。)
+   - The sun never set on the British Empire at its peak. (在鼎盛时期，大英帝国日不落。)
+
+983. **emphasis** [n.] 强调，重点，重要性
+   - The teacher put emphasis on the importance of reading. (老师强调了阅读的重要性。)
+   - There is a growing emphasis on environmental protection. (对环境保护的重视日益增加。)
+
+984. **emphasize** [vt.] 强调，着重
+   - The speaker emphasized the need for immediate action. (演讲者强调了立即采取行动的必要性。)
+   - The report emphasizes the benefits of a balanced diet. (报告强调了均衡饮食的好处。)
+
+985. **employ** [vt.] 雇用；使用；使忙于
+   - The company employs over 500 people. (这家公司雇佣了500多名员工。)
+   - He employed a clever strategy to solve the problem. (他使用了一个巧妙的策略来解决问题。)
+
+986. **employee** [n.] 受雇者，雇员，雇工
+   - The new employee was eager to learn and make a good impression. (新雇员渴望学习并留下好印象。)
+   - Employee satisfaction is important for a company's success. (员工满意度对公司的成功很重要。)
+
+987. **employment** [n.] 雇用；使用；职业
+   - Finding stable employment can be challenging in a fluctuating economy. (在波动的经济中找到稳定的工作可能很有挑战性。)
+   - She has been seeking employment since she graduated from college. (她自从大学毕业以来一直在寻找工作。)
+
+988. **empty** [adj.] 空的，空洞的
+   - The room was empty except for a single chair. (除了一把椅子，房间是空的。)
+   - He felt an empty sensation in his stomach after skipping lunch. (他因为跳过午餐而感到肚子空空的。)
+
+989. **enable** [vt.] 使能够，使可能；[计算机]使能
+   - The scholarship enabled her to attend college. (这份奖学金使她能够上大学。)
+   - The new software update enables additional features. (新的软件更新启用了额外的功能。)
+
+990. **encounter** [vt. & vi.] 遭遇，遇到；偶然碰到；[n.] 遭遇，意外的相见
+   - We encountered heavy traffic on our way to the airport. (我们在去机场的路上遇到了严重的交通堵塞。)
+   - During his hike, he had a close encounter with a wild bear. (在他的徒步旅行中，他与一只野熊有了近距离的遭遇。)
+
+991. **encourage** [vt.] 鼓励，支持；助长；激励；支持
+   - The teacher encouraged her students to ask questions. (老师鼓励学生们提问。)
+   - Positive feedback can encourage children to try harder. (积极的反馈可以鼓励孩子们更加努力。)
+
+992. **end** [n.] 末端，目标，结束，终点；[vt. & vi.] 结束，终结；[adj.] 最终的
+   - The end of the book was surprising and satisfying. (这本书的结局既出人意料又令人满意。)
+   - They decided to end the meeting early due to lack of discussion points. (由于缺乏讨论要点，他们决定提前结束会议。)
+
+993. **endless** [adj.] 无止境的，没完没了的
+   - The possibilities seemed endless. (可能性似乎是无穷无尽的。)
+   - She listened to the endless chatter of her classmates. (她听着同学们没完没了的喋喋不休。)
+
+994. **endure** [vt.] 忍受，容忍；[vi.] 持久，持续
+   - She had to endure a long wait before the doctor could see her. (她不得不忍受长时间的等待才能见到医生。)
+   - The ancient ruins have endured for thousands of years. (这些古老的遗迹已经持续了数千年。)
+
+995. **enemy** [n.] 敌人，仇敌；敌兵；敌对势力；有害物
+   - In the game, players must defeat enemies to progress. (在游戏中，玩家必须击败敌人才能前进。)
+   - He considered ignorance the greatest enemy of progress. (他认为无知是进步的最大敌人。)
+
+996. **energy** [n.] 活力，精力；能力；能，能量
+   - After a good night's sleep, she was full of energy. (经过一夜的良好睡眠，她精力充沛。)
+   - Renewable energy sources are essential for sustainable development. (可再生能源对于可持续发展至关重要。)
+
+997. **enforce** [vt.] 实施，执行；强制，强迫；加强
+   - The police are responsible for enforcing the law. (警察负责执行法律。)
+   - The school decided to enforce a new dress code. (学校决定强制执行新的着装规定。)
+
+998. **engage** [vt.] 使从事于；聘用；答应；预定；使忙碌；订婚
+   - The company engages experts to ensure the quality of their products. (公司聘请专家以确保产品质量。)
+   - They were engaged over the holiday season. (他们在假期订婚了。)
+
+999. **engine** [n.] 发动机，引擎；机车，火车头；[vt.] 装引擎
+   - The car has a very powerful engine. (这辆车有一个非常强大的发动机。)
+   - The old train's engine still runs smoothly. (那辆老火车的引擎仍然运转平稳。)
+
+1000. **engineer** [n.] 工程师，技师，机械师；[vt.] 操纵，设计，建造
+   - The engineer is working on a new design for the bridge. (工程师正在设计一座新桥。)
+   - They engineered a solution to the water shortage problem. (他们设计了一个解决水资源短缺问题的方案。)
+
+1001. **engineering** [n.] 工程，工程学
+   - She decided to study civil engineering at the university. (她决定在大学学习土木工程。)
+   - Engineering breakthroughs have led to the construction of taller and safer buildings. (工程技术的突破导致了更高更安全建筑的建造。)
+
+1002. **England** [n.] 英格兰，英国
+   - England is known for its historical landmarks and cultural heritage. (英格兰以其历史地标和文化遗产而闻名。)
+   - She will be traveling to England to study at Oxford University. (她将前往英格兰在牛津大学学习。)
+
+1003. **English** [n.] 英语；[adj.] 英国人的，英国的，英语的；[vt.] 译成英语，把...(外来语言)加到英语中
+   - English is spoken as a first language by many people around the world. (英语是世界上许多人的母语。)
+   - The English countryside is famous for its beautiful landscapes. (英国乡村以其美丽的风景而著名。)
+
+1004. **enjoy** [vt. & vi.] 享受，欣赏，喜爱
+   - I enjoy reading books in my free time. (我喜欢在空闲时间阅读书籍。)
+   - They enjoyed a lovely dinner at a seaside restaurant. (他们在一家海边餐厅享用了一顿美妙的晚餐。)
+
+1005. **enlarge** [vt.] 扩大，扩展，增大，放大
+   - The company plans to enlarge its operations overseas. (公司计划扩大其海外业务。)
+   - If you enlarge the photo, you can see more detail. (如果你放大照片，你可以看到更多细节。)
+
+1006. **enormous** [adj.] 巨大的，庞大的
+   - The enormous elephant towered over the other animals at the zoo. (这头巨大的大象在动物园里高耸于其他动物之上。)
+   - They faced an enormous challenge when starting the new business. (他们在创办新企业时面临着巨大的挑战。)
+
+1007. **enough** [adj.] 足够的；[adv.] 足够地，完全地；[pron.] 足够，受够
+   - We have enough food to last the week. (我们有足够的食物可以维持一周。)
+   - She spoke loudly enough for everyone to hear. (她说话足够大声，以至于每个人都能听到。)
+
+1008. **ensure** [vt.] 保证，保护，赋予
+   - The contract ensures that the seller will deliver the goods on time. (合同保证卖家将准时交货。)
+   - To ensure safety, always wear a seatbelt when driving. (为了确保安全，开车时总是要系好安全带。)
+
+1009. **enter** [vt. & vi.] 走进，进入；参加，报名；开始，加入；报价，提出；[计算机] 送入
+   - Please enter through the front door. (请从前门进入。)
+   - She entered the competition with hopes of winning the first prize. (她参加了比赛，希望能赢得一等奖。)
+
+1010. **entire** [adj.] 全部的，整个的，完整的；同性质的，纯正的，全面的
+   - The entire community came together to support the cause. (整个社区团结起来支持这个事业。)
+   - He spent his entire life in the same small town. (他一生都在同一个小镇上度过。)
+
+1011. **entitle** [vt.] 给...权利(或资格)；取名为；使有权利
+   - The pass entitles you to free entry to all the museums. (这张通行证使你有权免费进入所有博物馆。)
+   - The book was entitled "The Adventures of Tom Sawyer". (这本书的标题是《汤姆·索亚历险记》。)
+
+1012. **entrance** [n.] 入口，门口；进入；登场；[vt.] 使神志恍惚
+   - The main entrance to the building is on the west side. (大楼的主入口在西侧。)
+   - Her performance entranced the audience. (她的表演使观众如痴如醉。)
+
+1013. **entry** [n.] 入口处，登记，进入；入口；项目
+   - The library has an entry for every book in its catalog. (图书馆的目录中每本书都有一个条目。)
+   - His diary entry for that day described the event in detail. (他那天的日记条目详细描述了那个事件。)
+
+1014. **envelope** [n.] 信封，封套，封皮；壳层
+   - He sealed the letter in an envelope and mailed it. (他把信封封好并邮寄了出去。)
+   - The spacecraft must be built to withstand the heat of re-entering the Earth's envelope. (宇宙飞船必须建造得能够承受重新进入地球大气层的热量。)
