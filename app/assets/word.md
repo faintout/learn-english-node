@@ -4222,3 +4222,163 @@
 1055. **excellent** [adj.] 优秀的，杰出的
    - She received excellent grades on her report card. (她在成绩单上获得了优秀的成绩。)
    - The chef prepared an excellent meal for the guests. (厨师为客人准备了一顿杰出的餐点。)
+
+1056. **except** [prep. & conj.] 除了...之外；若不是，除非；[vt.] 除，排除
+   - Everyone except John was present at the meeting. (除了约翰之外，每个人都出席了会议。)
+   - We work every day except Sunday. (我们每天都工作，除了星期日。)
+
+1057. **excessive** [adj.] 过多的，过分的，极度的
+   - Drinking an excessive amount of water can be harmful to your health. (喝过量的水对健康有害。)
+   - He was worried about the excessive costs of the project. (他担心项目的成本过高。)
+
+1058. **exchange** [vt. & vi.] 交换，交流；交易，兑换；[n.] 交换，交换物；汇兑，交易所
+   - I'd like to exchange this shirt for a larger size. (我想把这件衬衫换成更大一号的。)
+   - The stock exchange is a hub for traders and investors. (股票交易所是交易者和投资者的中心。)
+
+1059. **excite** [vt.] 使激动，引起；刺激，激励
+   - The upcoming holiday excites the children. (即将到来的假期让孩子们感到兴奋。)
+   - This new discovery has excited the scientific community. (这项新发现激起了科学界的兴趣。)
+
+1060. **exciting** [adj.] 令人兴奋的
+   - The final match was really exciting. (决赛真的很激动人心。)
+   - They are planning an exciting adventure in the mountains. (他们正计划在山中进行一次令人兴奋的冒险。)
+
+1061. **exclaim** [vi.] 呼喊，惊叫；大声叫
+   - "What a beautiful sunset!" she exclaimed. (她惊叫道：“多么美丽的日落啊！”)
+   - The children exclaimed in delight when they saw the ice cream truck. (孩子们看到冰淇淋车时高兴地大叫起来。)
+
+1062. **exclude** [vt.] 把...排除在外；拒绝；[计算机] 排除
+   - The club has rules that exclude anyone under 18. (俱乐部有规定不允许18岁以下的人进入。)
+   - Some antivirus software can exclude safe files from scanning. (一些杀毒软件可以将安全文件排除在扫描之外。)
+
+1063. **excuse** [vt.] 原谅，免除；辩解，准许离开；同意赦免；[n.] 借口，理由；低劣的样品，假条
+   - Please excuse my late arrival. (请原谅我迟到了。)
+   - He had a valid excuse for missing the deadline. (他有一个正当的理由错过了截止日期。)
+
+1064. **execute** [vt.] 将...处死，实施；执行，完成；[计算机] 执行
+   - The court ordered the criminal to be executed. (法院下令将那个罪犯处决。)
+   - The program is ready to execute the next command. (程序准备好执行下一个命令。)
+
+1065. **executive** [adj.] 执行的，行政的；决策的，经营的；[计算机] 执行指令；[n.] 执行者，主管；行政部门
+   - She was promoted to an executive position within the company. (她在公司内被提升为高管职位。)
+   - The executive branch is responsible for enforcing laws. (行政部门负责执行法律。)
+
+1066. **exercise** [n.] 锻炼，训练；练习，作业；运动；[vi.] 练习，锻炼；[vt.] 运用
+   - Regular exercise is important for maintaining good health. (定期锻炼对于保持良好的健康状况很重要。)
+   - The teacher asked the students to exercise caution while conducting the experiment. (老师要求学生在进行实验时要小心谨慎。)
+
+1067. **exhaust** [vt.] 使筋疲力尽，用尽；排空；[vi.] 耗尽；[n.] 排气，排气装置
+   - After the long run, he was completely exhausted. (长跑之后，他完全筋疲力尽了。)
+   - The car's exhaust needs to be repaired. (汽车的排气系统需要修理。)
+
+1068. **exhibit** [vt.] 显示(感情或品质)；陈列，展览；展现；提出证据；[vi.] 展览；[n.] 展览品，展览，物证
+   - The museum will exhibit paintings by famous artists. (博物馆将展出著名艺术家的画作。)
+   - He exhibited great bravery during the rescue operation. (他在救援行动中表现出极大的勇气。)
+
+1069. **exhibition** [n.] 展览，陈列；展示；展览会
+   - The photography exhibition attracted a large audience. (摄影展吸引了大量观众。)
+   - The new technology will be on exhibition at the trade fair. (新技术将在贸易展上展出。)
+
+1070. **exist** [vi.] 存在，生存；生活
+   - Do you believe that aliens exist? (你相信外星人存在吗？)
+   - Many species that once existed are now extinct. (许多曾经存在的物种现在已经灭绝。)
+
+1071. **existence** [n.] 存在，实在；生存
+   - The existence of dark matter is still a topic of debate among scientists. (暗物质的存在仍然是科学家们争论的话题。)
+   - He led a miserable existence in poverty. (他在贫困中过着悲惨的生活。)
+
+1072. **exit** [n.] 出口，退场；离去；[vi.] 退出，死亡；[vt.] 离开
+   - Please keep the exit clear in case of an emergency. (请保持出口畅通以防紧急情况。)
+   - He exited the room without saying a word. (他一言不发地离开了房间。)
+
+1073. **expect** [vt.] 预料，预期；等待，盼望
+   - I expect to receive the results by the end of the week. (我预期在周末前收到结果。)
+   - They didn't expect him to win the race. (他们没料到他会赢得比赛。)
+
+1074. **experience** [n.] 经验，感受；经历；[vt.] 经历，体验
+   - She has a lot of experience in customer service. (她在客户服务方面有很多经验。)
+   - We experienced some difficulties during the project. (我们在项目期间遇到了一些困难。)
+
+1075. **experiment** [n.] 实验，试验；尝试；[vi.] 做实验，尝试
+   - The experiment was conducted to test the new theory. (这个实验是为了测试新理论而进行的。)
+   - Scientists often experiment with new methods to advance their research. (科学家们经常尝试新方法来推进他们的研究。)
+
+1076. **expert** [n.] 专家，能手；[adj.] 熟练的，内行的；[vi.] 当专家
+   - She is an expert in environmental law. (她是环境法的专家。)
+   - His expert handling of the situation averted a crisis. (他对情况的熟练处理避免了一场危机。)
+
+1077. **explain** [vt. & vi.] 解释，说明；为...辩解
+   - Can you explain the rules of the game to me? (你能向我解释游戏规则吗？)
+   - He tried to explain his behavior to the committee. (他试图向委员会解释他的行为。)
+
+1078. **explanation** [n.] 解释，说明；辩解
+   - The teacher asked for an explanation for his absence. (老师要求他解释缺席的原因。)
+   - There must be some logical explanation for the events. (这些事件必定有一些合逻辑的解释。)
+
+1079. **explode** [vt.] 使爆炸，驳倒；[vi.] 爆炸，爆发(感情)；激增；[计算机] 爆炸
+   - The bomb squad safely exploded the device. (拆弹小组安全地引爆了装置。)
+   - The population in the city has exploded in recent years. (近年来，这座城市的人口激增。)
+
+1080. **explosion** [n.] 爆炸，爆发；炸裂；激增
+   - The explosion was heard miles away. (爆炸声在数英里外都能听到。)
+   - There has been an explosion of interest in learning programming. (对学习编程的兴趣激增。)
+
+1081. **explosive** [n.] 炸药；[adj.] 爆炸(性)的
+   - The warehouse stored explosive materials. (仓库存放了爆炸性物质。)
+   - His explosive temper is well-known in the office. (他的暴躁脾气在办公室里是出了名的。)
+
+1082. **explore** [v.] 探索，勘探；考察
+   - They set out to explore the remote regions of the jungle. (他们开始探索丛林的偏远地区。)
+   - The scientists are exploring the possibility of life on Mars. (科学家们正在探索火星上存在生命的可能性。)
+
+1083. **expose** [vt.] 使暴露；揭露；揭穿；使遭受(危险或不快)
+   - The journalist exposed the corruption within the government. (记者揭露了政府内部的腐败。)
+   - Do not expose your skin to the sun for too long. (不要让你的皮肤长时间暴露在阳光下。)
+
+1084. **export** [vt.] 输出，出口；运走；[n.] 出口，输出品；[vi.] 传播，输出；[adj.] 出口的
+   - The country exports a large quantity of sugar. (这个国家出口大量的糖。)
+   - Coffee is a major export of Colombia. (咖啡是哥伦比亚的主要出口产品。)
+
+1085. **express** [vt.] 表达，表示；挤压出；快递；[n.] 快车，快递；专使；[adj.] 急速的，明确的，直接的；[adv.] 用快递，特意地
+   - He expressed his dissatisfaction with the service. (他表达了对服务的不满。)
+   - The letter was sent by express mail. (这封信是通过快递邮寄的。)
+
+1086. **expression** [n.] 词句，措辞；表达，表示；表现；表情
+   - Her face was without expression as she heard the news. (她听到这个消息时，脸上没有任何表情。)
+   - Music is a form of expression for many people. (对许多人来说，音乐是一种表达形式。)
+
+1087. **extend** [vt.] 延长，延伸；伸展；扩大，扩充；扩展；致
+   - The company plans to extend its operations into other countries. (公司计划将其业务扩展到其他国家。)
+   - He extended his hand in greeting. (他伸出手来打招呼。)
+
+1088. **extensive** [adj.] 广阔的，广泛的
+   - They own an extensive piece of land in the countryside. (他们在乡下拥有一大片土地。)
+   - The fire caused extensive damage to the building. (这场火灾对建筑造成了广泛的损害。)
+
+1089. **extent** [n.] 广度，范围；程度，宽度，长度，大小；[律] <英>扣押，<美>临时所有权令
+   - The extent of the damage was not fully known. (损害的程度尚未完全了解。)
+   - The extent to which this will affect the economy is unclear. (这将在多大程度上影响经济尚不清楚。)
+
+1090. **external** [adj.] 外部的，外面的；外用的，客观的，表面的；[n.] 外部
+   - The external walls of the building need to be repainted. (建筑的外墙需要重新粉刷。)
+   - The doctor prescribed an external ointment for the rash. (医生开了一种外用药膏治疗皮疹。)
+
+1091. **extra** [adj.] 额外的；[adv.] 特别地；[n.] 额外的事物，另外收费的
+   - You will be paid extra for working overtime. (加班工作你将获得额外的报酬。)
+   - The movie hired many extras for the crowd scenes. (这部电影为群众场面雇佣了许多临时演员。)
+
+1092. **extraordinary** [adj.] 非同寻常的，特别的，非凡的，特派的
+   - It took an extraordinary amount of courage to face the danger. (面对危险需要非凡的勇气。)
+   - The scientist made an extraordinary discovery. (科学家做出了非凡的发现。)
+
+1093. **extreme** [adj.] 极度的，极端的；尽头的，严重的，末端的；[n.] 极端，极限
+   - His views on the subject are quite extreme. (他对这个问题的看法相当极端。)
+   - She went to extreme lengths to ensure the event was a success. (她竭尽全力确保活动成功。)
+
+1094. **eye** [n.] 眼睛，眼力；鉴赏力；[v.] 看，注视
+   - She has an eye for detail. (她对细节有敏锐的洞察力。)
+   - The cat eyed the mouse suspiciously. (猫疑惑地盯着老鼠。)
+
+1095. **eyesight** [n.] 视力，目力
+   - Good eyesight is required for pilots. (飞行员需要良好的视力。)
+   - He wears glasses to correct his eyesight. (他戴眼镜来矫正视力。)
