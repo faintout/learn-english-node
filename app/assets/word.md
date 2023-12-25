@@ -4058,3 +4058,167 @@
 1014. **envelope** [n.] 信封，封套，封皮；壳层
    - He sealed the letter in an envelope and mailed it. (他把信封封好并邮寄了出去。)
    - The spacecraft must be built to withstand the heat of re-entering the Earth's envelope. (宇宙飞船必须建造得能够承受重新进入地球大气层的热量。)
+
+1015. **environment** [n.] 环境，外界，围绕
+   - We must work together to protect the natural environment. (我们必须共同努力保护自然环境。)
+   - The company is known for its friendly work environment. (这家公司以其友好的工作环境而闻名。)
+
+1016. **envy** [vt./vi.] 妒忌，嫉妒，羡慕；[n.] 妒忌，羡慕
+   - She envied her sister's success. (她嫉妒她姐姐的成功。)
+   - Envy can sometimes lead to negative behavior. (嫉妒有时会导致负面行为。)
+
+1017. **equal** [adj.] 相等的，平等的，胜任的；[n.] 对手，匹敌，同辈；[vt.] 等于，比得上
+   - All citizens should have equal rights under the law. (所有公民在法律面前应享有平等的权利。)
+   - His skills as a chef equal those of any master. (他作为厨师的技能堪比任何大师。)
+
+1018. **equation** [n.] 方程(式)，等式，均衡，相等
+   - The equation \(x^2 - 4 = 0\) has two solutions. (方程\(x^2 - 4 = 0\)有两个解。)
+   - Finding a work-life balance is like solving a complex equation. (找到工作与生活的平衡就像解一个复杂的方程。)
+
+1019. **equip** [vt.] 装备，配备，设备
+   - The soldiers were equipped with the latest gear. (士兵们装备了最新的装备。)
+   - We need to equip the laboratory with new microscopes. (我们需要为实验室配备新的显微镜。)
+
+1020. **equipment** [n.] 装备，设备，配备
+   - The gym has a wide range of fitness equipment. (健身房有各种各样的健身设备。)
+   - Safety equipment is mandatory on the construction site. (在建筑工地上，安全设备是强制性的。)
+
+1021. **era** [n.] 时代，年代，纪元
+   - The digital era has transformed the way we communicate. (数字时代改变了我们的沟通方式。)
+   - She was a famous singer during the jazz era. (她是爵士乐时代著名的歌手。)
+
+1022. **error** [n.] 错误，谬误，差错
+   - The experiment failed due to a human error. (实验因人为错误而失败。)
+   - The document contains several spelling errors. (该文件包含几个拼写错误。)
+
+1023. **escape** [vt./vi.] 逃跑，逃脱，避开；[n.] 逃跑，逃亡；[adj.] 逃避的
+   - The prisoner tried to escape from jail. (囚犯试图从监狱逃跑。)
+   - Fire drills are important to prepare for a possible escape in case of emergency. (消防演习对于准备紧急情况下的可能逃生非常重要。)
+
+1024. **especially** [adv.] 特别，尤其，格外
+   - I love all kinds of fruit, especially mangoes. (我喜欢各种水果，尤其是芒果。)
+   - He's not especially fond of dancing. (他对跳舞并没有特别的喜好。)
+
+1025. **essay** [n.] 短文，散文，论文；[vt.] 尝试
+   - The student wrote an essay on environmental conservation. (学生写了一篇关于环境保护的短文。)
+   - To essay a new technique in painting can be challenging. (尝试绘画中的新技术可能是具有挑战性的。)
+
+1026. **essential** [adj.] 必要的，重要的，本质的；[n.] 要素，要点
+   - Water is essential for life. (水对生命是必不可少的。)
+   - The essential point of the argument has been overlooked. (争论的要点被忽视了。)
+
+1027. **establish** [vt.] 建立，设立，确立，创办
+   - The university was established in the 19th century. (这所大学建立于19世纪。)
+   - It's important to establish a good rapport with clients. (与客户建立良好的关系非常重要。)
+
+1028. **estimate** [vt.] 估计，估价，评价；[n.] 估计，估价
+   - The contractor estimated the cost of the project to be $10,000. (承包商估计项目的成本为10,000美元。)
+   - My estimate of the situation was that we would need more time. (我对情况的估计是我们需要更多的时间。)
+
+1029. **Europe** [n.] 欧洲
+   - Europe is known for its rich cultural heritage. (欧洲以其丰富的文化遗产而闻名。)
+   - Many tourists travel to Europe to visit its historic cities. (许多游客前往欧洲参观其历史名城。)
+
+1030. **European** [adj.] 欧洲的；[n.] 欧洲人
+   - The European Union has 27 member countries. (欧洲联盟有27个成员国。)
+   - As a European, she enjoys the right to live and work in any EU country. (作为欧洲人，她享有在任何欧盟国家生活和工作的权利。)
+
+1031. **evaluate** [vt.] 评估，评价，估价
+   - Teachers evaluate students' progress through exams and coursework. (教师通过考试和课程作业评估学生的进步。)
+   - It's difficult to evaluate the success of the campaign at this early stage. (在这个早期阶段很难评估活动的成功。)
+
+1032. **eve** [n.] 前夜，前夕；[Eve] 夏娃
+   - On the eve of the election, the candidates made their final appeals. (在选举前夕，候选人做出了他们的最后呼吁。)
+   - According to the Bible, Eve was the first woman. (根据圣经，夏娃是第一个女人。)
+
+1033. **even** [adv.] 甚至，还；[adj.] 平坦的，偶数的，相等的；[v.] 使平坦，相等
+   - She didn't even call to say she was going to be late. (她甚至没有打电话说她会迟到。)
+   - The floor needs to be even before we lay the tiles. (我们铺瓷砖之前需要把地面弄平。)
+
+1034. **evening** [n.] 傍晚，黄昏，晚上
+   - We usually go for a walk in the evening. (我们通常在晚上去散步。)
+   - The evening sky was filled with stars. (傍晚的天空满是星星。)
+
+1035. **event** [n.] 事件，大事，事变，项目，活动
+   - The concert was the main event of the summer festival. (音乐会是夏季节日的主要活动。)
+   - Unexpected events can sometimes change our plans. (意外事件有时可以改变我们的计划。)
+
+1036. **eventually** [adv.] 终于，最后
+   - After many delays, the project was eventually completed. (经过多次延期，项目最终完成了。)
+   - She eventually decided to move to a new city for her job. (她最终决定为了工作搬到一个新城市。)
+
+1037. **ever** [adv.] 在任何时候，曾经，永远
+   - Have you ever been to Paris? (你曾经去过巴黎吗？)
+   - No one ever discovered the secret. (从来没有人发现那个秘密。)
+
+1038. **every** [adj.] 每一的，每隔...的
+   - Every student must complete the assignment. (每个学生必须完成作业。)
+   - The bus arrives every ten minutes. (公交车每十分钟到一次。)
+
+1039. **everybody** [pron.] 每人，人人，各人
+   - Everybody is welcome to attend the meeting. (每个人都受欢迎参加会议。)
+   - The news surprised everybody in the office. (这个消息让办公室里的每个人都感到惊讶。)
+
+1040. **everyday** [adj.] 每天的，日常的，平常的
+   - These are my everyday shoes, comfortable but not very formal. (这些是我日常穿的鞋，舒适但不是很正式。)
+   - The museum tries to show the everyday life of people in the past. (博物馆试图展示过去人们的日常生活。)
+
+1041. **everyone** [pron.] 每人，人人；[n.] 每个人
+   - Everyone has the right to freedom of speech. (每个人都有言论自由的权利。)
+   - The teacher asked everyone to submit their homework on time. (老师要求每个人按时提交作业。)
+
+1042. **everything** [pron.] 每件事，事事，一切
+   - Everything is ready for the party. (派对的一切都准备好了。)
+   - Don't worry, everything will be fine. (不用担心，一切都会好起来的。)
+
+1043. **everywhere** [adv.] 到处，处处，无论何处
+   - Flowers were blooming everywhere in the spring. (春天，到处都开满了花。)
+   - He looked for his keys everywhere but couldn't find them. (他到处找他的钥匙，但没找到。)
+
+1044. **evidence** [n.] 根据，证据；[vt./vi.] 证实，证明
+   - The jury reviewed the evidence before making a decision. (陪审团在做出决定之前审查了证据。)
+   - His calm demeanor evidenced his confidence. (他的镇定举止证明了他的自信。)
+
+1045. **evident** [adj.] 明显的，明白的
+   - It was evident that she was unhappy with the decision. (很明显她对这个决定不满意。)
+   - The quality of the work was evident in the final product. (工作的质量在最终产品中显而易见。)
+
+1046. **evil** [n.] 邪恶，罪恶，祸害；[adj.] 邪恶的，坏的
+   - He fought against the evil forces in the story. (他在故事中与邪恶势力作斗争。)
+   - It is said that superstition is the root of all evil. (据说迷信是一切罪恶的根源。)
+
+1047. **exact** [adj.] 确切的，精确的；[vt.] 强求，要求，索取
+   - I need the exact dimensions of the room for the new carpet. (我需要房间的确切尺寸来铺新地毯。)
+   - The workers are expected to arrive at the exact time they are scheduled. (预计工人们会在他们预定的确切时间到达。)
+
+1048. **exactly** [adv.] 确切地，恰恰正是
+   - That's exactly what I was thinking. (那正是我所想的。)
+   - The clock struck twelve exactly as we entered the room. (我们进入房间时钟恰好敲了十二下。)
+
+1049. **exaggerate** [vt./vi.] 夸大，夸张
+   - He tends to exaggerate the difficulties he faces. (他倾向于夸大他面临的困难。)
+   - Don't exaggerate; it wasn't that bad. (不要夸张；情况没有那么糟。)
+
+1050. **exam** [n.] 考试，检查，细查
+   - Students often feel nervous before an exam. (学生在考试前常感到紧张。)
+   - A thorough exam of the vehicle was conducted to ensure safety. (对车辆进行了彻底的检查以确保安全。)
+
+1051. **examination** [n.] 考试，检查，细查，审讯
+   - The final examination will cover everything we've learned this semester. (期末考试将涵盖我们这学期学到的所有内容。)
+   - The doctor performed a careful examination of the patient. (医生对病人进行了仔细的检查。)
+
+1052. **examine** [vt.] 检查，仔细观察，调查，考试；[vi.] 调查
+   - The teacher will examine the students on their knowledge of math. (老师将考查学生们的数学知识。)
+   - The mechanic examined the car for any defects. (机械师检查汽车是否有任何缺陷。)
+
+1053. **example** [n.] 例子，实例，模范，榜样；[vt.] 把...作为例子
+   - She set a good example for the rest of the team. (她为团队其他成员树立了一个好榜样。)
+   - Can you give me an example of what you mean? (你能给我一个你所说的例子吗？)
+
+1054. **exceed** [vt.] 超过，胜过，超出；[vi.] 领先
+   - The final cost should not exceed the initial estimate. (最终成本不应超过初步估计。)
+   - His performance exceeded all expectations. (他的表现超出了所有人的预期。)
+
+1055. **excellent** [adj.] 优秀的，杰出的
+   - She received excellent grades on her report card. (她在成绩单上获得了优秀的成绩。)
+   - The chef prepared an excellent meal for the guests. (厨师为客人准备了一顿杰出的餐点。)
