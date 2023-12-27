@@ -4382,3 +4382,179 @@
 1095. **eyesight** [n.] 视力，目力
    - Good eyesight is required for pilots. (飞行员需要良好的视力。)
    - He wears glasses to correct his eyesight. (他戴眼镜来矫正视力。)
+
+1096. **fabric** [n.] 织物；结构
+   - The dress is made of a very soft and comfortable fabric. (这件裙子是用一种非常柔软舒适的织物制成的。)
+   - The social fabric of our community is very strong. (我们社区的社会结构非常牢固。)
+
+1097. **face** [n.] 脸；面
+   - She washed her face with cold water in the morning. (她早上用冷水洗脸。)
+   - The climbers were challenged by the sheer face of the mountain. (攀登者们面临着山的陡峭山面的挑战。)
+
+1098. **facility** [n.] 设备；容易；便利；灵巧
+   - The new sports facility has a swimming pool and a gym. (新的体育设施有游泳池和健身房。)
+   - He has a great facility for learning languages. (他学习语言有很强的天赋。)
+
+1099. **fact** [n.] 事实；实际；实情
+   - The fact that she didn't call suggests she forgot our appointment. (她没有打电话这个事实表明她忘记了我们的约会。)
+   - It is a well-known fact that smoking is harmful to your health. (众所周知，吸烟有害健康。)
+
+1100. **factor** [n.] 因素；因子；系数；[vt.] 把…因素包括进去；[vi.] 作为因素
+   - Price is not the only factor to consider when purchasing a car. (购买汽车时，价格不是唯一需要考虑的因素。)
+   - Genetics play a significant factor in determining a person's height. (遗传在决定一个人的身高方面起着重要的作用。)
+
+1101. **factory** [n.] 工厂；制造厂
+   - The factory produces hundreds of cars each day. (这家工厂每天生产数百辆汽车。)
+   - Workers at the factory are demanding better working conditions. (工厂的工人们正在要求更好的工作条件。)
+
+1102. **fade** [vi.] 褪色；逐渐消失；凋谢；[vt.] 使褪色；[n.] 淡入；淡出；[adj.] 平凡的；乏味的
+   - The curtains have started to fade because of the sunlight. (由于阳光的照射，窗帘开始褪色了。)
+   - His memories of the vacation began to fade as time passed. (随着时间的流逝，他对假期的记忆开始逐渐消失。)
+
+1103. **fail** [vi.] 失败；失灵；不能；衰退；不及格；[vt.] 辜负；缺少；未能做；[n.] 不及格
+   - If you fail to prepare, you prepare to fail. (如果你不做准备，你就准备失败。)
+   - Despite his efforts, he failed the final exam. (尽管他努力了，但他还是没通过期末考试。)
+
+1104. **failure** [n.] 失败；失败的人或事
+   - The project was a failure and had to be abandoned. (这个项目失败了，不得不放弃。)
+   - He considered himself a failure after losing his job. (失去工作后，他认为自己是个失败者。)
+
+1105. **faint** [adj.] 微弱的；虚弱的；无力的；模糊的；[v.] 昏倒；[n.] 昏厥；昏倒
+   - The light from the stars was too faint to read by. (星光太微弱，无法借助它阅读。)
+   - She felt faint from hunger and had to sit down. (她因饥饿感到头晕，不得不坐下。)
+
+1106. **fair** [adj.] 公平的；晴朗的；美丽的；相当的；(皮肤，毛发等)浅色的；白皙的；[n.] 展览会；市集；定期集市；[adv.] 公平地；直接地
+   - The judge must make a fair decision. (法官必须做出公正的决定。)
+   - We went to the county fair to see the livestock competition. (我们去了县集市看牲畜比赛。)
+
+1107. **fairly** [adv.] 相当地；公平地；公正地；合法地；适当地
+   - The movie was fairly entertaining, although not a masterpiece. (这部电影相当有趣，尽管不是杰作。)
+   - She dealt with the situation fairly and without bias. (她公正无私地处理了这个情况。)
+
+1108. **faith** [n.] 信任；信心；信仰
+   - He has complete faith in his doctor's abilities. (他完全信任他医生的能力。)
+   - Her faith in humanity was restored after the community helped her family. (在社区帮助了她的家庭后，她对人性的信仰得到了恢复。)
+
+1109. **faithful** [adj.] 忠诚的；如实的
+   - He remained faithful to his wife throughout their marriage. (在他们的婚姻中，他始终忠于他的妻子。)
+   - The movie is a faithful adaptation of the novel. (这部电影是对小说忠实的改编。)
+
+1110. **fall** [vi.] 落下；跌倒；倒下；陷落；来临；[n.] 秋天；落下；瀑布
+   - Leaves begin to fall from the trees in autumn. (秋天时，树叶开始落下。)
+   - The empire began to fall after the death of the emperor. (在皇帝去世后，帝国开始衰落。)
+
+1111. **false** [adj.] 不真实的；伪造的；人造的；假的；错误的；虚伪的；[adv.] 不真诚地；虚伪地
+   - The accusations against him turned out to be false. (对他的指控结果证明是假的。)
+   - She smiled falsely, hiding her true feelings. (她虚伪地微笑，隐藏了她真实的感受。)
+
+1112. **familiar** [adj.] 熟悉的；熟知的；不拘礼节的；冒昧的；[n.] 熟人；熟悉某种事物的人
+   - I am familiar with the work of that artist. (我对那位艺术家的作品很熟悉。)
+   - It's good to see a familiar face in a crowd of strangers. (在一群陌生人中看到一个熟悉的面孔是件好事。)
+
+1113. **family** [n.] 家；家庭；家族；[adj.] 家庭的
+   - We have a large family with many cousins, aunts, and uncles. (我们有一个大家庭，有很多表兄弟姐妹、阿姨和叔叔。)
+   - Family traditions are important to us. (家庭传统对我们很重要。)
+
+1114. **famine** [n.] 饥荒；严重的缺乏
+   - The famine caused widespread starvation and death. (饥荒导致了广泛的饥饿和死亡。)
+   - Aid organizations are working to alleviate famine in the region. (援助组织正在努力缓解该地区的饥荒。)
+
+1115. **famous** [adj.] 著名的；出名的；一流的
+   - She became famous for her role in the blockbuster movie. (她因在那部大片中的角色而变得出名。)
+   - The restaurant is famous for its homemade pasta. (这家餐厅以自制面食而闻名。)
+
+1116. **fan** [n.] (运动等)狂热爱好者；风扇；扇形物；[vt.] 风选；煽；吹；煽动；向扇子一样展开；[vi.] 像扇子一样行动；鱼贯而出
+   - He's a big fan of the local football team. (他是当地足球队的狂热粉丝。)
+   - It's hot in here; can you turn on the fan? (这里很热；你能打开风扇吗？)
+
+1117. **far** [adj.] 远的；[adv.] 远；遥远；[n.] 远处
+   - The village is far from the nearest city. (这个村庄离最近的城市很远。)
+   - How far is it to the airport? (到机场有多远？)
+
+1118. **fare** [n.] 车费；船费；票价；费用；食物；[vi.] 进展；进食
+   - The bus fare has increased to two dollars. (公交车费已经涨到两美元。)
+   - How did you fare on your exam? (你考试的情况如何？)
+
+1119. **farewell** [int.] 再会；别了；[n.] 告别；[adj.] 告别的
+   - Farewell, my friends, until we meet again. (再见了，我的朋友们，直到我们再次相见。)
+   - They gave her a farewell party before she left for her new job. (她离开去新工作之前，他们为她举办了一个告别派对。)
+
+1120. **farm** [n.] 农场；农庄；农田；饲养场；[vt.] 收费；务农；[vi.] 务农
+   - They own a small farm where they grow vegetables and raise chickens. (他们拥有一个小农场，在那里种植蔬菜和养鸡。)
+   - He decided to farm the land instead of selling it. (他决定耕种这片土地而不是出售它。)
+
+1121. **farmer** [n.] 农民；农夫；农场主
+   - The farmer gets up early to milk the cows. (农夫一大早起来挤牛奶。)
+   - Local farmers supply our vegetables. (当地农民供应我们的蔬菜。)
+
+1122. **farther** [adv.] 更远地；进一步地；[adj.] 更远的；进一步的
+   - Can you see the ship farther out at sea? (你能看到在海上更远处的船吗？)
+   - We need to discuss this issue farther before making a decision. (我们需要在做决定之前进一步讨论这个问题。)
+
+1123. **fashion** [n.] 样子；方式；风尚；流行；时装；[vt.] 形成；适合
+   - The new fashion trend is all about bright colors and bold patterns. (新的时尚趋势是关于鲜艳的颜色和大胆的图案。)
+   - The potter fashioned a vase out of clay. (陶工用黏土制作了一个花瓶。)
+
+1124. **fashionable** [adj.] 流行的；时髦的
+   - It's fashionable to wear wide-brimmed hats this summer. (今年夏天戴宽边帽很流行。)
+   - She always wears the most fashionable clothes. (她总是穿最时髦的衣服。)
+
+1125. **fast** [adj.] 快速的；偏快的；固定的；关紧的；忠诚的；聪明的；耐久的；野性的；[adv.] 快；很快地；固定地；彻底地；鲁莽的；超前的；[vi.] 绝食；斋戒；[n.] 禁食(期)；系泊用具
+   - The athlete runs very fast. (这位运动员跑得非常快。)
+   - Please fasten your seatbelt fast; we're about to take off. (请迅速系好安全带；我们即将起飞。)
+
+1126. **fasten** [vt.] 扎牢；扣住；拴紧；使固定；系；强加于；[vi.] 固定；系紧；抓紧
+   - Fasten your seatbelt before the car starts moving. (在汽车开始移动之前系好安全带。)
+   - The carpenter fastened the boards together with nails. (木匠用钉子将木板钉在一起。)
+
+1127. **father** [n.] 父亲；神父；创始人；鼻祖；[vt.] 作为父亲生育子女；[vi.] 像父亲般照顾
+   - He became a father when his son was born. (他的儿子出生时，他成为了父亲。)
+   - Many consider him the father of modern science. (许多人认为他是现代科学之父。)
+
+1128. **fatigue** [n.] 疲劳；劳累；累活；[adj.] 疲劳的；[vt.] 使...疲劳；使...心智衰弱；[vi.] 疲劳
+   - After the long hike, they were all feeling fatigue. (长途跋涉后，他们都感到疲劳。)
+   - The soldiers were suffering from battle fatigue. (士兵们正遭受战斗疲劳。)
+
+1129. **fault** [n.] 缺点；过失；故障；[vt. & vi.] 挑剔；指责；发现错误；断裂
+   - It's not your fault the project was delayed. (项目延期并不是你的过错。)
+   - The earthquake was caused by a fault in the earth's crust. (地震是由地壳的断层引起的。)
+
+1130. **favour** [n.] 好感；赞同；恩惠；好意；喜爱；偏爱；特权；[vt.] 给予；关心；偏爱支持；利于；长得像；=favor
+   - He found favour in the eyes of his teachers. (他赢得了老师们的好感。)
+   - The new policy may favour small businesses. (新政策可能有利于小企业。)
+
+1131. **favourable** [adj.] 有利的；有用的；良好的；赞成的
+   - The weather forecast is favourable for our trip to the beach. (天气预报对我们去海滩的旅行是有利的。)
+   - She received a favourable review for her performance in the play. (她在剧中的表演得到了好评。)
+
+1132. **favourite** [adj.] 特别受喜爱的；特别喜爱的；[n.] 特别喜爱的人(或物)
+   - Chocolate is her favourite flavour of ice cream. (巧克力是她最喜欢的冰淇淋口味。)
+   - He's the favourite to win the championship this year. (他是今年赢得冠军的热门人选。)
+
+1133. **fear** [n.] 害怕，担心，敬畏，不安的原因；[vt.] 害怕，敬畏
+   - Fear of failure often prevents people from trying new things. (对失败的恐惧常常阻止人们尝试新事物。)
+   - Many people fear spiders. (许多人害怕蜘蛛。)
+
+1134. **fearful** [adj.] 害怕的，可怕的，担心的
+   - The child was fearful of the dark. (这个孩子害怕黑暗。)
+   - The news of the war made everyone fearful. (战争的消息使每个人都感到恐惧。)
+
+1135. **feasible** [adj.] 可行的，可能的
+   - It is feasible to finish the project within the deadline. (在截止日期内完成项目是可行的。)
+   - The plan sounds feasible, but we need to consider all the details. (这个计划听起来可行，但我们需要考虑所有的细节。)
+
+1136. **feather** [n.] 羽毛，翎毛，羽状物，心情，种类，服饰；[vt.] 用羽毛装饰；[vi.] 长出羽毛
+   - The bird has beautiful feathers. (这只鸟有美丽的羽毛。)
+   - She feathered her hat with a peacock plume. (她用孔雀羽毛装饰她的帽子。)
+
+1137. **feature** [n.] 特征，特色，面貌；[vt.] 以...为特色；[vi.] 起重要作用
+   - The main feature of the software is its user-friendly interface. (这款软件的主要特点是其用户友好的界面。)
+   - The film features a famous actor in the lead role. (这部电影以一位著名演员担任主角。)
+
+1138. **February** [n.] 二月
+   - My birthday is in February. (我的生日在二月。)
+   - February is the shortest month of the year. (二月是一年中最短的月份。)
+
+1139. **federal** [adj.] 联邦(制)的，联邦政府的，联盟的，同盟的；[n.] 联邦主义者，同盟盟友
+   - The federal government has the power to make decisions on national issues. (联邦政府有权对国家问题做出决定。)
+   - The federal system allows states to have their own laws. (联邦制度允许各州有自己的法律。)
