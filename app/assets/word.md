@@ -4558,3 +4558,395 @@
 1139. **federal** [adj.] 联邦(制)的，联邦政府的，联盟的，同盟的；[n.] 联邦主义者，同盟盟友
    - The federal government has the power to make decisions on national issues. (联邦政府有权对国家问题做出决定。)
    - The federal system allows states to have their own laws. (联邦制度允许各州有自己的法律。)
+
+1140. **fee** [n.] 费用，酬金，赏金，封地
+   - The lawyer's fee for the case was quite high. (律师处理该案件的费用相当高。)
+   - In medieval times, a knight could receive a fee in the form of land for his services. (在中世纪，骑士可以通过他的服务以土地的形式获得封地。)
+
+1141. **feed** [vt.] 喂养，饲养；[vi.] 吃饲料，进食；[n.] 饲养，饲料，一餐
+   - She feeds her cat twice a day. (她每天给她的猫喂食两次。)
+   - The farmer bought a large bag of feed for the livestock. (农夫为牲畜买了一大袋饲料。)
+
+1142. **feel** [vi.] 有知觉，似乎，同情；[vt.] 触摸，感觉，觉得；[n.] 感觉，触觉，直觉氛围
+   - When I touched the silk, it felt smooth and luxurious. (当我触摸那丝绸时，感觉光滑而奢华。)
+   - He has a good feel for the piano, even though he's self-taught. (尽管他是自学成才的，但他对钢琴有很好的感觉。)
+
+1143. **feeling** [n.] 感情，感觉，知觉，意识，氛围；[adj.] 有感情的，富于同情心的
+   - She expressed her deep feeling of sorrow at the news of his passing. (她对他去世的消息表达了深深的悲痛感。)
+   - The feeling atmosphere in the room was calm and serene. (房间里的氛围感觉平静而宁静。)
+
+1144. **fellow** [n.] 人，家伙，伙伴，朋友，同类；[adj.] 同类的，同事的
+   - He's a friendly fellow, always ready to lend a hand. (他是个友好的家伙，总是愿意伸出援手。)
+   - We are seeking a fellow researcher to join our team. (我们正在寻找一位同行研究者加入我们的团队。)
+
+1145. **female** [n.] 雌性动植物，女子；[adj.] 雌的，女性的，凹的
+   - The female of the species is often more colorful than the male. (这个物种的雌性通常比雌性更加多彩。)
+   - Female athletes have been achieving remarkable records in recent years. (近年来，女性运动员取得了显著的记录。)
+
+1146. **fence** [n.] 栅栏，围墙，击剑术；[v.] 用篱笆围住，练习剑术
+   - They put up a wooden fence around the backyard for privacy. (他们在后院周围竖起了一道木栅栏以保护隐私。)
+   - He learned to fence at an early age and became quite skilled. (他在很小的时候就学会了击剑，并且变得非常熟练。)
+
+1147. **fertile** [adj.] 肥沃的，多产的，能繁殖的
+   - The fertile soil of the valley is ideal for growing crops. (山谷的肥沃土壤非常适合种植庄稼。)
+   - A fertile imagination is a writer's best asset. (丰富的想象力是作家最好的资产。)
+
+1148. **fertilize** [v.] 施肥，使丰饶
+   - Farmers fertilize the fields to increase crop yields. (农民给田地施肥以增加农作物的产量。)
+   - It's important to fertilize your garden to promote healthy plant growth. (施肥你的花园以促进植物健康生长是很重要的。)
+
+1149. **fertilizer** [n.] 肥料
+   - Synthetic fertilizer is used widely in modern agriculture. (合成肥料在现代农业中被广泛使用。)
+   - Organic fertilizer can improve soil structure as well as provide nutrients. (有机肥料可以改善土壤结构并提供营养。)
+
+1150. **festival** [n.] 节日，音乐节；[adj.] 节日的，喜庆的
+   - The town holds an annual music festival every summer. (镇上每年夏天都会举办一次音乐节。)
+   - The streets were decorated with lights and banners for the festival. (街道为节日装饰了灯光和横幅。)
+
+1151. **fetch** [vt.] 拿来，请来，接去；[vi.] 取回；[n.] 取得
+   - Could you fetch me my glasses from the other room? (你能从另一个房间给我拿眼镜来吗？)
+   - The dog was trained to fetch the newspaper every morning. (这只狗被训练每天早上取报纸。)
+
+1152. **fever** [n.] 发热，发烧，狂热；[vt.] 激怒；[vi.] 发烧
+   - The child has a high fever and needs to see a doctor. (孩子发烧很严重，需要看医生。)
+   - The gold rush created a fever of excitement in the region. (淘金热在该地区引起了一阵兴奋。)
+
+1153. **few** [adj.] 很少的，少数的；[pron.] 少数；[n.] 少量
+   - Only a few of the original paintings have survived. (只有少数几幅原画幸存下来。)
+   - Few understand the complexities of the situation better than she does. (几乎没有人比她更了解这种情况的复杂性。)
+
+1154. **fibre** [n.] 纤维，纤维质，纤维组织，织地
+   - The dietitian emphasized the importance of fibre in our diet. (营养师强调了纤维在我们饮食中的重要性。)
+   - This fabric has a high percentage of natural fibre. (这种织物含有高比例的天然纤维。)
+
+1155. **field** [n.] 田野，原野，领域；[adj.] 田间的，野外的；[v.] 担任场外队员
+   - The scientist is well-known in his field of research. (这位科学家在他的研究领域内非常知名。)
+   - The baseball player fielded the ball cleanly and threw it to first base. (棒球运动员干净利落地接住球并将其扔向一垒。)
+
+1156. **fierce** [adj.] 凶猛的，猛烈的，残暴的
+   - The fierce storm caused a lot of damage in the coastal areas. (猛烈的风暴给沿海地区造成了很多损害。)
+   - The competition among the candidates was fierce. (候选人之间的竞争非常激烈。)
+
+1157. **fight** [v.] 打架，斗争；[n.] 战斗，斗志
+   - Soldiers fight to defend their country. (士兵战斗是为了保卫他们的国家。)
+   - The fight against disease requires global cooperation. (与疾病的斗争需要全球合作。)
+
+1158. **figure** [n.] 数字，形状，人物；[v.] 演算，认为
+   - The figure at the bottom of the page indicates the total cost. (页面底部的数字表示总成本。)
+   - Can you figure out the solution to this math problem? (你能解决这个数学问题吗？)
+
+1159. **file** [n.] 文件，锉刀；[v.] 把...归档，列队行进
+   - She organized the documents and placed them in the file. (她整理了文件并将它们放入文件夹。)
+   - The soldiers filed into the parade ground in preparation for inspection. (士兵们列队进入检阅场准备接受检阅。)
+
+1160. **fill** [v.] 装满，填充；[n.] 足量
+   - Please fill the glass with water. (请把杯子装满水。)
+   - The fill of the pillow is a hypoallergenic synthetic down. (这个枕头的填充物是防过敏的合成羽绒。)
+
+1161. **film** [n.] 电影，薄膜，胶片；[v.] 拍摄电影，给...覆上一层
+   - We watched a film about the life of a famous artist. (我们观看了一部关于一位著名艺术家生活的电影。)
+   - The windows were filmed over with condensation, making it hard to see outside. (窗户上覆盖着冷凝水膜，使得很难看到外面。)
+
+1162. **filter** [n.] 过滤器，滤波器；[v.] 过滤，渗透
+   - The water goes through a filter to remove impurities. (水通过过滤器去除杂质。)
+   - The news seemed to filter through the office slowly. (消息似乎慢慢地在办公室里传开。)
+
+1163. **final** [adj.] 最后的，决定性的；[n.] 最终赛，决赛
+   - The final decision will be made by the board of directors. (最终决定将由董事会作出。)
+   - She made it to the finals of the tennis tournament. (她进入了网球锦标赛的决赛。)
+
+1164. **finance** [n.] 财政，金融；[v.] 为...提供资金
+   - He works in the finance department of a large corporation. (他在一家大公司的财务部门工作。)
+   - The new city project was financed by several private investors. (新的城市项目由几个私人投资者提供资金。)
+
+1165. **find** [v.] 发现，找到；[n.] 发现物
+   - I find it difficult to wake up early in the morning. (我发现早上很难早起。)
+   - The archaeologists made an exciting find in the ancient ruins. (考古学家在古代遗迹中发现了令人兴奋的东西。)
+
+1166. **fine** [adj.] 好的，出色的，细小的；[n.] 罚款；[v.] 罚款
+   - She has a fine collection of antique jewelry. (她有一系列精美的古董珠宝。)
+   - If you park here without a permit, you could get a fine. (如果你在这里停车没有许可，你可能会被罚款。)
+
+1167. **finger** [n.] 手指；[v.] 用手指触摸
+   - He wore a ring on each finger of his left hand. (他左手的每个手指都戴着戒指。)
+   - The child fingered the frosting on the cake curiously. (孩子好奇地用手指摸蛋糕上的糖霜。)
+
+1168. **finish** [v.] 完成，结束，用完；[n.] 结束，表面处理
+   - She finished reading the book and felt very satisfied. (她读完了这本书，感到非常满意。)
+   - The table has a smooth finish, making it easy to clean. (这张桌子有光滑的表面处理，便于清洁。)
+
+1169. **fire** [n.] 火，火灾，热情；[v.] 解雇，开火，点燃
+   - The campers sat around the fire telling stories. (露营者围坐在火堆旁讲故事。)
+   - The company had to fire several employees due to budget cuts. (由于预算削减，公司不得不解雇几名员工。)
+
+1170. **firm** [adj.] 坚固的，坚定的；[n.] 公司，商号；[v.] 使坚实
+   - She shook his hand with a firm grip. (她用坚定的握手和他握手。)
+   - He joined a law firm after graduating from university. (他大学毕业后加入了一家律师事务所。)
+   - Regular exercise can help to firm your muscles. (定期锻炼可以帮助你的肌肉变得坚实。)
+
+1171. **fish** [n.] 鱼；[v.] 钓鱼，捕鱼
+   - We had grilled fish for dinner last night. (昨晚我们晚餐吃的是烤鱼。)
+   - They went to the lake to fish for trout. (他们去湖里钓鳟鱼。)
+
+1172. **fit** [adj.] 合适的，适宜的；[v.] 适合，安装；[n.] 适应，发作
+   - This dress fits you perfectly. (这件裙子非常适合你。)
+   - The technician will come to fit the new heating system on Monday. (技术员将在周一来安装新的暖气系统。)
+   - He had a fit of coughing after inhaling the dusty air. (他吸入灰尘污染的空气后发作了一阵咳嗽。)
+
+1173. **fix** [v.] 修理，固定，解决；[n.] 困境，解决方案
+   - Can you fix my bike? The chain came off. (你能修我的自行车吗？链条掉了。)
+   - She found herself in a fix when she lost her passport abroad. (当她在国外丢失护照时，她发现自己处境困难。)
+
+1174. **flag** [n.] 旗帜，标记；[v.] 标记，减弱
+   - Each country has its own distinctive flag. (每个国家都有自己独特的旗帜。)
+   - His enthusiasm began to flag after several hours of work. (几个小时的工作后，他的热情开始减弱。)
+
+1175. **flame** [n.] 火焰，热情；[v.] 燃烧，发光
+   - The flame of the candle flickered in the wind. (蜡烛的火焰在风中闪烁。)
+   - His love for her flamed brightly, even after many years. (即使多年后，他对她的爱仍然燃烧得很旺。)
+
+1176. **flat** [adj.] 平的，单调的，固定的；[n.] 公寓，平面
+   - The tire on my bike is flat; I need to pump it up. (我的自行车轮胎没气了；我需要给它打气。)
+   - She lives in a flat on the top floor of the building. (她住在大楼顶层的一套公寓里。)
+
+1177. **flavor** [n.] 味道，特色；[v.] 给...调味
+   - This ice cream has a very rich chocolate flavor. (这个冰淇淋有非常浓郁的巧克力味。)
+   - You can flavor the soup with herbs and spices. (你可以用草本植物和香料给汤调味。)
+
+1178. **flee** [v.] 逃离，逃避
+   - The family had to flee their home due to the approaching wildfire. (由于临近的野火，这家人不得不逃离他们的家。)
+   - Criminals flee from the scene of the crime to avoid being caught. (罪犯逃离犯罪现场以避免被抓。)
+
+1179. **fleet** [n.] 舰队，车队；[adj.] 快速的，敏捷的
+   - The company has a large fleet of delivery trucks. (这家公司有一大队送货卡车。)
+   - His fleet movements allowed him to excel in sports. (他那敏捷的动作让他在体育运动中表现出色。)
+
+1180. **flesh** [n.] 肉，果肉；[v.] 使长肉，使丰满
+   - The flesh of the peach was sweet and juicy. (这个桃子的果肉又甜又多汁。)
+   - The cat has fleshed out since we started feeding her a new brand of cat food. (自从我们开始给她喂新牌子的猫食，这只猫变得更丰满了。)
+
+1181. **flight** [n.] 飞行，航班，逃跑
+   - The flight to New York was delayed due to bad weather. (由于天气恶劣，飞往纽约的航班延迟了。)
+   - Birds are fascinating because of their power of flight. (鸟类因其飞行能力而令人着迷。)
+
+1182. **float** [v.] 漂浮，飘动；[n.] 浮体，漂浮物
+   - Leaves float on the surface of the water. (树叶漂浮在水面上。)
+   - During the parade, there were many colorful floats. (游行期间，有许多五颜六色的花车。)
+
+1183. **flock** [n.] 群，大量；[v.] 聚集，群集
+   - A flock of birds took off from the tree. (一群鸟从树上飞起。)
+   - People flocked to the concert for a chance to see the famous singer. (人们蜂拥而至音乐会，希望能见到那位著名歌手。)
+
+1184. **flood** [n.] 洪水，泛滥；[v.] 淹没，充满
+   - The river burst its banks, causing a flood in the nearby areas. (河流决堤，导致附近地区发生洪水。)
+   - After the announcement, questions flooded in from the reporters. (公告一出，记者们纷纷提问。)
+
+1185. **floor** [n.] 地板，楼层；[v.] 铺地板，打倒
+   - He dropped the glass, and it shattered on the floor. (他摔了玻璃杯，玻璃杯在地板上摔碎了。)
+   - The boxer floored his opponent with a single punch. (那个拳击手一拳就把对手打倒在地。)
+
+1186. **flour** [n.] 面粉
+   - You need flour to bake bread. (你需要面粉来烤面包。)
+   - You need flour to bake bread. (你需要面粉来烤面包。)
+
+1187. **flow** [v.] 流动；[n.] 流，流量
+   - The river flows into the sea. (这条河流入大海。)
+   - The flow of traffic has increased since the new road opened. (自从新路开通以来，交通流量增加了。)
+
+1188. **flower** [n.] 花；[v.] 开花
+   - She received a bouquet of flowers on her birthday. (她在生日那天收到了一束花。)
+   - The cherry trees flower in early spring. (樱桃树在初春开花。)
+
+1189. **fluctuate** [v.] 波动，变动
+   - The stock market fluctuates daily. (股市每天都在波动。)
+   - His mood tends to fluctuate with the weather. (他的情绪似乎随着天气变化。)
+
+1190. **fluid** [adj.] 流动的，流体的；[n.] 液体
+   - The situation is still fluid, and we need to wait for more information. (情况仍然不确定，我们需要等待更多信息。)
+   - Make sure to drink plenty of fluids when you are sick. (生病时确保喝足够的液体。)
+
+1191. **fly** [n.] 苍蝇，飞行；[vi.] 飞行，飞翔；[vt.] 驾驶(飞行器)飞行
+    - The fly buzzed around the room before landing on the windowsill. (苍蝇在房间里嗡嗡飞，然后落在窗台上。)
+    - I will fly to New York tomorrow for a business trip. (我明天将飞往纽约出差。)
+
+1192. **focus** [n.] 焦点，注意力中心；[vi.] 聚焦，集中注意力
+    - The camera's focus was adjusted to make the image sharp. (相机的焦点被调整以使图像清晰。)
+    - You need to focus more on your homework to get better grades. (你需要更集中注意力做家庭作业，以获得更好的成绩。)
+
+1193. **fog** [n.] 雾；[vt.] 使模糊；[vi.] 被雾覆盖
+    - The heavy fog made driving conditions very dangerous. (浓雾使得驾驶条件非常危险。)
+    - His glasses fogged up as he entered the warm room from the cold outside. (他从寒冷的外面进入温暖的房间时，眼镜起了雾。)
+
+1194. **fold** [vt.] 折叠；[n.] 折痕；[vi.] 倒闭
+    - Please fold the clothes before putting them in the drawer. (请在将衣服放入抽屉之前折叠好。)
+    - The company had to fold after several years of poor sales. (由于连续几年销售不佳，公司不得不倒闭。)
+
+1195. **folk** [n.] 人们，民族；[adj.] 民间的
+    - The old folk in the village have many interesting stories to tell. (村里的老人们有许多有趣的故事可以讲。)
+    - Folk music often reflects the cultural heritage of a community. (民间音乐通常反映了一个社区的文化遗产。)
+
+1196. **follow** [vt.] 跟随；[vi.] 随后发生；[n.] 跟随
+    - If you follow the instructions, you should have no problem assembling the furniture. (如果你按照说明书操作，组装家具应该不会有问题。)
+    - Success will follow if you work hard and stay dedicated. (如果你努力工作并保持专注，成功就会随之而来。)
+
+1197. **following** [adj.] 接下来的；[prep.] 在...之后；[n.] 一群追随者
+    - The following day was sunny and clear. (接下来的一天是晴朗的。)
+    - He gained a large following on social media because of his inspiring posts. (由于他鼓舞人心的帖子，他在社交媒体上获得了大量追随者。)
+
+1198. **fond** [adj.] 喜爱的，温柔的；[n.] 喜爱
+    - She is very fond of her pet dog. (她非常喜欢她的宠物狗。)
+    - The fond memories of childhood stayed with him throughout his life. (童年的美好回忆伴随他一生。)
+
+1199. **food** [n.] 食物，食品
+    - Eating healthy food is important for maintaining good health. (吃健康食品对保持良好的健康状况很重要。)
+    - The food at the new restaurant is delicious and affordable. (新餐馆的食物既美味又实惠。)
+
+1200. **fool** [n.] 傻瓜；[vt.] 愚弄；[vi.] 行为愚蠢；[adj.] 愚蠢的
+    - Don't be a fool and risk all your money on such a dubious investment. (不要傻到把你所有的钱都冒险投资在这样一个可疑的项目上。)
+    - He tried to fool his friends with a fake lottery ticket. (他试图用一张假彩票愚弄他的朋友们。)
+
+1201. **foolish** [adj.] 愚蠢的，鲁莽的
+    - It was foolish of him to drive so fast in bad weather. (他在恶劣天气下高速驾驶是愚蠢的。)
+    - Making a decision without all the information is often considered foolish. (在没有所有信息的情况下做决定通常被认为是愚蠢的。)
+
+1202. **foot** [n.] 脚；[vi.] 步行
+    - She injured her foot while hiking in the mountains. (她在山中徒步时伤到了脚。)
+    - The children went to school on foot every day. (孩子们每天步行去上学。)
+
+1203. **football** [n.] 足球
+    - Football is one of the most popular sports in the world. (足球是世界上最受欢迎的运动之一。)
+    - He plays football every weekend with his friends. (他每个周末都和朋友们踢足球。)
+
+1204. **footstep** [n.] 脚步声；足迹
+    - She heard footsteps behind her and turned to look. (她听到身后的脚步声，转过身去看。)
+    - He followed in his father's footsteps and became a doctor. (他追随父亲的脚步，也成为了一名医生。)
+
+1205. **for** [prep.] 为了；[conj.] 因为
+    - I bought a gift for you. (我买了一个礼物给你。)
+    - She was late for she missed the bus. (她迟到了，因为她错过了公交车。)
+
+1206. **forbid** [vt.] 禁止，不许
+    - The law forbids smoking in public places. (法律禁止在公共场所吸烟。)
+    - My parents forbid me from staying out late. (我的父母禁止我晚上外出逗留。)
+
+1207. **force** [n.] 力量；[vt.] 强迫
+    - The force of the wind knocked down several trees. (风力强大，吹倒了几棵树。)
+    - She felt forced to make a decision immediately. (她感到被迫立即做出决定。)
+
+1208. **forecast** [n.] 预报；[vt.] 预测
+    - The weather forecast calls for rain tomorrow. (天气预报说明天会下雨。)
+    - Economists forecast an improvement in the job market. (经济学家预测就业市场将会好转。)
+
+1209. **forehead** [n.] 额头
+    - She brushed her hair back from her forehead. (她把头发从额头上梳了回去。)
+    - He wiped the sweat from his forehead. (他擦掉了额头上的汗水。)
+
+1210. **foreign** [adj.] 外国的；不相干的
+    - She loves learning foreign languages. (她喜欢学习外语。)
+    - This concept is foreign to our way of thinking. (这个概念与我们的思维方式不相符。)
+
+1211. **foreigner** [n.] 外国人
+    - As a foreigner, he found it difficult to adapt to the new culture. (作为一个外国人，他发现很难适应新文化。)
+    - The city is very welcoming to foreigners. (这个城市对外国人非常友好。)
+
+1212. **forest** [n.] 森林；[vt.] 用树木覆盖
+    - The forest was dense with a rich variety of trees and plants. (这片森林树木茂密，种类繁多。)
+    - They plan to forest the area to increase green space. (他们计划对这片地区进行植树造林以增加绿地。)
+
+1213. **forever** [adv.] 永远；[n.] 漫长时间
+    - True friends stay with you forever. (真正的朋友会永远和你在一起。)
+    - They promised to love each other forever. (他们承诺彼此永远相爱。)
+
+1214. **forget** [vt.] 忘记；[vi.] 遗忘
+    - Don't forget to lock the door when you leave. (离开时别忘了锁门。)
+    - As time passed, he began to forget the details of that day. (随着时间的流逝，他开始忘记那天的细节。)
+
+1215. **forgive** [vt.] 原谅；[vi.] 宽恕
+    - I hope you can forgive me for my mistakes. (我希望你能原谅我的错误。)
+    - It's not always easy to forgive and forget. (宽恕和忘记并不总是容易的。)
+
+1216. **fork** [n.] 叉子；[vt.] 叉起；[vi.] 分叉
+    - She used a fork to eat her salad. (她用叉子吃沙拉。)
+    - The road forks here, so keep left. (这里的路分叉了，所以靠左走。)
+
+1217. **form** [n.] 形式，表格；[vt.] 形成，构成
+    - Please fill out the application form in black ink. (请用黑色墨水填写申请表。)
+    - The children form a circle around the teacher. (孩子们围着老师形成一个圈。)
+
+1218. **formal** [adj.] 正式的；[n.] 正式场合
+    - He wore a formal suit to the interview. (他穿着正式的西装去参加面试。)
+    - The dinner was a formal affair, with guests in evening gowns and tuxedos. (晚宴是一个正式的场合，客人们穿着晚礼服和燕尾服。)
+
+1219. **formation** [n.] 形成，构造
+    - The formation of ice occurs when water freezes. (冰的形成是水结冰的过程。)
+    - The birds flew in a V formation. (鸟群呈V字形飞行。)
+
+1220. **former** [adj.] 以前的；[n.] 前者
+    - He returned to his former job after travelling the world. (环游世界后，他回到了他以前的工作。)
+    - Of the two options, the former is less expensive. (在这两个选项中，前者的成本较低。)
+
+1221. **formula** [n.] 公式；配方
+    - The mathematician explained the formula for calculating the area of a circle. (数学家解释了计算圆面积的公式。)
+    - This baby formula is fortified with additional vitamins. (这种婴儿配方奶粉添加了额外的维生素。)
+
+1222. **fort** [n.] 堡垒；要塞
+    - The old fort has been standing for over two centuries. (这座古老的堡垒已经屹立了两个多世纪。)
+    - They visited the historic fort to learn about its role in the war. (他们参观了这座历史要塞，以了解它在战争中的作用。)
+
+1223. **fortunate** [adj.] 幸运的；侥幸的
+    - She felt fortunate to have such supportive friends. (她觉得有这样支持她的朋友很幸运。)
+    - It was fortunate that no one was injured in the accident. (幸运的是，这次事故中没有人受伤。)
+
+1224. **fortune** [n.] 财富；运气
+    - He made a fortune in the stock market. (他在股票市场上赚了一大笔钱。)
+    - They say that finding a four-leaf clover brings good fortune. (人们说找到四叶草会带来好运。)
+
+1225. **forward** [adv.] 向前；[adj.] 向前的；[vt.] 转发
+    - She stepped forward to receive her award. (她向前走去领奖。)
+    - The forward movement of the car was stopped by a red light. (汽车向前的行驶被红灯停止了。)
+    - Please forward the email to the rest of the team. (请将这封邮件转发给团队的其他成员。)
+
+1226. **fossil** [n.] 化石；[adj.] 化石的
+    - The museum has a display of dinosaur fossils. (博物馆展出了恐龙化石。)
+    - Fossil evidence can provide important insights into the history of life on Earth. (化石证据可以提供关于地球生命历史的重要见解。)
+
+1227. **foster** [vt.] 促进；培养；[adj.] 寄养的
+    - The organization aims to foster better relations between countries. (该组织旨在促进国与国之间的良好关系。)
+    - She had several foster children over the years. (这些年来，她寄养了几个孩子。)
+
+1228. **found** [vt.] 创立；建立
+    - He founded the company in 1980. (他在1980年创立了这家公司。)
+    - The city was founded by the Romans. (这座城市是由罗马人建立的。)
+
+1229. **foundation** [n.] 基础；基金会
+    - A solid foundation is necessary for any new construction. (任何新建筑都需要坚实的基础。)
+    - She established a foundation to help underprivileged children. (她成立了一个基金会来帮助贫困儿童。)
+
+1230. **fountain** [n.] 喷泉；源泉
+    - The children played in the water of the park's fountain. (孩子们在公园喷泉的水中玩耍。)
+    - The fountain of knowledge is often found in books. (知识的源泉通常来自书籍。)
+
+1231. **fox** [n.] 狐狸；狡猾的人
+    - A fox can be recognized by its bushy tail and pointed ears. (狐狸可以通过其蓬松的尾巴和尖尖的耳朵来识别。)
+    - He's known as a fox in the business world because of his cunning deals. (他在商界被认为是个狡猾的人，因为他的交易手段很狡猾。)
+
+1232. **fraction** [n.] 分数；小部分
+    - In mathematics, a fraction represents a part of a whole. (在数学中，分数代表整体的一部分。)
+    - Only a fraction of the people who apply for the job will get an interview. (只有一小部分申请这份工作的人会得到面试机会。)
+
+1233. **fragile** [adj.] 易碎的；脆弱的
+    - The package was marked "fragile" to indicate that it contained breakable items. (包裹上标记了“易碎品”，表明里面装有易碎的物品。)
+    - The ceasefire in the region is fragile and could be broken at any time. (该地区的停火协议非常脆弱，随时可能被打破。)
+
+1234. **fragment** [n.] 碎片；片段
+    - After the vase fell, fragments of glass were scattered all over the floor. (花瓶掉落后，玻璃碎片散落在地板上。)
+    - The archaeologist found a fragment of an ancient pot. (考古学家找到了一个古代陶罐的片段。)
+
+1235. **frame** [n.] 框架；结构；[vt.] 构成；给...装框
+    - The artist put a beautiful frame around her painting. (艺术家给她的画作装上了一个漂亮的框。)
+    - The house's wooden frame was built in just a few weeks. (这所房子的木质框架只用了几周就建成了。)
+
+1236. **framework** [n.] 框架；构架；结构；骨架；[vt.] 构成；把...框起来；陷害；[adj.] 木结构的
+    - The theoretical framework of the study needs to be clearly defined. (研究的理论框架需要被清晰定义。)
+    - They built a wooden framework for the new house. (他们为新房子建造了一个木结构的框架。)
+    - The law was used as a framework to bring charges against the officials. (法律被用作一个框架来对官员提出指控。)

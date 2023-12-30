@@ -17,5 +17,5 @@ function printPetsData(startIndex, endIndex) {
 
 }
 
-printPetsData(1412,1462)
+printPetsData(1532,1582)
 module.exports = printPetsData
