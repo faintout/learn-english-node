@@ -4999,9 +4999,7 @@
    - She received a beautiful gift from her best friend on her birthday. (她在生日时收到了来自她最好的朋友的美丽礼物。)
    - The train will depart from platform 3 at 9:30 AM. (火车将于上午9:30从3号站台出发。)
 
-1249. **front** [adj.] 前面的；[n.] 前部，前面，开
-
-头，前线；[vt.] 面对，朝向，对付；[vi.] 面朝，做掩护
+1249. **front** [adj.] 前面的；[n.] 前部，前面，开头，前线；[vt.] 面对，朝向，对付；[vi.] 面朝，做掩护
    - The front of the building is adorned with intricate architectural details. (建筑物的前部装饰有复杂的建筑细节。)
    - Soldiers bravely faced the enemy on the front lines during the intense battle. (士兵们在激烈的战斗中勇敢地面对敌人，站在前线。)
 
