@@ -4950,3 +4950,137 @@
     - The theoretical framework of the study needs to be clearly defined. (研究的理论框架需要被清晰定义。)
     - They built a wooden framework for the new house. (他们为新房子建造了一个木结构的框架。)
     - The law was used as a framework to bring charges against the officials. (法律被用作一个框架来对官员提出指控。)
+
+1237. **freeze** [vi.] 冻，结冻，冷动，僵硬；[vt.] 使结冰
+   - The pond froze overnight, creating a beautiful and serene ice surface. (池塘在一夜之间结冰，形成了美丽而宁静的冰面。)
+   - If you leave a bottle of water in the freezer, it will freeze into ice. (如果你把一瓶水放在冰箱里，它会结冰成冰块。)
+
+1238. **French** [adj.] 法国(人)的，法语的；[n.] 法国人，法语；[vt.] 剁肉，蔬菜切成长条
+   - Learning French opens up new opportunities for cultural exploration and communication. (学习法语为文化探索和交流打开了新的机会。)
+   - She decided to cook a French dish and expertly chopped the vegetables into thin strips. (她决定做一道法国菜，熟练地把蔬菜剁成了细条。)
+
+1239. **frequency** [n.] 屡次，次数，频率，频繁
+   - The frequency of earthquakes in that region is a cause for concern among the residents. (该地区地震的频率令居民担忧。)
+   - Adjusting the frequency of your study sessions can enhance long-term retention of information. (调整学习会话的频率可以增强对信息的长期记忆。)
+
+1240. **frequently** [adv.] 时常，常常，经常地，频繁地
+   - People who exercise frequently tend to have better overall health. (经常锻炼的人通常拥有更好的整体健康状况。)
+   - In a bustling city like Tokyo, you will frequently encounter new and exciting experiences. (在东京这样繁华的城市，你会经常遇到新奇刺激的经历。)
+
+1241. **fresh** [adj.] 新的，新鲜的，无经验的，淡(水)的，精神饱满的，纯洁无瑕的生动的；[adv.] 最近地；[n.] 涌流
+   - Fresh produce from the local farmers' market is always a healthier choice. (来自当地农贸市场的新鲜农产品总是更健康的选择。)
+   - After a good night's sleep, she woke up feeling fresh and ready for the challenges ahead. (经过一个愉快的夜晚，她醒来感到神清气爽，准备迎接前方的挑战。)
+
+1242. **Friday** [n.] 星期五
+   - Many people look forward to Friday as it marks the end of the workweek and the beginning of the weekend. (许多人期待星期五，因为它标志着工作周的结束和周末的开始。)
+   - They decided to have a casual gathering every Friday to unwind and socialize. (他们决定每周五进行一次轻松的聚会，放松心情并社交。)
+
+1243. **friend** [n.] 朋友，友人，赞助者，支持者；[vt.] 做朋友，对人友好
+   - A true friend is someone who stands by your side during both good and bad times. (真正的朋友是在好时坏时都会站在你身边的人。)
+   - Building trust is crucial when making new friends, as it forms the foundation of a strong friendship. (在结交新朋友时建立信任至关重要，因为它是构建坚固友谊的基础。)
+
+1244. **friendly** [adj.] 友好的，友谊的；[adv.] 友好地；[n.] 友好者
+   - The neighbors are very friendly and always ready to lend a helping hand. (邻居们非常友好，随时准备伸出援手。)
+   - A friendly smile can make strangers feel more comfortable and welcomed. (友善的微笑可以让陌生人感到更舒适和受欢迎。)
+
+1245. **friendship** [n.] 友谊，友好
+   - The bond of friendship often becomes stronger in challenging times. (在艰难时期，友谊的纽带往往变得更加牢固。)
+   - Maintaining a long-lasting friendship requires effort and understanding from both sides. (保持长久的友谊需要双方的努力和理解。)
+
+1246. **frighten** [vt.] 使惊恐，吓唬，惊恐
+   - The sudden loud noise outside the window did nothing but frighten the small child. (窗外突然的响声只是让小孩感到害怕。)
+   - Being alone in a dark forest can easily frighten even the bravest individuals. (独自一人在漆黑的森林里甚至会吓到最勇敢的人。)
+
+1247. **frog** [n.] 蛙，马的蹄叉，刀剑的挂环
+   - The children enjoyed catching frogs by the pond during their summer vacation. (孩子们在暑假期间喜欢在池塘边捉蛙。)
+   - In many cultures, the frog is a symbol of transformation and change. (在许多文化中，青蛙是变革和改变的象征。)
+
+1248. **from** [prep.] 从...来，离开
+   - She received a beautiful gift from her best friend on her birthday. (她在生日时收到了来自她最好的朋友的美丽礼物。)
+   - The train will depart from platform 3 at 9:30 AM. (火车将于上午9:30从3号站台出发。)
+
+1249. **front** [adj.] 前面的；[n.] 前部，前面，开
+
+头，前线；[vt.] 面对，朝向，对付；[vi.] 面朝，做掩护
+   - The front of the building is adorned with intricate architectural details. (建筑物的前部装饰有复杂的建筑细节。)
+   - Soldiers bravely faced the enemy on the front lines during the intense battle. (士兵们在激烈的战斗中勇敢地面对敌人，站在前线。)
+
+1250. **frontier** [n.] 边境，边界，边疆，新领域，尖端，边缘
+   - Exploring the frontier of space has always been a dream of scientists and astronomers. (探索太空的边界一直是科学家和天文学家的梦想。)
+   - The pioneers faced numerous challenges as they crossed the frontier in search of new opportunities. (拓荒者们在穿越边疆寻找新机会时面临着许多挑战。)
+
+1251. **frost** [n.] 冰冻，严寒，霜，冷漠；[vt.]，[vi.] 覆着霜，冻结，结霜
+   - The delicate flowers in the garden suffered damage due to the unexpected late spring frost. (花园里娇嫩的花朵因意外的晚春霜降而受到了损害。)
+   - The windowpanes were frosted over, creating a beautiful pattern of ice crystals. (窗户玻璃覆盖着霜，形成了美丽的冰晶图案。)
+
+1252. **frown** [vt.]，[vi.] 皱眉，蹙额，不同意；[n.] 皱眉，不悦
+   - The teacher frowned upon the students for not completing their assignments on time. (老师对学生们未能按时完成作业皱起了眉头。)
+   - Seeing the disappointed frown on her face, he realized he had let her down. (看到她脸上的失望皱眉，他意识到自己让她失望了。)
+
+1253. **fruit** [n.] 水果，果实，成果；[vt.]，[vi.] 结果实
+   - Eating a variety of fruits provides essential vitamins and minerals for a healthy diet. (多吃各种水果可以为健康饮食提供必要的维生素和矿物质。)
+   - The apple tree in the backyard has started to fruit, and soon we'll have fresh apples. (后院的苹果树已经开始结果，很快我们就会有新鲜的苹果了。)
+
+1254. **fry** [vt.] 油煎，油炸，油炒，炸焦；[vi.] 油炸，烧焦；[n.] (美)法式炸薯条
+   - She decided to fry the chicken in hot oil for a crispy texture. (她决定用热油炸鸡，使其变得脆口。)
+   - We ordered a side of fries to accompany our burgers, as they are known for their delicious crispy taste. (我们点了一份薯条作为汉堡的配菜，因为它们以美味的脆口而闻名。)
+
+1255. **fuel** [n.] 燃料，木炭；[vt.] 给...加燃料；[vi.] 加燃料
+   - Renewable energy sources are crucial for reducing dependence on fossil fuels. (可再生能源对减少对化石燃料的依赖至关重要。)
+   - Before a long journey, it's essential to fuel your car to ensure a smooth trip. (在长途旅行前，给汽车加足燃料是确保行程顺利的关键。)
+
+1256. **fulfil** [vt.] 履行，满足，完成，实践，使应验
+   - Meeting deadlines and delivering quality work is essential to fulfill your professional responsibilities. (按时完成工作并提供高质量的成果是履行职业责任的重要部分。)
+   - Helping others achieve their goals can be fulfilling and bring a sense of accomplishment. (帮助他人实现目标既能令人满足，也能带来成就感。)
+
+1257. **fun** [n.] 乐趣，娱乐，玩笑，有趣的人或事物；[vi.] 开玩笑；[adj.] 充满乐趣的，令人愉悦的
+   - Spending time with friends often leads to laughter and fun moments. (和朋友一起度过的时光通常会带来笑声和有趣的时刻。)
+   - Playing board games is a fun way to bond with family members and create lasting memories. (玩桌游是与家人建立联系和创造持久记忆的有趣方式。)
+
+1258. **function** [n.] 功能，职务，函数，重大聚会；[vi.] 运行，起作用
+   - Understanding the function of each button on the remote control is essential for a seamless TV-watching experience. (理解遥控器上每个按钮的功能对于流畅地观看电视非常重要。)
+   - The company organized a grand function to celebrate its anniversary with employees and clients. (公司组织了一场盛大的活动，与员工和客户一同庆祝公司的周年纪念。)
+
+1259. **fund** [n.] 资金，基金，存款，储备；[vt.] 为...提供资金
+   - The government allocated a significant fund for the development of renewable energy. (政府为可再生能源的发展拨款了一笔可观的资金。)
+   - The organization relies on donations to fund its charitable activities. (该组织依赖捐赠来资助其慈善活动。)
+
+1260. **fundamental** [adj.] 基础的，基本的，根本的，重要的；[n.] 基本原理，基础
+   - Learning basic arithmetic is fundamental to understanding advanced mathematics. (学习基本算术对理解高等数学至关重要。)
+   - The principles of democracy are considered fundamental to a just society. (民主的原则被认为是构建公正社会的基础。)
+
+1261. **full** [adj.] 满的，完全的，充满的，丰富的；[adv.] 完全地，整整；[vt.] 使...充满；[vi.] 增厚；[n.] 全部，十分，极点，鼎盛
+   - The glass is full of water; please be careful not to spill it. (玻璃杯装满了水，请小心不要洒出来。)
+   - She ate a full meal and felt satisfied. (她吃了一顿丰盛的饭菜，感觉很满足。)
+
+1262. **funeral** [n.] 葬礼，丧礼，丧葬；[adj.] 葬礼(的)
+   - Attending a funeral is a somber experience, filled with grief and reflection. (参加葬礼是一种庄重的经历，充满了悲伤和反思。)
+   - The funeral procession slowly made its way to the cemetery. (葬礼队伍缓缓地向墓地走去。)
+
+1263. **funny** [adj.] 古怪的，滑稽的，有趣的，莫名其妙的；[n.] 笑话，滑稽戏
+   - The comedian's funny jokes had the audience in fits of laughter. (喜剧演员滑稽的笑话让观众笑得前仰后合。)
+   - It's funny how small things can bring so much joy. (有趣的是，一些小事情竟然能带来如此多的快乐。)
+
+1264. **fur** [n.] 软毛，毛皮，裘皮，毛皮服饰，毛皮制品；[vt.] 用毛皮制作，用毛皮盖于；[vi.] 用毛皮制的
+   - The luxurious fur coat kept her warm during the cold winter days. (奢华的毛皮大衣在寒冷的冬天里保持她温暖。)
+   - Animals like foxes are often hunted for their fur. (像狐狸这样的动物常因毛皮而被猎杀。)
+
+1265. **furnace** [n.] 炉子，熔炉，鼓风炉，闷热地带，严峻考验
+   - The blacksmith heated the metal in the furnace until it was malleable. (铁匠在熔炉中加热金属，直到它变得可塑。)
+   - The desert is like a furnace during the summer, with scorching temperatures. (沙漠在夏天就像一个大火炉，温度酷热难当。)
+
+1266. **furniture** [n.] 家具，装置，设备
+   - The living room was tastefully decorated with modern furniture. (客厅用现代家具装饰得很有品味。)
+   - Good furniture enhances the overall aesthetic of a home. (优质的家具提升了整个家居的美感。)
+
+1267. **further** [adv.] 更远地，此外，进一步地；[adj.] 更远的；[v.] 促进，推动；[vt.] 促进
+   - To reach the summit, they had to hike further up the mountain. (为了达到山顶，他们必须进一步地爬上山。)
+   - Education is crucial to furthering one's career opportunities. (教育对拓展职业机会至关重要。)
+
+1268. **furthermore** [adv.] 而且，此外
+   - She excels in academics, and furthermore, she is an accomplished athlete. (她在学业方面表现出色，而且，她还是一位有成就的运动员。)
+   - The product is not only cost-effective but furthermore, it is environmentally friendly. (这个产品不仅具有成本效益，而且还环保。)
+
+1269. **future** [n.] 将来，未来，前途，前程，期货；[adj.] 将来的
+   - Planning for the future is essential for achieving long-term goals. (规划未来对于实现长期目标至关重要。)
+   - The young entrepreneur is optimistic about the future of his business. (这位年轻的企业家对他的事业的未来充满乐观。)
