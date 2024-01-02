@@ -5082,3 +5082,167 @@
 1269. **future** [n.] 将来，未来，前途，前程，期货；[adj.] 将来的
    - Planning for the future is essential for achieving long-term goals. (规划未来对于实现长期目标至关重要。)
    - The young entrepreneur is optimistic about the future of his business. (这位年轻的企业家对他的事业的未来充满乐观。)
+
+1270. **gain** [vt.] 获得，得到，增进，增加；[vi.] 增加，得到；[n.] 增进，增益，获得，利润
+   - Regular exercise can help you gain physical strength and improve your overall health. (定期锻炼可以帮助你增加体力并改善整体健康。)
+   - The company experienced a significant gain in profits after implementing the new marketing strategy. (公司在实施新的营销策略后获得了显著的利润增长。)
+
+1271. **gallon** [n.] 加仑(容量单位)
+   - The car's fuel tank can hold up to 15 gallons of gasoline. (这辆汽车的油箱最多可以容纳15加仑的汽油。)
+   - She purchased a gallon of milk for the week. (她买了一加仑的牛奶，足够一周的需求。)
+
+1272. **game** [n.] 游戏，比赛，猎物，行业，非法手段，策略，野味，戏弄；[vi.] 赌博；[vt.] 欺骗；[adj.] 乐意做的，勇敢的，跛的
+   - Playing board games is a popular indoor activity during rainy days. (在雨天玩桌游是一种受欢迎的室内活动。)
+   - The fox cunningly outsmarted the hunter in their game of wits. (狐狸狡猾地在智力游戏中战胜了猎人。)
+
+1273. **gang** [n.] 一帮，一伙，队，群，帮；[vt.]，&，vi. 结一组，联合在一起
+   - The gang of friends gathered at the park for a picnic. (一帮朋友在公园聚集，进行了一场野餐。)
+   - The police worked tirelessly to dismantle the criminal gang. (警察不懈努力解散犯罪团伙。)
+
+1274. **gap** [n.] 缺口，间隔，差距，(意见、个性等的)差异，缝隙，漏洞；[vt.] 制造缺口，嘉普(财富500强公司之一，总部所在地美国，主要经营服装零售)
+   - The hiker carefully crossed the gap between two cliffs. (徒步者小心翼翼地穿越两个悬崖之间的缺口。)
+   - The company's financial report revealed a significant gap in revenue compared to the previous quarter. (公司的财务报告显示，与上个季度相比，收入存在显著的差距。)
+
+1275. **garage** [n.] 车库，加油站，汽车修理厂；[vt.] 把...放入车库
+   - The mechanic fixed the car's engine in the garage. (技师在车库里修理了汽车的引擎。)
+   - After a long road trip, they parked the RV in the garage for the night. (经过一次长途旅行，他们把房车停在了车库里过夜。)
+
+1276. **garden** [n.] 花园，菜园，果园，菜园，草地，公园；[vi.] 栽培花木，从事园艺工作；[vt.] 造园，以花园装饰；[adj.] 花园的，园艺的，绿化的，平凡的
+   - She spends her weekends tending to her beautiful garden. (她周末都花在打理她美丽的花园上。)
+   - The city park features a variety of gardens showcasing different plant species. (城市公园有各种花园，展示了不同的植物物种。)
+
+1277. **gardener** [n.] 园丁，花匠，园艺家
+   - The skilled gardener knew exactly how to care for each type of plant in the botanical garden. (有经验的园丁知道如何精心照顾植物园中的每一种植物。)
+   - The gardener planted a row of colorful flowers along the pathway. (园丁沿着小径种植了一排彩色的花朵。)
+
+1278. **gas** [n.] 煤气，气体，汽油，空话，能量；[vt.] 使吸入毒气，死；[vi.] 空谈，加汽油
+   - Natural gas is a cleaner and more environmentally friendly alternative to traditional fuels. (天然气是传统燃料的一种更清洁、更环保的替代品。)
+   - The car needs to stop at the gas station to refuel. (汽车需要在加油站停下来加油。)
+
+1279. **gasoline** [n.] (美) 汽油
+   - Gasoline prices tend to rise during the summer months due to increased demand for travel. (由于旅行需求增加，夏季汽油价格往往上涨。)
+   - The motorcycle runs on unleaded gasoline for better fuel efficiency. (这辆摩托车使用无铅汽油以获得更好的燃油效率。)
+
+1280. **gate** [n.] 大门，入口，篱笆门；[vt.] <英> 惩罚(禁止学生离校)，解雇；[n.] <古> 道路，<方> 方式，[suf.] 常表示政治丑闻
+   - The wrought iron gate at the entrance of the estate added a touch of elegance. (庄园入口处的锻铁大门增
+
+添了一丝优雅。)
+   - The scandal involving the politician became known as "Gate," causing a stir in the media. (涉及政治人物的丑闻被称为“门”，在媒体中引起轰动。)
+
+1281. **gather** [vi.] 聚集，集合，渐增；[vt.] 收集，使聚集，推断，鼓起；[n.] 集合，聚集
+   - People gather in the town square to celebrate the annual festival. (人们聚集在镇上的广场上庆祝每年的节日。)
+   - The dark clouds gathered on the horizon, indicating an approaching storm. (乌云在地平线上聚集，预示着一场即将来临的暴风雨。)
+
+1282. **gay** [adj.] 快乐的，欢快的，鲜明的，色彩鲜艳的；[n.] 同性恋
+   - The vibrant and gay decorations transformed the dull room into a lively space. (绚丽而欢快的装饰将沉闷的房间变成了生机勃勃的空间。)
+   - In many countries, people now openly embrace the rights of the gay community. (在许多国家，人们现在公开支持同性恋社群的权利。)
+
+1283. **gaze** [vi.] 凝视，盯，注视；[n.] 凝视
+   - The couple sat on the beach, gazing at the sunset over the horizon. (夫妻俩坐在沙滩上，凝视着地平线上的日落。)
+   - The artist captured the intensity of the subject's gaze in the portrait. (艺术家在肖像中捕捉到了主体凝视的强烈感情。)
+
+1284. **general** [adj.] 总的，一般的，普遍的，全体的；[n.] 将军，一般，大体
+   - The general consensus among the team members was to proceed with the original plan. (团队成员之间普遍的共识是继续原定计划。)
+   - A general must consider various factors when planning a military strategy. (制定军事战略时，将军必须考虑各种因素。)
+
+1285. **generally** [adv.] 一般地，通常地
+   - Generally, it is advisable to seek professional advice before making significant financial decisions. (一般来说，在做出重大财务决策之前最好征求专业建议。)
+   - The weather in this region is generally mild throughout the year. (这个地区的天气一般而言全年温和。)
+
+1286. **generation** [n.] 一代，一代人，产生
+   - The older generation often shares wisdom and experiences with the younger generation. (老一辈常常与年轻一代分享智慧和经验。)
+   - Technological advancements have significantly impacted the way each generation interacts with the world. (技术进步对每一代与世界互动的方式产生了显著影响。)
+
+1287. **generator** [n.] 发电机，发生器，发生者
+   - During a power outage, the hospital relies on a backup generator to maintain essential services. (在停电期间，医院依靠备用发电机维持基本服务。)
+   - A wind turbine is a type of generator that converts wind energy into electricity. (风力涡轮机是一种将风能转化为电能的发电机。)
+
+1288. **generous** [adj.] 慷慨的，宽厚的，宽宏大量的，丰盛的，味浓的
+   - The generous donation from the community helped rebuild the local school. (社区的慷慨捐款帮助重建了当地的学校。)
+   - Sarah is known for her generous portions when cooking for friends and family. (莎拉以为朋友和家人烹饪时提供丰盛的食物而闻名。)
+
+1289. **genius** [n.] 天才，天赋，天资，高智力
+   - Albert Einstein is often regarded as a scientific genius for his groundbreaking theories. (阿尔伯特·爱因斯坦因他的开创性理论而被认为是一位科学天才。)
+   - Mozart's musical compositions showcase the genius of his creative mind. (莫扎特的音乐作品展示了他创造性思维的天赋。)
+
+1290. **gentle** [adj.] 和蔼的，轻柔的，显赫的，温和的，文雅的，有教养的；[n.] 贵族；[vt.] 使显赫，使温顺，抚摸，使缓和；[vi.] 变温顺
+   - The gentle breeze rustled the leaves on the trees, creating a calming atmosphere. (和煦的微风拂动着树上的叶子，营造出宁静的氛围。)
+   - She gently reassured the frightened child with soothing words. (她用温和的语言安抚了受惊的孩子。)
+
+1291. **gentleman** [n.] 绅士，先生，有教养的人
+   - The well-dressed gentleman held the door open for the elderly woman. (衣着得体的绅士为年迈的女士开门。)
+   - Being a true gentleman goes beyond mere manners; it involves kindness and respect for others. (成为真正的绅士不仅仅是表现出良好的礼貌，还包括对他人的善意和尊重。)
+
+1293. **gently** [ad.] 有礼貌地，柔和地，轻轻地，温柔地
+   - She spoke gently to the frightened child to calm him down. (她对那位受惊的孩子温柔地说话，以安抚他。)
+   - The old man gently touched the fragile antique vase. (老人轻轻地触摸了那个易碎的古董花瓶。)
+
+1294. **genuine** [adj.] 真的，真正的，真实的，诚恳的
+   - His smile was genuine, reflecting his true happiness. (他的微笑是真实的，反映出他真正的快乐。)
+   - It's important to buy genuine products to ensure quality and authenticity. (购买真正的产品以确保质量和真实性是很重要的。)
+
+1295. **geometry** [n.] 几何，几何学
+   - Geometry involves the study of shapes, sizes, and the properties of space. (几何学涉及对形状、大小和空间性质的研究。)
+   - The students were learning about angles and triangles in their geometry class. (学生们在几何课上学习有关角和三角形的知识。)
+
+1296. **germ** [n.] 微生物，细菌，幼芽
+   - Washing your hands helps eliminate germs and prevent illness. (洗手有助于消除细菌，预防疾病。)
+   - The germ of a new idea began to sprout in her creative mind. (一种新思想的萌芽在她富有创造力的头脑中开始生长。)
+
+1297. **German** [adj.] 德国(人)的，德语的，日耳曼的；[n.] 德国人，德语，日耳曼人
+   - She is taking German classes to prepare for her trip to Germany. (她正在上德语课，为她前往德国的旅行做准备。)
+   - German cuisine is known for its hearty and flavorful dishes. (德国烹饪以其丰盛和美味的菜肴而闻名。)
+
+1298. **Germany** [n.] 德意志，德国
+   - Germany is renowned for its rich history, culture, and technological advancements. (德国以其丰富的历史、文化和技术进步而闻名。)
+   - The reunification of East and West Germany occurred in 1990. (东西德国的统一发生在1990年。)
+
+1299. **gesture** [n.] 姿势，手势，姿态；[vt.]，[vi.] 作手势表达
+   - A simple gesture of kindness can brighten someone's day. (一种简单的善举姿态可以照亮某人的一天。)
+   - She gestured towards the exit, indicating that it was time to leave. (她朝着出口做了个手势，表示是时候离开了。)
+
+1300. **get** [vi.] 变得，成为，到达，致富，能够，离开；[vt.] 得到，准备，抓住，克服，激怒，使得，记忆，沟通；[n.] 生育，后代，救球
+   - She hopes to get a promotion at work next year. (她希望明年在工作中获得晋升。)
+   - Can you help me get this heavy box down from the shelf? (你能帮我把这个沉重的盒子从架子上拿下来吗？)
+
+1301. **ghost** [n.] 鬼，灵魂，幽灵，鬼魂，一丝；[vt.]，[vi.] 像(鬼一样)地行进
+   - The old castle is said to be haunted by the ghost of a medieval princess. (据说这座古老的城堡被一位中世纪公主的鬼魂所困扰。)
+   - The pale figure in the moonlight looked like a ghost gliding through the cemetery. (月光中的苍白身影看起来像是一只幽灵在墓地中滑行。)
+
+1302. **giant** [n.] 巨人，伟人，巨大的东西；[adj.] 巨大的
+   - The giant redwood trees in California are among the tallest in the world. (加利福尼亚的巨型红杉树是世界上最高的之一。)
+   - The company became a giant in the tech industry after years of successful innovations. (这家公司在多年的成功创新后成为科技行业的巨头。)
+
+1303. **gift** [n.] 礼物，赠品，天赋，赋予；[vt.] 赠送，赋予
+   - Her talent for music is a wonderful gift that she cherishes. (她对音乐的天赋是一份她珍视的美妙礼物。)
+   - Giving a thoughtful gift can strengthen relationships and show appreciation. (送出一份用心的礼物可以加深关系并表达感激之情。)
+
+1304. **girl** [n.] 女孩子，姑娘，女儿
+   - The little girl danced with joy at her birthday party. (小女孩在她的生日派对上高兴地跳舞。)
+   - She is a smart and ambitious girl who dreams of becoming a scientist. (她是一个聪明而有雄心壮志的女孩，梦想着成为一名科学家。)
+
+1305. **give** [vt.] 做，作，送给；[vi.] 让步，塌下，折断，弯曲
+  
+
+ - Please give me a moment to think about your proposal. (请给我一点时间来思考你的提议。)
+   - The old bridge finally gave under the weight of the heavy truck. (古老的桥最终在重卡的重量下坍塌了。)
+
+1306. **glad** [adj.] 高兴的，乐意的；[v.] <古> 使高兴；[n.] 剑兰
+   - I'm glad to hear that you got the job you wanted. (听到你得到了你想要的工作，我感到高兴。)
+   - The garden was filled with the fragrance of blooming glad flowers. (花园里充满了盛开的剑兰花的芬芳。)
+
+1307. **glance** [vi.] 看一下，瞥闪，瞥见，反光，浏览；[vt.] 瞥见，反光；[n.] 一瞥，闪光一滑
+   - She stole a quick glance at the clock to check the time. (她偷偷地看了一眼时钟，查看时间。)
+   - The sunlight glanced off the surface of the water, creating a sparkling effect. (阳光从水面上反射，产生出闪烁的效果。)
+
+1308. **glass** [n.] 玻璃，玻璃杯，玻璃器皿，窗户，(复)眼镜，透镜；[vt.] 用玻璃把…盖(或罩、围)住，给...装上玻璃，使成玻璃状，反映，反射，审视；[vi.] 成为玻璃状，用光学仪器眺望
+   - She sipped her drink from a delicate glass. (她从一个精致的玻璃杯里啜饮着她的饮料。)
+   - The artist carefully cut pieces of colored glass to create a beautiful stained glass window. (艺术家仔细地剪裁着彩色玻璃片，制作出一扇美丽的彩色玻璃窗。)
+
+1309. **glimpse** [vt.]，[vi.] 瞥见，一瞥，闪烁；[n.] 一瞥，一看，一闪
+   - As they passed by the mysterious house, they caught a glimpse of a shadow in the window. (当他们路过那座神秘的房子时，他们瞥见了窗户里的一个影子。)
+   - The traveler had a brief glimpse of the stunning sunrise over the mountains. (旅行者瞥见了山脉上壮丽的日出。)
+
+1310. **globe** [n.] 地球，世界，地界仪，球体
+   - The teacher pointed to different countries on the globe to teach geography. (老师在地球仪上指着不同的国家教授地理知识。)
+   - The scientist studied the globe to understand global weather patterns. (科学家研究地球仪以了解全球气候模式。)
