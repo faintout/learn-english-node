@@ -5242,3 +5242,371 @@
 1309. **globe** [n.] 地球，世界，地界仪，球体
    - The teacher pointed to different countries on the globe to teach geography. (老师在地球仪上指着不同的国家教授地理知识。)
    - The scientist studied the globe to understand global weather patterns. (科学家研究地球仪以了解全球气候模式。)
+
+1310. **glorious** [adj.] 光荣的，壮丽的，辉煌的
+   - The soldier received a glorious medal for his brave actions in battle. (这位士兵因在战斗中的勇敢行为而获得了一枚光荣的勋章。)
+   - The sunset painted the sky in glorious shades of orange and pink. (夕阳用橙色和粉红色的辉煌色彩装点着天空。)
+
+1311. **glory** [n.] 光荣，荣誉，壮丽，赞颂，荣誉的事；[vi.] 为...而骄傲自豪；[interj.] 用于表示惊叹
+   - Winning the championship brought great glory to the team. (赢得冠军给球队带来了巨大的荣誉。)
+   - Oh, glory! We've finally achieved our goal. (哦，光荣！我们终于实现了我们的目标。)
+
+1312. **glove** [n.] 手套；[vt.] 给...戴手套
+   - In winter, it's essential to wear gloves to keep your hands warm. (冬天戴手套是保持手部温暖的必要手段。)
+   - The surgeon gloved up before entering the operating room. (外科医生在进入手术室前戴上手套。)
+
+1313. **glow** [n.] 白热光，赤热，光辉，热情；[vi.] 发白热光，发红光，红光焕发
+   - The embers continued to glow long after the fire had died down. (余烬在火灭后继续发着微弱的白热光。)
+   - Her face had a warm glow after a day spent outdoors in the sunshine. (在阳光下户外活动一天后，她的脸上泛着温暖的光辉。)
+
+1314. **glue** [n.] 胶，胶水，粘性之物；[vt.] 胶合，粘，紧附于...
+   - The carpenter used glue to bond the pieces of wood together. (木匠使用胶水将木块粘合在一起。)
+   - The sticker wouldn't come off; it seemed glued to the surface. (贴纸不肯掉落，似乎粘在表面上了。)
+
+1315. **go** [vi.] 去，走，变为，进行，放，通往，消失；[vt.] 走过，称重，[计算机]执行
+   - Let's go to the park and enjoy the sunshine. (让我们去公园享受阳光。)
+   - The computer program will go through various stages before completion. (计算机程序在完成之前将经过各个阶段。)
+
+1316. **goal** [n.] 球门，得分，目的，终点
+   - Scoring a goal in the last minute secured their victory in the match. (在最后一分钟进球确保了他们在比赛中的胜利。)
+   - Setting realistic goals is essential for personal and professional growth. (设定现实的目标对个人和职业发展至关重要。)
+
+1317. **goat** [n.] 山羊，好色之徒，替罪羔羊
+   - The farmer raised goats for their milk and meat. (农民养山羊是为了它们的奶和肉。)
+   - Don't be a scapegoat for someone else's mistakes; stand up for yourself. (不要为别人的错误充当替罪羊；为自己挺身而出。)
+
+1318. **God** [n.] 神，神像，上帝，偶像；[vt.] 像对神一样崇拜
+   - Many people find solace in prayer and believe in the existence of a higher power, a supreme God. (许多人通过祈祷找到慰藉，并相信存在着更高的力量，一位至高无上的上帝。)
+   - Money should not be worshipped like a god; it doesn't bring true happiness. (金钱不应该像神一样崇拜；它不能带来真正的幸福。)
+
+1319. **gold** [n.] 金，金子，金币，金黄色，金牌，钱财；[adj.] 金制的，金色的
+   - The jewelry was adorned with sparkling gold and precious stones. (珠宝镶嵌着闪闪发光的金子和珍贵的宝石。)
+   - Winning a gold medal at the Olympics is a dream for many athletes. (在奥运会上赢得金牌是许多运动员的梦想。)
+
+1320. **golden** [adj.] 金(黄)色的，极好的
+   - The golden autumn leaves carpeted the forest floor. (金黄色的秋叶铺满了森林地面。)
+   - Their golden years were spent traveling the world and enjoying life. (他们的黄金时光是在周游世界和享受生活中度过的。)
+
+1321. **good** [adj.] 好的，优良的，上等的，有本事的；[n.] 善行，好处，[pl.] 商品
+   - A good education lays the foundation for a successful career. (良好的教育为成功的职业奠定了基础。)
+   - Doing good deeds brings a sense of fulfillment and happiness. (行善带来满足感和幸福感。)
+
+1322. **goods** [n.] 货物，商品
+   - The delivery truck transported a variety of goods to the local stores. (运货卡车将各种商品送到当地商店。)
+   -
+
+ Online shopping has made it convenient to order goods from the comfort of our homes. (在线购物使得在家中轻松订购商品成为可能。)
+
+1323. **goose** [n.] 鹅，雌鹅，鹅肉；[vt.] 推动
+   - The chef prepared a delicious roast goose for the festive dinner. (厨师为节日晚餐准备了一只美味的烤鹅。)
+   - The strong wind seemed to goose the kite higher into the sky. (强风似乎把风筝推得更高，冲上了天空。)
+
+1324. **govern** [vt.] 统治，治理，支配，管理，规定；[vi.] 统治，执行
+   - A fair and just government is essential for the well-being of its citizens. (一个公正而公平的政府对公民的福祉至关重要。)
+   - Laws are created to govern the behavior of individuals within a society. (法律被制定来规范社会中个体的行为。)
+
+1325. **government** [n.] 政府，政体，统治，治理，政治
+   - The government implemented new policies to address environmental concerns. (政府实施了新政策来解决环境问题。)
+   - Citizens play a crucial role in holding the government accountable for its actions. (公民在追究政府行为方面发挥着至关重要的作用。)
+
+1326. **governor** [n.] 州长，主管人员，统治者，管理者，理事
+   - The governor addressed the public to discuss the state's economic challenges. (州长向公众发表讲话，讨论该州的经济挑战。)
+   - The school appointed a new governor to oversee administrative decisions. (学校任命了一位新的理事来监督行政决策。)
+
+1327. **graceful** [adj.] 优美的，优雅的
+   - The ballerina's movements were incredibly graceful and mesmerizing. (芭蕾舞者的动作令人难以置信地优美而迷人。)
+   - The swan glided across the lake in a graceful manner. (天鹅以一种优雅的方式滑过湖面。)
+
+1328. **grade** [vt.]，&，vi. 给...分等级，记成绩；[n.] 等级，年级，阶段
+   - The teacher took time to grade each student's homework thoroughly. (老师花时间仔细批改每个学生的作业。)
+   - The road had a steep grade, making it challenging for vehicles to ascend. (这条路有一个陡峭的坡度，使得车辆难以上升。)
+
+1329. **gradual** [adj.] 逐渐的，渐进的
+   - The company made gradual improvements to its products over the years. (多年来，公司对其产品进行了渐进的改进。)
+   - Learning a new language is a gradual process that requires patience and practice. (学习一门新语言是一个需要耐心和实践的逐渐过程。)
+
+1330. **gradually** [adv.] 逐渐地，逐步地
+   - As the sun set, the temperature gradually dropped, signaling the onset of night. (随着太阳的落山，温度逐渐下降，标志着夜晚的开始。)
+   - The student's understanding of complex concepts improved gradually with consistent study. (学生对复杂概念的理解随着持续学习逐渐提高。)
+
+1331. **graduate** [n.] 毕业生；[vi.] 大学毕业，获学位，逐渐变得；[vt.] 毕业，(在表、计、尺上)刻，[分] 度，定等级；[adj.] 毕业的，获得学位的
+   - The university honored the outstanding graduates during the commencement ceremony. (大学在毕业典礼上表彰了优秀的毕业生。)
+   - After years of hard work, she finally graduated with a degree in psychology. (经过多年的努力，她终于以心理学学位毕业。)
+
+1332. **grain** [n.] 谷物，谷粒，颗粒，细粒，纹理；[vt.] 用谷物喂养，形成颗粒
+   - The fields were filled with golden grain ready for harvest. (田野里满是金黄色的谷物，准备着收获。)
+   - The wood had a beautiful grain pattern that added to its overall appeal. (这块木头有着美丽的纹理图案，增添了整体吸引力。)
+
+1333. **grammar** [n.] 语法，语法书
+   - Understanding grammar is crucial for effective communication in any language. (理解语法对于在任何语言中进行有效沟通至关重要。)
+   - The English teacher recommended a comprehensive grammar book for her students. (英语老师为她的学生推荐了一本全面的语法书。)
+
+1334. **grand** [adj.] 宏伟的，重大的，豪华的，壮丽的，主要的；[n.] 大钢琴
+   - The grand palace stood as a symbol of the nation's rich history and culture. (这座宏伟的宫殿是该国丰富历史和文化的象征。)
+   - She played a beautiful melody on the grand piano in the music hall. (她在音乐厅的大钢琴上演奏了一曲美妙的旋律。)
+
+1335. **granddaughter** [n.] 孙女，外孙女
+   - My granddaughter is the joy of my life, and I cherish every moment with her. (我的孙女是我生活的快乐，我珍惜与她在一起的每一刻。)
+   - She shares a special bond with her grandmother, who tells her stories from the past. (她与祖母有着特殊的纽带，祖母给她讲述过去的故事。)
+
+1336. **grandfather** [n.] 祖父，外祖父
+   - My grandfather fought in the war and shared incredible stories of bravery. (我的祖父参加了战争，分享了一些关于勇气的不可思议的故事。)
+   - Even in his old age, my grandfather remained a source of wisdom and guidance. (即便年事已高，我的祖父仍然是智慧和指导的源泉。)
+
+1337. **grandmother** [n.] 祖母，外祖母
+   - Grandma's kitchen always smelled of delicious homemade cookies. (奶奶的厨房总是散发着美味的自制饼干的香气。)
+   - My grandmother passed down her love for gardening to me, and I cherish those memories. (祖母将她对园艺的热爱传给了我，我珍惜这些回忆。)
+
+1338. **grandson** [n.] 孙子，外孙子
+   - The proud grandfather watched as his grandson took his first steps. (自豪的祖父看着孙子迈出了人生的第一步。)
+   - As a grandson, he inherited the family traditions and values from his grandparents. (作为孙子，他继承了祖父母的家庭传统和价值观。)
+
+1339. **grant** [n.] 授给物，补助金，同意，给予，财产转让；[vt.] 授予，同意，承认
+   - The research project received a substantial grant from the government. (这个研究项目获得了政府的大额资助。)
+   - The university decided to grant scholarships to exceptional students. (大学决定向优秀学生提供奖学金。)
+
+1340. **grape** [n.] 葡萄，葡萄藤，[色彩]深紫色，[军事]葡萄弹
+   - The vineyard was full of ripe grapes ready for the harvest. (葡萄园里长满了成熟的葡萄，准备着收获。)
+   - The soldiers used grape shot during the battle to increase their firepower. (士兵们在战斗中使用了葡萄弹以增强火力。)
+
+1341. **graph** [n.] (曲线)图，图表；[vt.] 以(曲线)图表示
+   - The scientist presented the data in a clear and concise graph for better understanding. (科学家通过清晰简洁的图表呈现数据，以便更好地理解。)
+   - The teacher asked the students to graph the results of their experiments. (老师要求学生们将实验结果制成图表。)
+
+1342. **grasp** [vt.] 抓紧，抓住，紧握，掌握，领会；[n.] 抓，把握，抓紧，领会
+   - She struggled to grasp the concept until the teacher explained it in simpler terms. (她努力理解这个概念，直到老师用更简单的词语解释为止。)
+   - The toddler's tiny grasp on the toy showed determination and curiosity. (幼儿对玩具的小小抓握表现出了坚决和好奇心。)
+
+1343. **grass** [n.] 草，牧草，草地；[vt.] 以牧草喂养，覆盖着草
+   - The cows grazed peacefully in the lush green grass of the meadow. (牛在草地上宁静地吃草。)
+   - The soccer field was covered in fresh grass, providing a soft surface for the players. (足球场上铺满了新鲜的草，为运动员提供了柔软的表面。)
+
+1344. **grateful** [adj.] 感激的，感谢的，令人愉快的
+   - I am truly grateful for your support during challenging times. (在困难时期，我真心感激你的支持。)
+   - Expressing gratitude towards others can enhance relationships and build trust. (对他人表达感激之情可以增强关系，建立信任。)
+
+1345. **gratitude** [adj.] 感激，感谢，感恩；[n.] 感恩之心
+   - The community expressed their gratitude to the volunteers who helped after the natural disaster. (社区对在自然灾害后提供帮助的志愿者表示感激之情。)
+   - Teaching children to show gratitude for small gestures fosters a positive outlook on life. (教导孩子为小小的善举表达感激之情有助于培养积极的人生观。)
+
+1346. **great** [adj.] 大的，伟大的，大量的，很好的，美好的，重要的；[adv.] (口语)好极了
+   - The scientist made a great discovery that revolutionized the field of medicine. (这位科学家做出了一项伟大的发现，彻底改变了医学领域。)
+   - "Great job!" exclaimed the coach as the team won the championship. (“干得好！”教练欢呼道，球队赢得了冠军。)
+
+1347. **greatly** [adv.] 大大地，非常，很
+   - The success of the project was greatly influenced by the dedication of the team. (项目的成功在很大程度上受到了团队的奉献精神的影响。)
+   - She greatly admired the artist and was inspired by their creative process. (她非常钦佩这位艺术家，并受到了他们创造性过程的启发。)
+
+1348. **greedy** [adj.] 贪吃的，贪婪的
+   - The greedy squirrel hoarded nuts and refused to share with other animals. (贪婪的松鼠囤积坚果，拒绝与其他动物分享。)
+   - Greedy individuals often prioritize personal gain over the well-being of others. (贪婪的人往往将个人利益置于他人幸福之上。)
+
+1349. **Greek** [adj.] 希腊(人)的；[n.] 希腊人，希腊语
+   - The ancient Greek civilization has left a lasting impact on philosophy and art. (古希腊文明对哲学和艺术产生了深远的影响。)
+   - She decided to learn Greek to better understand classical literature. (她决定学习希腊语以更好地理解古典文学。)
+
+1350. **green** [adj.] 绿色的，长满绿草的，温和的，未成熟的；[n.] 绿色；[vt.]，&，vi. 变得绿
+   - The lush green landscape of the countryside was a sight to behold. (郊区郁郁葱葱的绿色风景令人叹为观止。)
+   - Plants rely on photosynthesis to turn sunlight into energy and produce green leaves. (植物依靠光合作用将阳光转化为能量，并产生绿叶。)
+
+1351. **greet** [vt.] 问候，招呼，反应，致敬，欢迎，映入眼帘
+   - The host went to greet each guest personally as they arrived at the event. (主人在活动开始时亲自去迎接每一位到场的客人。)
+   - The sunrise greeted them with a spectacular display of colors over the horizon. (日出以地平线上壮观的色彩展示向他们致以问候。)
+
+1352. **greeting** [n.] 问候，招呼，致敬
+   - A warm greeting can set a positive tone for any interaction or meeting. (热情的问候可以为任何互动或会议设定积极的氛围。)
+   - The exchange of greetings between old friends was filled with laughter and joy. (老朋友之间的问候充满了笑声和快乐。)
+
+1353. **grey** [adj.] 灰色的；[n.] 灰色；[vi.] 变成灰色，=gray
+   - The sky turned grey as the storm clouds gathered overhead. (天空在暴风云云团聚时变成了灰色。)
+   - His hair began to grey with age, adding a distinguished touch to his appearance. (随着年龄增长，他的头发开始变灰，为他的外貌增添了崇高的氛围。)
+
+1354. **grip** [vt.] 握紧，抓牢，吸引；[n.] 紧握，了解，手柄，手提包
+   - The climber had a firm grip on the rock, ensuring a safe ascent. (攀岩者牢牢抓住岩石，确保安全上升。)
+   - The novel had a captivating plot that kept readers in its grip until the very end. (小说有一个引人入胜的情节，一直抓住读者，直到最后。)
+
+1355. **groan** [vi.] 哼，呻吟；[n.] 呻吟
+   - The injured man let out a groan of pain as the paramedics attended to him. (受伤的人在急救人员照顾他时发出了一声痛苦的呻吟。)
+   - The old floorboards emitted a groan under the weight of heavy footsteps. (在沉重的脚步声下，老旧的地板发出了一声呻吟。)
+
+1356. **grocer** [n.] 食品商，杂货商
+   - The local grocer provides fresh produce and daily essentials to the neighborhood. (当地的食品商向社区提供新鲜的农产品和日常必需品。)
+   - The grocer greeted customers with a friendly smile as they entered the store. (食品商在顾客进入店铺时用友好的微笑迎接他们。)
+
+1357. **gross** [adj.] 总的，粗鲁的，严重的，过胖的；[n.] 总量；[vt.] 总共赚得
+   - The company reported a gross profit increase for the fiscal year. (公司报告了本财政年度的总利润增长。)
+   - His gross behavior during the meeting shocked everyone present. (他在会议期间的粗鲁行为让在场的每个人都感到震惊。)
+
+1358. **ground** [n.] 土地，战场，场地，根据，背景；[vt.] 放在地上，使...搁浅，打基础 (grind 的过去式和过去分词)
+   - The troops fought fiercely on the battleground to defend their homeland. (部队在战场上奋勇作战，保卫家园。)
+   - The ship was grounded on the rocks, causing significant damage to its hull. (船只搁浅在礁石上，对船体造成了严重损害。)
+
+1359. **group** [n.] 小组，群，团，团体；[vt.]，&，vi. 聚合，成群，聚集；[计算机] 成组
+   - The students formed a study group to prepare for the upcoming exams. (学生们组成了一个学习小组，为即将到来的考试做准备。)
+   - People tend to group together for mutual support during challenging times. (人们在困难时期往往倾向于聚集在一起互相支持。)
+
+1360. **grow** [vt.]，&，vi. 生长，变得，变成，增长，种植，逐渐开始
+   - Plants need sunlight and water to grow and thrive. (植物需要阳光和水才能生长茁壮。)
+   - As children grow, their interests and personalities often evolve. (随着孩子的成长，他们的兴趣和个性通常会发生变化。)
+
+1361. **growth** [n.] 增长，增长量，生长，生长物
+   - Economic growth is a key indicator of a country's prosperity. (经济增长是一个国家繁荣的关键指标。)
+   - The rapid growth of technology has transformed the way we live and work. (技术的迅猛发展改变了我们的生活和工作方式。)
+
+1362. **guarantee** [n.] 保证(书)，担保(书)，担保人，担保物，抵押品；[vt.] 保证，担保
+   - The warranty serves as a guarantee for the quality and durability of the product. (保修期作为产品质量和耐久性的保证。)
+   - The bank requires collateral to guarantee the loan against default. (银行要求提供担保物以确保贷款不违约。)
+
+1363. **guard** [vt.]，&，vi. 守卫，看守，保卫，警惕；[n.] 卫兵，守卫者，警戒，护卫队保护
+   - The security guard monitored the surveillance cameras to ensure the safety of the premises. (安保人员监视监控摄像头，确保场地的安全。)
+   - Soldiers stood guard at the entrance to the military base. (士兵们在军事基地入口站岗放哨。)
+
+1365. **guess** [vt.]，&vi.，&n. 猜测，推测，猜想
+   - Can you guess the number of marbles in the jar without counting? (你能在不计数的情况下猜出瓶子里弹珠的数量吗？)
+   - His accurate guess about the outcome of the game surprised everyone. (他对比赛结果的准确猜测让所有人都感到惊讶。)
+
+1366. **guest** [n.] 客人，宾客，旅客，客串演员，特邀来宾；[vt.] 款待，vi. 作客
+   - The host welcomed the guests with warm hospitality to the dinner party. (主人热情款待客人参加晚宴。)
+   - As a guest at the wedding, she was touched by the couple's love and joy. (作为婚礼的客人，她被新人的爱意和喜悦所打动。)
+
+1367. **guidance** [n.] 引导，指导，领导，导航系统
+   - The mentor provided valuable guidance to the young entrepreneur starting a new business. (导师为年轻的创业者提供了有价值的指导，开始了一项新业务。)
+   - The aircraft relies on advanced guidance systems for precise navigation. (飞机依赖先进的导航系统进行精准导航。)
+
+1368. **guide** [n.] 导游者，领路者，指南，路标；[vt.] 给...导游，领路，指导；[vi.] 作导游
+   - The guide led the tourists through the historical landmarks of the city. (导游带领游客游览城市的历史地标。)
+   - The map serves as a helpful guide for those exploring the hiking trails. (地图对于探险者在徒步小道上探索时是一个有用的指南。)
+
+1369. **guilty** [adj.] 内疚的，有罪的
+   - The defendant looked guilty as the judge read out the charges in court. (在法庭上法官宣读控状时，被告显得内疚。)
+   - Despite feeling guilty, she decided to confess her mistake and apologize. (尽管感到内疚，她决定坦白错误并道歉。)
+
+1370. **gulf** [n.] 海湾
+   - The picturesque coastal town is nestled between two majestic cliffs at the gulf. (这个风景如画的海滨小镇坐落在海湾两侧的两座雄伟悬崖之间。)
+   - The gulf is known for its rich marine life and pristine waters. (这个海湾以丰富的海洋生物和原始的水域而闻名。)
+
+1371. **gum** [n.] 口香糖，树胶，橡皮(糖)，齿龈，粘性物质，牙床；[vt.] 搞砸，用牙床嚼，以树胶粘合；[vi.] 形成胶质，发粘
+   - Chewing gum is a common way to freshen one's breath after a meal. (嚼口香糖是用餐后清新口气的常见方式。)
+   - The worker accidentally gummed the pages together while applying the adhesive. (工人在涂胶水时不小心把页面黏在一起。)
+
+1372. **gun** [n.] 枪，炮，手枪
+   - The soldier carefully cleaned and maintained his rifle before the mission. (士兵在执行任务前仔细清理和保养他的步枪。)
+   - Owning a gun comes with the responsibility of proper usage and storage. (拥有枪支意味着对其进行正确使用和储存的责任。)
+
+1373. **gymnasium** [n.] 体育馆，健身房；[n.] (德国等培养学生升入大学的) 大学预科高级中学，(复数) gymnasia 或 gymnasiums
+   - The new gymnasium is equipped with state-of-the-art fitness equipment. (新的体育馆配备了最先进的健身设备。)
+   - In some countries, gymnasium refers to an academic institution preparing students for university. (在一些国家，"gymnasium" 指的是一所为学生升入大学做准备的学术机构。)
+
+1374. **habit** [n.] 习惯，习性，隐，长袍；[vt.] 穿衣
+   - Breaking a bad habit requires determination and consistent effort. (改掉坏习惯需要决心和持之以恒的努力。)
+   - The monk wore a traditional habit as a symbol of his religious commitment. (僧侣穿着传统的长袍，作为他宗教信仰的象征。)
+
+1375. **hair** [n.] 头发，毛发，毛，毛织物，极少量，极短距离
+   - She styled her hair in a loose bun for a casual and relaxed look. (她把头发梳成一个松散的发髻，展现出一种随意轻松的感觉。)
+   - The cat's fur is soft, and its whiskers are shorter than its facial hair. (猫的毛发柔软，胡须比面部的毛发短。)
+
+1376. **half** [n.] 半，一半；[adj.] 一半的，不完全的；[adv.] 一半地
+   - She ate only half of her sandwich and saved the rest for later. (她只吃了一半的三明治，把剩下的留着以后吃。)
+   - The project is halfway completed, and the team is making good progress. (这个项目已经完成了一半，团队正在取得良好的进展。)
+
+1377. **hall** [n.] 门厅，过道，会堂，礼堂
+   - The grand hall was adorned with elegant decorations for the formal event. (宏伟的大厅被装饰以优雅的装饰品，迎接正式的活动。)
+   - Students gathered in the hall for the commencement ceremony. (学生们在礼堂聚集参加毕业典礼。)
+
+1378. **halt** [vi.] 停止，立定，跛行，犹豫，畏缩；[vt.] 使...停止；[n.] 停住；[adj.] 瘸的
+   - The train came to a sudden halt, causing confusion among the passengers. (火车突然停了下来，引起了乘客之间的混乱。)
+   - The old man walked with a noticeable halt due to his injured leg. (老人因为受伤的腿而走路有明显的跛行。)
+
+1379. **hammer** [n.] 锤，榔头；[vt.] 锤击，锤打，严厉批评；[vi.] 锤击，反复敲打
+   - The blacksmith used a heavy hammer to shape the red-hot metal. (铁匠用重锤塑造炽热的金属。)
+   - The politician faced harsh criticism, and the media continued to hammer his decisions. (政治家受到了严厉的批评，媒体继续抨击他的决定。)
+
+1380. **hand** [n.] 手，人手，指针，掌握，协助；[vt.] 帮助，给；[adv.] 手动地，人工地
+   - He extended a helping hand to those in need during the difficult times. (在困难时期，他向需要帮助的人伸出援手。)
+   - The clock's minute hand moved slowly towards the twelve as midnight approached. (时钟的分钟指针在午夜临近时缓慢移动到十二点。)
+
+1381. **handful** [n.] 一把，少数，一小撮；【非正式用语】 难以控制的人或费劲的事
+   - He grabbed a handful of nuts from the bowl as a quick snack. (他从碗里抓了一把坚果当作快速的小吃。)
+   - Managing a team of energetic teenagers can be a handful for any coach. (管理一支充满活力的青少年队伍对于任何教练来说都是一项巨大的挑战。)
+
+1382. **handkerchief** [n.] 手帕，方头巾，围巾
+   - She gracefully waved her handkerchief to bid farewell as the train departed. (她优雅地挥动手帕，告别火车启程。)
+   - In the old tradition, a gentleman would offer his handkerchief to a lady
+
+ in distress. (在古老的传统中，绅士会把手帕递给身临困境的女士。)
+
+1383. **handle** [n.] 柄，把手；[vt.] 拿，触，买卖，处理，操作；[vi.] 驾驭
+   - Be careful when you handle fragile items to avoid breaking them. (在处理易碎物品时要小心，以免打碎它们。)
+   - She has the ability to handle challenging situations with calmness and efficiency. (她有能力以冷静和高效的方式处理具有挑战性的情境。)
+
+1384. **handsome** [adj.] 英俊的，慷慨大方的，可观的，灵巧的，相当大的
+   - The actor received compliments for his handsome looks and charismatic presence. (这位演员因其英俊的外貌和有魅力的存在而受到了赞美。)
+   - The company made a handsome profit in the last quarter due to increased sales. (由于销售增加，公司在上个季度取得了可观的利润。)
+
+1385. **handwriting** [n.] 笔迹，手迹，书法
+   - Experts can analyze handwriting to determine the authenticity of a signature. (专家可以分析笔迹以确定签名的真实性。)
+   - Her elegant handwriting reflected years of practice and dedication to calligraphy. (她优雅的字迹反映了多年对书法的练习和专注。)
+
+1386. **handy** [adj.] 手边的，方便的，便于使用的
+   - Keep a set of tools handy in case you need to make quick repairs around the house. (随时保留一套工具，以防需要在家里进行快速修理。)
+   - The mobile app is handy for travelers to find nearby restaurants and attractions. (这款移动应用对于旅行者查找附近的餐馆和景点非常方便。)
+
+1387. **hang** [vt.] 挂，悬，吊死，悬挂方式；[vi.] (使)低垂，悬浮(在空中)，逗留
+   - She decided to hang the painting on the living room wall for everyone to admire. (她决定把画挂在客厅墙上，让大家欣赏。)
+   - The question seemed to hang in the air as the students pondered their responses. (问题似乎悬在空中，学生们在思考着他们的回答。)
+
+1388. **happen** [vi.] 发生，碰巧，恰好，出现，偶然遇到
+   - Accidents can happen when people are not careful and attentive. (人们不小心而且不注意时，事故就可能发生。)
+   - Did you happen to see my keys anywhere? I can't find them. (你碰巧看到我的钥匙在哪里吗？我找不到了。)
+
+1389. **happiness** [n.] 幸福，幸运，快乐，适当
+   - True happiness comes from a sense of fulfillment and meaningful connections. (真正的幸福来自对成就感和有意义的联系的体验。)
+   - The pursuit of happiness is a universal goal shared by people around the world. (追求幸福是全球人们共同的普遍目标。)
+
+1390. **happy** [adj.] 快乐的，幸福的，乐于做某事
+   - Spending time with loved ones brings immense joy and makes her feel truly happy. (与亲人共度时光带来巨大的快乐，让她真正感到幸福。)
+   - Finding a job that aligns with your passion can contribute to a happy and fulfilling career. (找到与你的热情相符的工作可以为一段快乐而充实的职业生涯做出贡献。)
+
+1391. **harbour** [n.] 海港，港口；[vt.] 庇护，停泊
+   - The boats sought shelter in the harbour as the storm approached. (风暴来临时，船只寻找在港口避难。)
+   - The country has a long history of providing harbour to refugees in times of need. (这个国家在需要的时候长期以来一直为难民提供庇护。)
+
+1392. **hard** [adj.] 硬的，困难的，艰难的，苛刻的；[adv.] 努力地，猛烈地，坚定地
+   - The surface of the diamond is extremely hard and resistant to scratches. (钻石表面非常坚硬，抗刮擦性强。)
+   - She worked hard to achieve her goal of becoming a successful entrepreneur. (她努力工作，实现了成为成功企业家的目标。)
+
+1393. **harden** [vt.] 使变硬，(使)坚强；[vi.] 变硬
+   - Exposure to extreme temperatures can harden the steel and improve its durability. (暴露在极端温度下可以使钢变硬，提高其耐久性。)
+   - Overcoming challenges can help individuals emotionally harden over time. (克服挑战可以帮助个体逐渐在情感上变得坚强。)
+
+1394. **hardly** [ad.] 几乎不，简直不
+   - She could hardly contain her excitement when she received the unexpected gift. (当她收到意外的礼物时，她简直无法控制自己的激动。)
+   - There was hardly any time left to complete the assignment before the deadline. (在截止日期之前几乎没有时间完成作业了。)
+
+1395. **hardship** [n.] 艰难，困苦
+   - The pioneers faced numerous hardships while settling in the uncharted territory. (开拓者在未知的领地安家时面临着许多困苦。)
+   - Enduring hardships can build resilience and character in individuals. (经历艰难可以培养个体的韧性和品格。)
+
+1396. **hardware** [n.] 五金器具，(计算机)硬件
+   - The store specializes in selling various tools and hardware for home improvement. (这家商店专门销售各种家居改进的工具和五金器具。)
+   - Upgrading the computer's hardware can significantly improve its performance. (升级计算机的硬件可以显著提升其性能。)
+
+1397. **harm** [n.] 伤害，损害；[vt.] 伤害，损害
+   - The new law aims to prevent harm to the environment caused by industrial pollution. (新法旨在防止工业污染对环境造成的伤害。)
+   - It is essential to avoid actions that may harm the well-being of others. (避免可能伤害他人福祉的行为是至关重要的。)
+
+1398. **harmony** [n.] 调合，协调，和谐，和弦，和睦
+   - The orchestra achieved perfect harmony as each instrument played its part. (管弦乐队在每个乐器发挥自己的作用时实现了完美的和谐。)
+   - Living in harmony with nature is crucial for environmental sustainability. (与自然和谐共生对于环境的可持续性至关重要。)
+
+1399. **harvest** [n.] 收获(期)，成果，收获物，收成；[vt.]，&，vi. 收割，收获
+   - Farmers work hard during the harvest season to gather crops from the fields. (农民在收获季节努力工作，从田地里收割庄稼。)
+   - The artist considered the exhibition a harvest of creative achievements. (艺术家认为展览是创造性成就的收获。)
+
+1400. **haste** [n.] 急速，急忙，草率；[v.] 匆忙，赶快；[vi.] 赶紧，赶快
+   - Acting in haste may lead to mistakes that could have been avoided with careful planning. (匆忙行事可能导致本可以通过仔细规划避免的错误。)
+   - There's no need for such haste; we have plenty of time to finish the project. (没有必要这么匆忙；我们有足够的时间完成这个项目。)
+
+1401. **hat** [n.] 帽子(一般指有边的)，职位；[vt.] 给...戴帽子，vi. 提供帽子
+   - She wore a stylish hat to complement her outfit for the special occasion. (她戴着一顶时尚的帽子，搭配她在特殊场合的服装。)
+   - In many cultures, a hat can symbolize authority or a specific role in society. (在许多文化中，帽子可以象征权威或社会中的特定角色。)
