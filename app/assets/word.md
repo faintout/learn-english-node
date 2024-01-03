@@ -5124,9 +5124,7 @@
    - The motorcycle runs on unleaded gasoline for better fuel efficiency. (这辆摩托车使用无铅汽油以获得更好的燃油效率。)
 
 1280. **gate** [n.] 大门，入口，篱笆门；[vt.] <英> 惩罚(禁止学生离校)，解雇；[n.] <古> 道路，<方> 方式，[suf.] 常表示政治丑闻
-   - The wrought iron gate at the entrance of the estate added a touch of elegance. (庄园入口处的锻铁大门增
-
-添了一丝优雅。)
+   - The wrought iron gate at the entrance of the estate added a touch of elegance. (庄园入口处的锻铁大门增）添了一丝优雅。)
    - The scandal involving the politician became known as "Gate," causing a stir in the media. (涉及政治人物的丑闻被称为“门”，在媒体中引起轰动。)
 
 1281. **gather** [vi.] 聚集，集合，渐增；[vt.] 收集，使聚集，推断，鼓起；[n.] 集合，聚集
@@ -5173,76 +5171,74 @@
    - The well-dressed gentleman held the door open for the elderly woman. (衣着得体的绅士为年迈的女士开门。)
    - Being a true gentleman goes beyond mere manners; it involves kindness and respect for others. (成为真正的绅士不仅仅是表现出良好的礼貌，还包括对他人的善意和尊重。)
 
-1293. **gently** [ad.] 有礼貌地，柔和地，轻轻地，温柔地
+1292. **gently** [ad.] 有礼貌地，柔和地，轻轻地，温柔地
    - She spoke gently to the frightened child to calm him down. (她对那位受惊的孩子温柔地说话，以安抚他。)
    - The old man gently touched the fragile antique vase. (老人轻轻地触摸了那个易碎的古董花瓶。)
 
-1294. **genuine** [adj.] 真的，真正的，真实的，诚恳的
+1293. **genuine** [adj.] 真的，真正的，真实的，诚恳的
    - His smile was genuine, reflecting his true happiness. (他的微笑是真实的，反映出他真正的快乐。)
    - It's important to buy genuine products to ensure quality and authenticity. (购买真正的产品以确保质量和真实性是很重要的。)
 
-1295. **geometry** [n.] 几何，几何学
+1294. **geometry** [n.] 几何，几何学
    - Geometry involves the study of shapes, sizes, and the properties of space. (几何学涉及对形状、大小和空间性质的研究。)
    - The students were learning about angles and triangles in their geometry class. (学生们在几何课上学习有关角和三角形的知识。)
 
-1296. **germ** [n.] 微生物，细菌，幼芽
+1295. **germ** [n.] 微生物，细菌，幼芽
    - Washing your hands helps eliminate germs and prevent illness. (洗手有助于消除细菌，预防疾病。)
    - The germ of a new idea began to sprout in her creative mind. (一种新思想的萌芽在她富有创造力的头脑中开始生长。)
 
-1297. **German** [adj.] 德国(人)的，德语的，日耳曼的；[n.] 德国人，德语，日耳曼人
+1296. **German** [adj.] 德国(人)的，德语的，日耳曼的；[n.] 德国人，德语，日耳曼人
    - She is taking German classes to prepare for her trip to Germany. (她正在上德语课，为她前往德国的旅行做准备。)
    - German cuisine is known for its hearty and flavorful dishes. (德国烹饪以其丰盛和美味的菜肴而闻名。)
 
-1298. **Germany** [n.] 德意志，德国
+1297. **Germany** [n.] 德意志，德国
    - Germany is renowned for its rich history, culture, and technological advancements. (德国以其丰富的历史、文化和技术进步而闻名。)
    - The reunification of East and West Germany occurred in 1990. (东西德国的统一发生在1990年。)
 
-1299. **gesture** [n.] 姿势，手势，姿态；[vt.]，[vi.] 作手势表达
+1298. **gesture** [n.] 姿势，手势，姿态；[vt.]，[vi.] 作手势表达
    - A simple gesture of kindness can brighten someone's day. (一种简单的善举姿态可以照亮某人的一天。)
    - She gestured towards the exit, indicating that it was time to leave. (她朝着出口做了个手势，表示是时候离开了。)
 
-1300. **get** [vi.] 变得，成为，到达，致富，能够，离开；[vt.] 得到，准备，抓住，克服，激怒，使得，记忆，沟通；[n.] 生育，后代，救球
+1399. **get** [vi.] 变得，成为，到达，致富，能够，离开；[vt.] 得到，准备，抓住，克服，激怒，使得，记忆，沟通；[n.] 生育，后代，救球
    - She hopes to get a promotion at work next year. (她希望明年在工作中获得晋升。)
    - Can you help me get this heavy box down from the shelf? (你能帮我把这个沉重的盒子从架子上拿下来吗？)
 
-1301. **ghost** [n.] 鬼，灵魂，幽灵，鬼魂，一丝；[vt.]，[vi.] 像(鬼一样)地行进
+1300. **ghost** [n.] 鬼，灵魂，幽灵，鬼魂，一丝；[vt.]，[vi.] 像(鬼一样)地行进
    - The old castle is said to be haunted by the ghost of a medieval princess. (据说这座古老的城堡被一位中世纪公主的鬼魂所困扰。)
    - The pale figure in the moonlight looked like a ghost gliding through the cemetery. (月光中的苍白身影看起来像是一只幽灵在墓地中滑行。)
 
-1302. **giant** [n.] 巨人，伟人，巨大的东西；[adj.] 巨大的
+1301. **giant** [n.] 巨人，伟人，巨大的东西；[adj.] 巨大的
    - The giant redwood trees in California are among the tallest in the world. (加利福尼亚的巨型红杉树是世界上最高的之一。)
    - The company became a giant in the tech industry after years of successful innovations. (这家公司在多年的成功创新后成为科技行业的巨头。)
 
-1303. **gift** [n.] 礼物，赠品，天赋，赋予；[vt.] 赠送，赋予
+1302. **gift** [n.] 礼物，赠品，天赋，赋予；[vt.] 赠送，赋予
    - Her talent for music is a wonderful gift that she cherishes. (她对音乐的天赋是一份她珍视的美妙礼物。)
    - Giving a thoughtful gift can strengthen relationships and show appreciation. (送出一份用心的礼物可以加深关系并表达感激之情。)
 
-1304. **girl** [n.] 女孩子，姑娘，女儿
+1303. **girl** [n.] 女孩子，姑娘，女儿
    - The little girl danced with joy at her birthday party. (小女孩在她的生日派对上高兴地跳舞。)
    - She is a smart and ambitious girl who dreams of becoming a scientist. (她是一个聪明而有雄心壮志的女孩，梦想着成为一名科学家。)
 
-1305. **give** [vt.] 做，作，送给；[vi.] 让步，塌下，折断，弯曲
-  
-
- - Please give me a moment to think about your proposal. (请给我一点时间来思考你的提议。)
+1304. **give** [vt.] 做，作，送给；[vi.] 让步，塌下，折断，弯曲
+   - Please give me a moment to think about your proposal. (请给我一点时间来思考你的提议。)
    - The old bridge finally gave under the weight of the heavy truck. (古老的桥最终在重卡的重量下坍塌了。)
 
-1306. **glad** [adj.] 高兴的，乐意的；[v.] <古> 使高兴；[n.] 剑兰
+1305. **glad** [adj.] 高兴的，乐意的；[v.] <古> 使高兴；[n.] 剑兰
    - I'm glad to hear that you got the job you wanted. (听到你得到了你想要的工作，我感到高兴。)
    - The garden was filled with the fragrance of blooming glad flowers. (花园里充满了盛开的剑兰花的芬芳。)
 
-1307. **glance** [vi.] 看一下，瞥闪，瞥见，反光，浏览；[vt.] 瞥见，反光；[n.] 一瞥，闪光一滑
+1306. **glance** [vi.] 看一下，瞥闪，瞥见，反光，浏览；[vt.] 瞥见，反光；[n.] 一瞥，闪光一滑
    - She stole a quick glance at the clock to check the time. (她偷偷地看了一眼时钟，查看时间。)
    - The sunlight glanced off the surface of the water, creating a sparkling effect. (阳光从水面上反射，产生出闪烁的效果。)
 
-1308. **glass** [n.] 玻璃，玻璃杯，玻璃器皿，窗户，(复)眼镜，透镜；[vt.] 用玻璃把…盖(或罩、围)住，给...装上玻璃，使成玻璃状，反映，反射，审视；[vi.] 成为玻璃状，用光学仪器眺望
+1307. **glass** [n.] 玻璃，玻璃杯，玻璃器皿，窗户，(复)眼镜，透镜；[vt.] 用玻璃把…盖(或罩、围)住，给...装上玻璃，使成玻璃状，反映，反射，审视；[vi.] 成为玻璃状，用光学仪器眺望
    - She sipped her drink from a delicate glass. (她从一个精致的玻璃杯里啜饮着她的饮料。)
    - The artist carefully cut pieces of colored glass to create a beautiful stained glass window. (艺术家仔细地剪裁着彩色玻璃片，制作出一扇美丽的彩色玻璃窗。)
 
-1309. **glimpse** [vt.]，[vi.] 瞥见，一瞥，闪烁；[n.] 一瞥，一看，一闪
+1308. **glimpse** [vt.]，[vi.] 瞥见，一瞥，闪烁；[n.] 一瞥，一看，一闪
    - As they passed by the mysterious house, they caught a glimpse of a shadow in the window. (当他们路过那座神秘的房子时，他们瞥见了窗户里的一个影子。)
    - The traveler had a brief glimpse of the stunning sunrise over the mountains. (旅行者瞥见了山脉上壮丽的日出。)
 
-1310. **globe** [n.] 地球，世界，地界仪，球体
+1309. **globe** [n.] 地球，世界，地界仪，球体
    - The teacher pointed to different countries on the globe to teach geography. (老师在地球仪上指着不同的国家教授地理知识。)
    - The scientist studied the globe to understand global weather patterns. (科学家研究地球仪以了解全球气候模式。)
