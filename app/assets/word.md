@@ -5531,9 +5531,7 @@
 
 1382. **handkerchief** [n.] 手帕，方头巾，围巾
    - She gracefully waved her handkerchief to bid farewell as the train departed. (她优雅地挥动手帕，告别火车启程。)
-   - In the old tradition, a gentleman would offer his handkerchief to a lady
-
- in distress. (在古老的传统中，绅士会把手帕递给身临困境的女士。)
+   - In the old tradition, a gentleman would offer his handkerchief to a lady in distress. (在古老的传统中，绅士会把手帕递给身临困境的女士。)
 
 1383. **handle** [n.] 柄，把手；[vt.] 拿，触，买卖，处理，操作；[vi.] 驾驭
    - Be careful when you handle fragile items to avoid breaking them. (在处理易碎物品时要小心，以免打碎它们。)
