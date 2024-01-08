@@ -5608,3 +5608,703 @@
 1400. **hat** [n.] 帽子(一般指有边的)，职位；[vt.] 给...戴帽子，vi. 提供帽子
    - She wore a stylish hat to complement her outfit for the special occasion. (她戴着一顶时尚的帽子，搭配她在特殊场合的服装。)
    - In many cultures, a hat can symbolize authority or a specific role in society. (在许多文化中，帽子可以象征权威或社会中的特定角色。)
+
+1401. **hate** [vt.] 恨，憎恨，不喜欢，不愿，vi.表示憎恨，n.憎恨，厌恶，厌恶的人或事
+   - She could not help but hate the man who had ruined her life. (她不得不憎恨那个毁了她生活的人。)
+   - His hate for injustice fueled his passion for social change. (他对不公正的憎恨激发了他对社会变革的热情。)
+
+1402. **hatred** [n.] 憎恶，憎恨，仇恨
+   - The war was fueled by deep-seated ethnic hatred. (这场战争由根深蒂固的种族仇恨推动。)
+   - Her eyes burned with a fierce hatred as she spoke of her ex-husband. (她谈到前夫时，眼中闪烁着炽热的仇恨。)
+
+1403. **have** [v.aux.] 已经，曾经，[vt.] 有，吃，从事，得到，雇用，享有，允许
+   - I have already finished my homework. (我已经完成了我的家庭作业。)
+   - She will have a meeting with the manager tomorrow. (她明天将与经理开会。)
+
+1404. **hay** [n.] 干草
+   - The farmer stored the hay in the barn for the winter. (农民把干草存放在谷仓里过冬。)
+   - The children played hide and seek in the stacks of hay. (孩子们在一堆堆的干草中玩捉迷藏。)
+
+1405. **hazard** [n.] 危险，危害，公害，冒险，[vt.] 冒险，赌运气
+   - Smoking poses a hazard to your health. (吸烟对你的健康构成危险。)
+   - He hazarded a guess about the outcome of the game. (他冒险猜测了比赛的结果。)
+
+1406. **he** [pron.] (主格) 他
+   - He is going to the store to buy some groceries. (他要去商店买些杂货。)
+   - He said he would come to the party. (他说他会来参加聚会。)
+
+1407. **head** [n.] 头，头脑，领袖，冷静，硬币，正面，顶端，上端，高潮，[vt.]，&，vi.率领，为首，朝向，前进，超过，起源，[adj.] 首要的，前面的
+   - She has a good head for numbers. (她对数字很敏感。)
+   - The company is headquartered in New York. (该公司总部设在纽约。)
+
+1408. **headache** [n.] 头痛，头痛的事
+   - She took a painkiller for her headache. (她为了头痛吃了止痛药。)
+   - Dealing with the paperwork gave him a headache. (处理文书工作让他头痛不已。)
+
+1409. **headmaster** [n.] (中小学的)校长
+   - The headmaster announced the new school policies. (校长宣布了新的学校政策。)
+   - The headmaster is responsible for the overall management of the school. (校长负责学校的全面管理。)
+
+1410. **headquarters** [n.] 司令部，指挥部，总部
+   - The company's headquarters are located in London. (公司的总部位于伦敦。)
+   - The military headquarters were heavily guarded. (军事总部受到了严密的保护。)
+
+1411. **health** [n.] 健康，健康状况，卫生，保健
+   - Regular exercise is important for maintaining good health. (定期锻炼对保持健康很重要。)
+   - Mental health is as important as physical health. (心理健康和身体健康一样重要。)
+
+1412. **healthy** [adj.] 健康的，有益健康的
+   - Eating a balanced diet is essential for staying healthy. (均衡饮食对保持健康至关重要。)
+   - She leads a healthy lifestyle, exercising regularly and eating well. (她过着健康的生活方式，定期锻炼，饮食均衡。)
+
+1413. **heap** [n.] (一)堆，大量，许多，累积，[vt.] 使成堆，装满，[计算机] 堆
+   - There was a heap of clothes on the floor. (地板上堆满了衣服。)
+   - She heaped praise on her colleague for his hard work. (她对同事的辛勤工作给予了高度赞扬。)
+
+1414. **hear** [vt.] &，vi.听见，审讯，听说，听到，得知，倾听，听证
+   - I can't hear what you're saying over the noise. (我听不清你在噪音中说什么。)
+   - She heard the news of her promotion with delight. (她听到自己晋升的消息感到高兴。)
+
+1415. **heart** [n.] 心，内心，中心，要点，红桃，勇气
+   - She felt her heart race as she approached the stage. (她感到自己的心跳加快，因为她走近了舞台。)
+   - He has a heart of gold, always willing to help others. (他心地善良，总是乐意帮助他人。)
+
+1416. **heat** [n.] 热，炎热，热度，高潮，激动，激烈程度，辛辣，警察，[vi.] 变热，变暖，因热变质，[vt.] 使...变热
+   - The heat of the sun was unbearable. (太阳的热量令人无法忍受。)
+   - She heated the soup on the stove. (她在炉子上加热汤。)
+
+1417. **heaven** [n.] 天堂，天，天空
+   - The stars shone brightly in the night sky, like diamonds in heaven. (星星在夜空中闪耀，如同天堂中的钻石。)
+   - The view from the mountaintop was like a glimpse of heaven. (从山顶眺望的景色就像一瞥天堂。)
+
+1418. **heavy** [adj.] 重的，大(量)的，充满的，激烈的，难消化的，费力的，沉闷的，[adv.] 密集地，[n.] 悲剧角色
+   - The package was too heavy for her to lift. (这个包裹太重了，她举不起来。)
+   - The heavy rain caused flooding in the streets. (大雨导致街道发生了洪水。)
+
+1419. **hedge** [n.] 篱笆，树篱，障碍物，防止财产损失的方法，[vt.]，包围，限制，[vi.]，种树篱，拐弯抹角，保护自己不受财产损失，[adj.]，树篱的，篱笆边的
+   - The garden was surrounded by a tall hedge. (花园四周是一片高大的树篱。)
+   - She hedged her bets by investing in both stocks and bonds. (她通过投资股票和债券来分散风险。)
+
+1420. **heel** [n.] 脚后跟，踵，后跟，[v.] 倾侧
+   - She twisted her ankle when her heel got caught in a crack. (她的脚后跟卡在了裂缝里，扭伤了脚踝。)
+   - The dog obediently sat at its owner's heel. (狗顺从地坐在主人的脚边。)
+
+1421. **height** [n.] 高，高度，高处，身高，最高峰，极点
+   - The height of the mountain made it a challenging climb. (山的高度使得攀登成为一项挑战。)
+   - The height of her career was when she won the prestigious award. (她事业的巅峰是获得了这个重要奖项。)
+
+1422. **helicopter** [n.] 直升机
+   - The helicopter hovered above the crash site, ready to rescue the survivors. (直升机在坠机地点上空盘旋，准备营救幸存者。)
+   - The sound of the helicopter's blades echoed through the valley. (直升机的螺旋桨声在山谷中回荡。)
+
+1423. **hello** [int.] 喂，n.(见面打招呼或打电话用语)喂，哈罗
+   - "Hello," she said, answering the phone. (她接电话时说：“喂。”)
+   - They greeted each other with a warm hello. (他们用热情的招呼互相问候。)
+
+1424. **help** [vt.] &，vi.帮助，援助，改善，n.帮手，帮助，援助
+   - Can you help me carry these boxes? (你能帮我搬这些箱子吗？)
+   - She offered to help her neighbor with gardening. (她主动提出帮邻居打理花园。)
+
+1425. **helpful** [adj.] 给予帮助的，有用的，有益的
+   - The teacher gave helpful advice on how to improve their writing. (老师给了如何提高写作的有益建议。)
+   - The instructions were very helpful in assembling the furniture. (这些说明对组装家具非常有帮助。)
+
+1426. **hen** [n.] 母鸡，雌禽
+   - The hen laid six eggs in the nest. (母鸡在巢里下了六个蛋。)
+   - The farmer raised hens for their eggs. (农民饲养母鸡来产蛋。)
+
+1427. **hence** [ad.] 因此，从此，所以，今后
+   - She was feeling unwell, hence she decided to stay home. (她感觉不舒服，因此决定呆在家里。)
+   - The company has expanded its operations, hence the need for more employees. (公司扩大了业务，因此需要更多的员工。)
+
+1428. **her** [pron.] (宾格)她，她的，[adj.] 她的，abbr.=heraldry
+   - I met her at the library yesterday. (昨天我在图书馆遇见了她。)
+   - Her book is on the table. (她的书在桌子上。)
+
+1429. **here** [adv.] 这里，向这里，[adj.] 表示强调，[n.] 这里
+   - Come here and sit next to me. (过来坐在我旁边。)
+   - Here is the report you requested. (这是你要求的报告。)
+
+1430. **hero** [n.] 男主角，英雄，勇士
+   - He was hailed as a hero for his bravery in saving the child. (他因救孩子的英勇行为而被誉为英雄。)
+   - The soldier was considered a national hero for his acts of valor. (这名士兵因其英勇行为被视为民族英雄。)
+
+1431. **heroic** [adj.] 英雄的，英勇的，巨大的
+   - The firefighters made a heroic effort to save the people trapped in the burning building. (消防员们做出了英勇的努力，试图营救被困在燃烧建筑物中的人。)
+   - The team's heroic performance won them the championship. (团队的英勇表现赢得了他们的冠军。)
+
+1432. **heroine** [n.] 女主角，女英雄
+   - The novel's heroine overcame numerous challenges to achieve her goals. (小说的女主角克服了许多挑战来实现她的目标。)
+   - She was hailed as a heroine for her contributions to the community. (她因为对社区的贡献而被誉为女英雄。)
+
+1433. **hers** [pron.] 她的(所有物)
+   - The book is hers. (这本书是她的。)
+   - The decision is hers to make. (这个决定由她来做。)
+
+1434. **herself** [pron.] 她自己，她亲自
+   - She did the work herself. (她亲自做了这项工作。)
+   - She found herself lost in the unfamiliar city. (她发现自己在这个陌生的城市里迷失了方向。)
+
+1435. **hesitate** [vi.] 犹豫，踌躇，含糊，停顿，口吃，迟疑，vt.用犹疑的态度表示
+   - She hesitated before making a decision. (她在做决定之前犹豫了一下。)
+   - Don't hesitate to ask if you need any help. (如果需要帮助，不要犹豫，尽管问。)
+
+1436. **hide** [vt.] &，vi.把...藏起来，隐瞒，遮避，鞭打，[n.] 兽皮，生活富足度
+   - The child tried to hide the broken vase. (孩子试图把打破的花瓶藏起来。)
+   - The hunter wore a hide to blend in with the surroundings. (猎人穿着兽皮以融入周围环境。)
+
+1437. **high** [adj.] 高的，高级的，轻微变质的，高尚的，严重的，强的，[adv.] 高，好，[n.] 高地，天堂，高气压，高度，兴奋
+   - The airplane flew at a high altitude. (飞机在高空飞行。)
+   - The high of winning the championship was unforgettable. (赢得冠军的兴奋是难以忘怀的。)
+
+1438. **highly** [adv.] 高度地，很，非常
+   - She is highly skilled in her profession. (她在自己的专业领域非常有技巧。)
+   - The movie was highly praised by critics. (这部电影受到评论家的高度赞扬。)
+
+1439. **highway** [n.] 公路，大路，(水陆空) 直接航线或路线
+   - The highway was closed due to an accident. (由于事故，公路被关闭了。)
+   - The new highway reduced travel time between the two cities. (新建的高速公路缩短了两个城市之间的旅行时间。)
+
+1440. **hill** [n.] 小山，小堆，斜坡，山岗，丘陵，[vt.] 堆起，培土
+   - They enjoyed a picnic on top of the hill. (他们在山顶上享受了一次野餐。)
+   - The farmer was busy hillling the soil for planting. (农民正忙着把土堆起来准备种植。)
+
+1441. **hillside** [n.] (小山)山腰，山坡
+   - The house was nestled on the hillside overlooking the valley. (房子坐落在山坡上，俯瞰着山谷。)
+   - The goats grazed on the lush hillside. (山坡上的山羊在郁郁葱葱的山坡上吃草。)
+
+1442. **him** [pron.] (宾格)他
+   - I saw him at the store yesterday. (昨天我在商店看到了他。)
+   - I'll give him the message when I see him. (我见到他时会把消息告诉他。)
+
+1443. **himself** [pron.] 他自己，他亲自
+   - He built the bookshelf himself. (他亲自建了书架。)
+   - He prides himself on his cooking skills. (他为自己的烹饪技能感到自豪。)
+
+1444. **hint** [n.] 暗示，提示，示意，建议，小部分，[vt.]，&，vi.暗示，示意
+   - She dropped a hint about her upcoming birthday. (她透露了一点她即将过生日的信息。)
+   - He hinted that he might resign from his position. (他暗示可能会辞去他的职位。)
+
+1445. **hire** [vt.] 租借，雇请，出租，[n.] 租用，雇用，租用
+   - The company decided to hire a new marketing manager. (公司决定雇佣一位新的市场经理。)
+   - They made a hire car reservation for their trip. (他们为旅行预订了一辆租车。)
+
+1446. **his** [pron.] 他的，他的东西
+   - His car is parked in the driveway. (他的车停在了车道上。)
+   - He forgot to take his umbrella. (他忘记带他的雨伞了。)
+
+1447. **history** [n.] 历史，个人经历
+   - The history of the country is rich and complex. (这个国家的历史丰富而复杂。)
+   - She has a passion for studying ancient history. (她热衷于研究古代历史。)
+
+1448. **hit** [vt.] 打(击)，碰撞，偶然发现，要求，符合，vi.，打(击)，袭击，达到，[n.]，打(击)，冲撞，讽刺，成功.一次毒品的剂量，点击量
+   - The ball hit the window and broke it. (球打到了窗户并打碎了它。)
+   - The new product hit the market with great success. (新产品取得了巨大的市场成功。)
+
+1449. **hobby** [n.] 业余爱好，癖好
+   - Gardening is her favorite hobby. (园艺是她最喜欢的业余爱好。)
+   - He has many hobbies, including painting and playing the guitar. (他有很多爱好，包括绘画和弹吉他。)
+
+1450. **hold** [vt.] 拿住，掌握，拥有，持有，举行，[n.] 把握，控制，支撑点，延误，[n.] 船舱
+   - She tried to hold back her tears. (她努力忍住眼泪。)
+   - The ship has a cargo hold for storing goods. (这艘船有一个货舱用于存放货物。)
+
+1451. **hole** [n.] 洞，孔眼，裂开处，穴，[vt.]，&，vi.挖洞，掘坑，进洞
+   - There's a hole in the roof. (屋顶上有个洞。)
+   - The dog dug a hole in the garden. (狗在花园里挖了个洞。)
+
+1452. **holiday** [n.] 假日，节日，假期，vi.度假
+   - They went on a holiday to the beach. (他们去海滩度假了。)
+   - The office will be closed for the holiday. (办公室将因假日而关闭。)
+
+1453. **hollow** [adj.] 空的，空洞的，虚伪的，空腹的，[vt.]，形成空洞，挖空，vi.，形成空洞，adv.，有闷哑声，完全地，[n.]，洞，窟窿，山谷
+   - The old tree had a hollow trunk. (那棵老树的树干是空的。)
+   - Her stomach made a hollow sound from hunger. (她的肚子因饥饿而发出了空腹的声音。)
+
+1454. **holy** [adj.] 神圣的，圣洁的，令人敬仰的
+   - The temple is considered a holy place. (这座寺庙被认为是一个神圣的地方。)
+   - The holy man was revered by the villagers. (这位圣洁的人受到村民的尊敬。)
+
+1455. **home** [n.] 家，家乡，住所，国内的，养老院，[adj.] 家庭的，家(乡)的，adv.回家，在家，正确的方向，vt.，提供住处，vi.，回家，移向
+   - She felt at home in her new apartment. (她在新公寓里感到很自在。)
+   - The team played their first game at home. (这支队伍在主场进行了他们的第一场比赛。)
+
+1456. **honest** [adj.] 诚实的，可敬的，正直的，adv.老实说
+   - It's important to be honest with each other. (彼此诚实相待很重要。)
+   - She gave an honest account of what had happened. (她诚实地叙述了发生的事情。)
+
+1457. **honour** [n.] 光荣，尊敬，敬意，荣誉，荣幸，头衔，vt.尊敬，信守承诺，方形舞中鞠躬致敬
+   - It's an honour to meet you. (见到你真是我的荣幸。)
+   - He was awarded the highest honour for his bravery. (他因勇敢而获得了最高荣誉。)
+
+1458. **honourable** [adj.] 诚实的，光荣的，荣誉的，可敬的，体面的，=honorable(美)
+   - He is known for his honourable conduct. (他以诚实的行为而闻名。)
+   - It was an honourable gesture to help the elderly woman. (帮助老妇人是一种光荣的举动。)
+
+1459. **hook** [n.] 钩，挂钩，钩子，钩拳，vt.，&，vi.钩住
+   - She hung her coat on the hook by the door. (她把外套挂在门边的挂钩上。)
+   - The boxer delivered a powerful hook to his opponent's jaw. (拳击手给了对手下巴一个有力的钩拳。)
+
+1460. **hope** [n.] &vt.，&vi.希望，abbr.=Health，Opportunity，for，People，Everywhere世界健康基金会
+   - She hoped for a better future. (她希望有一个更美好的未来。)
+   - We hope that the situation will improve soon. (我们希望情况会很快好转。)
+
+1461. **hopeful** [adj.] 有希望的
+   - The team is feeling hopeful about their chances in the competition. (这支队伍对自己在比赛中的机会感到很有希望。)
+   - Despite the challenges, she remained hopeful. (尽管面临挑战，她仍然保持着希望。)
+
+1462. **hopeless** [adj.] 没有希望的，绝望的，无可救药的
+   - The situation seemed hopeless. (情况看起来毫无希望。)
+   - She felt hopeless after hearing the bad news. (听到坏消息后，她感到绝望。)
+
+1463. **horn** [n.] 号角，警报器，角，动物角，喇叭，触角，角状物，力量源泉
+   - The sound of the horn echoed through the valley. (号角声在山谷中回荡。)
+   - The car's horn blared loudly in the traffic jam. (车辆的喇叭在交通堵塞中大声鸣响。)
+
+1464. **horror** [n.] 恐怖，战栗，憎恶，厌恶，adj.恐怖的，令人毛骨悚然的
+   - The horror movie gave her nightmares. (那部恐怖电影让她做噩梦。)
+   - The villagers were filled with horror at the sight of the monster. (村民们看到怪物的样子感到恐惧。)
+
+1465. **horsepower** [n.] 马力(功率单位)
+   - The car's engine has 200 horsepower. (这辆车的发动机有200马力。)
+   - The new tractor has more horsepower than the old one. (新拖拉机的马力比旧的多。)
+
+1466. **hospital** [n.] 医院
+   - He was taken to the hospital after the accident. (事故发生后，他被送往了医院。)
+   - The hospital is located in the city center. (医院位于市中心。)
+
+1467. **host** [n.] 主人，东道主，军队，大量，主人，主持人，主机，vt.主持，做东vi.聚集
+   - The host welcomed the guests to the party. (主人欢迎客人参加聚会。)
+   - The city will host the international conference next year. (这座城市将在明年举办国际会议。)
+
+1468. **hostile** [adj.] 敌方的，不友善的，怀敌意的
+   - The two countries have a long history of hostile relations. (这两个国家有着长期的敌对关系。)
+   - The hostile environment made it difficult to negotiate. (敌对的环境使谈判变得困难。)
+
+1469. **hot** [adj.] 热的，热情的，刺激的，辣的，性感的，adv.激动地，快速地，n.最高温度，滚烫的东西
+   - The coffee was too hot to drink. (咖啡太烫了，无法喝。)
+   - She felt a hot flush of embarrassment. (她感到一阵尴尬的潮热。)
+
+1470. **hotel** [n.] 旅馆，宾馆，酒店，饭店
+   - They stayed at a luxury hotel during their vacation. (他们在度假期间住在一家豪华酒店。)
+   - The hotel offers a complimentary breakfast for its guests. (酒店为客人提供免费早餐。)
+
+1471. **hour** [n.] 小时，时间，时刻，钟点
+   - She waited for him for over an hour. (她等了他一个多小时。)
+   - The meeting will start in an hour. (会议将在一个小时后开始。)
+
+1472. **house** [n.] 房屋，住宅，商号，全家人，议院，vt.提供住，安置，收容，vi.居住，躲避
+   - They bought a house in the suburbs. (他们在郊区买了一栋房子。)
+   - The company will house its employees in the new dormitory. (公司将在新宿舍安置员工。)
+
+1473. **household** [n.] 家庭，户，家务，[adj.] 家庭的，家喻户晓的
+   - The household chores were divided among the family members. (家务活被分配给了家庭成员。)
+   - The company is a household name in the industry. (这家公司在行业内家喻户晓。)
+
+1474. **housewife** [n.] 家庭主妇，针线盒
+   - She chose to be a housewife after having children. (她生完孩子后选择做家庭主妇。)
+   - The housewife kept her sewing supplies in a small housewife. (家庭主妇把缝纫用品放在一个小针线盒里。)
+
+1475. **how** [adv.] 如何，怎么，怎样，多少，conj.如何，怎样，以...方式，n.方式
+   - How did you solve the problem? (你是如何解决这个问题的？)
+   - She explained how to use the new software. (她解释了如何使用新软件。)
+
+1476. **however** [adv.] 然而，不管怎样conj.然而，可是，不过
+   - She wanted to go; however, she had to stay. (她想去，然而她不得不留下。)
+   - The weather was cold; however, they went for a walk. (天气很冷，但他们还是去散步了。)
+
+1477. **human** [adj.] 人的，人类的，n. 人
+   - The study of human behavior is complex. (对人类行为的研究是复杂的。)
+   - We are all human and make mistakes. (我们都是人，都会犯错误。)
+
+1478. **humble** [adj.] 谦逊的，地位低下的，卑下的，粗陋的，vt.使...卑下，贬低
+   - He came from a humble background. (他出身卑微。)
+   - She spoke in a humble tone. (她用谦逊的语气说话。)
+
+1479. **humid** [adj.] 湿的，湿气重的，潮湿的
+   - The air in the rainforest is humid. (雨林中的空气湿润。)
+   - The humid climate made it difficult to dry clothes. (潮湿的气候使得晾晒衣物变得困难。)
+
+1480. **humorous** [adj.] 富于幽默的，诙谐的
+   - He is known for his humorous storytelling. (他以幽默的讲故事而闻名。)
+   - The book is a collection of humorous essays. (这本书是一部幽默散文集。)
+
+1481. **hundred** [num.] 百，百个，百位
+   - There are one hundred people in the room. (房间里有一百个人。)
+   - She walked hundreds of miles to raise money for charity. (她步行数百英里为慈善筹款。)
+  
+1482. **hunger** [n.] 饥饿，渴望
+   - The refugees suffered from hunger after days without food. (难民在数天没有食物后饱受饥饿之苦。)
+   - His hunger for success drove him to work tirelessly. (他对成功的渴望驱使他不知疲倦地工作。)
+
+1483. **hungry** [adj.] 饥饿的，渴望的
+   - The children were hungry after playing all afternoon. (孩子们玩了一个下午后感到饥饿。)
+   - She was hungry for success in her career. (她渴望在事业上取得成功。)
+
+1484. **hunt** [vt.] &，vi.打猎，搜寻，n.打猎，搜寻
+   - They went to hunt for deer in the forest. (他们去森林里打猎鹿。)
+   - The treasure hunt took them deep into the jungle. (寻宝活动把他们带入了丛林深处。)
+
+1485. **hurry** [vi.] &，vt.赶紧，匆忙，n.匆忙，急忙
+   - We need to hurry if we want to catch the train. (如果我们想赶上火车，就得赶紧。)
+   - There's no need to be in such a hurry. (没必要这么着急。)
+
+1486. **hurt** [vt.] &，vi.伤害，使疼痛，受伤，疼痛，n.伤害，疼痛
+   - Be careful not to hurt yourself. (小心不要伤到自己。)
+   - His words caused her a lot of hurt. (他的话给她带来了很多伤害。)
+
+1487. **husband** [n.] 丈夫，vt.节俭地使用，妥善管理
+   - Her husband works as a lawyer. (她的丈夫是一名律师。)
+   - She learned to husband her resources during difficult times. (她学会了在困难时期节俭地使用资源。)
+
+1488. **hut** [n.] 小屋，简陋的房子
+   - They spent the night in a small hut in the mountains. (他们在山里的一个小屋里过了一夜。)
+   - The fisherman's hut was by the edge of the lake. (渔夫的小屋就在湖边。)
+
+1489. **I** [pron.] 我
+   - I am going to the store. (我要去商店。)
+   - I like to read in my free time. (我喜欢在空闲时间读书。)
+
+1490. **ice** [n.] 冰，冰块，冰淇淋，vt.冰镇，结冰
+   - The ice in the glass had melted. (玻璃杯里的冰已经融化了。)
+   - She decided to ice the cake for the party. (她决定给派对上的蛋糕加上冰糖。)
+
+1491. **idea** [n.] 想法，主意，意见，看法
+   - She had a brilliant idea for the project. (她对这个项目有一个绝妙的主意。)
+   - I have no idea where I left my keys. (我不知道我把钥匙放在哪儿了。)
+
+1492. **ideal** [adj.] 理想的，完美的，n. 理想，典范
+   - The weather was ideal for a picnic. (天气非常适合野餐。)
+   - He was the ideal candidate for the job. (他是这份工作的理想人选。)
+
+1493. **identical** [adj.] 相同的，一模一样的
+   - The twins looked almost identical. (这对双胞胎看起来几乎一模一样。)
+   - The two cars were identical in every way. (这两辆车在各方面都一模一样。)
+
+1494. **identify** [vt.] 识别，鉴定，认出，确定，把...看作一样
+   - She could easily identify her mother's voice. (她能轻易辨认出她母亲的声音。)
+   - It's important to identify the cause of the problem. (确定问题的原因很重要。)
+
+1495. **identity** [n.] 身份，特性，一致性
+   - She had to prove her identity at the airport. (她在机场必须证明自己的身份。)
+   - The artist's work reflects his cultural identity. (艺术家的作品反映了他的文化特性。)
+
+1496. **if** [conj.] 如果，是否，即使，不管是否
+   - If it rains, we will stay indoors. (如果下雨，我们就呆在室内。)
+   - I'll go to the party if I finish my work on time. (如果我能按时完成工作，我会去参加派对。)
+
+1497. **ignore** [vt.] 忽视，不理睬
+   - He chose to ignore her comments. (他选择忽视她的评论。)
+   - It's not polite to ignore someone when they are speaking to you. (当别人和你说话时，不理睬是不礼貌的。)
+
+1498. **ill** [adj.] 生病的，不舒服的，坏的，adv.坏地，恶劣地，n.疾病
+   - She felt ill and decided to stay home. (她感到不舒服，决定呆在家里。)
+   - The company's financial situation was in ill health. (公司的财务状况不佳。)
+
+1499. **illegal** [adj.] 非法的，违法的
+   - It is illegal to park here. (在这里停车是违法的。)
+   - The company was fined for illegal dumping of waste. (公司因非法倾倒废物而被罚款。)
+
+1500. **illness** [n.] 疾病，生病
+   - Her illness prevented her from attending the meeting. (她的疾病使她无法参加会议。)
+   - Mental illness is often misunderstood. (心理疾病经常被误解。)
+
+1501. **image** [n.] 像，形象，映象，图像，影像，肖像，想像
+   - The image of the sunset over the ocean was breathtaking. (海上日落的景象令人叹为观止。)
+   - She had a vivid image of her childhood home in her mind. (她脑海中对童年家的记忆栩栩如生。)
+
+1502. **image** [vt.] 想像，描绘，反映
+   - The artist could vividly imagine the scene he wanted to paint. (这位艺术家能够生动地想象出他想要绘画的场景。)
+   - The mirror perfectly reflected the image of the mountains. (镜子完美地反映出了山的影像。)
+
+1503. **imaginary** [adj.] 想象中的，假想的，虚构的
+   - The children's book was filled with imaginary creatures and magical lands. (这本儿童书中充满了虚构的生物和神奇的土地。)
+   - His imaginary friend always accompanied him on his adventures. (他的想象中的朋友总是陪伴着他的冒险。)
+
+1504. **imagination** [n.] 想象，想象力，空想
+   - The writer's imagination knew no bounds, creating fantastical worlds in her stories. (作家的想象力无限，创造了她故事中的奇幻世界。)
+   - Children often have a rich imagination, inventing games and stories. (孩子们常常有丰富的想象力，编造游戏和故事。)
+
+1505. **imagine** [vt.] 想象，设想，料想，幻想，猜测
+   - It's hard to imagine what the future will be like. (很难想象未来会是什么样子。)
+   - She could only imagine the difficulties he had faced. (她只能想象他所面临的困难。)
+
+1506. **imagine** [vi.] 想像起来，认为
+   - "I imagine you'll be coming to the party," she said to her friend. ("我想你会来参加派对的，"她对朋友说道。)
+   - "I imagine it will rain tomorrow," he said, looking at the dark clouds. ("我想明天会下雨，"他看着乌云说道。)
+
+1507. **imitate** [vt.] 模仿，仿效，仿制
+   - The child tried to imitate the way his father walked. (孩子试图模仿他父亲的走路方式。)
+   - The artist could perfectly imitate the style of famous painters. (这位艺术家能够完美地模仿著名画家的风格。)
+
+1508. **immediate** [adj.] 立即的，直接的，即刻的，最接近的
+   - We need to take immediate action to solve this problem. (我们需要立即采取行动解决这个问题。)
+   - The immediate cause of the accident was a burst tire. (事故的直接原因是爆胎。)
+
+1509. **immense** [adj.] 巨大的，广大的，非常好的，极好的
+   - The universe is filled with immense galaxies and stars. (宇宙中充满了巨大的星系和恒星。)
+   - The concert was an immense success, drawing in thousands of fans. (音乐会取得了巨大的成功，吸引了成千上万的粉丝。)
+
+1510. **immigrant** [n.] 移民，侨民
+   - The city has a large population of immigrants from various countries. (这个城市有来自各国的大量移民。)
+   - My grandparents were immigrants who came to this country seeking a better life. (我的祖父母是来这个国家寻求更好生活的移民。)
+
+1511. **immigrant** [adj.] 移民的
+   - The immigrant community has contributed greatly to the cultural diversity of the city. (移民社区为这个城市的文化多样性做出了巨大贡献。)
+   - The immigrant population continues to grow as people seek new opportunities. (随着人们寻求新的机会，移民人口不断增加。)
+
+1512. **impact** [n.] 影响(力)，作用，冲击(力)，冲突
+   - The new policy had a significant impact on the economy. (新政策对经济产生了重大影响。)
+   - The impact of the collision was felt throughout the entire building. (碰撞的冲击力影响了整栋建筑。)
+
+1513. **impact** [vt.] 挤入，压紧，撞击，对...发生影响
+   - The earthquake impacted the coastal region, causing widespread destruction. (地震对沿海地区造成了广泛破坏。)
+   - The new law will impact the way businesses operate in the city. (新法律将影响企业在城市的经营方式。)
+
+1514. **impatient** [adj.] 不耐烦的，急躁的
+   - The impatient crowd grew restless as they waited for the delayed train. (等待延误的火车，不耐烦的人群变得不安起来。)
+   - She tapped her foot impatiently, waiting for her friend to arrive. (她不耐烦地跺着脚，等待着她的朋友到来。)
+
+1515. **implication** [n.] 含义，暗示，暗指
+   - His silence carried a strong implication of guilt. (他的沉默暗示着强烈的内疚感。)
+   - The implication of her words was clear; she did not trust him. (她话中的含义很明显，她不信任他。)
+
+1516. **imply** [vt.] 暗示，意指
+   - His tone seemed to imply that he knew more than he was letting on. (他的语气似乎在暗示他知道的比他透露的更多。)
+   - The article seemed to imply that there was more to the story than what was being reported. (这篇文章似乎在暗示报道的故事还有更多内情。)
+
+1517. **import** [vt.] 输入，进口
+   - The country imports a large amount of oil to meet its energy needs. (这个国家进口大量石油以满足其能源需求。)
+   - The company decided to import new technology from overseas. (公司决定从海外进口新技术。)
+
+1518. **import** [vi.] 输入，进口
+   - The goods imported into the country must pass through customs. (进口到这个国家的货物必须经过海关。)
+   - The company plans to import raw materials from neighboring countries. (公司计划从邻国进口原材料。)
+
+1519. **import** [n.] 输入，进口
+   - The import of luxury goods has increased significantly in recent years. (近年来奢侈品的进口量显著增加。)
+   - The government imposed restrictions on the import of certain agricultural products. (政府对某些农产品的进口实施了限制。)
+
+1520. **importance** [n.] 重要，重要性
+   - The importance of education cannot be overstated. (教育的重要性不言而喻。)
+   - The meeting highlighted the importance of teamwork in achieving success. (会议强调了团队合作在取得成功中的重要性。)
+
+1521. **important** [adj.] 重要的，影响很大的，有势力的
+   - It is important to get enough rest for good health. (充足的休息对健康很重要。)
+   - The CEO plays an important role in shaping the company's future. (首席执行官在塑造公司未来方面起着重要作用。)
+
+1522. **impossible** [adj.] 不可能的，办不到的
+   - It seemed impossible to reach the mountaintop before nightfall. (在天黑之前到达山顶似乎是不可能的。)
+   - Finding a solution to the problem felt impossible at that moment. (在那一刻，找到问题的解决方案似乎是不可能的。)
+
+1523. **impress** [vt.] 给...深刻印象，影响，印刻，传送
+   - Her dedication to her work never failed to impress her colleagues. (她对工作的奉献总是让她的同事们印象深刻。)
+   - The teacher's words left a lasting impression on the students. (老师的话给学生们留下了深刻的印象。)
+
+1524. **impress** [vi.] 给人印象
+   - The candidate's confidence and knowledge impressed the interview panel. (应聘者的自信和知识给面试小组留下了深刻印象。)
+   - His skills and expertise impressed everyone at the conference. (他在会议上的技能和专业知识给所有人留下了深刻印象。)
+
+1525. **impression** [n.] 印，印象，印记，效果
+   - The artist left his impression on the canvas with bold strokes of color. (艺术家用大胆的色彩勾勒在画布上留下了他的印记。)
+   - The first day at the new job left a positive impression on her. (新工作的第一天给她留下了积极的印象。)
+
+1526. **impressive** [adj.] 给人印象深刻的
+   - The orchestra's performance was truly impressive, leaving the audience in awe. (交响乐团的表演真是令人印象深刻，让观众惊叹不已。)
+   - The young artist's portfolio was very impressive, showcasing a wide range of talent. (年轻艺术家的作品集非常令人印象深刻，展示了广泛的才华。)
+
+1527. **improve** [vt.] 使更好，改进，利用，(提高)价值
+   - Regular exercise can improve your overall health. (定期锻炼可以改善你的整体健康状况。)
+   - The company implemented new strategies to improve its customer service. (公司实施了新的策略来改进客户服务。)
+
+1528. **improve** [vi.] 改善，改进
+   - His health began to improve after following the doctor's advice. (在听从医生的建议后，他的健康状况开始改善。)
+   - The weather is expected to improve over the weekend. (周末天气预计会好转。)
+
+1529. **improvement** [n.] 改进，改善，改进处
+   - The recent improvements in technology have made our lives easier. (科技的最新改进使我们的生活变得更加便利。)
+   - The company made significant improvements in its production processes. (公司在生产流程方面做出了重大改进。)
+
+1530. **in** [prep.] 在...里，在，穿着，(表示状态或状况)，参与，在...方面
+   - She found her keys in the pocket of her coat. (她在外套口袋里找到了她的钥匙。)
+   - In times of crisis, it's important to remain calm. (在危机时刻，保持冷静很重要。)
+
+1531. **in** [adv.] 进，入
+   - The cat came in through the open window. (猫从敞开的窗户进来了。)
+   - Please come in and have a seat. (请进来，坐下吧。)
+
+1532. **inch** [n.] 英寸，少量
+   - She moved the chair an inch to the left. (她把椅子往左移了一点点。)
+   - The car inched forward in the heavy traffic. (汽车在拥挤的交通中缓慢前行。)
+
+1533. **inch** [v.] 慢慢移动
+   - The snail inched its way across the garden path. (蜗牛慢慢地在花园小径上爬行。)
+   - The line of people inched forward as they waited to enter the museum. (排队等待进入博物馆时，人们一点点地向前挪动。)
+
+1534. **incident** [n.] 发生的事，事件，(常指)军事冲突，插曲，事变
+   - The police are investigating the incident that occurred last night. (警方正在调查昨晚发生的事件。)
+   - The incident at the border led to increased tensions between the two countries. (边境发生的事情导致两国之间的紧张局势加剧。)
+
+1535. **incident** [adj.] 难免的，附带的，(物理)入射的
+   - The new policy had an incident effect on the local economy. (新政策对当地经济产生了附带影响。)
+   - The incident light illuminated the room, casting long shadows. (入射光线照亮了房间，投下了长长的影子。)
+
+1536. **include** [vt.] 包括，包含
+   - The price of the meal includes a drink and dessert. (餐费包括饮料和甜点。)
+   - The tour package includes accommodation and guided tours. (旅游套餐包括住宿和导游服务。)
+
+1537. **income** [n.] 收入，所得，收益，进款
+   - His income from the rental property provided a steady source of revenue. (他从出租物业获得的收入为他提供了稳定的收入来源。)
+   - The company reported a significant increase in income for the last quarter. (公司报告称上个季度收入大幅增长。)
+
+1538. **increase** [vt.] 增加，增强，提高
+   - The company plans to increase its production capacity next year. (公司计划明年增加生产能力。)
+   - Regular exercise can increase your overall fitness levels. (定期锻炼可以提高你的整体健康水平。)
+
+1539. **increase** [vi.] 增加，增强
+   - The number of visitors to the museum increased significantly after the new exhibition opened. (新展览开放后，博物馆的游客数量显著增加。)
+   - The noise level increased as the party continued into the night. (随着派对持续到深夜，噪音水平不断增加。)
+
+1540. **increase** [n.] 增加，增强
+   - There has been a steady increase in the price of housing in the city. (这个城市的房价稳步上涨。)
+   - The increase in demand for the product led to higher production levels. (对该产品需求的增加导致了更高的生产水平。)
+
+1541. **indeed** [adv.] 真正地，确实，的确，事实上
+   - "Is it true that you won the competition?" "Indeed, I did." ("你赢得了比赛是真的吗？" "确实如此。")
+   - The view from the top of the mountain was indeed breathtaking. (从山顶俯瞰的景色确实令人叹为观止。)
+
+1542. **independence** [n.] 独立，自主，自立
+   - The country fought for its independence from colonial rule. (这个国家为摆脱殖民统治而进行了斗争。)
+   - As a young adult, she valued her independence and freedom. (作为一个年轻人，她珍视自己的独立和自由。)
+
+1543. **independent** [adj.] 独立的，自主的，私立的，无偏见的
+   - The company operates as an independent entity within the larger corporation. (该公司作为大型企业中的独立实体运营。)
+   - She has an independent spirit and doesn't like to rely on others. (她有独立的精神，不喜欢依赖他人。)
+
+1544. **independent** [n.] 独立派人士，无党派者
+   - The candidate ran for office as an independent, not affiliated with any political party. (这位候选人作为无党派者参加竞选，不隶属于任何政党。)
+   - The independent won the election, gaining support from a diverse range of voters. (这位无党派者赢得了选举，得到了各种不同选民的支持。)
+
+1545. **India** [n.] 印度
+   - India is known for its rich cultural heritage and diverse traditions. (印度以其丰富的文化遗产和多样的传统而闻名。)
+   - The Taj Mahal is one of the most famous landmarks in India. (泰姬陵是印度最著名的地标之一。)
+
+1546. **Indian** [adj.] 印度的，印度人的，印第安人的
+   - Indian cuisine is known for its use of aromatic spices and bold flavors. (印度菜以其使用香料和浓烈口味而闻名。)
+   - The Indian festival was celebrated with colorful decorations and traditional dances. (印度节日以色彩斑斓的装饰和传统舞蹈庆祝。)
+
+1547. **Indian** [n.] 印度人，印第安人
+   - The museum features artifacts made by Native American Indians. (博物馆展示了印第安人制作的手工艺品。)
+   - She met an Indian who shared stories of her homeland and its traditions. (她遇到了一个印度人，分享了她的家乡及其传统的故事。)
+
+1548. **indicate** [vt.] 标示，表示，指明，表明
+   - The signpost indicated the direction to the nearest town. (路标指示了通往最近小镇的方向。)
+   - His expression indicated that he was not pleased with the decision. (他的表情显示他对这个决定并不满意。)
+
+1549. **indication** [n.] 指示，表示，象征，表明
+   - The doctor looked for indications of improvement in the patient's condition. (医生寻找病人病情好转的迹象。)
+   - The sudden drop in temperature was an indication that winter was approaching. (气温的突然下降表明冬天即将来临。)
+
+1550. **indirect** [adj.] 间接的，不坦率的，迂回的，次要的，欺骗的
+   - She used indirect lighting to create a warm and cozy atmosphere in the room. (她使用间接照明在房间里营造出温馨舒适的氛围。)
+   - The message was delivered in an indirect manner, leaving room for interpretation. (这个信息以间接的方式传达，留下了解释的空间。)
+
+1551. **individual** [adj.] 个别的，独特的
+   - Each individual snowflake is unique in its shape and pattern. (每一片雪花在形状和图案上都是独一无二的。)
+   - The artist's work showcased her individual style and creativity. (艺术家的作品展示了她独特的风格和创造力。)
+
+1552. **individual** [n.] 个人，个体
+   - As an individual, she valued her independence and freedom. (作为一个个人，她珍视自己的独立和自由。)
+   - The company treats each employee as an individual with unique skills and strengths. (公司把每位员工都视为具有独特技能和优势的个体。)
+
+1553. **indoors** [adv.] 在室内，在屋里
+   - It's too cold to play outside; let's stay indoors. (外面太冷了，我们在屋里玩吧。)
+   - The children enjoyed indoor activities during the rainy weekend. (在下雨的周末，孩子们喜欢在室内进行活动。)
+
+1554. **industrial** [adj.] 工业的，产业的
+   - The city's economy is driven by its industrial sector. (这个城市的经济是由其工业部门推动的。)
+   - The industrial revolution brought about significant changes in manufacturing processes. (工业革命带来了制造业过程的重大变革。)
+
+1555. **industry** [n.] 工业，产业，勤劳
+   - The automotive industry is a major contributor to the country's economy. (汽车工业是这个国家经济的主要贡献者。)
+   - She was known for her dedication and hard work in the fashion industry. (她以在时尚产业中的奉献和努力而闻名。)
+
+1556. **inevitable** [adj.] 不可避免的，必然(发生)的
+   - Change is inevitable; we must learn to adapt to it. (变化是不可避免的；我们必须学会适应它。)
+   - It was inevitable that they would encounter challenges along the way. (他们在路上遇到挑战是不可避免的。)
+
+1557. **infant** [n.] 婴儿，幼儿
+   - The infant slept peacefully in the crib. (婴儿在婴儿床上安静地睡着了。)
+   - The daycare center provides care for infants and toddlers. (托儿所为婴儿和幼儿提供照料服务。)
+
+1558. **infant** [adj.] 婴儿的，幼稚的，初期的
+   - The infant stage of the project required careful planning and development. (项目的初期阶段需要仔细的规划和开发。)
+   - Her infant understanding of the world was shaped by her experiences. (她对世界的幼稚理解是由她的经历塑造的。)
+
+1559. **infect** [vt.] 传染，感染
+   - The virus can infect anyone who comes into contact with it. (这种病毒可以感染任何接触到它的人。)
+   - The contaminated water supply could infect the entire population. (被污染的供水可能会感染整个人口。)
+
+1560. **infer** [vt.] 推论，推断，猜想，暗示
+   - From the evidence, we can infer that the suspect was at the scene of the crime. (根据证据，我们可以推断嫌疑人曾在犯罪现场。)
+   - Her silence seemed to infer that she disagreed with the decision. (她的沉默似乎在暗示她不同意这个决定。)
+
+1561. **infer** [vi.] 推论
+   - From the data, scientists were able to infer the existence of a new planet. (科学家们从数据中能够推断出存在一个新行星。)
+   - Based on the clues, the detective was able to infer the sequence of events. (根据线索，侦探能够推断出事件的顺序。)
+
+1562. **inferior** [adj.] 下等的，劣等的，次等的，较低的，不如的
+   - The quality of the product was inferior to what was advertised. (产品的质量不如广告中所宣传的那样好。)
+   - She refused to accept an inferior position in the company. (她拒绝接受公司中的次要职位。)
+
+1563. **influence** [n.] 影响，影响力，势力，权势，有影响的人(或事物)
+   - Her parents had a strong influence on her career choices. (她的父母对她的职业选择产生了很大的影响。)
+   - The singer was a major influence on the music industry. (这位歌手对音乐行业有着重大的影响力。)
+
+1564. **influence** [vt.] 影响，感化
+   - Her positive attitude influenced those around her. (她的积极态度影响了她周围的人。)
+   - The teacher's words influenced the students' decision to pursue higher education. (老师的话影响了学生们追求高等教育的决定。)
+
+1565. **inform** [vt.] 通知，向...报告，告诉，告发
+   - Please inform me of any changes to the schedule. (请告知我日程表的任何变动。)
+   - She decided to inform the authorities about the illegal activities she had witnessed. (她决定向当局通报她目睹的非法活动。)
+
+1566. **information** [n.] 消息，信息，通知，情报，新闻，资料，询问
+   - The information provided in the report was crucial for making decisions. (报告中提供的信息对做出决策至关重要。)
+   - The company gathered information about market trends and consumer preferences. (公司收集了关于市场趋势和消费者偏好的信息。)
+
+1567. **inhabitant** [n.] 居民，住户
+   - The island has a small population of inhabitants. (这个岛上有一小部分居民。)
+   - The inhabitants of the village were known for their traditional crafts. (这个村庄的居民以其传统手工艺而闻名。)
+
+1568. **inherit** [vt.] 继承(传统等)，遗传
+   - She inherited her grandmother's antique jewelry collection. (她继承了她祖母的古董珠宝收藏。)
+   - The disease is inherited through genetic factors. (这种疾病是通过遗传因素传承的。)
+
+1569. **inherit** [vi.] 继承
+   - The eldest son will inherit the family estate. (长子将继承家族的财产。)
+   - She was surprised to learn that she had inherited a large sum of money. (她惊讶地得知自己继承了一大笔钱。)
+
+1570. **injection** [n.] 注射，注入，注射物，数学函数，充满
+   - The doctor administered an injection to relieve the patient's pain. (医生给病人注射以缓解疼痛。)
+   - The injection of funds into the project helped it move forward. (对项目的资金注入帮助项目向前发展。)
+
+1571. **injure** [vt.] 伤害，损害，损伤，使...受冤屈
+   - The accident injured several people, some critically. (事故伤害了几个人，其中一些伤势严重。)
+   - His remarks were intended to injure her reputation. (他的言论意在损害她的声誉。)
+
+1572. **ink** [n.] 墨水，油墨
+   - The writer dipped the quill pen into the ink. (作家把羽毛笔蘸入墨水中。)
+   - The ink cartridge needed to be replaced in the printer. (打印机的墨盒需要更换。)
+
+1573. **inn** [n.] 客栈，小旅店，小酒店
+   - The travelers found a cozy inn to spend the night. (旅行者找到了一个舒适的客栈过夜。)
+   - The innkeeper welcomed the guests to the historic inn. (客栈老板欢迎客人来到这家历史悠久的客栈。)
+
+1574. **inner** [adj.] 内部的，内心的，里面的
+   - The inner lining of the coat provided extra warmth. (外套的内衬提供了额外的保暖。)
+   - She found inner peace through meditation and self-reflection. (她通过冥想和自我反省找到了内心的平静。)
+
+1575. **innocent** [adj.] 清白的，幼稚的，无罪的，不懂事的，无知的，无辜的
+   - The jury found the defendant innocent of all charges. (陪审团裁定被告无罪。)
+   - The child's innocent question brought a smile to everyone's face. (孩子天真的问题让所有人都笑了。)
