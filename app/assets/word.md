@@ -5445,7 +5445,7 @@
    - The students formed a study group to prepare for the upcoming exams. (学生们组成了一个学习小组，为即将到来的考试做准备。)
    - People tend to group together for mutual support during challenging times. (人们在困难时期往往倾向于聚集在一起互相支持。)
 
-1360. **grow** [vt.]，&，vi. 生长，变得，变成，增长，种植，逐渐开始
+1360. **grow** [vt.] &，vi. 生长，变得，变成，增长，种植，逐渐开始
    - Plants need sunlight and water to grow and thrive. (植物需要阳光和水才能生长茁壮。)
    - As children grow, their interests and personalities often evolve. (随着孩子的成长，他们的兴趣和个性通常会发生变化。)
 
@@ -5461,150 +5461,150 @@
    - The security guard monitored the surveillance cameras to ensure the safety of the premises. (安保人员监视监控摄像头，确保场地的安全。)
    - Soldiers stood guard at the entrance to the military base. (士兵们在军事基地入口站岗放哨。)
 
-1365. **guess** [vt.]，&vi.，&n. 猜测，推测，猜想
+1364. **guess** [vt.] &vi.，&n. 猜测，推测，猜想
    - Can you guess the number of marbles in the jar without counting? (你能在不计数的情况下猜出瓶子里弹珠的数量吗？)
    - His accurate guess about the outcome of the game surprised everyone. (他对比赛结果的准确猜测让所有人都感到惊讶。)
 
-1366. **guest** [n.] 客人，宾客，旅客，客串演员，特邀来宾；[vt.] 款待，vi. 作客
+1365. **guest** [n.] 客人，宾客，旅客，客串演员，特邀来宾；[vt.] 款待，vi. 作客
    - The host welcomed the guests with warm hospitality to the dinner party. (主人热情款待客人参加晚宴。)
    - As a guest at the wedding, she was touched by the couple's love and joy. (作为婚礼的客人，她被新人的爱意和喜悦所打动。)
 
-1367. **guidance** [n.] 引导，指导，领导，导航系统
+1366. **guidance** [n.] 引导，指导，领导，导航系统
    - The mentor provided valuable guidance to the young entrepreneur starting a new business. (导师为年轻的创业者提供了有价值的指导，开始了一项新业务。)
    - The aircraft relies on advanced guidance systems for precise navigation. (飞机依赖先进的导航系统进行精准导航。)
 
-1368. **guide** [n.] 导游者，领路者，指南，路标；[vt.] 给...导游，领路，指导；[vi.] 作导游
+1367. **guide** [n.] 导游者，领路者，指南，路标；[vt.] 给...导游，领路，指导；[vi.] 作导游
    - The guide led the tourists through the historical landmarks of the city. (导游带领游客游览城市的历史地标。)
    - The map serves as a helpful guide for those exploring the hiking trails. (地图对于探险者在徒步小道上探索时是一个有用的指南。)
 
-1369. **guilty** [adj.] 内疚的，有罪的
+1368. **guilty** [adj.] 内疚的，有罪的
    - The defendant looked guilty as the judge read out the charges in court. (在法庭上法官宣读控状时，被告显得内疚。)
    - Despite feeling guilty, she decided to confess her mistake and apologize. (尽管感到内疚，她决定坦白错误并道歉。)
 
-1370. **gulf** [n.] 海湾
+1369. **gulf** [n.] 海湾
    - The picturesque coastal town is nestled between two majestic cliffs at the gulf. (这个风景如画的海滨小镇坐落在海湾两侧的两座雄伟悬崖之间。)
    - The gulf is known for its rich marine life and pristine waters. (这个海湾以丰富的海洋生物和原始的水域而闻名。)
 
-1371. **gum** [n.] 口香糖，树胶，橡皮(糖)，齿龈，粘性物质，牙床；[vt.] 搞砸，用牙床嚼，以树胶粘合；[vi.] 形成胶质，发粘
+1370. **gum** [n.] 口香糖，树胶，橡皮(糖)，齿龈，粘性物质，牙床；[vt.] 搞砸，用牙床嚼，以树胶粘合；[vi.] 形成胶质，发粘
    - Chewing gum is a common way to freshen one's breath after a meal. (嚼口香糖是用餐后清新口气的常见方式。)
    - The worker accidentally gummed the pages together while applying the adhesive. (工人在涂胶水时不小心把页面黏在一起。)
 
-1372. **gun** [n.] 枪，炮，手枪
+1371. **gun** [n.] 枪，炮，手枪
    - The soldier carefully cleaned and maintained his rifle before the mission. (士兵在执行任务前仔细清理和保养他的步枪。)
    - Owning a gun comes with the responsibility of proper usage and storage. (拥有枪支意味着对其进行正确使用和储存的责任。)
 
-1373. **gymnasium** [n.] 体育馆，健身房；[n.] (德国等培养学生升入大学的) 大学预科高级中学，(复数) gymnasia 或 gymnasiums
+1372. **gymnasium** [n.] 体育馆，健身房；[n.] (德国等培养学生升入大学的) 大学预科高级中学，(复数) gymnasia 或 gymnasiums
    - The new gymnasium is equipped with state-of-the-art fitness equipment. (新的体育馆配备了最先进的健身设备。)
    - In some countries, gymnasium refers to an academic institution preparing students for university. (在一些国家，"gymnasium" 指的是一所为学生升入大学做准备的学术机构。)
 
-1374. **habit** [n.] 习惯，习性，隐，长袍；[vt.] 穿衣
+1373. **habit** [n.] 习惯，习性，隐，长袍；[vt.] 穿衣
    - Breaking a bad habit requires determination and consistent effort. (改掉坏习惯需要决心和持之以恒的努力。)
    - The monk wore a traditional habit as a symbol of his religious commitment. (僧侣穿着传统的长袍，作为他宗教信仰的象征。)
 
-1375. **hair** [n.] 头发，毛发，毛，毛织物，极少量，极短距离
+1374. **hair** [n.] 头发，毛发，毛，毛织物，极少量，极短距离
    - She styled her hair in a loose bun for a casual and relaxed look. (她把头发梳成一个松散的发髻，展现出一种随意轻松的感觉。)
    - The cat's fur is soft, and its whiskers are shorter than its facial hair. (猫的毛发柔软，胡须比面部的毛发短。)
 
-1376. **half** [n.] 半，一半；[adj.] 一半的，不完全的；[adv.] 一半地
+1375. **half** [n.] 半，一半；[adj.] 一半的，不完全的；[adv.] 一半地
    - She ate only half of her sandwich and saved the rest for later. (她只吃了一半的三明治，把剩下的留着以后吃。)
    - The project is halfway completed, and the team is making good progress. (这个项目已经完成了一半，团队正在取得良好的进展。)
 
-1377. **hall** [n.] 门厅，过道，会堂，礼堂
+1376. **hall** [n.] 门厅，过道，会堂，礼堂
    - The grand hall was adorned with elegant decorations for the formal event. (宏伟的大厅被装饰以优雅的装饰品，迎接正式的活动。)
    - Students gathered in the hall for the commencement ceremony. (学生们在礼堂聚集参加毕业典礼。)
 
-1378. **halt** [vi.] 停止，立定，跛行，犹豫，畏缩；[vt.] 使...停止；[n.] 停住；[adj.] 瘸的
+1377. **halt** [vi.] 停止，立定，跛行，犹豫，畏缩；[vt.] 使...停止；[n.] 停住；[adj.] 瘸的
    - The train came to a sudden halt, causing confusion among the passengers. (火车突然停了下来，引起了乘客之间的混乱。)
    - The old man walked with a noticeable halt due to his injured leg. (老人因为受伤的腿而走路有明显的跛行。)
 
-1379. **hammer** [n.] 锤，榔头；[vt.] 锤击，锤打，严厉批评；[vi.] 锤击，反复敲打
+1378. **hammer** [n.] 锤，榔头；[vt.] 锤击，锤打，严厉批评；[vi.] 锤击，反复敲打
    - The blacksmith used a heavy hammer to shape the red-hot metal. (铁匠用重锤塑造炽热的金属。)
    - The politician faced harsh criticism, and the media continued to hammer his decisions. (政治家受到了严厉的批评，媒体继续抨击他的决定。)
 
-1380. **hand** [n.] 手，人手，指针，掌握，协助；[vt.] 帮助，给；[adv.] 手动地，人工地
+1379. **hand** [n.] 手，人手，指针，掌握，协助；[vt.] 帮助，给；[adv.] 手动地，人工地
    - He extended a helping hand to those in need during the difficult times. (在困难时期，他向需要帮助的人伸出援手。)
    - The clock's minute hand moved slowly towards the twelve as midnight approached. (时钟的分钟指针在午夜临近时缓慢移动到十二点。)
 
-1381. **handful** [n.] 一把，少数，一小撮；【非正式用语】 难以控制的人或费劲的事
+1380. **handful** [n.] 一把，少数，一小撮；【非正式用语】 难以控制的人或费劲的事
    - He grabbed a handful of nuts from the bowl as a quick snack. (他从碗里抓了一把坚果当作快速的小吃。)
    - Managing a team of energetic teenagers can be a handful for any coach. (管理一支充满活力的青少年队伍对于任何教练来说都是一项巨大的挑战。)
 
-1382. **handkerchief** [n.] 手帕，方头巾，围巾
+1381. **handkerchief** [n.] 手帕，方头巾，围巾
    - She gracefully waved her handkerchief to bid farewell as the train departed. (她优雅地挥动手帕，告别火车启程。)
    - In the old tradition, a gentleman would offer his handkerchief to a lady in distress. (在古老的传统中，绅士会把手帕递给身临困境的女士。)
 
-1383. **handle** [n.] 柄，把手；[vt.] 拿，触，买卖，处理，操作；[vi.] 驾驭
+1382. **handle** [n.] 柄，把手；[vt.] 拿，触，买卖，处理，操作；[vi.] 驾驭
    - Be careful when you handle fragile items to avoid breaking them. (在处理易碎物品时要小心，以免打碎它们。)
    - She has the ability to handle challenging situations with calmness and efficiency. (她有能力以冷静和高效的方式处理具有挑战性的情境。)
 
-1384. **handsome** [adj.] 英俊的，慷慨大方的，可观的，灵巧的，相当大的
+1383. **handsome** [adj.] 英俊的，慷慨大方的，可观的，灵巧的，相当大的
    - The actor received compliments for his handsome looks and charismatic presence. (这位演员因其英俊的外貌和有魅力的存在而受到了赞美。)
    - The company made a handsome profit in the last quarter due to increased sales. (由于销售增加，公司在上个季度取得了可观的利润。)
 
-1385. **handwriting** [n.] 笔迹，手迹，书法
+1384. **handwriting** [n.] 笔迹，手迹，书法
    - Experts can analyze handwriting to determine the authenticity of a signature. (专家可以分析笔迹以确定签名的真实性。)
    - Her elegant handwriting reflected years of practice and dedication to calligraphy. (她优雅的字迹反映了多年对书法的练习和专注。)
 
-1386. **handy** [adj.] 手边的，方便的，便于使用的
+1385. **handy** [adj.] 手边的，方便的，便于使用的
    - Keep a set of tools handy in case you need to make quick repairs around the house. (随时保留一套工具，以防需要在家里进行快速修理。)
    - The mobile app is handy for travelers to find nearby restaurants and attractions. (这款移动应用对于旅行者查找附近的餐馆和景点非常方便。)
 
-1387. **hang** [vt.] 挂，悬，吊死，悬挂方式；[vi.] (使)低垂，悬浮(在空中)，逗留
+1386. **hang** [vt.] 挂，悬，吊死，悬挂方式；[vi.] (使)低垂，悬浮(在空中)，逗留
    - She decided to hang the painting on the living room wall for everyone to admire. (她决定把画挂在客厅墙上，让大家欣赏。)
    - The question seemed to hang in the air as the students pondered their responses. (问题似乎悬在空中，学生们在思考着他们的回答。)
 
-1388. **happen** [vi.] 发生，碰巧，恰好，出现，偶然遇到
+1387. **happen** [vi.] 发生，碰巧，恰好，出现，偶然遇到
    - Accidents can happen when people are not careful and attentive. (人们不小心而且不注意时，事故就可能发生。)
    - Did you happen to see my keys anywhere? I can't find them. (你碰巧看到我的钥匙在哪里吗？我找不到了。)
 
-1389. **happiness** [n.] 幸福，幸运，快乐，适当
+1388. **happiness** [n.] 幸福，幸运，快乐，适当
    - True happiness comes from a sense of fulfillment and meaningful connections. (真正的幸福来自对成就感和有意义的联系的体验。)
    - The pursuit of happiness is a universal goal shared by people around the world. (追求幸福是全球人们共同的普遍目标。)
 
-1390. **happy** [adj.] 快乐的，幸福的，乐于做某事
+1389. **happy** [adj.] 快乐的，幸福的，乐于做某事
    - Spending time with loved ones brings immense joy and makes her feel truly happy. (与亲人共度时光带来巨大的快乐，让她真正感到幸福。)
    - Finding a job that aligns with your passion can contribute to a happy and fulfilling career. (找到与你的热情相符的工作可以为一段快乐而充实的职业生涯做出贡献。)
 
-1391. **harbour** [n.] 海港，港口；[vt.] 庇护，停泊
+1390. **harbour** [n.] 海港，港口；[vt.] 庇护，停泊
    - The boats sought shelter in the harbour as the storm approached. (风暴来临时，船只寻找在港口避难。)
    - The country has a long history of providing harbour to refugees in times of need. (这个国家在需要的时候长期以来一直为难民提供庇护。)
 
-1392. **hard** [adj.] 硬的，困难的，艰难的，苛刻的；[adv.] 努力地，猛烈地，坚定地
+1391. **hard** [adj.] 硬的，困难的，艰难的，苛刻的；[adv.] 努力地，猛烈地，坚定地
    - The surface of the diamond is extremely hard and resistant to scratches. (钻石表面非常坚硬，抗刮擦性强。)
    - She worked hard to achieve her goal of becoming a successful entrepreneur. (她努力工作，实现了成为成功企业家的目标。)
 
-1393. **harden** [vt.] 使变硬，(使)坚强；[vi.] 变硬
+1392. **harden** [vt.] 使变硬，(使)坚强；[vi.] 变硬
    - Exposure to extreme temperatures can harden the steel and improve its durability. (暴露在极端温度下可以使钢变硬，提高其耐久性。)
    - Overcoming challenges can help individuals emotionally harden over time. (克服挑战可以帮助个体逐渐在情感上变得坚强。)
 
-1394. **hardly** [ad.] 几乎不，简直不
+1393. **hardly** [ad.] 几乎不，简直不
    - She could hardly contain her excitement when she received the unexpected gift. (当她收到意外的礼物时，她简直无法控制自己的激动。)
    - There was hardly any time left to complete the assignment before the deadline. (在截止日期之前几乎没有时间完成作业了。)
 
-1395. **hardship** [n.] 艰难，困苦
+1394. **hardship** [n.] 艰难，困苦
    - The pioneers faced numerous hardships while settling in the uncharted territory. (开拓者在未知的领地安家时面临着许多困苦。)
    - Enduring hardships can build resilience and character in individuals. (经历艰难可以培养个体的韧性和品格。)
 
-1396. **hardware** [n.] 五金器具，(计算机)硬件
+1395. **hardware** [n.] 五金器具，(计算机)硬件
    - The store specializes in selling various tools and hardware for home improvement. (这家商店专门销售各种家居改进的工具和五金器具。)
    - Upgrading the computer's hardware can significantly improve its performance. (升级计算机的硬件可以显著提升其性能。)
 
-1397. **harm** [n.] 伤害，损害；[vt.] 伤害，损害
+1396. **harm** [n.] 伤害，损害；[vt.] 伤害，损害
    - The new law aims to prevent harm to the environment caused by industrial pollution. (新法旨在防止工业污染对环境造成的伤害。)
    - It is essential to avoid actions that may harm the well-being of others. (避免可能伤害他人福祉的行为是至关重要的。)
 
-1398. **harmony** [n.] 调合，协调，和谐，和弦，和睦
+1397. **harmony** [n.] 调合，协调，和谐，和弦，和睦
    - The orchestra achieved perfect harmony as each instrument played its part. (管弦乐队在每个乐器发挥自己的作用时实现了完美的和谐。)
    - Living in harmony with nature is crucial for environmental sustainability. (与自然和谐共生对于环境的可持续性至关重要。)
 
-1399. **harvest** [n.] 收获(期)，成果，收获物，收成；[vt.]，&，vi. 收割，收获
+1398. **harvest** [n.] 收获(期)，成果，收获物，收成；[vt.]，&，vi. 收割，收获
    - Farmers work hard during the harvest season to gather crops from the fields. (农民在收获季节努力工作，从田地里收割庄稼。)
    - The artist considered the exhibition a harvest of creative achievements. (艺术家认为展览是创造性成就的收获。)
 
-1400. **haste** [n.] 急速，急忙，草率；[v.] 匆忙，赶快；[vi.] 赶紧，赶快
+1399. **haste** [n.] 急速，急忙，草率；[v.] 匆忙，赶快；[vi.] 赶紧，赶快
    - Acting in haste may lead to mistakes that could have been avoided with careful planning. (匆忙行事可能导致本可以通过仔细规划避免的错误。)
    - There's no need for such haste; we have plenty of time to finish the project. (没有必要这么匆忙；我们有足够的时间完成这个项目。)
 
-1401. **hat** [n.] 帽子(一般指有边的)，职位；[vt.] 给...戴帽子，vi. 提供帽子
+1400. **hat** [n.] 帽子(一般指有边的)，职位；[vt.] 给...戴帽子，vi. 提供帽子
    - She wore a stylish hat to complement her outfit for the special occasion. (她戴着一顶时尚的帽子，搭配她在特殊场合的服装。)
    - In many cultures, a hat can symbolize authority or a specific role in society. (在许多文化中，帽子可以象征权威或社会中的特定角色。)
