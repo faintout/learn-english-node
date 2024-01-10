@@ -6228,3 +6228,212 @@
 1555. **innocent** [adj.] 清白的，幼稚的，无罪的，不懂事的，无知的，无辜的
    - The jury found the defendant innocent of all charges. (陪审团裁定被告无罪。)
    - The child's innocent question brought a smile to everyone's face. (孩子天真的问题让所有人都笑了。)
+
+1556. **insect** [n.] 昆虫，虫
+   - The children were excited to catch insects in the garden. (孩子们兴奋地在花园里捉昆虫。)
+   - An ant is a common example of an insect. (蚂蚁是昆虫的一个常见例子。)
+
+1557. **inside** [prep.] 在...里面；[n.] 内部；[adj.] 里面的；[adv.] 在里面
+   - The treasure is hidden inside the cave. (宝藏藏在洞穴里面。)
+   - She looked inside the box and found a surprise. (她打开盒子，发现了一个惊喜。)
+
+1558. **insist** [vi.] 坚持，强调，坚持要求；[vi.] 坚决主张
+   - He will insist on paying for the meal. (他会坚持付餐费。)
+   - The manager insisted that the project be completed on time. (经理坚持要求项目按时完成。)
+
+1559. **inspect** [vt.] 检查，审查，调查，检阅；[vi.] 调查
+   - The mechanic will inspect the car for any faults. (技工将检查汽车是否有故障。)
+   - The health inspector regularly inspects the restaurant. (卫生检查员定期检查餐馆。)
+
+
+1560. **inspire** [vt.] 鼓舞，给...以灵感，影响，使...感动，激发，煽动；[vi.] 吸入
+   - Her courage and determination inspired her teammates. (她的勇气和决心激励了她的队友。)
+   - The beautiful scenery inspired the artist to paint. (美丽的风景激发了艺术家的创作灵感。)
+
+1561. **install** [vt.] 安装，设置，安置，使...就职
+   - We need to install new software on the computer. (我们需要在电脑上安装新软件。)
+   - The company will install a new manager next month. (公司将在下个月安排新经理上任。)
+
+1562. **installation** [n.] 安装，装置，设施，军事驻地
+   - The installation of the new air conditioning system is scheduled for next week. (新空调系统的安装计划在下周进行。)
+   - The military base is a secure installation. (军事基地是一个安全的设施。)
+
+1564. **instance** [n.] 例子，实例，事例，阶段，情况，诉讼程序；[vt.] 举例说明
+   - For instance, some animals hibernate during the winter. (例如，一些动物在冬天会冬眠。)
+   - In this instance, we need to act quickly. (在这种情况下，我们需要迅速行动。)
+
+1565. **instant** [n.] 瞬间，立即；[adj.] 立即的，即时的
+   - He made an instant decision to accept the job offer. (他立即决定接受这份工作的邀请。)
+   - The soup mix creates an instant meal. (这种汤料可以制作即食餐。)
+
+1566. **instead** [adv.] 代替，顶替，反而
+   - She decided to walk instead of taking the bus. (她决定步行而不是乘公交车。)
+   - Instead of going to the party, he stayed home and read a book. (他没有去参加聚会，而是呆在家里读书。)
+
+1567. **instinct** [n.] 本能，直觉，生性，天性；[adj.] 充满的
+   - Her instinct told her that something was wrong. (她的直觉告诉她有些事情不对劲。)
+   - The dog's instinct to protect its owner is strong. (狗对主人的保护本能很强烈。)
+
+1568. **institute** [n.] 研究所，学院，学会，协会；[vt.] 创立，开始，制定
+   - The institute conducts research in various scientific fields. (这个研究所在各种科学领域进行研究。)
+   - The government plans to institute new policies next year. (政府计划明年实施新政策。)
+
+1569. **instruct** [vt.] 教，指示，通知，命令，指导，[计算机]，指示
+   - The teacher will instruct the students on how to conduct the experiment. (老师将指导学生如何进行实验。)
+   - The manual instructs users on how to assemble the furniture. (说明书告诉用户如何组装家具。)
+
+1570. **instruction** [n.] 命令，指令，教学，教训，说明，须知
+   - The instructions for the assignment are clearly written. (这项作业的说明书写得很清楚。)
+   - She gave me clear instructions on how to operate the machine. (她给了我如何操作机器的明确指示。)
+
+1572. **instrument** [n.] 仪器，工具，乐器，器械
+   - The surgeon carefully sterilized the instruments before the operation. (外科医生在手术前仔细消毒了器械。)
+   - Learning to play a musical instrument can be very rewarding. (学习演奏乐器可以带来很大的满足感。)
+
+1573. **insult** [vt.，&，n.] 侮辱，凌辱，(对人身的)损害
+   - She felt insulted by his rude remarks. (她对他的粗鲁言论感到受辱。)
+   - His behavior was seen as an insult to the entire community. (他的行为被视为对整个社区的侮辱。)
+
+1574. **insurance** [n.] 保险，保险费
+   - It's important to have insurance for your car. (为你的汽车购买保险很重要。)
+   - The insurance will cover the cost of the damage. (保险将支付损失费用。)
+
+1575. **insure** [vt.] 给...保险，确保；[vi.] 买保险
+   - He insured his house against fire and theft. (他为自己的房子购买了防火和防盗保险。)
+   - The company will insure the shipment for its full value. (公司将为货物的全部价值投保。)
+
+1577. **intellectual** [n.] 知识分子，凭理智做事者；[adj.] 智力的，聪明的
+   - She is known for her intellectual pursuits and academic achievements. (她以追求知识和学术成就而闻名。)
+   - The university offers a range of intellectual challenges. (这所大学提供各种智力挑战。)
+
+1578. **intelligence** [n.] 智力，理解力，情报，情报工作，情报机关
+   - The spy agency gathered intelligence on the enemy's movements. (间谍机构收集了有关敌人行动的情报。)
+   - Her intelligence and quick thinking helped her solve the problem. (她的智慧和机智帮助她解决了问题。)
+
+1579. **intelligent** [adj.] 聪明的，理智的
+   - She is an intelligent and capable student. (她是一个聪明而有能力的学生。)
+   - The dog is known for its intelligent behavior. (这只狗以聪明的行为而闻名。)
+
+1580. **intend** [vt.] 想要，打算，计划，意指
+   - I intend to visit my grandparents next weekend. (我打算下周去看望我的祖父母。)
+   - What do you intend to do about the situation? (你打算如何处理这种情况？)
+
+1581. **intensive** [adj.] 加强的，精耕细作的，强烈的，密集的，精细的，强调的；[n.] (语法) 强调成份
+   - She underwent intensive training to prepare for the competition. (她接受了密集的训练，为比赛做准备。)
+   - The company is conducting an intensive marketing campaign. (公司正在进行一场强力的营销活动。)
+
+1582. **intention** [n.] 意图，意向，目的
+   - Her intention was to start her own business. (她的意图是开办自己的生意。)
+   - I'm sure he didn't have any intention of hurting your feelings. (我相信他并没有任何伤害你感情的意图。)
+
+1583. **intentional** [adj.] 故意的，有意识的，策划的，企图的
+   - His actions were intentional and calculated. (他的行为是故意的和经过计算的。)
+   - The damage to the property was intentional, not accidental. (对财产的损坏是故意的，而非意外的。)
+
+1584. **interaction** [n.] 相互作用，相互影响，互动交流，干扰
+   - The interaction between the characters drives the plot of the story. (人物之间的互动推动了故事情节。)
+   - The teacher encourages interaction among the students during class. (老师鼓励学生在课堂上进行互动交流。)
+
+1585. **interest** [n.] 兴趣，利益，利息，嗜好，股份；[vt.] 使...感兴趣
+   - She has a keen interest in art and literature. (她对艺术和文学有浓厚的兴趣。)
+   - The bank pays interest on savings accounts. (银行对储蓄账户支付利息。)
+
+1586. **interesting** [adj.] 有趣的，引人入胜的
+   - The museum has many interesting exhibits. (博物馆有许多有趣的展品。)
+   - The lecture was so interesting that I didn't notice the time passing. (讲座非常有趣，以至于我没有注意到时间的流逝。)
+
+1587. **interfere** [vi.] 干涉，干预，妨碍，冲突
+   - Please don't interfere with my personal matters. (请不要干涉我的个人事务。)
+   - The noise from the construction site is interfering with our work. (来自施工现场的噪音干扰了我们的工作。)
+
+1588. **interference** [n.] 干涉，干预，干扰，阻碍，[计算机]，干涉
+   - The interference of the government in the company's affairs caused concern. (政府对公司事务的干涉引起了关注。)
+   - The radio signal was weak due to interference from other devices. (由于其他设备的干扰，无线电信号很弱。)
+
+1589. **intermediate** [adj.] 中间的，中级的；[n.] 中间体，媒介物，调解人；[vi.] 调解，干涉
+   - The course is designed for intermediate-level students. (这门课程是为中级学生设计的。)
+   - The diplomat acted as an intermediate in the negotiations. (外交官在谈判中起到了调解作用。)
+
+1590. **internal** [adj.] 内的，国内的，内在的，身体内部的
+   - The company is facing internal problems that need to be addressed. (公司面临内部问题需要解决。)
+   - The doctor will conduct an internal examination. (医生将进行内部检查。)
+
+1591. **international** [adj.] 国际的，世界(性)的；[n.] 国际组织
+   - The company has expanded its international operations. (公司扩大了其国际业务。)
+   - The United Nations is an international organization. (联合国是一个国际组织。)
+
+1592. **interrupt** [vt.] 打断，打扰，中止，妨碍；[vi.] 插嘴；[n.] 中断，[计算机]，中断
+   - Please don't interrupt me while I'm speaking. (请不要在我讲话时打断我。)
+   - The power outage caused an interrupt in the middle of the presentation. (停电导致演示过程中断了。)
+
+1593. **interval** [n.] 间隔，休息，休息时间，(数学) 区间，(音乐) 音程，间距
+   - The interval between trains is approximately ten minutes. (列车之间的间隔大约是十分钟。)
+   - During the interval, the audience enjoyed refreshments in the lobby. (休息时间里，观众在大厅里享用了点心。)
+
+1594. **interview** [n.] 接见，会见，面谈，访问；[vt.] 接见，对...进行面谈(试)；[vi.] 面试采访
+   - She has an interview for a new job next week. (她下周有一个新工作的面试。)
+   - The journalist will interview the celebrity for a magazine article. (记者将为一篇杂志文章采访这位名人。)
+
+1595. **intimate** [adj.] 亲密的，个人的，私人的，秘密的；[n.] 密友；[vt.] 透露，暗示
+   - They have an intimate relationship that goes back many years. (他们有一段持续多年的亲密关系。)
+   - She chose to intimate her feelings through a heartfelt letter. (她选择通过一封发自内心的信透露她的感受。)
+
+1596. **into** [prep.] 进，入，进入到，到...里
+   - The cat jumped into the box. (猫跳进了箱子。)
+   - She walked into the room and greeted everyone. (她走进房间，向大家打招呼。)
+
+1597. **introduce** [vt.] 介绍，引进，传入，采用，提出，提倡，放入
+   - Let me introduce you to my colleague. (让我把你介绍给我的同事。)
+   - The company plans to introduce new technology next year. (公司计划明年引进新技术。)
+
+1599. **introduction** [n.] 介绍，引进，引言，导论，序言
+   - The introduction of the new product was met with great excitement. (新产品的推出引起了极大的兴奋。)
+   - The book includes an introduction by the author. (这本书包含了作者的导言。)
+
+1600. **invasion** [n.] 入侵，侵略，侵犯
+   - The invasion of the enemy forces was swift and unexpected. (敌军的入侵迅速而出乎意料。)
+   - The company faced a hostile takeover, which was seen as an invasion of its independence. (公司面临敌意的收购，被视为对其独立性的侵犯。)
+
+1601. **invent** [vt.] 发明，创造，捏造
+   - Thomas Edison is known for his ability to invent useful devices. (托马斯·爱迪生以发明有用的装置而闻名。)
+   - The author had to invent a new language for the fictional world in the novel. (作者不得不为小说中的虚构世界创造一种新语言。)
+
+1602. **invention** [n.] 发明，发明物，虚构，虚构物，创造，捏造
+   - The invention of the telephone revolutionized communication. (电话的发明彻底改变了通讯方式。)
+   - The novel's plot was an invention of the author's imagination. (小说的情节是作者想象的产物。)
+
+1604. **inventor** [n.] 发明者，发明家，创造者
+   - The inventor of the light bulb is widely recognized as Thomas Edison. (电灯泡的发明者被广泛认为是托马斯·爱迪生。)
+   - The inventor of the first computer mouse was Douglas Engelbart. (第一台计算机鼠标的发明者是道格拉斯·恩格尔巴特。)
+
+1605. **invest** [vt.] 投资，投入，花费，授与，赋予(某种性质)，包围；[vi.] 投资
+   - He decided to invest in the stock market. (他决定在股市投资。)
+   - The company will invest in new technology to improve efficiency. (公司将投资新技术以提高效率。)
+
+1606. **investigate** [vt.，&，vi.] 调查，研究，[计算机]，研究
+   - The police will investigate the cause of the fire. (警方将调查火灾的原因。)
+   - The scientist plans to investigate the effects of climate change on marine life. (科学家计划研究气候变化对海洋生物的影响。)
+
+1607. **invisible** [adj.] 看不见的，无形的；[n.] 隐形人(或物品)
+   - The invisible ink revealed the secret message when heated. (隐形墨水在加热时显示了秘密信息。)
+   - The stealth technology made the aircraft nearly invisible to radar. (隐身技术使飞机对雷达几乎看不见。)
+
+1608. **invitation** [n.] 邀请，招待，请柬，引诱，招致
+   - She received an invitation to the wedding. (她收到了一份婚礼的请柬。)
+   - The job offer was an invitation to start a new career. (这份工作邀请了她开始新的职业生涯。)
+
+1609. **invite** [vt.] 邀请，聘请，招待，要求；[n.] 邀请
+   - They will invite friends and family to the celebration. (他们将邀请朋友和家人参加庆祝活动。)
+   - The company will invite applications for the new position. (公司将邀请申请者申请新职位。)
+
+1610. **involve** [vt.] 使卷入，使陷入，使忙于，牵涉，包含
+   - The project will involve a lot of hard work and dedication. (这个项目将需要大量的辛勤工作和奉献精神。)
+   - The accident involved three cars and caused a traffic jam. (事故涉及三辆车，导致了交通堵塞。)
+
+1611. **inward** [adj.] 里面的，内心的，向内的；[adv.] 向内；[n.] 内部，内在
+   - She turned her gaze inward and reflected on her actions. (她将目光投向内心，反思自己的行为。)
+   - The company needs to focus on its inward operations to improve efficiency. (公司需要专注于内部运营以提高效率。)
+
+1614. **iron** [n.] 铁，烙铁，熨斗，坚强，(复数) 铁制物；[vt.] 烫(衣)，用铁装备；[vi.] 熨烫(平)；[adj.] 刚强的
+   - She used an iron to press the wrinkles out of the fabric. (她用熨斗把布料上的皱纹烫平。)
+   - The company has an iron will to succeed despite the challenges. (尽管面临挑战，公司有着坚强的意志要取得成功。)
