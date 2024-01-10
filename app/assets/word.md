@@ -6053,178 +6053,178 @@
    - His silence carried a strong implication of guilt. (他的沉默暗示着强烈的内疚感。)
    - The implication of her words was clear; she did not trust him. (她话中的含义很明显，她不信任他。)
 
-1513. **imply** [vt.] 暗示，意指
+1512. **imply** [vt.] 暗示，意指
    - His tone seemed to imply that he knew more than he was letting on. (他的语气似乎在暗示他知道的比他透露的更多。)
    - The article seemed to imply that there was more to the story than what was being reported. (这篇文章似乎在暗示报道的故事还有更多内情。)
 
-1514. **import** [vt.] 输入，进口
+1513. **import** [vt.] 输入，进口
    - The country imports a large amount of oil to meet its energy needs. (这个国家进口大量石油以满足其能源需求。)
    - The company decided to import new technology from overseas. (公司决定从海外进口新技术。)
 
-1515. **importance** [n.] 重要，重要性
+1514. **importance** [n.] 重要，重要性
    - The importance of education cannot be overstated. (教育的重要性不言而喻。)
    - The meeting highlighted the importance of teamwork in achieving success. (会议强调了团队合作在取得成功中的重要性。)
 
-1516. **important** [adj.] 重要的，影响很大的，有势力的
+1515. **important** [adj.] 重要的，影响很大的，有势力的
    - It is important to get enough rest for good health. (充足的休息对健康很重要。)
    - The CEO plays an important role in shaping the company's future. (首席执行官在塑造公司未来方面起着重要作用。)
 
-1517. **impossible** [adj.] 不可能的，办不到的
+1516. **impossible** [adj.] 不可能的，办不到的
    - It seemed impossible to reach the mountaintop before nightfall. (在天黑之前到达山顶似乎是不可能的。)
    - Finding a solution to the problem felt impossible at that moment. (在那一刻，找到问题的解决方案似乎是不可能的。)
 
-1518. **impress** [vt.] 给...深刻印象，影响，印刻，传送 [vi.] 给人印象
+1517. **impress** [vt.] 给...深刻印象，影响，印刻，传送 [vi.] 给人印象
    - Her dedication to her work never failed to impress her colleagues. (她对工作的奉献总是让她的同事们印象深刻。)
    - The teacher's words left a lasting impression on the students. (老师的话给学生们留下了深刻的印象。)
 
-1519. **impression** [n.] 印，印象，印记，效果
+1518. **impression** [n.] 印，印象，印记，效果
    - The artist left his impression on the canvas with bold strokes of color. (艺术家用大胆的色彩勾勒在画布上留下了他的印记。)
    - The first day at the new job left a positive impression on her. (新工作的第一天给她留下了积极的印象。)
 
-1520. **impressive** [adj.] 给人印象深刻的
+1519. **impressive** [adj.] 给人印象深刻的
    - The orchestra's performance was truly impressive, leaving the audience in awe. (交响乐团的表演真是令人印象深刻，让观众惊叹不已。)
    - The young artist's portfolio was very impressive, showcasing a wide range of talent. (年轻艺术家的作品集非常令人印象深刻，展示了广泛的才华。)
 
-1521. **improve** [vt.] 使更好，改进，利用，(提高)价值 [vi.] 改善，改进
+1520. **improve** [vt.] 使更好，改进，利用，(提高)价值 [vi.] 改善，改进
    - Regular exercise can improve your overall health. (定期锻炼可以改善你的整体健康状况。)
    - The company implemented new strategies to improve its customer service. (公司实施了新的策略来改进客户服务。)
 
-1522. **improvement** [n.] 改进，改善，改进处
+1521. **improvement** [n.] 改进，改善，改进处
    - The recent improvements in technology have made our lives easier. (科技的最新改进使我们的生活变得更加便利。)
    - The company made significant improvements in its production processes. (公司在生产流程方面做出了重大改进。)
 
-1523. **in** [prep.] 在...里，在，穿着，(表示状态或状况)，参与，在...方面 [adv.] 进，入
+1522. **in** [prep.] 在...里，在，穿着，(表示状态或状况)，参与，在...方面 [adv.] 进，入
    - She found her keys in the pocket of her coat. (她在外套口袋里找到了她的钥匙。)
    - In times of crisis, it's important to remain calm. (在危机时刻，保持冷静很重要。)
 
-1524. **inch** [n.] 英寸，少量 [v.] 慢慢移动
+1523. **inch** [n.] 英寸，少量 [v.] 慢慢移动
    - She moved the chair an inch to the left. (她把椅子往左移了一点点。)
    - The car inched forward in the heavy traffic. (汽车在拥挤的交通中缓慢前行。)
 
-1525. **incident** [n.] 发生的事，事件，(常指)军事冲突，插曲，事变[adj.] 难免的，附带的，(物理)入射的
+1524. **incident** [n.] 发生的事，事件，(常指)军事冲突，插曲，事变[adj.] 难免的，附带的，(物理)入射的
    - The police are investigating the incident that occurred last night. (警方正在调查昨晚发生的事件。)
    - The incident at the border led to increased tensions between the two countries. (边境发生的事情导致两国之间的紧张局势加剧。)
 
-1526. **include** [vt.] 包括，包含
+1525. **include** [vt.] 包括，包含
    - The price of the meal includes a drink and dessert. (餐费包括饮料和甜点。)
    - The tour package includes accommodation and guided tours. (旅游套餐包括住宿和导游服务。)
 
-1527. **income** [n.] 收入，所得，收益，进款
+1526. **income** [n.] 收入，所得，收益，进款
    - His income from the rental property provided a steady source of revenue. (他从出租物业获得的收入为他提供了稳定的收入来源。)
    - The company reported a significant increase in income for the last quarter. (公司报告称上个季度收入大幅增长。)
 
-1528. **increase** [vt.] 增加，增强，提高 [vi.] 增加，增强 [n.] 增加，增强
+1527. **increase** [vt.] 增加，增强，提高 [vi.] 增加，增强 [n.] 增加，增强
    - The company plans to increase its production capacity next year. (公司计划明年增加生产能力。)
    - Regular exercise can increase your overall fitness levels. (定期锻炼可以提高你的整体健康水平。)
 
-1529. **indeed** [adv.] 真正地，确实，的确，事实上
+1528. **indeed** [adv.] 真正地，确实，的确，事实上
    - "Is it true that you won the competition?" "Indeed, I did." ("你赢得了比赛是真的吗？" "确实如此。")
    - The view from the top of the mountain was indeed breathtaking. (从山顶俯瞰的景色确实令人叹为观止。)
 
-1530. **independence** [n.] 独立，自主，自立
+1529. **independence** [n.] 独立，自主，自立
    - The country fought for its independence from colonial rule. (这个国家为摆脱殖民统治而进行了斗争。)
    - As a young adult, she valued her independence and freedom. (作为一个年轻人，她珍视自己的独立和自由。)
 
-1531. **independent** [adj.] 独立的，自主的，私立的，无偏见的 [n.] 独立派人士，无党派者
+1530. **independent** [adj.] 独立的，自主的，私立的，无偏见的 [n.] 独立派人士，无党派者
    - The company operates as an independent entity within the larger corporation. (该公司作为大型企业中的独立实体运营。)
    - She has an independent spirit and doesn't like to rely on others. (她有独立的精神，不喜欢依赖他人。)
 
-1532. **India** [n.] 印度
+1531. **India** [n.] 印度
    - India is known for its rich cultural heritage and diverse traditions. (印度以其丰富的文化遗产和多样的传统而闻名。)
    - The Taj Mahal is one of the most famous landmarks in India. (泰姬陵是印度最著名的地标之一。)
 
-1533. **Indian** [adj.] 印度的，印度人的，印第安人的 [n.] 印度人，印第安人
+1532. **Indian** [adj.] 印度的，印度人的，印第安人的 [n.] 印度人，印第安人
    - Indian cuisine is known for its use of aromatic spices and bold flavors. (印度菜以其使用香料和浓烈口味而闻名。)
    - The Indian festival was celebrated with colorful decorations and traditional dances. (印度节日以色彩斑斓的装饰和传统舞蹈庆祝。)
 
-1534. **indicate** [vt.] 标示，表示，指明，表明
+1533. **indicate** [vt.] 标示，表示，指明，表明
    - The signpost indicated the direction to the nearest town. (路标指示了通往最近小镇的方向。)
    - His expression indicated that he was not pleased with the decision. (他的表情显示他对这个决定并不满意。)
 
-1535. **indication** [n.] 指示，表示，象征，表明
+1534. **indication** [n.] 指示，表示，象征，表明
    - The doctor looked for indications of improvement in the patient's condition. (医生寻找病人病情好转的迹象。)
    - The sudden drop in temperature was an indication that winter was approaching. (气温的突然下降表明冬天即将来临。)
 
-1536. **indirect** [adj.] 间接的，不坦率的，迂回的，次要的，欺骗的
+1535. **indirect** [adj.] 间接的，不坦率的，迂回的，次要的，欺骗的
    - She used indirect lighting to create a warm and cozy atmosphere in the room. (她使用间接照明在房间里营造出温馨舒适的氛围。)
    - The message was delivered in an indirect manner, leaving room for interpretation. (这个信息以间接的方式传达，留下了解释的空间。)
 
-1537. **individual** [adj.] 个别的，独特的 [n.] 个人，个体
+1536. **individual** [adj.] 个别的，独特的 [n.] 个人，个体
    - Each individual snowflake is unique in its shape and pattern. (每一片雪花在形状和图案上都是独一无二的。)
    - The artist's work showcased her individual style and creativity. (艺术家的作品展示了她独特的风格和创造力。)
 
-1538. **indoors** [adv.] 在室内，在屋里
+1537. **indoors** [adv.] 在室内，在屋里
    - It's too cold to play outside; let's stay indoors. (外面太冷了，我们在屋里玩吧。)
    - The children enjoyed indoor activities during the rainy weekend. (在下雨的周末，孩子们喜欢在室内进行活动。)
 
-1539. **industrial** [adj.] 工业的，产业的
+1538. **industrial** [adj.] 工业的，产业的
    - The city's economy is driven by its industrial sector. (这个城市的经济是由其工业部门推动的。)
    - The industrial revolution brought about significant changes in manufacturing processes. (工业革命带来了制造业过程的重大变革。)
 
-1540. **industry** [n.] 工业，产业，勤劳
+1539. **industry** [n.] 工业，产业，勤劳
    - The automotive industry is a major contributor to the country's economy. (汽车工业是这个国家经济的主要贡献者。)
    - She was known for her dedication and hard work in the fashion industry. (她以在时尚产业中的奉献和努力而闻名。)
 
-1541. **inevitable** [adj.] 不可避免的，必然(发生)的
+1540. **inevitable** [adj.] 不可避免的，必然(发生)的
    - Change is inevitable; we must learn to adapt to it. (变化是不可避免的；我们必须学会适应它。)
    - It was inevitable that they would encounter challenges along the way. (他们在路上遇到挑战是不可避免的。)
 
-1543. **infant** [n.] 婴儿，幼儿 [adj.] 婴儿的，幼稚的，初期的
+1541. **infant** [n.] 婴儿，幼儿 [adj.] 婴儿的，幼稚的，初期的
    - The infant slept peacefully in the crib. (婴儿在婴儿床上安静地睡着了。)
    - The daycare center provides care for infants and toddlers. (托儿所为婴儿和幼儿提供照料服务。)
 
-1544. **infect** [vt.] 传染，感染
+1542. **infect** [vt.] 传染，感染
    - The virus can infect anyone who comes into contact with it. (这种病毒可以感染任何接触到它的人。)
    - The contaminated water supply could infect the entire population. (被污染的供水可能会感染整个人口。)
 
-1545. **infer** [vt.] 推论，推断，猜想，暗示 [vi.] 推论
+1543. **infer** [vt.] 推论，推断，猜想，暗示 [vi.] 推论
    - From the evidence, we can infer that the suspect was at the scene of the crime. (根据证据，我们可以推断嫌疑人曾在犯罪现场。)
    - Her silence seemed to infer that she disagreed with the decision. (她的沉默似乎在暗示她不同意这个决定。)
 
-1546. **inferior** [adj.] 下等的，劣等的，次等的，较低的，不如的
+1544. **inferior** [adj.] 下等的，劣等的，次等的，较低的，不如的
    - The quality of the product was inferior to what was advertised. (产品的质量不如广告中所宣传的那样好。)
    - She refused to accept an inferior position in the company. (她拒绝接受公司中的次要职位。)
 
-1547. **influence** [n.] 影响，影响力，势力，权势，有影响的人(或事物) [vt.] 影响，感化
+1545. **influence** [n.] 影响，影响力，势力，权势，有影响的人(或事物) [vt.] 影响，感化
    - Her parents had a strong influence on her career choices. (她的父母对她的职业选择产生了很大的影响。)
    - The singer was a major influence on the music industry. (这位歌手对音乐行业有着重大的影响力。)
 
-1548. **inform** [vt.] 通知，向...报告，告诉，告发
+1546. **inform** [vt.] 通知，向...报告，告诉，告发
    - Please inform me of any changes to the schedule. (请告知我日程表的任何变动。)
    - She decided to inform the authorities about the illegal activities she had witnessed. (她决定向当局通报她目睹的非法活动。)
 
-1549. **information** [n.] 消息，信息，通知，情报，新闻，资料，询问
+1547. **information** [n.] 消息，信息，通知，情报，新闻，资料，询问
    - The information provided in the report was crucial for making decisions. (报告中提供的信息对做出决策至关重要。)
    - The company gathered information about market trends and consumer preferences. (公司收集了关于市场趋势和消费者偏好的信息。)
 
-1550. **inhabitant** [n.] 居民，住户
+1548. **inhabitant** [n.] 居民，住户
    - The island has a small population of inhabitants. (这个岛上有一小部分居民。)
    - The inhabitants of the village were known for their traditional crafts. (这个村庄的居民以其传统手工艺而闻名。)
 
-1551. **inherit** [vt.] 继承(传统等)，遗传 [vi.] 继承
+1549. **inherit** [vt.] 继承(传统等)，遗传 [vi.] 继承
    - She inherited her grandmother's antique jewelry collection. (她继承了她祖母的古董珠宝收藏。)
    - The disease is inherited through genetic factors. (这种疾病是通过遗传因素传承的。)
 
-1552. **injection** [n.] 注射，注入，注射物，数学函数，充满
+1550. **injection** [n.] 注射，注入，注射物，数学函数，充满
    - The doctor administered an injection to relieve the patient's pain. (医生给病人注射以缓解疼痛。)
    - The injection of funds into the project helped it move forward. (对项目的资金注入帮助项目向前发展。)
 
-1553. **injure** [vt.] 伤害，损害，损伤，使...受冤屈
+1551. **injure** [vt.] 伤害，损害，损伤，使...受冤屈
    - The accident injured several people, some critically. (事故伤害了几个人，其中一些伤势严重。)
    - His remarks were intended to injure her reputation. (他的言论意在损害她的声誉。)
 
-1554. **ink** [n.] 墨水，油墨
+1552. **ink** [n.] 墨水，油墨
    - The writer dipped the quill pen into the ink. (作家把羽毛笔蘸入墨水中。)
    - The ink cartridge needed to be replaced in the printer. (打印机的墨盒需要更换。)
 
-1555. **inn** [n.] 客栈，小旅店，小酒店
+1553. **inn** [n.] 客栈，小旅店，小酒店
    - The travelers found a cozy inn to spend the night. (旅行者找到了一个舒适的客栈过夜。)
    - The innkeeper welcomed the guests to the historic inn. (客栈老板欢迎客人来到这家历史悠久的客栈。)
 
-1556. **inner** [adj.] 内部的，内心的，里面的
+1554. **inner** [adj.] 内部的，内心的，里面的
    - The inner lining of the coat provided extra warmth. (外套的内衬提供了额外的保暖。)
    - She found inner peace through meditation and self-reflection. (她通过冥想和自我反省找到了内心的平静。)
 
-1558. **innocent** [adj.] 清白的，幼稚的，无罪的，不懂事的，无知的，无辜的
+1555. **innocent** [adj.] 清白的，幼稚的，无罪的，不懂事的，无知的，无辜的
    - The jury found the defendant innocent of all charges. (陪审团裁定被告无罪。)
    - The child's innocent question brought a smile to everyone's face. (孩子天真的问题让所有人都笑了。)
