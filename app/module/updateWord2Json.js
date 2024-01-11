@@ -1,7 +1,7 @@
 const fs = require('fs');
 const Result = require('./result')
 const { getWordMd,getAllWordList}  = require('./readFile')
-const outputFile = './app/assets/allWordList.json'
+const outputFile = 'app/assets/allWordList.json'
 // 读取Markdown文件并解析内容
 //获取匹配后的单词
 const updateWord2Json = async () => {

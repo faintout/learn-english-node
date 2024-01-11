@@ -27,7 +27,7 @@ const setErrorExamList = async (indexList) => {
             indexList:indexList.map(Number)
         }
         const errorExamListJson = JSON.stringify([...getErrorExamListFile(),params], null, 2)
-        fs.writeFile('./app/assets/errorExamList.json', errorExamListJson, (err) => {
+        fs.writeFile('app/assets/errorExamList.json', errorExamListJson, (err) => {
             if (err) {
                 console.error('保存错误', err);
                 return new Result(null, 500, `保存错误：${err.message}`);

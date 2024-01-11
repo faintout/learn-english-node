@@ -1,7 +1,7 @@
 const fs = require('fs');
 const Result = require('./result')
 const {getAllWordList:getAllWordListFile,getRandomIndexList } = require('./readFile')
-const outputFile = './app/assets/userRandomIndexList.json'
+const outputFile = 'app/assets/userRandomIndexList.json'
 // 打乱数组顺序的函数
 function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
