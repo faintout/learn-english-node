@@ -9,7 +9,7 @@ app.use(async (ctx, next) => {
     ctx.set("Access-Control-Allow-Origin", "*");
     await next();
 })
-app.use(staticFiles(__dirname + "/app/dist"));
+// app.use(staticFiles(__dirname + "/app/dist"));
 
 app.use(router.routes());
 app.listen(8989, () => {
