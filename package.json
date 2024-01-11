@@ -1,4 +1,13 @@
 {
+  "name": "learn-english-node",
+  "version": "1.0.0",
+  "description": "学英语",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Gavin",
+  "license": "MIT",
   "dependencies": {
     "koa": "^2.14.2",
     "koa-bodyparser": "^4.4.1",
